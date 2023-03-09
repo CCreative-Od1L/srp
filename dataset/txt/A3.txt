@@ -1,0 +1,5120 @@
+
+Clinical Practice Guideline
+
+
+
+External Beam Radiation Therapy for Primary
+
+Liver Cancers: An ASTRO Clinical Practice
+
+Guideline
+
+Smith Apisarnthanarax, MD,a,* Aisling Barry, MD,b Minsong Cao, PhD,c
+
+Brian Czito, MD,d Ronald DeMatteo, MD,e Mary Drinane, MD,f
+
+Christopher L. Hallemeier, MD,g Eugene J. Koay, MD, PhD,h Foster Lasley, MD,i
+
+Jeffrey Meyer, MD, MS,j Dawn Owen, MD, PhD,g Jennifer Pursley, PhD,k
+
+Stephanie K. Schaub, MD,a Grace Smith, MD, PhD, MPH,h
+
+Neeta K. Venepalli, MD, MBA,l Gazi Zibari, MD,m and
+
+Higinia Cardenes, MD, PhDn
+
+aDepartment of Radiation Oncology, University of Washington, Seattle, Washington; bDepartment of Radiation Oncology,
+
+Princess Margaret Cancer Center, Toronto, Ontario, Canada; cDepartment of Radiation Oncology, University of California,
+
+Los Angeles, California; dDepartment of Radiation Oncology, Duke University, Durham, North Carolina; eDepartment of
+
+Surgery, University of Pennsylvania, Philadelphia, Pennsylvania; fDepartment of Gastroenterology and Hepatology,
+
+Dartmouth-Hitchcock Medical Center, Lebanon, New Hampshire; gDepartment of Radiation Oncology, Mayo Clinic,
+
+Rochester, Minnesota; hDepartment of Radiation Oncology, UT—MD Anderson Cancer Center, Houston, Texas;
+
+iDepartment of Radiation Oncology, GenesisCare, Rogers, Arkansas; jDepartment of Radiation Oncology and Molecular
+
+Sources of support: This work was funded by the American Society for Radiation Oncology.
+
+Disclosures: All task force members’ disclosure statements were reviewed before being invited and were shared with other task force members
+
+throughout the guideline's development. Those disclosures are published within this guideline. Where potential conﬂicts were detected, remedial meas-
+
+ures to address them were taken. Smith Apisarnthanarax (vice chair): Medtronic (honoraria, consultant). Minsong Cao: Medical Dosimetrist Certiﬁca-
+
+tion Board (board of directors), National Institutes of Health (NIH) (research), Varian (honoraria, travel). Brian Czito: Oakstone Institute (honoraria),
+
+UpToDate (royalty), Springer (royalty), Varian (honoraria, travel). Ronald DeMatteo (Society of Surgical Oncology representative): Blueprint Medi-
+
+cines (research), NIH (research). Christopher Hallemeier: Mayo Clinic (research). Eugene Koay: Cholangiocarcinoma Foundation Radiation Oncology
+
+Working Group (cochair), Elekta, General Electric, UT—MD Anderson, NIH, Philips, Project Purple, Stand Up 2 Cancer (all research), Taylor and Fran-
+
+cis (royalty). Foster Lasley: book coeditor (royalty). Jeffrey Meyer: Boston Scientiﬁc (research), Springer (royalty), UpToDate (honoraria). Dawn Owen:
+
+Mayo Clinic (research), NIH (research [ended 9/2019]), UpToDate (honoraria). Stephanie Schaub: Seattle Translational Tumor (research). Grace Smith
+
+(Guideline Subcommittee representative): NIH (research), Oncora (royalty and license [family member]), Radiation Oncology Institute (research).
+
+Neeta Venepalli (American Society of Clinical Oncology representative): Eli Lilly (advisory board [ended 7/2019]). Higinia Cardenes (chair), Aisling
+
+Barry, Mary Drinane, Jennifer Pursley and Gazi Zibari (American Society of Transplant Surgeons representative) reported no disclosures.
+
+Disclaimer and Adherence: American Society for Radiation Oncology (ASTRO) guidelines present scientiﬁc, health, and safety information and may
+
+reﬂect scientiﬁc or medical opinion. They are available to ASTRO members and the public for educational and informational purposes only. Commercial
+
+use of any content in this guideline without the prior written consent of ASTRO is strictly prohibited.
+
+Adherence to this guideline does not ensure successful treatment in every situation. This guideline should not be deemed inclusive of all
+
+proper methods of care or of all factors inﬂuencing the treatment decision, nor is it intended to be exclusive of other methods reasonably
+
+directed to obtaining the same results. The physician must make the ultimate judgment regarding therapy considering all circumstances pre-
+
+sented by the patient. ASTRO assumes no liability for the information, conclusions, and ﬁndings contained in its guidelines. This guideline can-
+
+not be assumed to apply to the use of these interventions performed in the context of clinical trials. This guideline is based on information
+
+available at the time the task force conducted its research and discussions on this topic. There may be new developments that are not reﬂected
+
+in this guideline and that may, over time, be a basis for ASTRO to revisit and update the guideline.
+
+Noted—An online CME test for this article can be taken at https://academy.astro.org.
+
+* Corresponding author: Smith Apisarnthanarax, MD; E-mail: apisarn@uw.edu
+
+https://doi.org/10.1016/j.prro.2021.09.004
+
+1879-8500/� 2021 American Society for Radiation Oncology. Published by Elsevier Inc. All rights reserved.
+
+Practical Radiation Oncology� (2022) 12, 28−51
+
+
+
+www.practicalradonc.org
+
+
+Radiation Sciences, Johns Hopkins University, Baltimore, Maryland; kDepartment of Radiation Oncology, Massachusetts
+
+General Hospital, Boston, Massachusetts; lDepartment of Medicine, University of North Carolina, Chapel Hill, North
+
+Carolina; mDepartment of Transplantation Services, Willis-Knighton Medical Center, Shreveport, Louisiana; and
+
+nDepartment of Radiation Oncology, Weill Cornell, New York, New York
+
+Received 1 September 2021; accepted 7 September 2021
+
+Abstract
+
+Purpose: This guideline provides evidence-based recommendations for the indications and technique-dose of external beam radiation
+
+therapy (EBRT) in hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (IHC).
+
+Methods: The American Society for Radiation Oncology convened a task force to address 5 key questions focused on the indications,
+
+techniques, and outcomes of EBRT in HCC and IHC. This guideline is intended to cover the deﬁnitive, consolidative, salvage, preopera-
+
+tive (including bridge to transplant), and adjuvant settings as well as palliative EBRT for symptomatic primary lesions. Recommenda-
+
+tions were based on a systematic literature review and created using a predeﬁned consensus-building methodology and system for
+
+grading evidence quality and recommendation strength.
+
+Results: Strong recommendations are made for using EBRT as a potential ﬁrst-line treatment in patients with liver-conﬁned HCC who
+
+are not candidates for curative therapy, as consolidative therapy after incomplete response to liver-directed therapies, and as a salvage
+
+option for local recurrences. The guideline conditionally recommends EBRT for patients with liver-conﬁned multifocal or unresectable
+
+HCC or those with macrovascular invasion, sequenced with systemic or catheter-based therapies. Palliative EBRT is conditionally rec-
+
+ommended for symptomatic primary HCC and/or macrovascular tumor thrombi. EBRT is conditionally recommended as a bridge to
+
+transplant or before surgery in carefully selected patients.
+
+For patients with unresectable IHC, consolidative EBRT with or without chemotherapy should be considered, typically after systemic
+
+therapy. Adjuvant EBRT is conditionally recommended for resected IHC with high-risk features. Selection of dose-fractionation regi-
+
+men and technique should be based on disease extent, disease location, underlying liver function, and available technologies.
+
+Conclusions: The task force has proposed recommendations to inform best clinical practices on the use of EBRT for HCC and IHC
+
+with strong emphasis on multidisciplinary care. Future studies should focus on further deﬁning the role of EBRT in the context of liver-
+
+directed and systemic therapies and reﬁning optimal regimens and techniques.
+
+� 2021 American Society for Radiation Oncology. Published by Elsevier Inc. All rights reserved.
+
+Preamble
+
+As the leading organization in radiation oncology, the
+
+American Society for Radiation Oncology (ASTRO) is
+
+dedicated to improving quality of care and patient out-
+
+comes. A cornerstone of this goal is the development and
+
+dissemination of clinical practice guidelines based on sys-
+
+tematic methods to evaluate and classify evidence, com-
+
+bined with a focus on patient-centric care and shared
+
+decision making. ASTRO develops and publishes guide-
+
+lines without commercial support, and members volun-
+
+teer their time.
+
+Disclosure Policy—ASTRO has detailed policies and
+
+procedures related to disclosure and management of
+
+industry relationships to avoid actual, potential, or per-
+
+ceived conﬂicts of interest. All task force members are
+
+required to disclose industry relationships and personal
+
+interests from 12 months before initiation of the writing
+
+effort. Disclosures go through a review process with ﬁnal
+
+approval by ASTRO’s Conﬂict of Interest Review Com-
+
+mittee. For the purposes of full transparency, task force
+
+members’
+
+comprehensive
+
+disclosure
+
+information
+
+is
+
+included in this publication. Peer reviewer disclosures are
+
+also reviewed and included (Supplementary Materials,
+
+Appendix E1). The complete disclosure policy for formal
+
+papers is online.
+
+Selection of Task Force Members—ASTRO strives to
+
+avoid bias by selecting a multidisciplinary group of
+
+experts with variation in geographic region, gender, eth-
+
+nicity, race, practice setting, and area of expertise. Repre-
+
+sentatives from organizations and professional societies
+
+with related interests and expertise are also invited to
+
+serve on the task force.
+
+Methodology—ASTRO’s task force uses evidence-
+
+based methodologies to develop guideline recommenda-
+
+tions in accordance with the National Academy of Medi-
+
+cine standards.1,2 The evidence identiﬁed from key
+
+questions (KQs) is assessed using the Population, Inter-
+
+vention,
+
+Comparator,
+
+Outcome,
+
+Timing,
+
+Setting
+
+(PICOTS) framework. A systematic review of the KQs is
+
+completed, which includes creation of evidence tables that
+
+summarize the evidence base task force members use to
+
+formulate recommendations. Table 1 describes ASTRO’s
+
+recommendation grading system. See Supplementary
+
+Materials, Appendix E2 for a list of abbreviations used in
+
+the guideline.
+
+Consensus Development—Consensus is evaluated
+
+using a modiﬁed Delphi approach. Task force members
+
+conﬁdentially indicate their level of agreement on each
+
+recommendation based on a 5-point Likert scale, from
+
+“strongly agree” to “strongly disagree.” A prespeciﬁed
+
+threshold
+
+of
+
+≥75%
+
+(≥90%
+
+for
+
+expert
+
+opinion
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+29
+
+
+recommendations) of raters who select “strongly agree” or
+
+“agree” indicates consensus is achieved. Recommendation
+
+(s) that do not meet this threshold are removed or revised.
+
+Recommendations edited in response to task force or
+
+reviewer comments are resurveyed before submission of
+
+the document for approval.
+
+Annual Evaluation and Updates—Guidelines are
+
+evaluated annually beginning 2 years after publication for
+
+new, potentially practice-changing studies that could
+
+result in a guideline update. In addition, ASTRO’s Guide-
+
+line Subcommittee will commission a replacement or
+
+reafﬁrmation within 5 years of publication.
+
+Table 1
+
+ASTRO recommendation grading classiﬁcation system
+
+ASTRO’s recommendations are based on evaluation of multiple factors including the QoE, individual study quality, and panel
+
+consensus, all of which inform the strength of recommendation. QoE is based on the body of evidence available for a particular key
+
+question and includes consideration of number of studies, study design, adequacy of sample sizes, consistency of ﬁndings across
+
+studies, and generalizability of samples, settings, and treatments.
+
+Strength of
+
+Recommendation
+
+Deﬁnition
+
+Overall QoE
+
+Grade
+
+Recommendation
+
+Wording
+
+Strong
+
+� Beneﬁts clearly outweigh risks and burden, or risks
+
+and burden clearly outweigh beneﬁts.
+
+� All or almost all informed people would make the
+
+recommended choice.
+
+Any
+
+(usually high,
+
+moderate, or expert
+
+opinion)
+
+“Recommend/
+
+Should”
+
+Conditional
+
+� Beneﬁts are ﬁnely balanced with risks and burden or
+
+appreciable uncertainty exists about the magnitude of
+
+beneﬁts and risks.
+
+� Most informed people would choose the
+
+recommended course of action, but a substantial
+
+number would not.
+
+� A shared decision-making approach regarding patient
+
+values and preferences is particularly important.
+
+Any
+
+(usually moderate, low,
+
+or expert opinion)
+
+“Conditionally
+
+Recommend”
+
+Overall QoE Grade
+
+Type and Quality of Study
+
+Evidence Interpretation
+
+High
+
+� 2 or more well-conducted and highly generalizable
+
+RCTs or meta-analyses of such trials.
+
+The true effect is very likely to lie close to
+
+the estimate of the effect based on the
+
+body of evidence.
+
+Moderate
+
+� 1 well-conducted and highly generalizable RCT or a
+
+meta-analysis of such trials OR
+
+� 2 or more RCTs with some weaknesses of procedure
+
+or generalizability OR
+
+� 2 or more strong observational studies with consistent
+
+ﬁndings.
+
+The true effect is likely to be close to the
+
+estimate of the effect based on the
+
+body of evidence, but it is possible that
+
+it is substantially different.
+
+Low
+
+� 1 RCT with some weaknesses of procedure or
+
+generalizability OR
+
+� 1 or more RCTs with serious deﬁciencies of procedure
+
+or generalizability or extremely small sample sizes OR
+
+� 2 or more observational studies with inconsistent
+
+ﬁndings, small sample sizes, or other problems that
+
+potentially confound interpretation of data.
+
+The true effect may be substantially different
+
+from the estimate of the effect. There is a
+
+risk that future research may signiﬁcantly
+
+alter the estimate of the effect size or the
+
+interpretation of the results.
+
+Expert Opinion*
+
+� Consensus of the panel based on clinical judgment
+
+and experience, due to absence of evidence or
+
+limitations in evidence.
+
+Strong consensus (≥90%) of the panel guides
+
+the recommendation despite insufﬁcient
+
+evidence to discern the true magnitude
+
+and direction of the net effect. Further
+
+research may better inform the topic.
+
+Abbreviations: ASTRO = American Society for Radiation Oncology; QoE = quality of evidence; RCTs = randomized controlled trials.
+
+* A lower quality of evidence, including expert opinion, does not imply that the recommendation is conditional. Many important clinical ques-
+
+tions addressed in guidelines do not lend themselves to clinical trials, but there still may be consensus that the beneﬁts of a treatment or diagnostic
+
+test clearly outweigh its risks and burden.
+
+30
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+Introduction
+
+Background
+
+Primary liver cancers, primarily composed of hepato-
+
+cellular carcinoma (HCC) and intrahepatic cholangiocar-
+
+cinoma (IHC), are one of the most commonly diagnosed
+
+cancers and the fourth leading cause of cancer mortality
+
+worldwide.3 In the United States, incidence rates have
+
+more than tripled since 1980 and have increased by
+
+approximately 2% per year in the last 2 decades, with an
+
+estimated 41,810 new cases in 2020.4 Despite the availabil-
+
+ity of screening for HCC and improvements in the pre-
+
+vention and treatment of risk factors (hepatitis B and C
+
+virus infection and nonalcoholic fatty liver disease), mor-
+
+tality rates continue to rise. Interest in the treatment of
+
+HCC and IHC, therefore, remains high.
+
+The optimal management of primary liver cancers
+
+relies heavily on a multidisciplinary approach owing to
+
+complexities in the diagnosis and staging, the medical
+
+comorbidities (particularly the underlying cirrhosis), and
+
+the myriad treatment options.5-8 Input and collaboration
+
+from the disciplines of diagnostic radiology, pathology,
+
+hepatology, transplant surgery, surgical oncology, medical
+
+oncology, radiation oncology, and interventional radiology
+
+are critical to achieve individualized and evidence-driven
+
+patient care. Multiple treatment approaches are used for
+
+the deﬁnitive treatment of primary liver cancers. For
+
+HCC, orthotopic liver transplantation (OLT), surgery, and
+
+thermal ablation (radiofrequency ablation [RFA] and
+
+microwave ablation) are standard treatment modalities for
+
+curative intent.9-11 Catheter-based therapies (eg, transarte-
+
+rial bland embolization [TAE], transarterial chemoemboli-
+
+zation
+
+[TACE],
+
+and
+
+transarterial
+
+radioembolization
+
+[TARE]) are considered acceptable treatment options for
+
+locoregional tumor control.12-16 In patients with HCC
+
+with metastatic disease and/or macrovascular invasion
+
+(MVI), systemic therapy (targeted therapy and/or immu-
+
+notherapy) is considered standard of care.17-19 For IHC, a
+
+combination of surgery and chemotherapy (with or with-
+
+out radiation) is a standard treatment paradigm.7
+
+Historically, external beam radiation therapy (EBRT)
+
+for primary liver cancers was cautiously used because of
+
+the relative radiosensitivity of liver tissue and technologi-
+
+cal limitations in tumor delineation and radiation deliv-
+
+ery. Advances in imaging and radiation treatment
+
+delivery, in addition to improved understanding of nor-
+
+mal liver tolerance to radiation, have led to an increasing
+
+amount of clinical data on the use of EBRT for primary
+
+liver cancers over the last 2 decades.20 In light of these
+
+complexities and rapid growth of EBRT data, ASTRO
+
+commissioned a task force to review the published litera-
+
+ture on the role and use of EBRT for HCC and IHC and
+
+create evidence-based recommendations that address 5
+
+clinical KQs. It must be emphasized that this guideline is
+
+not a substitute for evaluation and discussion in the mul-
+
+tidisciplinary setting.
+
+Deﬁnitions
+
+In
+
+this
+
+guideline,
+
+EBRT
+
+includes
+
+photon-based
+
+approaches (3-dimensional [3-D] conformal radiation ther-
+
+apy and intensity modulated radiation therapy [IMRT])
+
+and proton therapy. Standard fractionation is deﬁned as
+
+EBRT with a fraction size of 180 to 200 cGy. The task force
+
+adopted modiﬁed deﬁnitions for hypofractionation as out-
+
+lined in the ASTRO guideline for prostate hypofractionated
+
+radiation therapy,21 subdividing it into “moderate hypofrac-
+
+tionation” and “ultrahypofractionation.” These deﬁnitions
+
+are inﬂuenced by the fractionation approaches used in pro-
+
+spective studies described in detail later, considering the
+
+dose per fraction and number of fractions. Moderate hypo-
+
+fractionation is deﬁned as EBRT with a fraction size of 300
+
+cGy to 500 cGy and typically involves between 12 and 20
+
+fractions. Ultrahypofractionation is deﬁned as EBRT with a
+
+fraction size &gt;500 cGy and typically involves ≤10 fractions.
+
+Stereotactic body radiation therapy (SBRT) or stereotactic
+
+body ablative radiation (SABR) is included in this fraction-
+
+ation category but is speciﬁed as ultrahypofractionation
+
+delivered in ≤5 fractions.22,23
+
+Methods
+
+Task Force Composition
+
+The task force consisted of a multidisciplinary team of
+
+radiation, medical, and surgical oncologists; medical physi-
+
+cists, a hepatologist, a transplant surgeon, and a radiation
+
+oncology resident. An interventional radiologist contributed
+
+to the discussion during the initial phases of development.
+
+This guideline was developed in collaboration with the
+
+American Society of Clinical Oncology, American Society
+
+of Transplant Surgeons, and the Society of Surgical Oncol-
+
+ogy, who provided representatives and peer reviewers.
+
+Document Review and Approval
+
+The guideline was reviewed by 13 ofﬁcial peer
+
+reviewers (Supplementary Materials, Appendix E1) and
+
+revised accordingly. The modiﬁed guideline was posted
+
+on the ASTRO website for public comment in April 2021.
+
+The ﬁnal guideline was approved by the ASTRO Board of
+
+Directors and endorsed by the American Society of
+
+Transplant Surgeons, Canadian Association of Radiation
+
+Oncology, European Society for Radiotherapy and Oncol-
+
+ogy, and Society of Surgical Oncology.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+31
+
+
+Evidence Review
+
+A systematic search of human subject studies retrieved
+
+from the Ovid Medline database was conducted. The
+
+inclusion criteria required research to involve adults (age
+
+≥18 years), with a diagnosis of HCC or nonmetastatic
+
+IHC, published in English, from January 2000 through
+
+February 2020. Given that different qualities of evidence
+
+were available for each KQ, the search inclusion criteria
+
+were further reﬁned. Retrospective studies were restricted
+
+to ≥25 patients for KQ2 and ≥50 patients for all other
+
+KQs. For KQs 1 to 3, prospective trials required ≥25 par-
+
+ticipants, whereas there was no minimum patient number
+
+required for KQs 4 and 5. For speciﬁc subquestions where
+
+there were limited data available, expert opinion was
+
+relied upon to support recommendations, as reﬂected in
+
+the low-to-moderate quality of evidence cited in these
+
+cases.
+
+Table 2
+
+KQs in Population, Intervention, Comparator, Outcome (PICO) format
+
+KQ
+
+Population
+
+Intervention
+
+Comparator*
+
+Outcomes
+
+1
+
+What is the role of EBRT in the deﬁnitive/nontransplant and palliative settings in HCC?
+
+Patients with pathologically or
+
+radiologically conﬁrmed HCC
+
+� EBRT
+
+� EBRT + other LDTs
+
+� EBRT + targeted therapy or
+
+immunotherapy
+
+� Non-EBRT LDTs
+
+� Targeted therapy or
+
+immunotherapy
+
+� Local control
+
+� Overall survival
+
+� Disease-free survival
+
+� Toxicities
+
+2
+
+What is the role of EBRT in the neoadjuvant setting before surgical resection or OLT for HCC
+
+Patients with pathologically or
+
+radiologically conﬁrmed HCC
+
+� Neoadjuvant EBRT
+
+� Neoadjuvant EBRT + other
+
+LDTs
+
+� Neoadjuvant EBRT followed
+
+by surgery (resection and/or
+
+OLT)
+
+� Neoadjuvant EBRT + LDTs
+
+followed by surgery (resection
+
+and/or OLT)
+
+� Surgery
+
+� OLT
+
+� Neoadjuvant non-
+
+EBRT LDTs
+
+� Local control
+
+� Overall survival
+
+� Postop complications
+
+� Toxicities
+
+3
+
+In patients receiving EBRT for HCC, what are the preferred techniques, fractionation regimens, and recommended OAR
+
+dose constraints?
+
+Patients with pathologically or
+
+radiologically conﬁrmed HCC
+
+� IMRT
+
+� SBRT
+
+� Hypofractionation
+
+� Proton therapy
+
+� IGRT
+
+� 3-D CRT
+
+� Standard
+
+fractionation
+
+� Local control
+
+� Overall survival
+
+� Toxicities
+
+4
+
+What is the role of EBRT in the deﬁnitive and adjuvant setting in IHC?
+
+Patients with pathologically
+
+conﬁrmed IHC
+
+� Resectable: postop chemoRT
+
+� Unresectable:
+
+○ Deﬁnitive EBRT or
+
+chemoRT
+
+○ Deﬁnitive SBRT
+
+� Surgery alone
+
+(resectable patients)
+
+� Postop chemo alone
+
+� LDTs
+
+� Local control
+
+� Overall survival
+
+� Disease-free survival
+
+� Toxicities
+
+5
+
+In patients receiving EBRT for IHC, what are the preferred techniques, fractionation regimens, and recommended OAR
+
+dose constraints?
+
+Patients with pathologically
+
+conﬁrmed IHC
+
+� IMRT
+
+� SBRT
+
+� Hypofractionation
+
+� Proton therapy
+
+� IGRT
+
+� 3-D CRT
+
+� Standard
+
+fractionation
+
+� Local control
+
+� Overall survival
+
+� Toxicities
+
+Abbreviations: 3-D CRT = 3-dimensional conformal radiation therapy; chemoRT = chemoradiation; EBRT = external beam radiation therapy;
+
+HCC = hepatocellular carcinoma; IGRT = image guided radiation therapy; IHC = intrahepatic cholangiocarcinoma; IMRT = intensity modulated
+
+radiation therapy; KQ = key question; LDTs = liver-direct therapies; OAR = organ at risk; OLT = orthotopic liver transplantation;
+
+PICO = Population, Intervention, Comparator, Outcome; SBRT = stereotactic body radiation therapy.
+
+* The initial evidence review included comparators if EBRT was part of the therapeutic approach.
+
+32
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+The literature review excluded studies when EBRT
+
+was not part of the therapeutic approach. Both Medical
+
+Subject Heading (MeSH) terms and key search terms
+
+were used, and terms common to all searches included:
+
+primary liver tumor, hepatocellular carcinoma, intrahe-
+
+patic cholangiocarcinoma, liver neoplasms/radiotherapy,
+
+radiation therapy, external beam radiation therapy,
+
+intensity modulated radiation therapy, volumetric-modu-
+
+lated arc therapy, local control, overall survival, disease-
+
+free survival, and liver toxicity. Additional terms speciﬁc
+
+to the KQs and hand searches supplemented the elec-
+
+tronic searches.
+
+An additional literature search was also conducted to
+
+include
+
+meta-analyses
+
+and
+
+systematic
+
+reviews
+
+that
+
+involved non-EBRT liver-directed therapies (LDTs). The
+
+inclusion criteria required research to involve adults (age
+
+≥18 years), with a diagnosis of HCC or nonmetastatic
+
+IHC, published in English, from February 2015 to Febru-
+
+ary 2020.
+
+The data used by the task force to formulate recom-
+
+mendations are summarized in evidence tables available
+
+in the Supplementary Materials. References selected and
+
+published in this document are representative and not all-
+
+inclusive. The outcomes of interest are listed in Table 2.
+
+Additional ancillary references are included in the text
+
+but were not used to support the recommendations. See
+
+the Preferred Reporting Items for Systematic Reviews and
+
+Meta-Analyses (PRISMA ﬁgure) diagram showing the
+
+number of articles screened, excluded, and included for
+
+evidence review, and Supplementary Materials (Appendix
+
+E3) for the literature search strategy, which includes
+
+the evidence search parameters and inclusion/exclusion
+
+criteria.
+
+Scope of the Guideline
+
+This guideline addresses only the topics speciﬁed in the
+
+KQs (Table 2). The scope focuses on the use of EBRT in
+
+the management of HCC and IHC, including indications,
+
+outcomes, and techniques. It is intended to cover multiple
+
+settings for which EBRT may be used, including deﬁni-
+
+tive, preoperative, salvage, consolidative, adjuvant, and as
+
+a bridge to OLT. Palliative management as it relates to
+
+EBRT for symptomatic primary liver cancers is also
+
+addressed.
+
+This guideline is not intended to address the role of
+
+surgery, thermal ablation, and catheter-based therapies
+
+(eg, TACE and TARE) when used without inclusion of
+
+EBRT. In accordance with the scope of the guideline, the
+
+initial search was restricted to studies with EBRT as part
+
+of the therapeutic approach. As a result, clinical outcome
+
+data available on non-EBRT LDTs were limited. To
+
+address this limitation, an additional literature search
+
+(restricted to meta-analyses and systematic reviews) on
+
+the use of non-EBRT LDTs for the management of
+
+primary liver cancers was performed. Studies from this
+
+additional search were not included in the evidence tables
+
+but were intended to provide reference data and back-
+
+ground context on clinical outcomes of non-EBRT LDTs.
+
+However, because of heterogeneity in patient population
+
+selection, tumor extension and location characteristics, as
+
+well
+
+as
+
+clinical
+
+outcome
+
+metrics
+
+(eg,
+
+radiographic
+
+response rate versus local control [LC]), these non-EBRT
+
+LDT meta-analyses and systematic reviews did not pro-
+
+vide additional meaningful clinical data for comparison.
+
+Outside the scope of this guideline are several related
+
+topics, including but not limited to the beneﬁts of recently
+
+developed treatment delivery technology, including mag-
+
+netic resonance imaging-guided EBRT and carbon ion
+
+EBRT, and the role of palliative EBRT for extrahepatic
+
+metastatic disease sites. These topics are relevant to fur-
+
+ther the understanding of the role of EBRT in primary
+
+liver cancers and may be the subjects of investigation in
+
+future guidelines.
+
+Key Questions and Recommendations
+
+KQ1: EBRT in the deﬁnitive/nontransplant and
+
+palliative settings in HCC (Table 3)
+
+See
+
+evidence
+
+tables
+
+in
+
+Supplementary
+
+Materials,
+
+Appendix E4 for the data supporting the recommenda-
+
+tions for KQ1 and Figures 1 and 2 for visual representa-
+
+tions of the HCC recommendations.
+
+What is the role of EBRT in the deﬁnitive/
+
+nontransplant and palliative settings in HCC?
+
+Surgery, OLT, and thermal ablation, when appropriate,
+
+are considered the mainstays of curative treatments for
+
+patients with HCC without MVI.9-11 Catheter-based ther-
+
+apies have well-established roles in the management of
+
+HCC in the nonsurgical, nontransplant setting.7 EBRT is
+
+increasingly being considered as an additional therapeutic
+
+option.12,13,15,16
+
+Potentially resectable liver-conﬁned HCC without
+
+MVI
+
+Multiple retrospective studies as well as phase I and II
+
+trials demonstrate similar outcomes to those reported
+
+with other LDTs when EBRT is used as a deﬁnitive treat-
+
+ment option for carefully selected patients with liver-con-
+
+ﬁned early-stage disease. The vast majority of studies
+
+reported 2- to 5-year LC rates of ≥90%, which compare
+
+favorably
+
+with
+
+those
+
+reported
+
+for
+
+other
+
+ablative
+
+LDTs.24,26-28,30,36,37 It is important, however, to recognize
+
+the context in which patients were selected to receive
+
+EBRT. Most of these studies used SBRT in patients with
+
+relatively small HCC (1-6 cm in size), with a limited num-
+
+ber of lesions (generally 1-5), who were not candidates for
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+33
+
+
+deﬁnitive surgery or ablative procedures and had rela-
+
+tively well-compensated baseline liver function (Child-
+
+Pugh [CP] class A5, A6, and B7). One meta-analysis
+
+found no statistically signiﬁcant difference in LC or over-
+
+all survival (OS) between ultrahypofractionated EBRT
+
+and RFA.31 Another meta-analysis of 32 ultrahypofractio-
+
+nated EBRT studies reported 3-year pooled OS and LC
+
+rates of 48.3% and 83.9%, respectively.32 A body of litera-
+
+ture also exists on the use of particle beam therapy, pri-
+
+marily with proton therapy, for HCC. In patients with
+
+HCC treated with proton therapy as deﬁnitive treatment,
+
+prospective and retrospective data have reported 5-year
+
+OS and LC rates of 48% to 69%57-59 and 81% to 94%,
+
+respectively.58,59
+
+At the time of the evidence review, there were no
+
+published randomized controlled trials (RCT) compar-
+
+ing EBRT to thermal ablation for patients with liver-
+
+conﬁned HCC without MVI. However, a noninferiority
+
+RCT from Korea published in 2021 randomized patients
+
+with recurrent HCC (size &lt;3 cm, number ≤2) to either
+
+RFA or proton therapy.60 The results of this trial could
+
+not be evaluated because it was published after the
+
+guideline’s evidence review period, but it will be incor-
+
+porated into future guideline updates. No randomized
+
+data currently exist that directly compare EBRT to cath-
+
+eter-based therapies, other than an interim analysis of
+
+proton therapy compared with TACE that showed a
+
+trend toward improved 2-year LC (88% versus 45%)
+
+and progression-free survival (PFS) (48% versus 31%)
+
+favoring proton therapy.42 Whether a patient with HCC
+
+is most appropriate for EBRT or catheter-based thera-
+
+pies depends on a multitude of patient and clinical fac-
+
+tors, which should be discussed in a multidisciplinary
+
+setting.
+
+In regard to safety of EBRT for patients with HCC,
+
+the reported rates of liver toxicity have been highly
+
+variable, generally ranging from 0 to 21% in patients
+
+with well-compensated liver function.24-27,30,43-45,53,61,62
+
+The variability in reporting of radiation-induced liver
+
+disease (RILD) stems from the heterogeneity in liver
+
+toxicity deﬁnitions, EBRT regimens used, baseline liver
+
+function, and prior LDTs. In contemporary studies,
+
+classic RILD (deﬁned as anicteric ascites, hepatomeg-
+
+aly, and elevation of alkaline phosphatase out of pro-
+
+portion to other transaminases) was rarely reported.
+
+When studies reported nonclassic RILD (eg, CP class
+
+score increases of ≥2), most reported rates of 5% to
+
+15%.26,27,30,43,44,53,61 For patients with liver cancers
+
+treated with ultrahypofractionated EBRT (nearly 50%
+
+had HCC), prospective quality-of-life data demonstrate
+
+that EBRT is well tolerated with temporary effects on
+
+appetite and fatigue, but no signiﬁcant decline in over-
+
+all quality of life.63
+
+The collective published data, therefore, support the
+
+use of EBRT as relatively safe and effective in patients
+
+with liver-conﬁned, potentially resectable HCC without
+
+MVI who are not candidates for curative strategies (eg,
+
+OLT, surgery, or thermal ablation) due to medical comor-
+
+bidities, poor liver reserve, tumor location or size, and for
+
+whom LDT is preferred. Common reasons why thermal
+
+ablation would be technically suboptimal include lack of
+
+ultrasound echogenicity/visibility, relatively large tumor
+
+size (&gt;3 cm), and tumor location in close proximity to
+
+the diaphragm, gallbladder, or large vessel that may result
+
+in a heat sink effect.60 In these patients, EBRT alone is
+
+recommended as a potential alternative ﬁrst-line therapy
+
+option, along with catheter-based therapies. A typical
+
+example is a patient with chronic obstructive pulmonary
+
+Table 3
+
+EBRT in the deﬁnitive/nontransplant and palliative settings in HCC
+
+KQ1 Recommendations
+
+Strength of
+
+Recommendation
+
+Quality of
+
+Evidence (refs)
+
+1. For patients with liver-conﬁned HCC who are not candidates for curative options (surgery or
+
+thermal ablation) and for whom catheter-based therapies are being considered, EBRT is
+
+recommended as a potential ﬁrst-line single therapy option.
+
+Strong
+
+Moderate
+
+24-36
+
+2. For patients with liver-conﬁned multifocal and/or unresectable HCC, EBRT alone or sequenced
+
+with other catheter-based therapies* is conditionally recommended.
+
+Conditional
+
+Moderate
+
+37-42
+
+3. For patients with liver-conﬁned HCC who had an incomplete response to thermal ablation or
+
+catheter-based therapies,* EBRT is recommended as a consolidative treatment option.
+
+Strong
+
+Moderate
+
+38,40,43
+
+4. For patients with locally recurrent HCC after surgery, thermal ablation, or catheter-based
+
+therapies,* EBRT is recommended as a salvage treatment option.
+
+Strong
+
+Low
+
+25,35,44-46
+
+5. For patients with liver-conﬁned HCC with macrovascular invasion, EBRT is conditionally
+
+recommended, alone or sequenced with systemic therapy or catheter-based therapies.*
+
+Conditional
+
+Moderate
+
+47-53
+
+6. For patients with symptomatic locally advanced and/or metastatic HCC, palliative
+
+hypofractionated EBRT directed to the liver and/or macrovascular tumor thrombus is
+
+conditionally recommended, alone or sequenced with systemic therapy or catheter-based
+
+therapies.*
+
+Conditional
+
+Low
+
+(locally advanced HCC)
+
+47,53-56
+
+Expert opinion
+
+(metastatic HCC)
+
+Abbreviations: EBRT = external beam radiation therapy; HCC = hepatocellular carcinoma; KQ = key question; TARE = transarterial radioembolization.
+
+* Caution should be used when recommending EBRT after TARE until more data are available.
+
+34
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+disease who cannot tolerate general anesthesia or moder-
+
+ate sedation and has a solitary 4 cm HCC tumor abutting
+
+a main portal vein branch.
+
+Multifocal and/or unresectable liver-conﬁned HCC
+
+without MVI
+
+For patients with liver-conﬁned HCC but more exten-
+
+sive (multifocal and/or unresectable) disease in the
+
+absence of MVI, LDTs are often used in carefully selected
+
+patients (eg, noninﬁltrative or nondiffuse disease) after
+
+multidisciplinary
+
+evaluation.15,37-41
+
+Several
+
+studies,
+
+including RCTs, have evaluated the potential beneﬁts of
+
+combination therapy involving EBRT (primarily with 3-D
+
+conformal EBRT techniques) and TACE in patients with
+
+unresectable HCC.37-41 Multiple meta-analyses demon-
+
+strated an improvement in OS with TACE plus EBRT
+
+compared with TACE alone39,41,64 as well as superior
+
+complete response rates.39 In a retrospective study of
+
+patients with unresectable HCC and a median tumor size
+
+of 8.5 cm (5.1-21 cm) treated with SBRT alone or
+
+sequenced with TACE, patients who received combina-
+
+tion sequenced therapy had a statistically signiﬁcant 5-
+
+year OS rate of 46.9% versus 32.9%.37 In this study, com-
+
+bination sequential therapy of SBRT and TACE, biologi-
+
+cally effective dose assuming an a/b = 10 (BED10)
+
+&gt;10,000 cGy, and an equivalent dose in 200 cGy per frac-
+
+tion of ≥7400 cGy were signiﬁcant prognostic factors for
+
+survival
+
+outcomes.
+
+Therefore,
+
+for
+
+carefully
+
+selected
+
+patients with HCC and multifocal and/or unresectable
+
+disease for whom locoregional therapies are being consid-
+
+ered, combination therapy of EBRT sequenced with
+
+TACE is conditionally recommended as a treatment
+
+option. Given limited data on the role of EBRT alone ver-
+
+sus EBRT in addition to TACE, deﬁnitive conclusions
+
+cannot be made regarding the role of EBRT alone in this
+
+patient population. However, in cases where combination
+
+therapy or catheter-based therapies are not feasible, EBRT
+
+alone is a reasonable treatment option for similar clinical
+
+scenarios. Phase I/II data that included patients with
+
+median tumor sizes of 7.2 cm and up to 23.1 cm lend sup-
+
+port that acceptable local control (1-year 87%) may be
+
+achieved with EBRT alone even for relatively large
+
+tumors.65 Given the increasing use of TARE and SBRT,
+
+prospective data evaluating safety and efﬁcacy of the com-
+
+bination are needed. Furthermore, when this guideline
+
+was created, signiﬁcant uncertainties regarding liver
+
+dosimetry evaluation still existed when combining both
+
+modalities.
+
+Liver-conﬁned HCC after incomplete response to
+
+thermal ablation or catheter-based therapies
+
+Thermal ablation and catheter-based therapies are
+
+effective at treating liver-conﬁned HCC, with reported
+
+initial objective response rates (complete/partial) of up to
+
+61%.15,16,66,67 Repeat thermal ablation or catheter-based
+
+therapies may be considered in those with an incomplete
+
+initial response. Consolidative EBRT may also be a treat-
+
+ment option in this setting, particularly when additional
+
+thermal ablation or catheter-based therapies may result in
+
+suboptimal ablation or are not technically feasible, as pre-
+
+viously indicated. In patients who received consolidative
+
+SBRT post-TACE, median survival rates ranged from 22.7
+
+to 42 months,37-39 with 2-year LC rates reported up to
+
+89%.38,43 In a retrospective study of planned adjuvant ver-
+
+sus salvage SBRT post-TACE, superior overall response
+
+rates were seen with planned adjuvant SBRT (80% versus
+
+40%).38 CP class, performance status, and receipt of trans-
+
+plant were associated with improved survival on multivar-
+
+iable analysis.38,43 Data from a completed RCT presented
+
+in abstract form (NCT02323360) may better deﬁne the
+
+role of ultrahypofractionated EBRT after incomplete TAE
+
+or TACE.68
+
+Locally recurrent liver-conﬁned HCC
+
+In patients with a local recurrence of HCC after sur-
+
+gery, thermal ablation, or catheter-based therapies, fur-
+
+ther treatment with LDTs is recommended.25,44-46 The
+
+role of EBRT in this setting has been examined in multiple
+
+retrospective studies, reporting 2-year OS and LC rates of
+
+up to 81.9% and 84.1%, respectively.25,45,46 Propensity
+
+score matching of SBRT versus TACE in medium-sized
+
+recurrent HCC demonstrated superior LC at 3 years (75%
+
+versus 57.5%) and OS (58.3% versus 5.9%) in favor of
+
+SBRT compared with the TACE group.45 However, it is
+
+difﬁcult to generalize these data to all patients with recur-
+
+rent HCC given the differences in the percentage of
+
+patients with recurrent versus primary de novo disease
+
+reported in these studies, ranging from 30% to 65%, as
+
+well as wide variation in types of initial therapy (primarily
+
+after
+
+TACE),
+
+which
+
+were
+
+often
+
+not
+
+explicitly
+
+reported.25,45,46 A multicenter phase II study that only
+
+included patients with recurrent HCC treated with salvage
+
+3 fraction SBRT after receiving 1 to 5 TACE sessions
+
+reported 3-year LC rate of 95% and OS of 76%.44 CP class
+
+B and albumin-bilirubin score were predictive factors for
+
+worsening liver function in this population.44
+
+Ultrahypofractionated EBRT has also been studied ret-
+
+rospectively in the setting of incomplete thermal ablation.
+
+A study that performed propensity score matching of
+
+patients treated with either salvage ultrahypofractionated
+
+EBRT or additional RFA after incomplete RFA found that
+
+salvage ultrahypofractionated EBRT had superior 2-year
+
+PFS (56.9% versus 20.7%) and similar 2-year OS (83.7%
+
+versus 88.9%) compared with additional RFA.35 The task
+
+force recommends consideration of salvage EBRT as a
+
+treatment option for local recurrences after any LDTs,
+
+particularly when additional non-EBRT salvage options
+
+are not feasible or are considered suboptimal. If prior
+
+LDTs involved EBRT or TARE, caution is recommended
+
+when considering reirradiation with salvage EBRT; the
+
+beneﬁts must be carefully weighed against the risks of
+
+liver and other organ at risk (OAR) toxicity.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+35
+
+
+Liver-conﬁned HCC with MVI
+
+For patients with HCC with liver-conﬁned disease
+
+and MVI, a well-known poor prognostic factor, sys-
+
+temic therapies are considered standard of care.17-19
+
+Multiple other treatments are also available as thera-
+
+peutic options, including surgery in carefully selected
+
+patients
+
+(see
+
+KQ2)
+
+and
+
+catheter-based
+
+therapies.
+
+Growing evidence supports the use of EBRT as a com-
+
+ponent of LDTs.48-53 One retrospective study showed a
+
+signiﬁcant improvement in portal vein recanalization
+
+with hypofractionation compared with standard frac-
+
+tionated EBRT (33.3% versus 15.1%), in addition to
+
+improved
+
+objective
+
+response
+
+rates
+
+(62.2%
+
+versus
+
+33.9%), median survival (10.9 versus 4.7 months,) and
+
+2-year OS (15% versus 8%).48 On multivariate analy-
+
+ses, BED10 &gt;6500 cGy, alpha-fetoprotein &lt;200 ngmL,
+
+single
+
+tumors,
+
+and
+
+Eastern
+
+Cooperative
+
+Oncology
+
+Group performance status all predicted improved OS,
+
+which was conﬁrmed in a propensity score-matched
+
+analysis. An RCT of treatment-naïve patients with HCC
+
+and MVI who received sorafenib versus TACE and EBRT
+
+demonstrated signiﬁcantly improved PFS in the combina-
+
+tion arm (median PFS 11.7 versus 31 weeks and OS 43 ver-
+
+sus
+
+55
+
+weeks).50
+
+Retrospective
+
+data
+
+have
+
+shown
+
+radiographic response rates (at least 50% necrosis) of
+
+66.2% in patients with liver-conﬁned HCC with MVI
+
+treated with EBRT alone or, most commonly, in combina-
+
+tion with other LDT.49 In a retrospective comparison study
+
+of sorafenib with or without EBRT, a statistically signiﬁ-
+
+cant OS beneﬁt was shown with the addition of EBRT.56
+
+The value of adding EBRT to systemic therapy for HCC
+
+with MVI cannot be deﬁnitely ascertained until evidence
+
+from high-quality RCTs are obtained (eg, Radiation Ther-
+
+apy Oncology Group 1112 [NCT01730937]). However,
+
+
+
+Figure 1
+
+Algorithm for HCC: Liver conﬁned, without macrovascular invasion.
+
+Abbreviations: CP = Child-Pugh; HCC = hepatocellular carcinoma; OLT = orthotopic liver transplantation; RT = radiation therapy; UNOS = United
+
+Network for Organ Sharing.
+
+*Enrollment in a clinical trial should be prioritized if available.
+
+y OLT candidate: UNOS criteria (solitary lesion 2-5-cm diameter or 2-3 lesions ≤3 cm each).
+
+zSurgical candidate: CP class A and selected CP class B (no portal hypertension, adequate location, preserved liver function).
+
+x Order of listed options does not reﬂect a particular preference; decision is based on multidisciplinary evaluation.
+
+36
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+sufﬁcient evidence exists that supports the conditional
+
+recommendation to consider EBRT as a treatment
+
+option in these patients, alone or sequenced with sys-
+
+temic or catheter-based therapies.48-53 The concurrent
+
+combination of systemic therapy (eg, sorafenib) with
+
+EBRT should be used with caution because of limited
+
+available data and concern for excessive gastrointestinal
+
+and hepatic toxicities.69,70
+
+Symptomatic locally advanced and/or metastatic
+
+HCC
+
+Prospective data support the use of palliative EBRT
+
+to help alleviate pain in patients with HCC and symp-
+
+tomatic liver lesions. A phase II trial of single fraction
+
+(800
+
+cGy)
+
+palliative
+
+liver
+
+EBRT
+
+in
+
+symptomatic
+
+patients
+
+with
+
+extensive
+
+HCC
+
+demonstrated
+
+an
+
+improvement at 1 month in pain symptoms according
+
+to the brief pain inventory (48% improvement on
+
+average).71
+
+The
+
+presence
+
+of
+
+large
+
+vascular
+
+tumor
+
+thrombi may affect portal blood ﬂow and cause pro-
+
+gression of liver dysfunction and ascites. As previously
+
+mentioned, EBRT is capable of re-establishing portal
+
+vein ﬂow by recanalization in 15.1% to 33.3% of
+
+patients,
+
+depending
+
+on
+
+the
+
+EBRT
+
+technique
+
+employed.48 Data also exist for the use of EBRT in
+
+patients with more extensive MVI. Prospective and
+
+meta-analyses of hypofractionated EBRT to vascular
+
+tumor thrombi involving the inferior vena cava and/or
+
+right atrium have exhibited LC rates of &gt;90% at 1
+
+year
+
+and
+
+radiologic
+
+response
+
+rates
+
+of
+
+nearly
+
+
+
+Figure 2
+
+Algorithm for HCC with macrovascular invasion.
+
+Abbreviations: HCC = hepatocellular carcinoma; RT = radiation therapy.
+
+* Enrollment in a clinical trial should be prioritized if available.
+
+y Order of listed options does not reﬂect a particular preference; decision is based on multidisciplinary evaluation.
+
+z Consider alone or in sequential combination.
+
+x To liver tumor(s) and/or large vessel tumor thrombus if symptomatic.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+37
+
+
+60%.47,54,55 Based on these studies, palliative EBRT
+
+directed to symptomatic primary HCC tumors and/or
+
+macrovascular tumor thrombus is conditionally recom-
+
+mended, alone or sequenced with systemic therapy or
+
+catheter-based therapies in the setting of patients with
+
+locally advanced and metastatic HCC.
+
+KQ2: Neoadjuvant EBRT before surgery or OLT
+
+for HCC (Table 4)
+
+See
+
+evidence
+
+tables
+
+in
+
+Supplementary
+
+Materials,
+
+Appendix E4 for the data supporting the recommenda-
+
+tions for KQ2 and Figures 1 and 2 for visual representa-
+
+tions of the HCC recommendations.
+
+What is the role of EBRT in the neoadjuvant setting
+
+before surgical resection or OLT for HCC?
+
+The rationale for the use of EBRT as an LDT for
+
+patients being considered for OLT is to provide tumor
+
+downstaging or stabilization of disease while waiting
+
+for organ availability or completion of transplant eligi-
+
+bility. The selection of EBRT as a potential bridge to
+
+transplant has generally been made in the setting of
+
+ineligibility for other LDTs (eg, tumor located in close
+
+proximity to a large vessel, which would be unfavor-
+
+able for thermal ablation), once the patient has been
+
+evaluated by the multidisciplinary team. Various dose-
+
+fractionation regimens and EBRT modalities in the
+
+bridge to transplant setting have been used, primarily
+
+with SBRT regimens.38,42,72-77 Multiple retrospective
+
+series
+
+have
+
+reported
+
+that
+
+approximately
+
+63%
+
+of
+
+patients successfully receive an OLT after SBRT, indi-
+
+cating that SBRT may be safe and effective as a bridge
+
+to transplant.75,76 Outcomes for patients who receive
+
+an OLT after EBRT as part of their bridge to trans-
+
+plant regimen are favorable, with 5-year OS ranging
+
+from 61% to 72.7%, with no signiﬁcant difference
+
+between bridging LDT techniques (eg, TACE, TARE,
+
+or RFA).72-74,77
+
+Pathologic complete responses after EBRT were highly
+
+variable across studies, ranging from 8.6% to 63%.73-77
+
+One potential explanation for this variability may be
+
+related to the time to transplant from completion of
+
+EBRT. As the time to transplant increased, the pathologic
+
+complete response rates tended to increase: 8.6% to 14%
+
+for median time to transplant of 4 to 6 months compared
+
+with 45% to 63% for median time to transplant of 8 to 12
+
+months.72-77 Although some studies compared bridging
+
+EBRT to other bridging LDTs, no deﬁnitive conclusions
+
+can be made in terms of superiority of any of the currently
+
+used bridging LDT regimens.42,73,74 RILD rates of any
+
+grade in these series using EBRT (mainly SBRT) were rel-
+
+atively low, ranging from 0 to 8.7%.38,42,72-77 Based on
+
+these low-quality data of small observational studies,
+
+EBRT using moderate or ultrahypofractionation is condi-
+
+tionally recommended as a potential bridge to transplant
+
+option alongside other bridging therapies (eg, thermal
+
+ablation and catheter-based therapies).
+
+The management of patients with liver-conﬁned HCC
+
+with
+
+MVI
+
+is
+
+challenging,
+
+with
+
+multiple
+
+treatment
+
+options. Although not routinely performed in these
+
+patients, surgical resection is recognized as a potential
+
+treatment approach in carefully selected patients after
+
+multidisciplinary discussion.7 The rationale for neoadju-
+
+vant EBRT before surgical resection in patients with
+
+HCC with portal vein tumor thrombus is to reduce
+
+tumor burden, particularly of the tumor thrombus com-
+
+ponent, for patients who are otherwise surgically resect-
+
+able to undergo hepatectomy. This is typically performed
+
+for patients with Cheng type II (involving the right/left
+
+portal vein) and type III tumor thrombus (involving the
+
+main portal vein).78,79,81 It is noteworthy that nearly all
+
+the literature for this combination approach is from
+
+Asian countries,51,78-80 and that this practice paradigm is
+
+not routinely used in Western countries. The highest
+
+quality evidence is from a Chinese RCT that assessed the
+
+value of hypofractionated neoadjuvant EBRT to 1800
+
+cGy in 5 fractions in patients with Cheng type II and III
+
+portal vein tumor thrombus. It demonstrated a signiﬁ-
+
+cant improvement in 2-year OS from 9.4% to 27.4% and
+
+disease-free survival from 3.3% to 13.3% with neoadju-
+
+vant EBRT before hepatectomy versus hepatectomy
+
+alone.79 Neoadjuvant EBRT appeared to be well-toler-
+
+ated, with reported radiation-induced liver toxicities
+
+grade ≥3 ranging from 0 to 2.4%.51,78-80 Based on this
+
+Table 4
+
+Neoadjuvant EBRT before surgery or OLT for HCC
+
+KQ2 Recommendations
+
+Strength of
+
+Recommendation
+
+Quality of
+
+Evidence (refs)
+
+1. For patients with HCC who are potential candidates for OLT, ultra- or
+
+moderately hypofractionated EBRT is conditionally recommended as a
+
+bridge to transplant or as a downstaging intervention.
+
+Conditional
+
+Low
+
+38,42,72-77
+
+2. For patients with HCC with portal vein tumor thrombus that are potentially
+
+resectable, neoadjuvant EBRT is conditionally recommended.
+
+Conditional
+
+Low
+
+51,78-80
+
+Abbreviations: EBRT = external beam radiation therapy; HCC = hepatocellular carcinomas; KQ = key question; OLT = orthotopic liver
+
+transplantation.
+
+38
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+low-quality data, neoadjuvant EBRT is conditionally rec-
+
+ommended as a treatment option for patients with HCC
+
+presenting with portal vein tumor thrombus.
+
+Reported dose-fractionation regimens and EBRT
+
+modalities in the neoadjuvant setting before partial
+
+hepatectomy were varied, but generally included mod-
+
+erate hypofractionation to 1800 to 4500 cGy in 300
+
+cGy fractions (BED10 2340-5850 cGy).51,78-80 Close
+
+collaboration with surgery is critical to discuss issues
+
+such as adequate functional future liver remnant and
+
+anticipated ﬁbrosis after neoadjuvant EBRT. Although
+
+many of these earlier studies relied on older technolo-
+
+gies and low-dose radiation therapy (RT), there is an
+
+ongoing need for high-quality data to evaluate the role
+
+of
+
+ultrahypofractionation
+
+before
+
+hepatectomy
+
+in
+
+patients with portal vein thrombus. It is also noted
+
+that these studies had a high proportion of patients
+
+with hepatitis B, who may have had minimal to no
+
+baseline cirrhosis and did not include patients with CP
+
+class B8 or greater cirrhosis. Therefore, caution should
+
+be applied when extrapolating these recommendations
+
+to those with moderate-to-severe underlying liver cir-
+
+rhosis outside the clinical trial setting.
+
+KQ3: EBRT technique, fractionation, and OAR
+
+constraints for HCC (Table 5)
+
+See
+
+evidence
+
+tables
+
+in
+
+Supplementary
+
+Materials,
+
+Appendix E4 for the data supporting the recommenda-
+
+tions for KQ3 and Figures 1 and 2 for visual representa-
+
+tions of the HCC recommendations.
+
+In patients receiving EBRT for HCC, what are the
+
+preferred techniques, fractionation regimens, and
+
+recommended OAR dose constraints?
+
+Across multiple prospective trials and large retrospec-
+
+tive series examining the role of EBRT for HCC, various
+
+dose and fractionation regimens, techniques, and modali-
+
+ties have been used. However, there are no published
+
+RCTs comparing them. The topic of optimal tumor dose
+
+for patients with HCC is an important one, as higher
+
+tumor doses must be balanced with the risk of hepatic
+
+decompensation of the underlying cirrhotic liver, which is
+
+often irreversible and potentially fatal, as demonstrated in
+
+the phase I/II setting.65,86 The potential beneﬁt of dose
+
+escalation for HCC has been extrapolated from published
+
+prospective and retrospective studies, primarily from the
+
+SBRT literature.24,30,32,34,36,46,57,58,82-86 Regarding the rec-
+
+ommended radiation dose for the treatment of liver-con-
+
+ﬁned HCC, data on the dose threshold for optimal LC
+
+and OS are conﬂicting and complicated by inherent
+
+biases. The optimal dose-response relationship is not
+
+clearly deﬁned in the available literature. There are data
+
+showing a potential clinical beneﬁt in terms of improved
+
+LC when using dose escalation (minimum BED10 6500-
+
+10,000
+
+cGy),
+
+provided
+
+OAR
+
+constraints
+
+can
+
+be
+
+met.32,34,43,48,96,97 Some studies suggest a minimum
+
+BED10 of 6500 to 7900 cGy,34,48,54,95,96 while dose escala-
+
+tion beyond BED10 of 10,000 cGy has been questioned.98
+
+Additionally, an association between LC and tumor size
+
+has been demonstrated, with decreasing LC as a function
+
+of increasing tumor size, suggesting a potential need for
+
+more intense dose escalation for tumors &gt;3 to 5 cm in
+
+size.43,97
+
+Table 5
+
+EBRT technique and fractionation for HCC
+
+KQ3 Recommendations
+
+Strength of
+
+Recommendation
+
+Quality of
+
+evidence (refs)
+
+1. For patients with liver-conﬁned HCC, for whom EBRT is recommended, dose-
+
+escalated ultra- or moderately hypofractionated EBRT is recommended, with
+
+choice of regimen based on tumor location, underlying liver function, and
+
+available technology (Table 6).
+
+Strong
+
+Moderate
+
+24,30,32,34,36,46,57,58,82-86
+
+2. For patients with HCC with macrovascular invasion for whom EBRT is delivered
+
+in combination with other catheter-based therapies, moderately hypofractionated
+
+EBRT is conditionally recommended (Table 6).
+
+Conditional
+
+Moderate
+
+39,50,52,53,87
+
+3. For patients with HCC receiving dose-escalated ultra- or moderately
+
+hypofractionated EBRT, IMRT or proton therapy is recommended, with choice of
+
+regimen based on tumor location, underlying liver function, and available
+
+technology.
+
+Strong
+
+Moderate
+
+24,28,30,36,46,57-59,
+
+65,84,86,88,89
+
+4. For patients with HCC receiving dose-escalated ultra- or moderately
+
+hypofractionated EBRT, respiratory motion management and daily image
+
+guidance are recommended.
+
+Strong
+
+Low
+
+36,43,44,90,91
+
+5. For patients with HCC, radiation dose to the liver minus the gross tumor volume
+
+should be evaluated and minimized to reduce the risk of radiation-induced liver
+
+disease (Table 7).
+
+Strong
+
+Moderate
+
+61,65,92-95
+
+Abbreviations: EBRT = external beam radiation therapy; HCC = hepatocellular carcinomas; IMRT = intensity modulated radiation therapy;
+
+KQ = key question.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+39
+
+
+The selection of EBRT dose and safety proﬁle are highly
+
+dependent on the patient’s baseline liver function, typically
+
+deﬁned by their CP class. Much of the data on liver decom-
+
+pensation after EBRT for HCC are derived from the SBRT
+
+literature, which mostly excluded patients with CP class B
+
+(score 8) or C liver dysfunction.27,30,43,44,61,86,92,93 The deﬁ-
+
+nition of liver toxicity has evolved from classic RILD, which
+
+is rarely reported in contemporary studies, to a nonclassic
+
+RILD deﬁnition of increase in CP class of ≥2 points in the
+
+ﬁrst 3 to 6 months post-EBRT.92,93,99 Patients who have
+
+baseline CP class A liver function can generally be treated
+
+safely with EBRT, if the dose to the normal liver is not
+
+exceeded (see Table 7 for suggested EBRT dose constraints).
+
+The risk of nonclassic RILD in patients with CP class A liver
+
+function when meeting liver tolerance constraints ranges
+
+from 5% to 15%.26,27,30,43,44,53,61 CP class B patients (score
+
+8) are more sensitive than CP class A patients to liver
+
+decompensation. The highest quality prospective study that
+
+illustrates the need to stratify CP class A and B patients was
+
+published by Indiana University.86 This trial differentially
+
+determined the delivered dose based on the patients’ base-
+
+line CP class (4800 cGy in 3 fractions for CP class A, 4000
+
+cGy in 5 fractions for CP class B). Among the CP class A
+
+patients, 50% progressed to a higher CP class (42% to CP
+
+class B and 8% to CP class C), whereas among the CP class
+
+B patients, 33.3% progressed to CP class C, demonstrating
+
+the need for stringent dose constraints to the residual nor-
+
+mal liver. Doses as low as 250 cGy to the liver have been
+
+shown to be relevant, particularly in patients with liver dys-
+
+function.86 Progression of the CP class was also found to be
+
+related to OS, mainly when OLT was not an available
+
+option. These data suggest that the total dose and dose per
+
+fraction should be selected differently for CP class A and B7
+
+patients, particularly in light of different normal liver dose
+
+constraints between these patients (Table 7).86,91-93 Because
+
+data on patients with CP class B8 and worse liver function
+
+are limited, EBRT for these patients should be used with
+
+caution.
+
+In addition to SBRT, there have also been hypofractio-
+
+nated trials using 10 to 15 fractions.46,59,62,90,100 Much of
+
+the prospective literature included proton therapy with an
+
+individualized approach of different fractionation regi-
+
+mens based on tumor location relative to gastrointestinal
+
+(GI) structures. For tumors that were located closer to a
+
+GI structure, the number of fractions increased and the
+
+dose per fraction decreased. The highest quality data for
+
+de novo proton therapy for deﬁnitive treatment of unre-
+
+sectable HCC comes from Japan in which 266 patients
+
+were treated with doses stratiﬁed by tumor proximity to
+
+GI structures, which yielded a 5-year LC rate of 95%:
+
+peripheral tumors &gt;2 cm from GI structures were treated
+
+to 6600 cGy in 10 fractions, tumors &lt;2 cm from the porta
+
+hepatis were treated to 7260 cGy in 22 fractions, and cen-
+
+tral tumors located &lt;2 cm from GI structures were treated
+
+to 7700 cGy in 35 fractions.58,59 North American data for
+
+15 fraction moderate hypofractionation have also been
+
+published using 6750 cGy in 15 fractions for peripheral
+
+tumors and 5805 cGy in 15 fractions for central tumors,
+
+which demonstrated a 2-year LC rate of 94%.46
+
+Given the existing prospective data and a plethora of
+
+retrospective studies, ultrahypofractionation or moder-
+
+ately hypofractionated regimens are recommended as fea-
+
+sible treatment regimens for patients with HCC, with the
+
+choice of fractionation regimen dependent on tumor loca-
+
+tion, underlying liver function, available technology, and
+
+meeting of dose constraints. Table 6 includes various
+
+dose-fractionation regimens with the supportive referen-
+
+ces noted. Expert consensus highlights the 3 to 5 fraction
+
+regimens for ultrahypofractionation and the 15 fraction
+
+regimen for moderate hypofractionation as preferred regi-
+
+mens based on prospective trials.24,46,62,86
+
+For patients with HCC, a high degree of dose confor-
+
+mality is desired to ensure optimal tumor dose delivery
+
+while minimizing dose to the surrounding OARs, particu-
+
+larly to the normal uninvolved liver. Various conformal
+
+treatment techniques (eg, step-and-shoot IMRT and volu-
+
+metric-modulated arc therapy) have been used for
+
+patients with HCC treated with EBRT, primarily in the
+
+setting
+
+of
+
+ultra-
+
+or
+
+moderately
+
+hypofractionated
+
+regimens.44,48,58,65,86,101 The use of proton therapy for
+
+HCC is of particular interest as an EBRT modality, given
+
+its potential for improved normal liver sparing at low-to-
+
+moderate doses.102 A single institution retrospective study
+
+of patients with HCC that compared outcomes between
+
+photon and proton therapies showed a potential signal of
+
+clinical beneﬁt for protons, with improved survival and
+
+less CP class score increases of ≥2.62 However, given the
+
+limitations of retrospective analyses and lack of random-
+
+ized data, there are insufﬁcient data to recommend one
+
+technique or modality over another. The potential bene-
+
+ﬁt of protons over photons is currently the subject of an
+
+ongoing
+
+RCT,
+
+NRG
+
+GI-003
+
+trial
+
+(NCT03186898).
+
+Although there is a paucity of data comparing different
+
+treatment techniques and modalities, use of conformal
+
+techniques (either IMRT or proton therapy) for the
+
+treatment of patients with HCC in the setting of dose-
+
+escalated ultra- or moderately hypofractionated regimens
+
+is recommended based on consensus of the task force.
+
+Until higher quality evidence is available, the choice of
+
+treatment modality and technique should be based on
+
+tumor location, underlying liver function, and available
+
+technology.
+
+When EBRT is used in combination with TACE to
+
+treat patients with HCC with MVI, moderately hypo-
+
+fractionated regimens are the most commonly used
+
+fractionation approach.39,50,52,53,87 The highest quality
+
+data using moderate hypofractionation are from the
+
+previously discussed RCT that demonstrated OS supe-
+
+riority of TACE plus hypofractionated EBRT (3000-
+
+4500 cGy in 10-15 fractions) over sorafenib alone in
+
+CP class A patients with MVI.50 It should be noted
+
+that
+
+there
+
+are
+
+multiple
+
+studies
+
+using
+
+standard
+
+40
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+fractionated EBRT with concurrent hepatic arterial
+
+infusion or systemic chemotherapy in the Asian litera-
+
+ture for HCC with favorable clinical outcomes.103-106
+
+Given
+
+the concerns for increased toxicity, concurrent combi-
+
+nation of EBRT and targeted therapy should be used
+
+in the context of a clinical trial.
+
+Although modern conformal treatment techniques
+
+have the advantage of a high degree of dose confor-
+
+mity required for target dose escalation while minimiz-
+
+ing dose to OARs, they are less robust when there is
+
+variability in patient setup and respiratory motion.
+
+Image guidance is essential for the safe and effective
+
+delivery of highly conformal treatment dose to account
+
+for
+
+inter-
+
+and
+
+intrafractional
+
+motion.
+
+Respiratory
+
+motion assessment and management techniques allow
+
+appropriate design of internal tumor volume margin
+
+and accurate beam delivery with respect to intrafrac-
+
+tional organ motion. Although there are no studies
+
+that speciﬁcally address the value of daily image guid-
+
+ance or respiratory motion management, prospective
+
+and retrospective trials of EBRT for HCC routinely
+
+reported using daily image guidance (eg, orthogonal
+
+kilovoltage, computed tomography [CT] on rails, cone
+
+beam CT) and respiratory motion management (eg,
+
+breath hold, gating, tracking, abdominal compression)
+
+to reduce tumor motion when possible. The use of
+
+ﬁducial markers or presence of residual ethiodol/lipio-
+
+dol from prior intra-arterial administration for tumor
+
+localization and image guidance was variable across
+
+studies and was institution-dependent.36,43,44,90,91
+
+In patients with primary liver cancers treated with
+
+EBRT, greater volumes of uninvolved liver (liver minus
+
+the gross tumor volume) exposed to increasing doses
+
+of RT increase the risk of RILD, most notably in
+
+patients with cirrhosis.107 Therefore, it is critical to
+
+evaluate and minimize RT dose to uninvolved liver,
+
+speciﬁcally at the low-dose range, to reduce the risk of
+
+RILD.86,90 Other potential modifying factors that may
+
+increase the risk of RILD include underlying liver
+
+function, extent of tumor, and use of current and/or
+
+prior
+
+chemotherapy.107
+
+Signiﬁcant
+
+heterogeneity
+
+in
+
+liver dose constraints exist among published studies
+
+without standardized consensus. Table 7 provides rec-
+
+ommended liver constraints for commonly used frac-
+
+tionation
+
+regimens,
+
+based
+
+on
+
+a
+
+combination
+
+of
+
+available
+
+data,
+
+including
+
+prospective
+
+studies
+
+that
+
+focused on constraints, and consensus of the task
+
+force. Key elements that were considered included
+
+baseline liver function and type of fractionation regi-
+
+men. Both mean liver dose and volume of liver
+
+spared constraints are included. Toxicity was deﬁned
+
+as
+
+CP
+
+score
+
+increase
+
+≥2
+
+at
+
+3
+
+months
+
+and
+
+beyond.92,93,99,108 The moderate hypofractionation lit-
+
+erature using &gt;10 fractions has not historically sepa-
+
+rated patients out by these criteria, although most
+
+patients in these studies were CP class A patients. It
+
+is
+
+emphasized
+
+that
+
+the
+
+selection
+
+of
+
+fractionation
+
+Table 6
+
+Recommended EBRT doses and fractionation for HCC and IHC*
+
+Fractionation Regimen
+
+Total dose/fractionation
+
+BED10
+
+References
+
+Ultrahypofractionation
+
+Noncirrhotic (primarily IHC):
+
+4000-6000 cGy/3-5 fx
+
+y
+
+7200-18,000 cGy
+
+110
+
+CP class A:
+
+4000-5000 cGy/3-5 fx
+
+7200-12,500 cGy
+
+24,27,28,30,34,43,
+
+44,61,86,101,111
+
+CP class B7:
+
+3000-4000 cGy/5 fx
+
+4800-7200 cGy
+
+28,36,86,94,101
+
+4000-5400 cGy/6 fx
+
+6700-10,300 cGy
+
+65,93
+
+5000-6600 cGy/10 fx
+
+7500-11,000 cGy
+
+57,59,83,90,100,112
+
+Moderate hypofractionation
+
+4800 cGy/12 fx
+
+6720 cGy
+
+110
+
+4500-6750 cGy/15 fx
+
+5900-9800 cGy
+
+42,46,50,62,90,113,114
+
+6000 cGy/20 fx
+
+7800 cGy
+
+57
+
+6600-7200 cGy/22 fx
+
+8600-9600 cGy
+
+57-59,112
+
+Standard fractionation
+
+5040 cGy/28 fx
+
+z
+
+5947 cGy
+
+114,115
+
+6000 cGy/30 fx
+
+z
+
+7200 cGy
+
+114,115
+
+7700 cGy/35 fx
+
+9400 cGy
+
+58,59
+
+Abbreviations: BED10 = biologically effective dose assuming an a/b = 10; CP = Child-Pugh; EBRT = external beam radiation therapy; fx = fractions;
+
+HCC = hepatocellular carcinoma; IHC = intrahepatic cholangiocarcinoma.
+
+* Bolded regimens are the most common prescriptions used, based on consensus of the task force. Dose constraints in Table 7 pertain to these
+
+most common dose fractionations.
+
+y Lower doses recommended for central lesions in which the maximum point dose to central bile duct(s) cannot be met.
+
+z For IHC when combined with concurrent systemic therapy.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+41
+
+
+regimen and degree of dose escalation must be care-
+
+fully balanced against the dose to the uninvolved liver
+
+and risk of RILD. Careful consideration of baseline
+
+liver function and tailoring the fractionation regimen
+
+and liver dose constraints are critical to the safe
+
+EBRT treatment of patients with HCC. Dose con-
+
+straints for GI OARs are also included and were
+
+based upon published prospective studies, QUANTEC
+
+(Quantitative Analyses of Normal Tissue Effects in
+
+the Clinic), and American Association of Physicists
+
+in Medicine recommendations.22,46,109
+
+KQ4: EBRT in the deﬁnitive and adjuvant
+
+setting in IHC (Table 8)
+
+See
+
+evidence
+
+tables
+
+in
+
+Supplementary
+
+Materials,
+
+Appendix E4 for the data supporting the recommendations
+
+Table 7
+
+Recommended dose constraints for uninvolved liver and bowel structures*
+
+OARs/
+
+References
+
+Ultrahypofx
+
+3 fx
+
+Ultrahypofx
+
+5 fx
+
+Moderate hypofx
+
+15 fx
+
+Standard fx
+
+≥20 fx
+
+Toxicity endpoint
+
+Uninvolved liver,
+
+noncirrhotic
+
+(MLD)22,109
+
+Mean &lt;1200-1500 cGy
+
+≥700 cc &lt;1900 cGy
+
+Mean &lt;1500-1800 cGy
+
+≥700 cc &lt;2100 cGy
+
+Mean &lt;2400 cGy
+
+Mean &lt;3200 cGy
+
+RILD
+
+Uninvolved liver,
+
+CP class A (MLD)
+
+46,83,86,93,116
+
+Mean &lt;1000-1200 cGy
+
+Mean &lt;1300-1500 cGy
+
+≥700 cc &lt;1500 cGy
+
+Mean &lt;2000 cGy
+
+Mean &lt;3000 cGy
+
+CP increase ≥2 at 3 mo
+
+RILD
+
+Uninvolved liver,
+
+(MLD)
+
+CP class B7
+
+46,83,86,93,116,117
+
+N/Ry
+
+Mean &lt;800-1000 cGy
+
+≥500 cc &lt;1000 cGy
+
+Mean &lt;1600 cGy
+
+Mean &lt;2400 cGy
+
+CP increase ≥2 at 3 mo
+
+RILD
+
+Central bile ducts
+
+109
+
+D0.03 cc &lt;3570 cGy
+
+D0.03 cc &lt;4050 cGy
+
+—
+
+—
+
+Stenosis
+
+Stomach
+
+22,46,109
+
+D0.03 cc &lt;2200 cGy
+
+D10 cc &lt;1650 cGy
+
+D0.03 cc &lt;3200 cGy
+
+D10 cc &lt;1800 cGy
+
+D0.03 cc &lt;4200 cGy D0.03 cc &lt;5400 cGy
+
+V45 Gy &lt;33.3%
+
+V40 Gy &lt;66.7%
+
+Ulcer
+
+Duodenum
+
+22,46,109
+
+D0.03 cc &lt;2200 cGy
+
+D5 cc &lt;1650 cGy
+
+D0.03 cc &lt;3200 cGy
+
+D5 cc &lt;1800 cGy
+
+D0.03 cc &lt;4500 cGy D0.03cc &lt;5400 cGy
+
+Ulcer
+
+Small bowel
+
+22,46,109
+
+D0.03 cc &lt;2500 cGy
+
+D5 cc &lt;1800 cGy
+
+D0.03 cc &lt;3200 cGy
+
+D5 cc &lt;1950 cGy
+
+D0.03 cc &lt;4500 cGy D0.03cc &lt;5400 cGy
+
+V45 Gy &lt;195 cc
+
+Ulcer
+
+Large bowel
+
+22,46,109
+
+D0.03 cc &lt;2800 cGy
+
+D20 cc &lt;2400 cGy
+
+D0.03 cc &lt;3400 cGy
+
+D20 cc &lt;2500 cGy
+
+D0.03 cc &lt;4500 cGy D0.03cc &lt;6000 cGy
+
+V55 Gy &lt;5 cc
+
+V45 Gy &lt;60 cc
+
+V35 Gy &lt;150 cc
+
+V30 Gy &lt;200 cc
+
+Ulcer
+
+Abbreviations: CP = Child-Pugh; D = dose to; fx = fraction; hypofx = hypofractionation; MLD = mean liver dose; N/R = not recommended;
+
+OARs = organs at risk; RILD = radiation-induced liver disease; SBRT = stereotactic body radiation therapy; V = volume that received.
+
+* This table is a combination of evidence-based constraints and expert opinion; dose constraints are for the most common fractionations. It is meant
+
+as a starting point to keep the doses as low as possible to OARs while still achieving a tumoricidal dose.
+
+y CP class B patients are at very high risk of decompensation. The task force does not recommend 3 fraction SBRT; a 5 fraction SBRT regimen or
+
+hypofractionated approach to keep the MLD as low as possible is preferred.
+
+Table 8
+
+EBRT in the deﬁnitive and adjuvant setting in IHC
+
+KQ4 Recommendations
+
+Strength of
+
+Recommendation
+
+Quality of
+
+evidence (refs)
+
+1. For patients with unresectable IHC, induction chemotherapy followed by consolidation
+
+with EBRT, alone or in combination with chemotherapy, is recommended.
+
+Implementation remark: For patients who are not candidates for induction chemotherapy,
+
+EBRT alone or in combination with chemotherapy should be considered.
+
+Strong
+
+Moderate
+
+46,110,113,114,118-120
+
+2. For patients with IHC who underwent curative surgical resection and have high-risk
+
+features, adjuvant EBRT with concurrent chemotherapy, alone or sequenced after systemic
+
+chemotherapy, is conditionally recommended.
+
+Implementation remark: High-risk clinical features include positive lymph nodes and/or
+
+R1 resection.
+
+Conditional
+
+Low
+
+121,122
+
+Abbreviations: EBRT = external beam radiation therapy; IHC = intrahepatic cholangiocarcinoma; KQ = key question; R1 = microscopic positive
+
+resection margins.
+
+42
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+for KQ4 and Figures 3 and 4 for visual representations of
+
+the IHC recommendations.
+
+What is the role of EBRT in the deﬁnitive and
+
+adjuvant setting in IHC?
+
+In patients with IHC, surgical resection is the only
+
+potentially curative treatment. Among patients with unre-
+
+sectable disease, systemic therapy is the mainstay of treat-
+
+ment.123 However, historical median OS and intrahepatic
+
+PFS rates are &lt;1 year after chemotherapy alone.115,118,120
+
+After induction chemotherapy, the rationale for consider-
+
+ation of consolidative EBRT in unresectable IHC, there-
+
+fore, is to improve LC and intrahepatic PFS and to
+
+mitigate tumor-related liver failure.115,118,120 Liver failure
+
+results from portal or hepatic venous vascular obstruction
+
+and/or biliary obstruction from tumor progression.115,120
+
+LC and OS rates among patients with unresectable IHC
+
+treated with EBRT in retrospective and prospective studies
+
+support its effectiveness for consolidative treatment and
+
+for salvage after disease progression.46,113,114,120 Among
+
+patients without distant metastatic disease or multifocal
+
+progression after initial systemic therapy, multiple retro-
+
+spective studies strongly support EBRT with or without
+
+concurrent ﬂuoropyrimidine chemotherapy for consolida-
+
+tion.46,113-115,119,120 Across the range of studies, among
+
+patients treated with EBRT, 1-year OS ranged from 39%
+
+to 70%.46,110,115,119 Multiple contemporary studies using
+
+moderately hypofractionated EBRT regimens demonstrate
+
+favorable LC after treatment.114,124 In one retrospective
+
+cohort study of patients who received photon or proton
+
+therapy to 3750 to 6750 cGy or cGy (relative biological
+
+effectiveness [RBE]) in 15 fractions for unresectable or
+
+locally recurrent IHC, 84% 2-year LC and 58% 2-year OS
+
+were achieved.113 In a prospective cohort of patients who
+
+received proton therapy with a target dose of 5805 to 6570
+
+cGy (RBE) in 15 fractions for unresectable IHC, 94% 2-
+
+year LC was achieved.46 The main limitations of these
+
+studies are the absence of randomized data evaluating the
+
+role of EBRT, the paucity of data to directly compare out-
+
+comes of EBRT versus systemic or other therapies, and
+
+the potential selection bias among treatment groups when
+
+treatments are compared in observational study designs.
+
+These limitations emphasize the importance of multidisci-
+
+plinary discussion for optimal management of IHC and
+
+balancing the goals and risks/beneﬁts of EBRT. For
+
+patients with unresectable IHC that are not candidates for
+
+upfront systemic therapy, deﬁnitive EBRT alone or with
+
+concurrent chemotherapy should be considered when
+
+EBRT can be safely delivered.
+
+For patients with resectable IHC who undergo curative
+
+resection, high-risk prognostic factors, including positive
+
+surgical margin status and involvement of lymph nodes,
+
+are associated with worse LC and OS.125,126 The rationale
+
+for adjuvant treatment in this setting is to optimize
+
+locoregional control and potentially OS. There are no pro-
+
+spective studies evaluating adjuvant EBRT after curative
+
+resection in patients with IHC. Limited low-to-moderate
+
+quality retrospective data provide support that adjuvant
+
+EBRT, primarily in combination with concurrent chemo-
+
+therapy, improves locoregional control and relapse-free
+
+survival with trends in OS improvement.121,122 In one ret-
+
+rospective study, among patients with higher risk “nar-
+
+row” (&lt;1.0 cm) margin status, adjuvant EBRT was
+
+associated with improved 3-year intra- and extrahepatic
+
+tumor control compared with surgery alone (64% versus
+
+33% and 57% versus 35%, respectively).122 Another study
+
+demonstrated that compared with surgery alone, adjuvant
+
+EBRT combined with concurrent chemotherapy yielded
+
+superior recurrence-free survival.121 In the presence of
+
+high-risk clinical features, the use of postoperative EBRT
+
+with concurrent chemotherapy is conditionally recom-
+
+mended, after multidisciplinary discussion, to reduce local
+
+recurrence
+
+risk
+
+related
+
+to
+
+postsurgery
+
+residual
+
+disease.121,122 An important component of multidisciplin-
+
+ary discussion is timing and sequencing of the radiation
+
+course relative to any planned adjuvant chemotherapy, as
+
+well as the chemotherapy agent to be used in combination
+
+with EBRT, if so recommended.120
+
+KQ5: EBRT technique, fractionation, and OAR
+
+constraints for IHC (Table 9)
+
+See
+
+evidence
+
+tables
+
+in
+
+Supplementary
+
+Materials,
+
+Appendix E4 for the data supporting the recommenda-
+
+tions for KQ5 and Figures 3 and 4 for visual representa-
+
+tions of the IHC recommendations.
+
+In patients receiving EBRT for IHC, what are the
+
+preferred techniques, fractionation regimens, and
+
+recommended OAR dose constraints?
+
+Patients with unresectable IHC have been treated with
+
+a range of dose-fractionation regimens when EBRT was
+
+used as deﬁnitive local therapy,46,110,113-115,119 but there is
+
+a lack of randomized comparisons between these regi-
+
+mens. The studies with the highest quality data used ultra-
+
+or moderately hypofractionated regimens.46,113,114 A pro-
+
+spective phase II trial using moderately hypofractionated
+
+proton therapy prescribed doses according to tumor loca-
+
+tion in 15 fractions (5805 cGy [RBE] for central tumors
+
+within 2 cm from the porta-hepatis and 6750 cGy [RBE]
+
+for peripheral tumors) and yielded 2-year LC, PFS, and
+
+OS of 94.1%, 25.7%, and 46.5%, respectively.46
+
+Retrospective series have shown similarly high rates of
+
+LC when using hypofractionated regimens.46,110,114,119
+
+Dose escalation potentially improves LC, with one series
+
+demonstrating superior LC and OS when prescribing a
+
+BED10
+
+of
+
+&gt;8050
+
+cGy.114,119
+
+One
+
+multi-institutional
+
+retrospective series reported results using SBRT, in which
+
+42% of patients were treated with 3- and 5-fraction
+
+approaches.110 In this study, treatment doses within the
+
+target volume were heterogeneous relating to the SBRT
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+43
+
+
+treatment
+
+planning
+
+approach,
+
+and
+
+higher
+
+maximum
+
+BED10 values (&gt;91 Gy10) were associated with improved
+
+LC and OS. High-grade toxicities were uncommon in all
+
+of these series. Although the quality of evidence is con-
+
+sidered low given the limited quantity of data and lack
+
+of randomized data, well-designed prospective study
+
+data were sufﬁcient to conditionally recommend dose
+
+escalated ultra- or moderately hypofractionated EBRT
+
+for patients with unresectable IHC.46,119 There are no
+
+data that compared fractionation regimens, so the spe-
+
+ciﬁc choice of hypofractionated EBRT regimen should
+
+be based on the tumor location, the underlying liver
+
+function, consideration of the ability to meet normal tis-
+
+sue constraints, and the technology available to deliver
+
+the treatment course, with a goal of safely delivering an
+
+escalated prescription dose while meeting OAR con-
+
+straints. Although concurrent systemic therapy has been
+
+used with moderately hypofractionated regimens,114 use
+
+of systemic therapy concurrently with ultrahypofractio-
+
+nation is not appropriate.
+
+Available data regarding the potential clinical beneﬁts
+
+of
+
+adjuvant
+
+EBRT
+
+included
+
+standard
+
+fractionated
+
+regimens.121,122 This approach is further supported by the
+
+Southwest Oncology Group S0809 trial, which was a
+
+phase II study of postoperative chemotherapy followed by
+
+EBRT (4500 cGy to regional lymphatics and 5250-5940
+
+cGy to tumor bed in 25-33 fractions) with concurrent
+
+chemotherapy in patients with resected extrahepatic chol-
+
+angiocarcinoma.127 Although patients with IHC were
+
+excluded from this trial, the clinical context and EBRT
+
+nodal target volumes are similar to those of postoperative
+
+treatment for IHC, with the exception of potentially need-
+
+ing to treat the liver resection margin of the liver remnant
+
+for R1 margins in patients with IHC. This regimen was
+
+well tolerated and was associated with a low risk of local
+
+recurrence. Therefore, standard fractionation is condi-
+
+tionally recommended for patients with resected IHC
+
+receiving postoperative EBRT.121,122 An adjuvant dose of
+
+4500 to 6000 cGy is reasonable to consider depending on
+
+the clinical scenario, surgical margin status, postoperative
+
+imaging, and dose to OARs.
+
+As with patients with HCC, normal tissue sparing is a
+
+major concern for patients with unresectable IHC treated
+
+with EBRT, which requires a high degree of dose con-
+
+formity to ensure optimal tumor dose escalation
+
+while minimizing dose to the surrounding OARs.
+
+Various conformal treatment techniques (eg, static
+
+ﬁeld IMRT, volumetric-modulated arc therapy, and
+
+proton therapy) have been reported in clinical studies
+
+of
+
+patients
+
+with
+
+unresectable
+
+IHC.46,110,113,114,119
+
+However, there is insufﬁcient evidence to evaluate
+
+and compare the outcome and toxicity proﬁles of
+
+these different treatment techniques. Given the pau-
+
+city of data directly evaluating different treatment
+
+techniques, conformal techniques are conditionally
+
+recommended for treatment of patients with unre-
+
+sectable IHC. Until randomized data regarding the
+
+beneﬁts of these techniques are available, choice of
+
+appropriate conformal techniques should be based on
+
+tumor
+
+location,
+
+underlying
+
+liver
+
+function,
+
+and
+
+resource and technology availability.
+
+Similar to patients with HCC, image guidance and
+
+motion management techniques are critical to the safe
+
+and effective delivery of highly conformal EBRT for
+
+patients with IHC. Daily image guidance based on in-
+
+room imaging (eg, orthogonal kV, cone beam CT, CT on
+
+Table 9
+
+EBRT technique and fractionation regimens for IHC
+
+KQ5 Recommendations
+
+Strength of
+
+Recommendation
+
+Quality of
+
+evidence (refs)
+
+1. For patients with unresectable IHC receiving EBRT, dose-escalated ultra- or moderately
+
+hypofractionated EBRT is conditionally recommended with fractionation based on tumor
+
+location, underlying liver function, and available technology (Table 6).
+
+Implementation remark: Concurrent systemic therapy should not be used with
+
+ultrahypofractionated EBRT.
+
+Conditional
+
+Low
+
+46,110,113,114,119
+
+2. For patients with resected IHC receiving postoperative EBRT, standard fractionation is
+
+conditionally recommended (Table 6).
+
+Conditional
+
+Low
+
+121,122
+
+3. For patients with unresectable IHC receiving dose-escalated ultra- or moderately
+
+hypofractionated EBRT, IMRT or proton therapy is conditionally recommended with choice
+
+of regimen based on tumor location, underlying liver function, and available technology.
+
+Conditional
+
+Low
+
+46,110,113-115,119
+
+4. For patients with IHC receiving dose-escalated ultra- or moderately hypofractionated EBRT,
+
+respiratory motion management and daily image guidance are recommended.
+
+Strong
+
+Low
+
+46,110,113-115,119
+
+5. For patients with IHC, radiation dose to the liver minus the gross tumor volume should be
+
+evaluated and minimized to reduce the risk of radiation-induced liver disease (Table 7).
+
+Strong
+
+Low
+
+46,110,113,119
+
+Abbreviations: EBRT = external beam radiation therapy; IHC = intrahepatic cholangiocarcinoma; IMRT = intensity modulated radiation therapy;
+
+KQ = key question.
+
+44
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+rails) was used in most clinical studies of patients with
+
+unresectable IHC.46,110,113,114,119 Various motion assess-
+
+ment and management techniques were reported for
+
+patients with unresectable IHC in clinical studies, includ-
+
+ing patient-speciﬁc respiratory assessment (eg, 4-D CT,
+
+abdominal compression, voluntary or forced breath-hold,
+
+and respiratory gating). Many of these studies permitted
+
+mixed motion management and were selected on an indi-
+
+vidual patient basis.110,113,114,119 Respiratory motion con-
+
+trol and daily image guidance are strongly recommended
+
+for patients receiving ultra- or moderately hypofractio-
+
+nated EBRT.
+
+
+
+Figure 3
+
+Algorithm for IHC: Liver conﬁned, unresectable.
+
+Abbreviations: chemo = chemotherapy; IHC = intrahepatic cholangiocarcinoma; RT = radiation therapy.
+
+* Enrollment in a clinical trial should be prioritized if available.
+
+y Order of listed options does not reﬂect a particular preference; decision is based on multidisciplinary evaluation.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+45
+
+
+Although many patients with IHC may not have cir-
+
+rhosis, the importance of minimizing RT dose to the
+
+normal liver is still critical to minimize the risk of
+
+RILD. In most published series of patients with IHC
+
+treated with EBRT, the reported rates of RILD were
+
+low.46,113-115,119 This is likely due to patient selection
+
+(limiting to patients without cirrhosis or with well-com-
+
+pensated CP class A or B cirrhosis) and prespeciﬁed
+
+treatment planning goals for reducing radiation dose to
+
+uninvolved liver.46,119 Some studies have incorporated
+
+individualized prescription dosing based on dose to
+
+uninvolved liver determined during the treatment plan-
+
+ning process.46,113,119 The speciﬁc goals for dose to
+
+uninvolved liver are dependent on the fractionation
+
+schedule used and potentially the patient’s underlying
+
+liver function (typically CP class). Table 7 includes
+
+examples of dose-volume constraints for patients with
+
+primary liver cancers, including IHC.
+
+
+
+Figure 4
+
+Algorithm for IHC: Liver conﬁned, resectable.
+
+Abbreviations: chemo = chemotherapy; IHC = intrahepatic cholangiocarcinoma; RT = radiation therapy.
+
+* Enrollment in a clinical trial should be prioritized if available.
+
+y Consider additional surgical resection when feasible before adjuvant therapy.
+
+z Order of listed options does not reﬂect a particular preference; decision is based on multidisciplinary evaluation.
+
+46
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+Conclusions/Future Directions
+
+The treatment of patients with HCC and IHC is com-
+
+plex and requires a multidisciplinary approach intended
+
+to select not only the most appropriate upfront therapy
+
+but to determine the risk and beneﬁts of appropriately
+
+combining or sequencing potential available modalities.
+
+Currently, high-quality evidence to guide the use of EBRT
+
+in patients with liver-conﬁned HCC and IHC disease is
+
+limited. However, low-to-moderate quality evidence from
+
+observational and prospective studies published at the
+
+time of the literature review support the consideration of
+
+EBRT as a reasonable potential treatment option in vari-
+
+ous clinical settings for HCC and IHC, including deﬁni-
+
+tive, consolidative, salvage, and adjuvant therapy. In
+
+certain clinical scenarios, EBRT may also be combined or
+
+sequenced with other LDTs. Data from RCTs published
+
+after the guideline’s literature review end date (eg, the
+
+Korean phase III trial comparing proton therapy with
+
+thermal
+
+ablation),60
+
+completed
+
+RCTs
+
+presented
+
+in
+
+abstract
+
+form
+
+(eg,
+
+the
+
+Italian
+
+phase
+
+III
+
+study
+
+[NCT02323360] that compared ultrahypofractionation to
+
+additional TAE or TACE after incomplete TAE or
+
+TACE),68 and ongoing RCTs (eg, ABC-07 [CRUK/14/
+
+029], which is comparing systemic therapy with and with-
+
+out EBRT in IHC) will provide further clariﬁcation on the
+
+role of EBRT in HCC and IHC. Because the number and
+
+quality of comparative studies between EBRT and other
+
+LDTs are limited, deﬁnitive conclusions cannot be made
+
+on the role and effectiveness of EBRT in comparison to
+
+other LDTs.
+
+The choice of dose-fractionation regimens, technique,
+
+and modality should ultimately depend on tumor loca-
+
+tion, underlying liver function, and available technologies
+
+given the lack of published RCTs directly comparing the
+
+preferred technical aspects of EBRT for HCC and IHC.
+
+Whenever possible, moderate dose escalation in the form
+
+of ultra- or moderate hypofractionation is recommended
+
+when OAR constraints can be safely met. Careful consid-
+
+eration of baseline liver function and tailoring the frac-
+
+tionation regimen and liver dose constraints are critical to
+
+the safety of EBRT in the treatment of patients with HCC
+
+and IHC. It is imperative to minimize the risk of liver tox-
+
+icity, particularly in patients with cirrhosis because it is
+
+often irreversible and potentially life-threatening, unless
+
+salvage OLT becomes an option.
+
+In addition to conducting more high-quality clinical
+
+trials, particularly RCTs comparing different LDTs, sev-
+
+eral important topics and areas of research are needed to
+
+fully understand the role of EBRT for HCC and IHC.
+
+Some of the most relevant include (1) reﬁnement of opti-
+
+mal tumor dose and normal liver dose constraints; (2)
+
+consensus in reporting radiologic response and liver tox-
+
+icity metrics; (3) serum and functional liver imaging bio-
+
+markers for improved risk stratiﬁcation, identiﬁcation of
+
+early response and toxicity, and individualized adaptive
+
+treatment; (4) integration of EBRT with systemic thera-
+
+pies, including molecular targeted therapy and immuno-
+
+therapy; (5) clinical beneﬁt of magnetic resonance
+
+imaging-guided EBRT; and (6) patient selection and indi-
+
+cations for EBRT versus TARE and potential interactions
+
+when used sequentially.
+
+
+
+PRISMA diagram, based on Moher et al.128
+
+Abbreviations: EBRT = external beam radiation therapy; PRISMA = Preferred Reporting Items for Systematic Reviews and Meta-Analyses.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+47
+
+
+Acknowledgments
+
+We are grateful to Yimin Geng, MSLIS, MS, the UT—
+
+MD Anderson research medical librarian, for her assistance
+
+with creating the search strategy for this guideline; to Olsi
+
+Gjyshi, MD, Rebecca Levin-Epstein, MD, Todd Pezzi, MD,
+
+Steven Seyedin, MD, and Sara Zakem, MD, for literature
+
+review assistance; and to Lisa Bradﬁeld and Rachel
+
+McCausland for guidance regarding guideline methodology
+
+and project management. We also thank the Society of
+
+Interventional Radiology for contributions during the
+
+development process and for the multidisciplinary discus-
+
+sion through their nominated representative. However,
+
+they withdrew their participation as a collaborating society
+
+on this guideline during the early phases of development.
+
+The task force thanks the peer reviewers for their
+
+comments and time spent reviewing the guideline. See
+
+Appendix E1 for their names and disclosures.
+
+Supplementary materials
+
+Supplementary material associated with this article
+
+can be found in the online version at doi:10.1016/j.
+
+prro.2021.09.004.
+
+References
+
+1. Committee on Standards for Developing Trustworthy Clinical
+
+Practice Guidelines. Clinical Practice Guidelines We Can Trust.
+
+Washington, DC: National Academies Press; 2011.
+
+2. Committee on Standards for Systematic Reviews of Comparative
+
+Effectiveness Research. Finding What Works in Health Care:
+
+Standards for Systematic Reviews. Washington, DC: National
+
+Academies Press; 2011.
+
+3. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A.
+
+Global cancer statistics 2018: GLOBOCAN estimates of incidence
+
+and mortality worldwide for 36 cancers in 185 countries. CA Can-
+
+cer J Clin. 2018;68:394-424.
+
+4. Society AC. Cancer facts &amp; ﬁgures 2020. Available at: https://www.
+
+cancer.org/content/dam/cancer-org/research/cancer-facts-and-sta
+
+tistics/annual-cancer-facts-and-ﬁgures/2020/cancer-facts-and-ﬁg
+
+ures-2020.pdf. Accessed November 22, 2020.
+
+5. European Association For The Study Of The L, European Organi-
+
+sation For R, Treatment Of C. EASL-EORTC clinical practice
+
+guidelines: Management of hepatocellular carcinoma. J Hepatol.
+
+2012;56:908-943.
+
+6. Sherman M, Burak K, Maroun J, et al. Multidisciplinary Canadian
+
+consensus recommendations for the management and treatment of
+
+hepatocellular carcinoma. Curr Oncol. 2011;18:228-240.
+
+7. National Comprehensive Cancer Network. Hepatobiliary can-
+
+cers (version 5.2020). Available at: https://www.nccn.org/profes
+
+sionals/physician_gls/PDF/hepatobiliary.pdf. Accessed
+
+November 9, 2021.
+
+8. Vogel A, Martinelli E, clinicalguidelines@esmo.org EGCEa, Com-
+
+mittee EG. Updated treatment recommendations for hepatocellular
+
+carcinoma (HCC) from the ESMO Clinical Practice Guidelines.
+
+Ann Oncol. 2021;32:801-805.
+
+9. Mazzaferro V, Regalia E, Doci R, et al. Liver transplantation for the
+
+treatment of small hepatocellular carcinomas in patients with cir-
+
+rhosis. N Engl J Med. 1996;334:693-699.
+
+10. Truty MJ, Vauthey JN. Surgical resection of high-risk hepatocellu-
+
+lar carcinoma: Patient selection, preoperative considerations, and
+
+operative technique. Ann Surg Oncol. 2010;17:1219-1225.
+
+11. Ng KKC, Chok KSH, Chan ACY, et al. Randomized clinical trial of
+
+hepatic resection versus radiofrequency ablation for early-stage
+
+hepatocellular carcinoma. Br J Surg. 2017;104:1775-1784.
+
+12. Lobo L, Yakoub D, Picado O, et al. Unresectable hepatocellular
+
+carcinoma: Radioembolization versus chemoembolization: A sys-
+
+tematic review and meta-analysis. Cardiovasc Intervent Radiol.
+
+2016;39:1580-1588.
+
+13. Vilgrain V, Pereira H, Assenat E, et al. Efﬁcacy and safety of selec-
+
+tive internal radiotherapy with yttrium-90 resin microspheres com-
+
+pared
+
+with
+
+sorafenib
+
+in
+
+locally
+
+advanced
+
+and
+
+inoperable
+
+hepatocellular carcinoma (SARAH): An open-label randomised
+
+controlled phase 3 trial. Lancet Oncol. 2017;18:1624-1636.
+
+14. Chow PKH, Gandhi M, Tan SB, et al. SIRveNIB: Selective internal
+
+radiation therapy versus sorafenib in Asia-Paciﬁc patients with
+
+hepatocellular carcinoma. J Clin Oncol. 2018;36:1913-1921.
+
+15. Llovet JM, Real MI, Montana X, et al. Arterial embolisation or che-
+
+moembolisation versus symptomatic treatment in patients with
+
+unresectable hepatocellular carcinoma: A randomised controlled
+
+trial. Lancet. 2002;359:1734-1739.
+
+16. Lo CM, Ngan H, Tso WK, et al. Randomized controlled trial of
+
+transarterial lipiodol chemoembolization for unresectable hepato-
+
+cellular carcinoma. Hepatology. 2002;35:1164-1171.
+
+17. Finn RS, Qin S, Ikeda M, et al. Atezolizumab plus bevacizumab in
+
+unresectable hepatocellular carcinoma. N Engl J Med. 2020;382:
+
+1894-1905.
+
+18. Kudo M, Finn RS, Qin S, et al. Lenvatinib versus sorafenib in ﬁrst-
+
+line treatment of patients with unresectable hepatocellular carci-
+
+noma: A randomised phase 3 non-inferiority trial. Lancet.
+
+2018;391:1163-1173.
+
+19. Llovet JM, Ricci S, Mazzaferro V, et al. Sorafenib in advanced hepa-
+
+tocellular carcinoma. N Engl J Med. 2008;359(4):378-390.
+
+20. Klein J, Dawson LA. Hepatocellular carcinoma radiation therapy:
+
+Review of evidence and future opportunities. Int J Radiat Oncol
+
+Biol Phys. 2013;87:22-32.
+
+21. Morgan SC, Hoffman K, Loblaw DA, et al. Hypofractionated radia-
+
+tion therapy for localized prostate cancer: Executive summary of an
+
+ASTRO, ASCO, and AUA evidence-based guideline. Pract Radiat
+
+Oncol. 2018;8:354-360.
+
+22. Benedict SH, Yenice KM, Followill D, et al. Stereotactic body radia-
+
+tion therapy: The report of AAPM Task Group 101. Med Phys.
+
+2010;37:4078-4101.
+
+23. Chao ST, Dad LK, Dawson LA, et al. ACR-ASTRO practice param-
+
+eter for the performance of stereotactic body radiation therapy. Am
+
+J Clin Oncol. 2020;43:545-552.
+
+24. Durand-Labrunie J, Baumann AS, Ayav A, et al. Curative irradia-
+
+tion treatment of hepatocellular carcinoma: A multicenter phase 2
+
+trial. Int J Radiat Oncol Biol Phys. 2020;27:27.
+
+25. Su TS, Liang P, Lu HZ, et al. Stereotactic body radiation therapy for
+
+small primary or recurrent hepatocellular carcinoma in 132 Chi-
+
+nese patients. J Surg Oncol. 2016;113:181-187.
+
+26. Hara K, Takeda A, Tsurugai Y, et al. Radiotherapy for hepatocellu-
+
+lar carcinoma results in comparable survival to radiofrequency
+
+ablation: A propensity score analysis. Hepatology. 2019;69:2533-
+
+2545.
+
+27. Huertas A, Baumann AS, Saunier-Kubs F, et al. Stereotactic body
+
+radiation therapy as an ablative treatment for inoperable hepatocel-
+
+lular carcinoma. Radiother Oncol. 2015;115:211-216.
+
+28. Andolino DL, Johnson CS, Maluccio M, et al. Stereotactic body
+
+radiotherapy for primary hepatocellular carcinoma. Int J Radiat
+
+Oncol Biol Phys. 2011;81. e447-453.
+
+48
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+29. Su TS, Liang P, Liang J, et al. Long-term survival analysis of stereo-
+
+tactic ablative radiotherapy versus liver resection for small hepato-
+
+cellular carcinoma. Int J Radiat Oncol Biol Phys. 2017;98:639-646.
+
+30. Park S, Jung J, Cho B, et al. Clinical outcomes of stereotactic body
+
+radiation therapy for small hepatocellular carcinoma. J Gastroen-
+
+terol Hepatol. 2020;13:13.
+
+31. Lee J, Shin IS, Yoon WS, Koom WS, Rim CH. Comparisons
+
+between radiofrequency ablation and stereotactic body radiother-
+
+apy for liver malignancies: Meta-analyses and a systematic review.
+
+Radiother Oncol. 2020;145:63-70.
+
+32. Rim CH, Kim HJ, Seong J. Clinical feasibility and efﬁcacy of stereo-
+
+tactic body radiotherapy for hepatocellular carcinoma: A system-
+
+atic review and meta-analysis of observational studies. Radiother
+
+Oncol. 2019;131:135-144.
+
+33. Kim JW, Kim DY, Han KH, Seong J. Phase I/II trial of helical
+
+IMRT-based stereotactic body radiotherapy for hepatocellular car-
+
+cinoma. Dig Liver Dis. 2019;51:445-451.
+
+34. Lazarev S, Hardy-Abeloos C, Factor O, Rosenzweig K, Buckstein
+
+M. Stereotactic body radiation therapy for centrally located hepato-
+
+cellular carcinoma: Outcomes and toxicities. J Cancer Res Clin
+
+Oncol. 2018;144:2077-2083.
+
+35. Pan YX, Xi M, Fu YZ, et al. Stereotactic body radiotherapy as a sal-
+
+vage therapy after incomplete radiofrequency ablation for hepato-
+
+cellular carcinoma: A retrospective propensity score matching
+
+study. Cancers (Basel). 2019;11:5.
+
+36. Sanuki N, Takeda A, Oku Y, et al. Stereotactic body radiotherapy
+
+for small hepatocellular carcinoma: A retrospective outcome analy-
+
+sis in 185 patients. Acta Oncol. 2014;53:399-404.
+
+37. Su TS, Lu HZ, Cheng T, et al. Long-term survival analysis in com-
+
+bined transarterial embolization and stereotactic body radiation ther-
+
+apy versus stereotactic body radiation monotherapy for unresectable
+
+hepatocellular carcinoma &gt;5 cm. BMC Cancer. 2016;16:834.
+
+38. Buckstein M, Kim E, Fischman A, et al. Stereotactic body radiation
+
+therapy following transarterial chemoembolization for unresectable
+
+hepatocellular carcinoma. J Gastrointest Oncol. 2018;9:734-740.
+
+39. Huo YR, Eslick GD. Transcatheter arterial chemoembolization plus
+
+radiotherapy compared with chemoembolization alone for hepato-
+
+cellular carcinoma: A systematic review and meta-analysis. JAMA
+
+Oncol. 2015;1:756-765.
+
+40. Ren ZG, Zhao JD, Gu K, et al. Three-dimensional conformal radia-
+
+tion therapy and intensity-modulated radiation therapy combined
+
+with transcatheter arterial chemoembolization for locally advanced
+
+hepatocellular carcinoma: An irradiation dose escalation study. Int
+
+J Radiat Oncol Biol Phys. 2011;79:496-502.
+
+41. Bai H, Gao P, Gao H, et al. Improvement of survival rate for
+
+patients with hepatocellular carcinoma using transarterial chemo-
+
+embolization in combination with three-dimensional conformal
+
+radiation therapy: A meta-analysis. Med Sci Monit. 2016;22:1773-
+
+1781.
+
+42. Bush DA, Smith JC, Slater JD, et al. Randomized clinical trial com-
+
+paring proton beam radiation therapy with transarterial chemoem-
+
+bolization for hepatocellular carcinoma: Results of an interim
+
+analysis. Int J Radiat Oncol Biol Phys. 2016;95:477-482.
+
+43. Jang WI, Kim MS, Bae SH, et al. High-dose stereotactic body radio-
+
+therapy correlates increased local control and overall survival in
+
+patients
+
+with
+
+inoperable
+
+hepatocellular
+
+carcinoma.
+
+Radiat.
+
+2013;8:250.
+
+44. Jang WI, Bae SH, Kim MS, et al. A phase 2 multicenter study of ste-
+
+reotactic body radiotherapy for hepatocellular carcinoma: Safety
+
+and efﬁcacy. Cancer. 2020;126:363-372.
+
+45. Shen PC, Chang WC, Lo CH, et al. Comparison of stereotactic
+
+body radiation therapy and transarterial chemoembolization for
+
+unresectable medium-sized hepatocellular carcinoma. Int J Radiat
+
+Oncol Biol Phys. 2019;105:307-318.
+
+46. Hong TS, Wo JY, Yeap BY, et al. Multi-institutional phase ii
+
+study of high-dose hypofractionated proton beam therapy in
+
+patients with localized, unresectable hepatocellular carcinoma
+
+and intrahepatic cholangiocarcinoma. J Clin Oncol. 2016;34:
+
+460-468.
+
+47. Lou J, Li Y, Liang K, et al. Hypofractionated radiotherapy as a sal-
+
+vage treatment for recurrent hepatocellular carcinoma with inferior
+
+vena cava/right atrium tumor thrombus: A multi-center analysis.
+
+BMC Cancer. 2019;19:668.
+
+48. Yang JF, Lo CH, Lee MS, et al. Stereotactic ablative radiotherapy
+
+versus conventionally fractionated radiotherapy in the treatment of
+
+hepatocellular carcinoma with portal vein invasion: A retrospective
+
+analysis. Radiat. 2019;14:180.
+
+49. Iwamoto H, Nomiyama M, Niizeki T, et al. Dose and location of
+
+irradiation determine survival for patients with hepatocellular car-
+
+cinoma with macrovascular invasion in external beam radiation
+
+therapy. Oncology. 2019;96:192-199.
+
+50. Yoon SM, Ryoo BY, Lee SJ, et al. Efﬁcacy and safety of transarterial
+
+chemoembolization plus external beam radiotherapy vs sorafenib
+
+in hepatocellular carcinoma with macroscopic vascular invasion: a
+
+randomized clinical trial. JAMA Oncol. 2018;4:661-669.
+
+51. Hamaoka M, Kobayashi T, Kuroda S, et al. Hepatectomy after
+
+down-staging of hepatocellular carcinoma with portal vein tumor
+
+thrombus using chemoradiotherapy: A retrospective cohort study.
+
+Int J Surg. 2017;44:223-228.
+
+52. Im JH, Yoon SM, Park HC, et al. Radiotherapeutic strategies for
+
+hepatocellular carcinoma with portal vein tumour thrombosis in a
+
+hepatitis B endemic area. Liver Int. 2017;37:90-100.
+
+53. Kim YJ, Jung J, Joo JH, et al. Combined transarterial chemoemboli-
+
+zation and radiotherapy as a ﬁrst-line treatment for hepatocellular
+
+carcinoma with macroscopic vascular invasion: Necessity to sub-
+
+classify Barcelona Clinic liver cancer stage C. Radiother Oncol.
+
+2019;141:95-100.
+
+54. Rim CH, Jeong BK, Kim TH, Kim JH, Kang HC, Seong J. Effective-
+
+ness and feasibility of external beam radiotherapy for hepatocellu-
+
+lar carcinoma with inferior vena cava and/or right atrium
+
+involvement: A multicenter trial in Korea (KROG 17-10). Int J
+
+Radiat Biol. 2020:1-20.
+
+55. Rim CH, Kim CY, Yang DS, Yoon WS. External beam radiation
+
+therapy to hepatocellular carcinoma involving inferior vena cava
+
+and/or right atrium: A meta-analysis and systemic review. Radio-
+
+ther Oncol. 2018;129:123-129.
+
+56. Sarpel U, Spivack JH, Berger Y, et al. The effect of locoregional
+
+therapies in patients with advanced hepatocellular carcinoma
+
+treated with sorafenib. Hpb. 2016;18:411-418.
+
+57. Kim TH, Park JW, Kim BH, et al. Does risk-adapted proton beam
+
+therapy have a role as a complementary or alternative therapeutic
+
+option for hepatocellular carcinoma? Cancers (Basel). 2019;11:15.
+
+58. Mizumoto M, Okumura T, Hashimoto T, et al. Proton beam ther-
+
+apy for hepatocellular carcinoma: A comparison of three treatment
+
+protocols. Int J Radiat Oncol Biol Phys. 2011;81:1039-1045.
+
+59. Fukuda K, Okumura T, Abei M, et al. Long-term outcomes of pro-
+
+ton beam therapy in patients with previously untreated hepatocel-
+
+lular carcinoma. Cancer Sci. 2017;108:497-503.
+
+60. Kim TH, Koh YH, Kim BH, et al. Proton beam radiotherapy vs.
+
+radiofrequency ablation for recurrent hepatocellular carcinoma: A
+
+randomized phase III trial. J Hepatol. 2021;74:603-612.
+
+61. Su TS, Luo R, Liang P, Cheng T, Zhou Y, Huang Y. A prospective
+
+cohort study of hepatic toxicity after stereotactic body radiation
+
+therapy for hepatocellular carcinoma. Radiother Oncol. 2018;129:
+
+136-142.
+
+62. Sanford NN, Pursley J, Noe B, et al. Protons versus photons for
+
+unresectable hepatocellular carcinoma: Liver decompensation and
+
+overall survival. Int J Radiat Oncol Biol Phys. 2019;105:64-72.
+
+63. Klein J, Dawson LA, Jiang H, et al. Prospective longitudinal assess-
+
+ment of quality of life for liver cancer patients treated with stereo-
+
+tactic body radiation therapy. Int J Radiat Oncol Biol Phys.
+
+2015;93:16-25.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+49
+
+
+64. Katsanos K, Kitrou P, Spiliopoulos S, Maroulis I, Petsas T, Karna-
+
+batidis D. Comparative effectiveness of different transarterial
+
+embolization therapies alone or in combination with local ablative
+
+or adjuvant systemic treatments for unresectable hepatocellular
+
+carcinoma: A network meta-analysis of randomized controlled tri-
+
+als. PLoS ONE. 2017;12: e0184597.
+
+65. Bujold A, Massey CA, Kim JJ, et al. Sequential phase I and II trials
+
+of stereotactic body radiotherapy for locally advanced hepatocellu-
+
+lar carcinoma. J Clin Oncol. 2013;31:1631-1639.
+
+66. Lewandowski RJ, Mulcahy MF, Kulik LM, et al. Chemoemboliza-
+
+tion for hepatocellular carcinoma: Comprehensive imaging and
+
+survival analysis in a 172-patient cohort. Radiology. 2010;255:955-
+
+965.
+
+67. Shin SW. The current practice of transarterial chemoembolization
+
+for the treatment of hepatocellular carcinoma. Korean J Radiol.
+
+2009;10:425-434.
+
+68. Clerici E, Comito T, Franzese C, et al. SBRT versus TAE/TACE in
+
+hepatocellular
+
+carcinoma:
+
+Results
+
+from
+
+a
+
+phase
+
+III
+
+trial
+
+(NCT02323360). European Society for Radiation and Oncology
+
+2020 Congress. November 28-December 1, 2020. online.
+
+69. Brade AM, Ng S, Brierley J, et al. Phase 1 trial of sorafenib and ste-
+
+reotactic body radiation therapy for hepatocellular carcinoma. Int J
+
+Radiat Oncol Biol Phys. 2016;94:580-587.
+
+70. Chen SW, Lin LC, Kuo YC, Liang JA, Kuo CC, Chiou JF. Phase 2
+
+study of combined sorafenib and radiation therapy in patients with
+
+advanced hepatocellular carcinoma. Int J Radiat Oncol Biol Phys.
+
+2014;88:1041-1047.
+
+71. Soliman H, Ringash J, Jiang H, et al. Phase II trial of palliative
+
+radiotherapy for hepatocellular carcinoma and liver metastases. J
+
+Clin Oncol. 2013;31:3980-3986.
+
+72. Mourad M, Mabrut JY, Chellakhi M, et al. Neoadjuvant conformal
+
+radiotherapy before liver transplantation for hepatocellular carci-
+
+noma: A propensity score matched analysis of postoperative mor-
+
+bidity and oncological results. Fut Oncol. 2019;15:2517-2530.
+
+73. Sapisochin G, Barry A, Doherty M, et al. Stereotactic body radio-
+
+therapy vs. TACE or RFA as a bridge to transplant in patients with
+
+hepatocellular carcinoma. An intention-to-treat analysis. J Hepatol.
+
+2017;67:92-99.
+
+74. Mohamed M, Katz AW, Tejani MA, et al. Comparison of outcomes
+
+between SBRT, yttrium-90 radioembolization, transarterial chemo-
+
+embolization, and radiofrequency ablation as bridge to transplant
+
+for hepatocellular carcinoma. Adv Radiat Oncol. 2016;1:35-42.
+
+75. Facciuto ME, Singh MK, Rochon C, et al. Stereotactic body radia-
+
+tion therapy in hepatocellular carcinoma and cirrhosis: Evaluation
+
+of radiological and pathological response. J Surg Oncol. 2012;105:
+
+692-698.
+
+76. Hasan S, Thai N, Uemura T, et al. Hepatocellular carcinoma with
+
+child Pugh-A Cirrhosis treated with stereotactic body radiotherapy.
+
+World J Gastrointest Surg. 2017;9:256-263.
+
+77. Mannina EM, Cardenes HR, Lasley FD, et al. Role of stereotactic
+
+body radiation therapy before orthotopic liver transplantation: Ret-
+
+rospective evaluation of pathologic response and outcomes. Int J
+
+Radiat Oncol Biol Phys. 2017;97:931-938.
+
+78. Li N, Feng S, Xue J, et al. Hepatocellular carcinoma with main por-
+
+tal vein tumor thrombus: A comparative study comparing hepatec-
+
+tomy with or without neoadjuvant radiotherapy. Hpb. 2016;18:
+
+549-556.
+
+79. Wei X, Jiang Y, Zhang X, et al. Neoadjuvant three-dimensional
+
+conformal radiotherapy for resectable hepatocellular carci-
+
+noma with portal vein tumor thrombus: A randomized, open-
+
+label, multicenter controlled study. J Clin Oncol. 2019;37:2141-
+
+2151.
+
+80. Kamiyama T, Nakanishi K, Yokoo H, et al. Efﬁcacy of preoperative
+
+radiotherapy to portal vein tumor thrombus in the main trunk or
+
+ﬁrst branch in patients with hepatocellular carcinoma. Int J Clin
+
+Oncol. 2007;12:363-368.
+
+81. Shuqun C, Mengchao W, Han C, et al. Tumor thrombus types
+
+inﬂuence the prognosis of hepatocellular carcinoma with the tumor
+
+thrombi in the portal vein. Hepatogastroenterology. 2007;54:499-502.
+
+82. Bae SH, Park HC, Yoon WS, et al. Treatment outcome after frac-
+
+tionated conformal radiotherapy for hepatocellular carcinoma in
+
+patients with Child-Pugh classiﬁcation B in Korea (KROG 16-05).
+
+Cancer Res. 2019;51:1589-1599.
+
+83. Son SH, Kay CS, Song JH, et al. Dosimetric parameter predicting
+
+the deterioration of hepatic function after helical tomotherapy in
+
+patients with unresectable locally advanced hepatocellular carci-
+
+noma. Radiat. 2013;8:11.
+
+84. Bush DA, Kayali Z, Grove R, Slater JD. The safety and efﬁcacy of
+
+high-dose proton beam radiotherapy for hepatocellular carcinoma:
+
+A phase 2 prospective trial. Cancer. 2011;117:3053-3059.
+
+85. Swanick CW, Allen PK, Tao R, et al. Incidence and predictors of
+
+chest wall toxicity after high-dose radiation therapy in 15 fractions.
+
+Pract Radiat Oncol. 2017;7:63-71.
+
+86. Lasley FD, Mannina EM, Johnson CS, et al. Treatment variables
+
+related to liver toxicity in patients with hepatocellular carcinoma,
+
+Child-Pugh class A and B enrolled in a phase 1-2 trial of stereo-
+
+tactic body radiation therapy. Pract Radiat Oncol. 2015;5:e443-
+
+e449.
+
+87. Byun HK, Kim HJ, Im YR, Kim DY, Han KH, Seong J. Dose escala-
+
+tion in radiotherapy for incomplete transarterial chemoemboliza-
+
+tion of hepatocellular carcinoma. Strahlenther Onkol. 2020;196:
+
+132-141.
+
+88. Kim TH, Park JW, Kim YJ, et al. Phase I dose-escalation study of
+
+proton beam therapy for inoperable hepatocellular carcinoma.
+
+Cancer Res. 2015;47:34-45.
+
+89. Spychalski P, Kobiela J, Antoszewska M, Blazynska-Spychalska A,
+
+Jereczek-Fossa BA, Hoyer M. Patient speciﬁc outcomes of charged
+
+particle therapy for hepatocellular carcinoma - A systematic review
+
+and quantitative analysis. Radiother Oncol. 2019;132:127-134.
+
+90. Hsieh CE, Venkatesulu BP, Lee CH, et al. Predictors of radiation-
+
+induced liver disease in eastern and western patients with hepato-
+
+cellular carcinoma undergoing proton beam therapy. Int J Radiat
+
+Oncol Biol Phys. 2019;105:73-86.
+
+91. Nabavizadeh N, Waller JG, Fain 3rd R, et al. Safety and efﬁcacy of
+
+accelerated hypofractionation and stereotactic body radiation therapy
+
+for hepatocellular carcinoma patients with varying degrees of hepatic
+
+impairment. Int J Radiat Oncol Biol Phys. 2018;100:577-585.
+
+92. Toesca DAS, Osmundson EC, von Eyben R, Shaffer JL, Koong AC,
+
+Chang DT. Assessment of hepatic function decline after stereotac-
+
+tic body radiation therapy for primary liver cancer. Pract Radiat
+
+Oncol. 2017;7:173-182.
+
+93. Velec M, Haddad CR, Craig T, et al. Predictors of liver toxicity fol-
+
+lowing stereotactic body radiation therapy for hepatocellular carci-
+
+noma. Int J Radiat Oncol Biol Phys. 2017;97:939-946.
+
+94. Toesca DA, Osmundson EC, Eyben RV, et al. Central liver toxicity
+
+after SBRT: An expanded analysis and predictive nomogram.
+
+Radiother Oncol. 2017;122:130-136.
+
+95. Jackson WC, Suresh K, Maurino C, et al. A mid-treatment break
+
+and reassessment maintains tumor control and reduces toxicity in
+
+patients with hepatocellular carcinoma treated with stereotactic
+
+body radiation therapy. Radiother Oncol. 2019;141:101-107.
+
+96. Osmundson EC, Wu Y, Luxton G, Bazan JG, Koong AC, Chang
+
+DT. Predictors of toxicity associated with stereotactic body radia-
+
+tion therapy to the central hepatobiliary tract. Int J Radiat Oncol
+
+Biol Phys. 2015;91:986-994.
+
+97. Sun J, Zhang T, Wang J, et al. Biologically effective dose (BED) of
+
+stereotactic body radiation therapy (SBRT) was an important factor
+
+of therapeutic efﬁcacy in patients with hepatocellular carcinoma
+
+(&lt;=5 cm). BMC Cancer. 2019;19:846.
+
+98. Ohri N, Tome WA, Mendez Romero A, et al. Local control after
+
+stereotactic body radiation therapy for liver tumors. Int J Radiat
+
+Oncol Biol Phys. 2018.
+
+50
+
+S. Apisarnthanarax et al
+
+Practical Radiation Oncology: January/February 2022
+
+
+99. Chapman TR, Bowen SR, Schaub SK, et al. Toward consensus
+
+reporting of radiation-induced liver toxicity in the treatment of pri-
+
+mary liver malignancies: Deﬁning clinically relevant endpoints.
+
+Pract Radiat Oncol. 2018;8:157-166.
+
+100. Yamashita H, Onishi H, Murakami N, et al. Survival outcomes
+
+after stereotactic body radiotherapy for 79 Japanese patients
+
+with hepatocellular carcinoma. J Radiat Res (Tokyo). 2015;56:
+
+561-567.
+
+101. Eriguchi T, Takeda A, Sanuki N, et al. Acceptable toxicity after ste-
+
+reotactic body radiation therapy for liver tumors adjacent to the
+
+central biliary system. Int J Radiat Oncol Biol Phys. 2013;85:1006-
+
+1011.
+
+102. Kim JY, Lim YK, Kim TH, et al. Normal liver sparing by proton
+
+beam therapy for hepatocellular carcinoma: Comparison with heli-
+
+cal intensity modulated radiotherapy and volumetric modulated
+
+arc therapy. Acta Oncol. 2015;54:1827-1832.
+
+103. Cho Y, Kim JW, Kim JK, et al. Phase I radiation dose-escalation
+
+study to investigate the dose-limiting toxicity of concurrent intra-
+
+arterial chemotherapy for unresectable hepatocellular carcinoma.
+
+Cancers (Basel). 2020:12.
+
+104. Murakami E, Aikata H, Miyaki D, et al. Hepatic arterial infusion
+
+chemotherapy using 5-ﬂuorouracil and systemic interferon-alpha
+
+for advanced hepatocellular carcinoma in combination with or
+
+without three-dimensional conformal radiotherapy to venous
+
+tumor thrombosis in hepatic vein or inferior vena cava. Hepatol.
+
+2012;42:442-453.
+
+105. Kodama H, Aikata H, Murakami E, et al. Clinical outcome of
+
+esophageal varices after hepatic arterial infusion chemotherapy for
+
+advanced hepatocellular carcinoma with major portal vein tumor
+
+thrombus. Hepatol Res. 2011;41:1046-1056.
+
+106. Shim SJ, Seong J, Lee IJ, Han KH, Chon CY, Ahn SH. Radia-
+
+tion-induced hepatic toxicity after radiotherapy combined with
+
+chemotherapy for hepatocellular carcinoma. Hepatol. 2007;37:
+
+906-913.
+
+107. Pan CC, Kavanagh BD, Dawson LA, et al. Radiation-associated liver
+
+injury. Int J Radiat Oncol Biol Phys. 2010;76(3 Suppl). S94-100.
+
+108. Toesca DAS, Ibragimov B, Koong AJ, Xing L, Koong AC, Chang
+
+DT. Strategies for prediction and mitigation of radiation-induced
+
+liver toxicity. J Radiat Res. 2018;59(suppl_1):i40-i49.
+
+109. Bentzen SM, Constine LS, Deasy JO, et al. Quantitative analyses of
+
+normal tissue effects in the clinic (QUANTEC): An introduction to
+
+the scientiﬁc issues. Int J Radiat Oncol Biol Phys. 2010;76(3 Suppl).
+
+S3-9.
+
+110. Brunner TB, Blanck O, Lewitzki V, et al. Stereotactic body radio-
+
+therapy dose and its impact on local control and overall survival of
+
+patients for locally advanced intrahepatic and extrahepatic cholan-
+
+giocarcinoma. Radiother Oncol. 2019;132:42-47.
+
+111. Hasan S, Renz P, Packard M, Horrigan S, Gresswell S, Kirichenko
+
+AV. Effect of daily and every other day stereotactic body radiation
+
+therapy schedules on treatment-related fatigue in patients with
+
+hepatocellular carcinoma. Pract Radiat Oncol. 2019;9:e38-e45.
+
+112. Oshiro Y, Mizumoto M, Okumura T, et al. Analysis of repeated
+
+proton beam therapy for patients with hepatocellular carcinoma.
+
+Radiother Oncol. 2017;123:240-245.
+
+113. Smart AC, Goyal L, Horick N, et al. Hypofractionated radiation
+
+therapy for unresectable/locally recurrent intrahepatic cholangio-
+
+carcinoma. Ann Surg Oncol. 2019;23:23.
+
+114. Tao R, Krishnan S, Bhosale PR, et al. Ablative radiotherapy doses
+
+lead to a substantial prolongation of survival in patients with inop-
+
+erable intrahepatic cholangiocarcinoma: A retrospective dose
+
+response analysis. J Clin Oncol. 2016;34:219-226.
+
+115. Chen YX, Zeng ZC, Tang ZY, et al. Determining the role of exter-
+
+nal beam radiotherapy in unresectable intrahepatic cholangiocarci-
+
+noma: A retrospective analysis of 84 patients. BMC Cancer.
+
+2010;10:492.
+
+116. Miften M, Vinogradskiy Y, Moiseenko V, et al. Radiation dose-vol-
+
+ume effects for liver SBRT. Int J Radiat Oncol Biol Phys. 2018;6:6.
+
+117. Doi H, Masai N, Uemoto K, et al. Validation of the liver mean dose
+
+in terms of the biological effective dose for the prevention of radia-
+
+tion-induced liver damage. Rep. 2017;22:303-309.
+
+118. Kim YI, Park JW, Kim BH, et al. Outcomes of concurrent
+
+chemoradiotherapy versus chemotherapy alone for advanced-
+
+stage unresectable intrahepatic cholangiocarcinoma. Radiat.
+
+2013;8:292.
+
+119. Tse RV, Hawkins M, Lockwood G, et al. Phase I study of individu-
+
+alized stereotactic body radiotherapy for hepatocellular carcinoma
+
+and intrahepatic cholangiocarcinoma. J Clin Oncol. 2008;26:657-
+
+664.
+
+120. Yamashita S, Koay EJ, Passot G, et al. Local therapy reduces the
+
+risk of liver failure and improves survival in patients with intrahe-
+
+patic cholangiocarcinoma: A comprehensive analysis of 362 conse-
+
+cutive patients. Cancer. 2017;123:1354-1362.
+
+121. Kim YS, Oh SY, Go SI, et al. The role of adjuvant therapy after
+
+R0 resection for patients with intrahepatic and perihilar chol-
+
+angiocarcinomas. Cancer Chemother Pharmacol. 2017;79:99-
+
+106.
+
+122. Zheng X, Chen B, Wu JX, et al. Beneﬁt of adjuvant radiotherapy
+
+following narrow-margin hepatectomy in patients with intrahe-
+
+patic cholangiocarcinoma that adhere to major vessels. Cancer
+
+Manag Res. 2018;10:3973-3981.
+
+123. Valle JW, Wasan H, Johnson P, et al. Gemcitabine alone or in com-
+
+bination with cisplatin in patients with advanced or metastatic
+
+cholangiocarcinomas or other biliary tract tumours: A multicentre
+
+randomised phase II study - The UK ABC-01 study. Br J Cancer.
+
+2009;101:621-627.
+
+124. Smart AC, Wo JY. ASO author reﬂections: High-dose radiation
+
+offers local control for inoperable intrahepatic cholangiocarci-
+
+noma. Ann Surg Oncol. 2019;19:19.
+
+125. de Jong MC, Nathan H, Sotiropoulos GC, et al. Intrahepatic chol-
+
+angiocarcinoma: An international multi-institutional analysis of
+
+prognostic factors and lymph node assessment. J Clin Oncol.
+
+2011;29:3140-3145.
+
+126. Carpizo DR, D'Angelica M. Management and extent of resection
+
+for intrahepatic cholangiocarcinoma. Surg Oncol Clin N Am.
+
+2009;18:289-305. viii-ix.
+
+127. Ben-Josef E, Guthrie KA, El-Khoueiry AB, et al. SWOG S0809: A
+
+phase II intergroup trial of adjuvant capecitabine and gemcitabine
+
+followed by radiotherapy and concurrent capecitabine in extrahe-
+
+patic cholangiocarcinoma and gallbladder carcinoma. J Clin Oncol.
+
+2015;33:2617-2622.
+
+128. Moher D, Liberati A, Tetzlaff J, Altman DG, Group P. Pre-
+
+ferred reporting items for systematic reviews and meta-analy-
+
+ses: The PRISMA statement. J Clin Epidemiol. 2009;62:1006-
+
+1012.
+
+Practical Radiation Oncology: January/February 2022
+
+EBRT for primary liver cancers
+
+51
+

@@ -1,0 +1,7609 @@
+
+ASCO special articles
+
+Systemic Therapy for Advanced Hepatocellular
+
+Carcinoma: ASCO Guideline
+
+John D. Gordan, MD, PhD1; Erin B. Kennedy, MHSc2; Ghassan K. Abou-Alfa, MD, MBA3; Muhammad Shaalan Beg, MD, MS4;
+
+Steven T. Brower, MD5; Terence P. Gade, MD, PhD6; Laura Goff, MD7; Shilpi Gupta, MD8; Jennifer Guy, MD9; William P. Harris, MD10;
+
+Renuka Iyer, MD11; Ishmael Jaiyesimi, DO, MS12; Minaxi Jhawer, MD13; Asha Karippot, MD14; Ahmed O. Kaseb, MD15;
+
+R. Kate Kelley, MD1; Jennifer J. Knox, MD, MS16; Jeremy Kortmansky, MD17; Andrea Leaf, MD18; William M. Remak, MT19;
+
+Rachna T. Shroff, MD, MS20; Davendra P.S. Sohal, MD, MPH21; Tamar H. Taddei, MD22; Neeta K. Venepalli, MD, MBA23;
+
+Andrea Wilson, MFA24; Andrew X. Zhu, MD, PhD25; and Michal G. Rose, MD26
+
+abstract
+
+PURPOSE To develop an evidence-based clinical practice guideline to assist in clinical decision making for
+
+patients with advanced hepatocellular carcinoma (HCC).
+
+METHODS ASCO convened an Expert Panel to conduct a systematic review of published phase III randomized
+
+controlled trials (2007-2020) on systemic therapy for advanced HCC and provide recommended care options for
+
+this patient population.
+
+RESULTS Nine phase III randomized controlled trials met the inclusion criteria.
+
+RECOMMENDATIONS Atezolizumab 1 bevacizumab (atezo 1 bev) may be offered as ﬁrst-line treatment of most
+
+patients with advanced HCC, Child-Pugh class A liver disease, Eastern Cooperative Oncology Group Perfor-
+
+mance Status (ECOG PS) 0-1, and following management of esophageal varices, when present, according to
+
+institutional guidelines. Where there are contraindications to atezolizumab and/or bevacizumab, tyrosine kinase
+
+inhibitors sorafenib or lenvatinib may be offered as ﬁrst-line treatment of patients with advanced HCC, Child-
+
+Pugh class A liver disease, and ECOG PS 0-1. Following ﬁrst-line treatment with atezo 1 bev, and until better
+
+data are available, second-line therapy with a tyrosine kinase inhibitor may be recommended for appropriate
+
+candidates. Following ﬁrst-line therapy with sorafenib or lenvatinib, second-line therapy options for appropriate
+
+candidates include cabozantinib, regorafenib for patients who previously tolerated sorafenib, or ramucirumab
+
+(for patients with a-fetoprotein $ 400 ng/mL), or atezo 1 bev where patients did not have access to this option as
+
+ﬁrst-line therapy. Pembrolizumab or nivolumab are also reasonable options for appropriate patients following
+
+sorafenib or lenvatinib. Consideration of nivolumab 1 ipilimumab as an option for second-line therapy and third-
+
+line therapy is discussed. Further guidance on choosing between therapy options is included within the
+
+guideline. Additional information is available at www.asco.org/gastrointestinal-cancer-guidelines.
+
+J Clin Oncol 38:4317-4345. © 2020 by American Society of Clinical Oncology
+
+INTRODUCTION
+
+There were approximately 670,000 new cases and
+
+625,000 deaths worldwide due to hepatocellular
+
+carcinoma (HCC) in 2018. HCC comprises 75%-
+
+85% of primary liver cancer cases and is the fourth-
+
+leading cause of annual cancer deaths worldwide.1 In
+
+the United States, it is estimated that liver cancer will
+
+account for approximately 42,810 new cases and
+
+approximately 30,160 deaths in 2020.2 Risk factors
+
+vary by geographic region and include chronic viral
+
+hepatitis (hepatitis B virus [HBV] infection, hepati-
+
+tis C virus [HCV] infection); alcohol-related liver
+
+disease; environmental exposures, speciﬁcally aﬂatoxin-
+
+contaminated foods; and morbid obesity and diabetes.3
+
+Three-quarters of cases occur in the Asia-Paciﬁc region,
+
+where the main risk factor outside of Japan is HBV.1
+
+HCC is two to three times as common in men as in
+
+women.4 Incidence of HCC is currently on the rise in the
+
+United States,5 related in part to a rise in the incidence
+
+of obesity and type II diabetes over the past several
+
+decades.6 Decreases in incidence rates among Asian
+
+and Paciﬁc Islanders and younger cohorts may con-
+
+tribute to an overall reduction in cases of HCC in future
+
+years.7
+
+Effective treatment options, such as resection, liver
+
+transplantation, and ablation, exist for early-stage
+
+HCC, and patients with locally advanced disease
+
+may be candidates for liver-directed therapies,
+
+including transarterial chemoembolization (TACE),
+
+bland embolization, and radioembolization. Historically,
+
+ASSOCIATED
+
+CONTENT
+
+Appendix
+
+Data Supplement
+
+Author afﬁliations
+
+and support
+
+information (if
+
+applicable) appear
+
+at the end of this
+
+article.
+
+Accepted on
+
+September 1, 2020
+
+and published at
+
+ascopubs.org/journal/
+
+jco on November 16,
+
+2020: DOI https://doi.
+
+org/10.1200/JCO.20.
+
+02672
+
+Clinical Practice
+
+Guidelines
+
+Committee approval:
+
+July 28, 2020
+
+Reprint requests:
+
+2318 Mill Rd, Suite
+
+800, Alexandria, VA
+
+22314; guidelines@
+
+asco.org.
+
+Volume 38, Issue 36 4317
+
+
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+THE BOTTOM LINE
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma: ASCO Guideline
+
+Guideline Question
+
+What are the preferred treatment options for ﬁrst-line and subsequent systemic therapy for patients with advanced hepa-
+
+tocellular carcinoma (HCC; ie, patients who are unresectable and not amenable to local therapies)?
+
+Target Population
+
+Patients with advanced HCC.
+
+Target Audience
+
+Clinicians who are involved in the care and treatment of patients with advanced HCC, including medical oncologists,
+
+hepatologists, gastroenterologists, surgeons, interventional radiologists, radiation oncologists, radiologists, pathologists, and
+
+palliative care specialists.
+
+Methods
+
+An Expert Panel was convened to develop clinical practice guideline recommendations based on a systematic review of the
+
+medical literature.
+
+Recommendations
+
+First-Line Therapy
+
+Recommendation 1.1. Atezolizumab-bevacizumab (atezo 1 bev) may be offered as ﬁrst-line treatment for most patients with
+
+advanced HCC, Child-Pugh class A, ECOG PS 0-1, and following management of esophageal varices, when present,
+
+according to institutional guidelines (Type: evidence based, beneﬁts outweigh harms; Evidence quality: moderate to high;
+
+Strength of recommendation: strong).
+
+Qualifying statements:
+
+• Recommendation 1.1 is based on results from the IMbrave150 phase III RCT12 comparison of atezo 1 bev to sorafenib
+
+(HR for OS, 0.58; 95% CI, 0.42 to 0.79; P 5 .0006) in Child-Pugh class A patients. Caution should be exercised when
+
+applying these results to patients with more advanced liver disease who have a greater likelihood of portal hypertension
+
+because of the risk of bleeding complications associated with bevacizumab.
+
+• Due to risk of bleeding, patients in this trial were required to have undergone esophagogastroduodenoscopy (EGD)
+
+within 6 months of trial initiation and to have received treatment of esophageal varices when necessary.14 The Expert
+
+Panel recognizes that some patients may have been evaluated for varices outside the 6-month window, are receiving
+
+treatment (eg, adequately dosed nonselective b-blockers), and/or are deemed to be low risk for variceal bleed by
+
+a hepatology specialist. In these patients, the decision to forgo an EGD prior to initiation of therapy with atezo 1 bev may
+
+be carefully considered.
+
+• Patients who had a myocardial infarction or stroke within the previous 3 months, had a history of autoimmune disease,
+
+were on therapeutic anticoagulation, or had coinfection with HBV and HCV were also excluded from the IMbrave150
+
+RCT.
+
+Recommendation 1.2. Where there are contraindications to atezolizumab and/or bevacizumab, tyrosine kinase inhibitors
+
+(TKIs) sorafenib or lenvatinib may be offered as ﬁrst-line treatment of patients with advanced HCC, Child-Pugh class A, and
+
+ECOG PS 0-1 (Type of recommendation: evidence based, beneﬁts outweigh harms; Evidence quality: moderate; Strength of
+
+recommendation: strong).
+
+Qualifying statements:
+
+• Treatment with recommended TKIs may be less effective for patients with more advanced liver cirrhosis. Careful patient
+
+selection is recommended.
+
+• The choice of treatment with lenvatinib or sorafenib should be made through a discussion involving the physician and
+
+patient (and caregiver, where applicable) and should include factors such as medical history, viral etiology of liver
+
+disease, toxicities associated with treatment, cost, goals of treatment, patient preference, and expected treatment
+
+beneﬁt. Factors affecting this choice, including response rates, are discussed further in the Clinical Interpretation.
+
+• Several meta-analyses of RCTs have shown sorafenib to be more beneﬁcial in patients with HCV, especially as
+
+compared with patients with HBV.15-17 In the REFLECT trial, there was a trend toward improvements across endpoints
+
+for lenvatinib over sorafenib in the HBV subgroup, though it was not signiﬁcant.18
+
+• Patients with a high tumor burden, . 50% liver involvement, or those with main portal vein invasion were excluded from
+
+the REFLECT trial of sorafenib versus lenvatinib.19
+
+(continued on following page)
+
+4318 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+HCC was diagnosed at an advanced, incurable stage and
+
+had a poor prognosis due to the palliative nature of available
+
+systemic and local therapies.8 Trials of systemic therapy for
+
+advanced HCC failed to show improved outcomes until the
+
+advent of the tyrosine kinase inhibitor (TKI) sorafenib,9 fol-
+
+lowed by randomized controlled trials (RCTs) published in
+
+2008 and 2009 demonstrating a survival beneﬁt with sor-
+
+afenib versus placebo.9,10 Following the availability of sor-
+
+afenib, no further effective systemic therapy options were
+
+identiﬁed for almost a decade. In recent years, however,
+
+several newer systemic therapy options have shown efﬁcacy
+
+in the ﬁrst- and second-line settings. Most recently, evidence
+
+of the effectiveness of combination therapy has also been
+
+reported.11-13 This guideline incorporates the evidence for
+
+systemic therapy options for patients with advanced HCC to
+
+provide recommendations to clinicians who are treating
+
+patients within the target population.
+
+GUIDELINE QUESTIONS
+
+This clinical practice guideline addresses the follow-
+
+ing clinical question: What are the preferred sys-
+
+temic treatment options for ﬁrst-line and subsequent
+
+systemic therapy for patients with advanced hepatocellular
+
+carcinoma?
+
+METHODS
+
+Guideline Development Process
+
+This systematic review-based guideline was developed by
+
+a multidisciplinary Expert Panel, which included a patient
+
+representative and an ASCO guidelines staff member with
+
+health research methodology expertise. The Expert Panel
+
+met via teleconference and/or webinar and corresponded
+
+through e-mail (Appendix Table A1, online only). Based
+
+upon the consideration of the evidence, the authors were
+
+asked to contribute to the development of the guideline,
+
+provide critical review, and ﬁnalize the guideline recom-
+
+mendations. The guideline recommendations were sent for
+
+an open comment period of 2 weeks, allowing the public to
+
+review and comment on the recommendations after sub-
+
+mitting a conﬁdentiality agreement. These comments were
+
+taken into consideration while ﬁnalizing the recommen-
+
+dations. Members of the Expert Panel were responsible for
+
+reviewing and approving the penultimate version of the
+
+guideline, which was then circulated for external review and
+
+THE BOTTOM LINE (CONTINUED)
+
+Second-Line Therapy
+
+Recommendation 2.1. Following ﬁrst-line treatment with atezo 1 bev, second-line therapy with a TKI (ie, sorafenib, lenvatinib,
+
+cabozantinib, or regorafenib) may be recommended (Type: informal consensus, beneﬁts may outweigh harms; Evidence
+
+quality: low; Strength of recommendation: weak).
+
+Qualifying statement:
+
+• No data have been published on therapy options after ﬁrst-line treatment with atezo 1 bev. It is the opinion of the Expert
+
+Panel that a TKI, preferably sorafenib or lenvatinib, may be offered. Cabozantinib or regorafenib are also reasonable
+
+options for second-line therapy following atezo 1 bev.
+
+Recommendation 2.2. Following ﬁrst-line therapy with sorafenib or lenvatinib, second-line therapy with another TKI
+
+(cabozantinib or regorafenib), ramucirumab (AFP $ 400 ng/mL), or atezo 1 bev may be recommended for appropriate
+
+candidates. Considerations regarding choice of therapy are included in the Clinical Interpretation (Type: informal consensus,
+
+beneﬁts may outweigh harms; Evidence quality: low to moderate; Strength of recommendation: weak).
+
+Qualifying statement:
+
+• It is likely that most patients being considered for atezo 1 bev in the second-line setting did not have access to this
+
+combination when they started ﬁrst-line treatment.
+
+Recommendation 2.3. Following ﬁrst-line therapy with sorafenib or lenvatinib, pembrolizumab or nivolumab are reasonable
+
+options that may be considered for appropriate candidates (Type: informal consensus, beneﬁts may outweigh harms; Ev-
+
+idence quality: low; Strength of recommendation: weak).
+
+Qualifying statement:
+
+• Immune checkpoint inhibitors pembrolizumab or nivolumab may be especially beneﬁcial for patients who have
+
+contraindications to or cannot tolerate TKIs.
+
+Additional Resources
+
+More information, including a supplement with additional evidence tables, slide sets, and clinical tools and resources, is
+
+available at www.asco.org/gastrointestinal-cancer-guidelines. The Methodology Manual (available at www.asco.org/guideline-
+
+methodology) provides additional information about the methods used to develop this guideline. Patient information is
+
+available at www.cancer.net
+
+ASCO believes that cancer clinical trials are vital to inform medical decisions and improve cancer care, and that all patients
+
+should have the opportunity to participate.
+
+Journal of Clinical Oncology
+
+4319
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+submitted to Journal of Clinical Oncology for editorial review
+
+and consideration for publication. All ASCO guidelines are
+
+ultimately reviewed and approved by the Expert Panel and
+
+the ASCO Clinical Practice Guidelines Committee prior to
+
+publication. All funding for the administration of the project
+
+was provided by ASCO.
+
+A systematic search was conducted of PubMed for phase
+
+III RCTs published between January 1, 2007 and May 15,
+
+2020. Articles were selected for inclusion in the sys-
+
+tematic review of the evidence based on the following
+
+criteria:
+
+• Population: Patients with unresectable advanced he-
+
+patocellular carcinoma, including patients who are no
+
+longer candidates for surgical or liver-directed thera-
+
+pies (ie, patients with characteristics such as multifocal
+
+and/or inﬁltrative disease within the liver, vascular
+
+invasion, or extrahepatic spread).
+
+• Intervention: First-line or greater-line (due to pro-
+
+gression or toxicity) systemic therapy with TKIs,
+
+including sorafenib, regorafenib, lenvatinib, and
+
+cabozantinib; immune checkpoint inhibitors (ICIs), in-
+
+cluding atezolizumab, nivolumab, pembrolizumab,
+
+and ipilimumab; and/or antiangiogenic agents, in-
+
+cluding bevacizumab and ramucirumab (in patients
+
+with a-fetoprotein [AFP] $ 400 ng/mL), including
+
+combinations of selected agents.
+
+• Comparison: Interventions listed or placebo control.
+
+• Outcomes: Overall survival (OS), progression-free
+
+survival (PFS), time to progression, objective response
+
+rate (ORR), rate of drug discontinuation, adverse
+
+events, quality of life.
+
+Articles were excluded from the systematic review if they
+
+were (1) meeting abstracts not subsequently published in
+
+peer-reviewed journals within a 2-year time frame; (2)
+
+editorials, commentaries, letters, news articles, case re-
+
+ports, narrative reviews; or (3) published in a non-English
+
+language, given the conﬁned medical language expertise of
+
+the panel members. The guideline recommendation lan-
+
+guage is crafted, in part, using the Guidelines Into Deci-
+
+sion Support (GLIDES) methodology and accompanying
+
+BRIDGE-Wiz software.20 In addition, a guideline imple-
+
+mentability review was conducted. Based on the imple-
+
+mentability review, revisions were made to the draft to
+
+clarify recommended actions for clinical practice. Ratings
+
+for the type and strength of recommendation and evidence
+
+quality are provided with each recommendation. Certainty
+
+of the evidence (ie, evidence quality) for each outcome was
+
+assessed using the Cochrane Risk of Bias tool and ele-
+
+ments of the Grading of Recommendations Assessment,
+
+Development and Evaluation (GRADE) quality assessment
+
+and recommendations development process.21 To facilitate
+
+the quality assessment ratings, MAGICApp guideline de-
+
+velopment software was used; within this framework,
+
+outcomes from RCTs are rated high quality and can sub-
+
+sequently be downgraded as factors that affect quality (ie,
+
+certainty) are identiﬁed.22 GRADE quality assessment la-
+
+bels (ie, high, moderate, low, very low) were assigned for
+
+each outcome by the project methodologist in collaboration
+
+with the Expert Panel co-chairs and reviewed by the full
+
+Expert Panel. Relative risk values were calculated using
+
+Review Manager 5.3.
+
+The ASCO Expert Panel and guidelines staff will work with
+
+the co-chairs to monitor emerging literature requiring up-
+
+dates to the guidelines. The ASCO Guidelines Methodology
+
+Manual (available at www.asco.org/guideline-methodology)
+
+provides additional information about the guideline update
+
+process. This is the most recent information as of the
+
+publication date.
+
+Guideline Disclaimer
+
+The Clinical Practice Guidelines and other guidance
+
+published herein are provided by the American Society of
+
+Clinical Oncology, Inc. (ASCO) to assist providers in clinical
+
+decision making. The information herein should not be
+
+relied upon as being complete or accurate, nor should it be
+
+considered as inclusive of all proper treatments or methods
+
+of care or as a statement of the standard of care. With the
+
+rapid development of scientiﬁc knowledge, new evidence
+
+may emerge between the time information is developed
+
+and when it is published or read. The information is not
+
+continually updated and may not reﬂect the most recent
+
+evidence. The information addresses only the topics spe-
+
+ciﬁcally identiﬁed therein and is not applicable to other
+
+interventions, diseases, or stages of diseases. This in-
+
+formation does not mandate any particular course of
+
+medical care. Further, the information is not intended to
+
+substitute for the independent professional judgment of the
+
+treating provider, as the information does not account for
+
+individual variation among patients. Recommendations
+
+reﬂect high, moderate, or low conﬁdence that the rec-
+
+ommendation reﬂects the net effect of a given course of
+
+action. The use of words like “must,” “must not,” “should,”
+
+and “should not” indicates that a course of action is rec-
+
+ommended or not recommended for either most or many
+
+patients, but there is latitude for the treating physician to
+
+select other courses of action in individual cases. In all
+
+cases, the selected course of action should be considered
+
+by the treating provider in the context of treating the in-
+
+dividual patient. Use of the information is voluntary. ASCO
+
+provides this information on an “as is” basis and makes no
+
+warranty, express or implied, regarding the information.
+
+ASCO speciﬁcally disclaims any warranties of merchant-
+
+ability or ﬁtness for a particular use or purpose. ASCO
+
+assumes no responsibility for any injury or damage to
+
+persons or property arising out of or related to any use of this
+
+information, or for any errors or omissions.
+
+Guideline and Conﬂicts of Interest
+
+The Expert Panel was assembled in accordance with
+
+ASCO’s Conﬂict of Interest Policy Implementation for
+
+Clinical Practice Guidelines (“Policy,” found at http://
+
+4320 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+www.asco.org/rwc). All members of the Expert Panel
+
+completed ASCO’s disclosure form, which requires dis-
+
+closure of ﬁnancial and other interests, including re-
+
+lationships with commercial entities that are reasonably
+
+likely to experience direct regulatory or commercial impact
+
+as a result of promulgation of the guideline. Categories for
+
+disclosure include employment; leadership; stock or other
+
+ownership; honoraria, consulting or advisory role; speaker’s
+
+bureau; research funding; patents, royalties, other in-
+
+tellectual property; expert testimony; travel, accommoda-
+
+tions, expenses; and other relationships. In accordance
+
+with the Policy, the majority of the members of the Expert
+
+Panel did not disclose any relationships constituting
+
+a conﬂict under the Policy.
+
+RESULTS
+
+Nine phase III RCTs met the inclusion criteria, of which
+
+eight were fully published10,12,18,23-27 and one was pre-
+
+sented as an abstract.28
+
+First-Line Therapy, Full Text Articles
+
+Four of the identiﬁed trials assessed systemic therapy
+
+options in the ﬁrst-line setting, including two trials of sor-
+
+afenib compared with placebo, one trial of lenvatinib
+
+compared with sorafenib, and one trial of atezolizumab-
+
+bevacizumab (atezo 1 bev) compared with sorafenib.
+
+Across these four studies, patients were predominantly
+
+male ($ 84%). Underlying causes of liver disease included
+
+HBV, HCV, alcohol, and other or unknown. Most patients
+
+had advanced (Barcelona Clinic Liver Cancer [BCLC] stage
+
+C; range, 78%-96% across experimental and control
+
+groups) or intermediate stage HCC (BCLC stage B; range,
+
+15%-22%). Macrovascular invasion and/or extrahepatic
+
+spread was present in 69%-79% across study groups.
+
+Virtually all patients had Child-Pugh class A liver disease ($
+
+95% of patients), indicating better prognosis, and Eastern
+
+Cooperative Oncology Group Performance Status (ECOG
+
+PS) 0-1 (good functional status). Additional descriptions for
+
+each study are included below, and additional patient
+
+characteristics, including reported AFP levels, involved
+
+disease sites, and previous treatment are included in
+
+Table 1.
+
+Sorafenib Versus Placebo
+
+The study by Llovet et al (SHARP)25 included 602 patients
+
+with advanced HCC who were not eligible for or who had
+
+disease progression after local therapies. Patients were from
+
+centers mostly located in Europe and Australasia (88%). The
+
+most common liver disease etiologies across the study
+
+population were HCV (28%), HBV (19%), or alcohol (26%).
+
+The trial was stopped early after an interim analysis detected
+
+a signiﬁcant OS advantage for sorafenib. The smaller study
+
+by Cheng et al (Asia-Paciﬁc)10 (N 5 271) was subsequently
+
+performed to conﬁrm the former study’s results in an Asian
+
+population (China, South Korea, Taiwan); the cause of liver
+
+disease in this study was HBV in the majority of patients
+
+(71% of sorafenib-treated patients and 78% of placebo-
+
+treated patients; Tables 2 and 3). These patients were also
+
+more likely to have extrahepatic spread and/or macro-
+
+vascular invasion compared with Llovet et al25 (79% v 70%,
+
+respectively), and their median age was 52 years, compared
+
+with median age of 65 years in the SHARP trial.
+
+Both studies reported signiﬁcantly better OS with sorafenib,
+
+compared with placebo, with similar hazard ratios for Llovet
+
+et al25 and Cheng et al10: 0.69 (95% CI, 0.55 to 0.87) and
+
+0.68 (95% CI, 0.50 to 0.93), respectively. Both studies also
+
+reported a signiﬁcant beneﬁt for sorafenib over placebo in
+
+time to progression measured by RECIST and stable dis-
+
+ease, but no difference in symptomatic time to progression,
+
+which was the coprimary endpoint along with OS in the trial
+
+by Llovet et al.25 Median survival time in both experimental
+
+and control groups was lower in the Asia-Paciﬁc trial, po-
+
+tentially due to patient characteristics (Table 1). Adverse
+
+events were similar across trials, with patients treated with
+
+sorafenib more likely to report hand-foot skin reaction
+
+(HFSR), diarrhea, alopecia, fatigue, rash or desquamation,
+
+hypertension, and anorexia (Table 4).
+
+Lenvatinib Versus Sorafenib
+
+In 2018, Kudo et al (REFLECT)18 published the results of
+
+a multisite global 954-patient RCT of sorafenib versus
+
+lenvatinib. Patients were from the Western region (33%; ie,
+
+Europe, North America, Israel, and Russia) or Asia-Paciﬁc
+
+region (67%; ie, China, Hong Kong, Japan, South Korea,
+
+Malaysia, Philippines, Singapore, Taiwan, and Thailand).
+
+The underlying cause of HCC (lenvatinib v sorafenib, re-
+
+spectively) was HBV (53% v 48%) or HCV (19% v 26%),
+
+with a minority attributable to alcohol (8% v 4%). Greater
+
+than 50% liver involvement and main portal vein invasion
+
+were exclusion criteria for this trial. Additional patient
+
+characteristics are included in Table 1.
+
+There was no signiﬁcant difference in OS between groups
+
+(hazard ratio [HR], 0.92; 95% CI, 0.79 to 1.06), indicating
+
+the noninferiority of lenvatinib compared with sorafenib.
+
+PFS (HR, 0.64; 95% CI, 0.55 to 0.76) and ORRs (HR, 5.01;
+
+95% CI, 3.59 to 7.01) were signiﬁcantly higher in the
+
+lenvatinib group (Table 5). Adverse events for lenvatinib
+
+versus sorafenib included HFSR (grade $ 3: 3% v 11%),
+
+diarrhea (any grade: 39% v 46%), alopecia (any grade:
+
+3% v 25%) hypertension (grade $ 3: 23% v 14%), pro-
+
+teinuria (grade $ 3: 6% v 2%), dysphonia (any grade:
+
+24% v 12%), and hypothyroidism (any grade: 16% v 2%).
+
+Patients in the lenvatinib group were more likely to dis-
+
+continue treatment due to adverse events (relative risk
+
+[RR], 1.46; 95% CI, 1.01 to 2.1; Table 4). Median duration
+
+of treatment was 5.7 months versus 3.7 months in the
+
+lenvatinib and sorafenib groups.
+
+Atezo 1 Bev Versus Sorafenib
+
+The IMbrave150 trial randomly assigned 336 patients to
+
+treatment with atezo 1 bev and 165 patients to sorafenib.12
+
+Patients were from Asia, excluding Japan (40%), and the
+
+Journal of Clinical Oncology
+
+4321
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+TABLE 1. Phase III RCTs of First-Line Systemic Therapy for Advanced HCC
+
+Llovet et al (2008)25
+
+Cheng et al (2009)10
+
+Kudo et al (2018)18
+
+Finn et al (2020)12
+
+Variable
+
+Sorafenib
+
+(400 mg twice
+
+daily) 1 BSC
+
+(n 5 299)
+
+Matching
+
+Placebo 1 BSC
+
+(n 5 303)
+
+Sorafenib
+
+(400 mg twice
+
+daily; n 5 150)
+
+Matching
+
+Placebo
+
+(n 5 76)
+
+Lenvatinib
+
+(12 mg/d for ‡ 60 kg
+
+patients, 8 mg/d for &lt; 60 kg
+
+patients, orally, 28-day
+
+cycles; n 5 478)
+
+Sorafenib (400 mg
+
+twice daily, 28-day
+
+cycles; n 5 476)
+
+Atezolizumab
+
+(1,200 mg IV once
+
+every 3 weeks) 1
+
+Bevacizumab (15 mg/kg
+
+IV once every 3 weeks;
+
+n 5 336)
+
+Sorafenib
+
+(400 mg twice
+
+daily; n 5 165)
+
+Median age, years, 6 SD,
+
+(range) or (IQR)
+
+64.9 6 11.2
+
+66.3 6 10.2
+
+51 (23-86)
+
+52 (25-79)
+
+63 (20-88)
+
+62 (22-88)
+
+64 (IQR, 56-71)
+
+66 (IQR, 59-71)
+
+Sex
+
+Male
+
+87
+
+87
+
+85
+
+87
+
+85
+
+84
+
+82
+
+83
+
+Female
+
+13
+
+13
+
+15
+
+13
+
+15
+
+16
+
+18
+
+17
+
+Region
+
+Europe and
+
+Australasia
+
+88
+
+87
+
+US, Australia, NZ, Japan: 60
+
+59
+
+North America
+
+9
+
+10
+
+Western
+
+33
+
+33
+
+Asia-Paciﬁc
+
+100% China, South Korea,
+
+Taiwan
+
+67
+
+67
+
+Asia (excluding Japan): 40
+
+41
+
+Central and South
+
+America
+
+3
+
+4
+
+Disease etiology
+
+Hepatitis C
+
+29
+
+27
+
+11
+
+4
+
+19
+
+26
+
+21
+
+22
+
+Hepatitis B
+
+19
+
+18
+
+71
+
+78
+
+53
+
+48
+
+49
+
+46
+
+Alcohol only
+
+26
+
+26
+
+8
+
+4
+
+30
+
+32
+
+Unknown
+
+16
+
+19
+
+13
+
+14
+
+Other
+
+9
+
+10
+
+8
+
+7
+
+ECOG PS
+
+0
+
+54
+
+54
+
+25
+
+28
+
+64
+
+63
+
+62
+
+62
+
+1
+
+38
+
+39
+
+69
+
+67
+
+36
+
+37
+
+38
+
+38
+
+2
+
+8
+
+7
+
+5
+
+5
+
+0
+
+0
+
+0
+
+0
+
+BCLC stage
+
+A (early)
+
+2
+
+4
+
+B (intermediate)
+
+18
+
+17
+
+22
+
+19
+
+15
+
+16
+
+C (advanced)
+
+82
+
+83
+
+95
+
+96
+
+78
+
+81
+
+82
+
+81
+
+(continued on following page)
+
+4322 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+TABLE 1. Phase III RCTs of First-Line Systemic Therapy for Advanced HCC (continued)
+
+Llovet et al (2008)25
+
+Cheng et al (2009)10
+
+Kudo et al (2018)18
+
+Finn et al (2020)12
+
+Variable
+
+Sorafenib
+
+(400 mg twice
+
+daily) 1 BSC
+
+(n 5 299)
+
+Matching
+
+Placebo 1 BSC
+
+(n 5 303)
+
+Sorafenib
+
+(400 mg twice
+
+daily; n 5 150)
+
+Matching
+
+Placebo
+
+(n 5 76)
+
+Lenvatinib
+
+(12 mg/d for ‡ 60 kg
+
+patients, 8 mg/d for &lt; 60 kg
+
+patients, orally, 28-day
+
+cycles; n 5 478)
+
+Sorafenib (400 mg
+
+twice daily, 28-day
+
+cycles; n 5 476)
+
+Atezolizumab
+
+(1,200 mg IV once
+
+every 3 weeks) 1
+
+Bevacizumab (15 mg/kg
+
+IV once every 3 weeks;
+
+n 5 336)
+
+Sorafenib
+
+(400 mg twice
+
+daily; n 5 165)
+
+MVI hepatic and/or
+
+portal vein (yes)
+
+36
+
+41
+
+36
+
+34
+
+23 (portal vein)
+
+19 (portal vein)
+
+38
+
+43
+
+EH spread (yes)
+
+53
+
+50
+
+69
+
+68
+
+61
+
+62
+
+63
+
+56
+
+Lymph nodes
+
+30
+
+21
+
+31
+
+34
+
+Lungs
+
+22
+
+19
+
+52
+
+45
+
+MVI or EH spread or
+
+both (yes)
+
+70
+
+70
+
+79
+
+69
+
+71
+
+77
+
+73
+
+Child-Pugh class
+
+A
+
+95
+
+98
+
+97
+
+97
+
+99
+
+99
+
+A5: 72
+
+A5: 73
+
+A6: 28
+
+A6: 27
+
+B
+
+5
+
+2
+
+3
+
+3
+
+1
+
+1
+
+AFP, ng/mL
+
+Median
+
+44.3
+
+99.0
+
+133.1
+
+71.2
+
+Range
+
+0-208 3 104
+
+0-5 3 105
+
+IQR, 8.0-3,730.6
+
+5.2-1,081.8
+
+AFP . ULN (laboratory)
+
+77
+
+78
+
+$ 400 ng/mL
+
+38
+
+37
+
+Involved disease sites
+
+Liver
+
+92
+
+90
+
+Lung
+
+34
+
+30
+
+No. of tumor sites
+
+1
+
+13
+
+7
+
+43
+
+43
+
+2
+
+35
+
+36
+
+35
+
+38
+
+3
+
+20
+
+18
+
+22 ($ 3 sites)
+
+18 ($ 3 sites)
+
+$ 4
+
+32
+
+40
+
+Concomitant hepatitis
+
+B or C antiviral therapy
+
+2
+
+1
+
+34
+
+31
+
+Varices
+
+Present at baseline
+
+26
+
+26
+
+Treated at baseline
+
+11
+
+14
+
+(continued on following page)
+
+Journal of Clinical Oncology
+
+4323
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+TABLE 1. Phase III RCTs of First-Line Systemic Therapy for Advanced HCC (continued)
+
+Llovet et al (2008)25
+
+Cheng et al (2009)10
+
+Kudo et al (2018)18
+
+Finn et al (2020)12
+
+Variable
+
+Sorafenib
+
+(400 mg twice
+
+daily) 1 BSC
+
+(n 5 299)
+
+Matching
+
+Placebo 1 BSC
+
+(n 5 303)
+
+Sorafenib
+
+(400 mg twice
+
+daily; n 5 150)
+
+Matching
+
+Placebo
+
+(n 5 76)
+
+Lenvatinib
+
+(12 mg/d for ‡ 60 kg
+
+patients, 8 mg/d for &lt; 60 kg
+
+patients, orally, 28-day
+
+cycles; n 5 478)
+
+Sorafenib (400 mg
+
+twice daily, 28-day
+
+cycles; n 5 476)
+
+Atezolizumab
+
+(1,200 mg IV once
+
+every 3 weeks) 1
+
+Bevacizumab (15 mg/kg
+
+IV once every 3 weeks;
+
+n 5 336)
+
+Sorafenib
+
+(400 mg twice
+
+daily; n 5 165)
+
+Previous therapy
+
+Anticancer procedures
+
+68
+
+72
+
+48
+
+52
+
+Radiotherapy
+
+4
+
+5
+
+10
+
+13
+
+Surgical resection
+
+19
+
+20
+
+Other locoregional
+
+therapy (TACE, PEI,
+
+radiofrequency ablation)
+
+44
+
+40
+
+Systemic anticancer
+
+therapy
+
+3
+
+3
+
+0
+
+0
+
+NOTE. Data are presented as % unless otherwise noted.
+
+Abbreviations: AFP, a-fetoprotein; BCLC, Barcelona Clinic Liver Cancer staging; BSC, best supportive care; ECOG PS, Eastern Cooperative Oncology Group Performance Status; EH, extrahepatic; IQR,
+
+interquartile range; IV, intravenous; MVI, macrovascular invasion; NZ, New Zealand; PEI, percutaneous ethanol injection; SD, standard deviation; TACE, transarterial chemoembolization; ULN, upper limit of
+
+normal.
+
+4324 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+United States, Australia, New Zealand, or Japan (60%).
+
+The underlying cause of HCC was HBV (48%), or HCV
+
+(22%), with the remainder attributable to nonviral causes.
+
+All patients underwent screening for varices prior to initi-
+
+ating study treatment. Twenty-six percent had varices at
+
+baseline, and 11% in the treatment and 14% in the control
+
+groups underwent treatment. Approximately half of patients
+
+had received prior local therapy for HCC. Additional patient
+
+characteristics are included in Table 1.
+
+Results for OS signiﬁcantly favored atezo 1 bev compared
+
+with sorafenib, with an HR of 0.58 (95% CI, 0.42 to 0.79).
+
+Median OS was 13.2 months (95% CI, 10.4 to not eval-
+
+uated) in the sorafenib group and could not be evaluated in
+
+the atezo 1 bev group. PFS (HR, 0.59; 95% CI, 0.47 to
+
+0.76) and ORR (RECIST 1.1; odds ratio, 5.01; 95% CI, 3.59
+
+to 7.01) were signiﬁcantly improved in the atezo 1 bev
+
+group. Grade 3-4 adverse events for atezo 1 bev versus
+
+sorafenib included HFSR (0% v 8%), diarrhea (2% v 5%),
+
+and hypertension (15% v 12%), as well as increases in AST
+
+(7% v 5%) and serum bilirubin (2% v 6%). Patients in the
+
+atezo 1 bev group were more likely than patients in the
+
+sorafenib group to discontinue treatment due to adverse
+
+events (15.5% v 10.3%; Table 6). The HR for OS com-
+
+paring the treatment-emergent antidrug antibody (ADA)-
+
+positive subgroup of the atezo 1 bev arm to sorafenib was
+
+0.93 (95% CI, 0.57 to 1.53). The OS HR comparing the
+
+ADA-negative subgroup to sorafenib was 0.39 (95% CI,
+
+0.26 to 0.60).29 In addition, time to deterioration (TTD) of
+
+quality of life was signiﬁcantly delayed in the atezo 1 bev
+
+group (median TTD, 11.2 months) compared with sor-
+
+afenib (median TTD, 3.6 months).30
+
+First-Line Therapy, Abstracts
+
+Nivolumab Versus Sorafenib. The randomized phase III
+
+multicenter Checkmate 459 study included 743 patients
+
+who received ﬁrst-line therapy with nivolumab (240 mg
+
+intravenously every 2 weeks) or sorafenib (400 mg orally
+
+twice per day).28 Results reported in an abstract showed
+
+that a predeﬁned threshold for signiﬁcance of OS (HR,
+
+0.84; P 5 .0419) was not met; with a minimum follow-up of
+
+22.8 months, HR for OS was 0.85 (95% CI, 0.72 to 1.02;
+
+P 5 .0752). Four percent experienced a complete and
+
+12% experienced a partial response in the nivolumab
+
+group, while in the sorafenib group, 6% experienced
+
+a partial response and 1% experienced a complete re-
+
+sponse. Grade 3 or 4 adverse events related to treatment
+
+were reported in 22% of patients receiving nivolumab and
+
+49% of patients receiving sorafenib.
+
+TABLE 2. Patients With Intermediate (17% BCLC B) or Advanced (83% BCLC C) HCC (Lovet et al)25
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence (quality of
+
+evidence)
+
+Plain Text Summary
+
+Placebo
+
+(comparator)
+
+Sorafenib
+
+(intervention)
+
+Overall survival (primary
+
+outcome)
+
+HR, 0.69 (95% CI, 0.55 to
+
+0.87)
+
+330 deaths per
+
+1,000
+
+241 deaths per
+
+1,000
+
+Moderate (1)
+
+Median overall survival 10.7 v 7.9
+
+months, P , .001
+
+Based on data from 602
+
+patients in one study;
+
+follow-up, 1 year
+
+Difference: 89 fewer per 1,000
+
+(95% CI, 132 fewer to 36 fewer)
+
+Sorafenib probably improves overall
+
+survival (primary outcome)
+
+compared with placebo
+
+Time to radiologic
+
+progression (RECIST)
+
+HR, 0.58 (95% CI, 0.46 to
+
+0.74)
+
+795 progressions
+
+per 1,000
+
+601 progressions
+
+per 1,000
+
+Low (1, 2)
+
+Sorafenib probably improves time to
+
+radiologic progression compared
+
+with placebo
+
+Based on data from 602
+
+patients in one study;
+
+follow-up, 4 months
+
+Difference: 194 fewer per 1,000
+
+(95% CI, 277 fewer to 105 fewer)
+
+Time to symptomatic
+
+progression
+
+(coprimary outcome)
+
+HR, 1.08 (95% CI, 0.89 to
+
+1.31)
+
+518 progressions
+
+per 1,000
+
+545 progressions
+
+per 1,000
+
+Low (1, 2)
+
+Sorafenib may have little or no effect
+
+on symptomatic time to
+
+progression compared with
+
+placebo
+
+Based on data from 602
+
+patients in one study;
+
+follow-up, 4 months
+
+Difference: 27 more per 1,000
+
+(95% CI, 44 fewer to 98 more)
+
+Disease control rate
+
+RR, 1.35 (95% CI, 1.09 to
+
+1.66)
+
+320 per 1,000
+
+432 per 1,000
+
+Moderate (1)
+
+Sorafenib probably improves
+
+disease control rate compared
+
+with placebo
+
+Based on data from 602
+
+patients in one study
+
+Difference: 112 more per 1,000
+
+(95% CI, 29 more to 211 more)
+
+Treatment-related
+
+adverse events
+
+RR, 1.54 (95% CI, 1.36 to
+
+1.74)
+
+520 per 1,000
+
+801 per 1,000
+
+Moderate (1)
+
+Sorafenib probably worsens
+
+treatment-related adverse events
+
+compared with placebo (Table 4)
+
+Based on data from 599
+
+patients in one study
+
+Difference: 281 more per 1,000
+
+(95% CI, 187 more to 385 more)
+
+NOTE. Downgrade: (1) commercially funded (risk of publication bias); (2) inconsistent ﬁndings for symptomatic and radiologic time to progression.
+
+Abbreviations: BCLC, Barcelona Clinic Liver Cancer staging; HR, hazard ratio; RR, relative risk.
+
+Journal of Clinical Oncology
+
+4325
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+Second-Line Therapy, Full Text Articles
+
+Four placebo-controlled multicenter randomized trials
+
+addressed systemic therapy options in the second-line
+
+setting following progression or intolerable toxicity with
+
+sorafenib, including trials of ramucirumab, regorafenib,
+
+cabozantinib, and pembrolizumab.23,24,26,27 No studies
+
+addressing systemic therapy options after lenvatinib or
+
+atezolizumab-bevacizumab met the inclusion criteria for
+
+these guidelines. Across these four studies, the populations
+
+were predominantly male ($ 81%). The underlying cause
+
+of liver disease was most commonly HBV across studies
+
+(range, 35%-38%); other causes included HCV, alcohol,
+
+nonalcoholic steatohepatitis, or other or unknown etiology.
+
+ECOG PS scores were 0-1. Two studies reported BCLC
+
+stage, which was predominantly stage C (advanced; range,
+
+86%-88% across groups) or stage B (intermediate; range,
+
+11%-14%). Macrovascular invasion or extrahepatic spread
+
+was present in 27%-34% and 70%-79% of experimental
+
+and control groups, respectively. Virtually all included
+
+patients had Child-Pugh class A liver disease. Additional
+
+patient characteristics, including dosing information and
+
+reported AFP levels, are included in Table 7.
+
+Regorafenib Versus Placebo
+
+The study by Bruix et al (RESORCE)24 compared regor-
+
+afenib versus placebo in 573 patients who had previously
+
+TABLE 3. Patients With Advanced (95% BCLC C) HCC (Cheng et al)10
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence (quality of
+
+evidence)
+
+Plain Text Summary
+
+Placebo
+
+(comparator)
+
+Sorafenib
+
+(intervention)
+
+Overall survival
+
+HR, 0.68 (95% CI, 0.5 to
+
+0.93)
+
+633 deaths per
+
+1,000
+
+494 deaths per
+
+1,000
+
+Moderate (1)
+
+Sorafenib probably improves overall
+
+survival compared with placebo
+
+Based on data from 226
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 139 fewer per 1,000
+
+(95% CI, 239 fewer to 27 fewer)
+
+Time to radiologic
+
+progression
+
+(RECIST)
+
+HR, 0.57 (95% CI, 0.42 to
+
+0.79)
+
+895 progressions
+
+per 1,000
+
+723 progressions
+
+per 1,000
+
+Low (1, 2)
+
+Sorafenib probably improves time to
+
+radiologic progression compared
+
+with placebo
+
+Based on data from 226
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 172 fewer per 1,000
+
+(95% CI, 283 fewer to 64 fewer)
+
+Time to symptomatic
+
+progression
+
+HR, 0.9 (95% CI, 0.67 to
+
+1.22)
+
+789 progressions
+
+per 1,000
+
+753 progressions
+
+per 1,000
+
+Low (1, 2)
+
+Sorafenib may have little or no effect
+
+on symptomatic time to
+
+progression compared with
+
+placebo
+
+Based on data from 226
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 36 fewer per 1,000
+
+(95% CI, 142 fewer to 61 more)
+
+Adverse events
+
+RR, 2.11 (95% CI, 1.58 to
+
+2.84)
+
+387 events per
+
+1,000
+
+817 events per
+
+1,000
+
+Moderate (1)
+
+Sorafenib probably worsens adverse
+
+events compared with placebo
+
+(Table 4)
+
+Based on data from 224
+
+patients in one study
+
+Difference: 430 more per 1,000
+
+(95% CI, 224 fewer to 712 more)
+
+NOTE. Downgrade: (1) commercially funded (risk of publication bias); (2) inconsistent ﬁndings for time to radiologic and symptomatic progression.
+
+Abbreviations: BCLC, Barcelona Clinic Liver Cancer staging; HR, hazard ratio; RR, relative risk.
+
+TABLE 4. Grade 3/4 Adverse Events Experienced by $ 5% of Patients in Either Arm of Phase III Trials of First-Line Therapy for Advanced HCC
+
+Comparison
+
+HFSR
+
+Diarrhea
+
+Hyper-
+
+bilirubinemia
+
+Hypertension
+
+AST
+
+Increase
+
+Hypo-
+
+phosphatemia
+
+Alopecia
+
+Proteinuria
+
+Dysphonia
+
+Hypo-
+
+thyroidism
+
+Sorafenib v
+
+placebo 25
+
+8 v , 1
+
+8 v 2
+
+11 v 2
+
+Sorafenib v
+
+placebo10
+
+11 v 0
+
+6 v 0
+
+Lenvatinib v
+
+sorafenib18
+
+Grade 3
+
+or 4: 3
+
+v 11
+
+Any grade:
+
+39 v 46
+
+Grade 3 or 4:
+
+23 v 14
+
+Any grade:
+
+3 v 25
+
+Grade 3 or
+
+4: 6 v 2
+
+Any grade:
+
+24 v 12
+
+Any grade:
+
+16 v 2
+
+Atezo 1 bev v
+
+sorafenib12
+
+0 v 8
+
+2 v 5
+
+2 v 6
+
+15 v 12
+
+7 v 5
+
+NOTE. Data presented as %.
+
+Abbreviations: atezo 1 bev, atezolizumab 1 bevacizumab; HFSR: hand-foot skin reaction.
+
+4326 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+tolerated treatment and experienced radiologically docu-
+
+mented progression with sorafenib. The patient population
+
+was from Asia (38%; ie, China, Japan, South Korea, Sin-
+
+gapore, and Taiwan) or elsewhere (62%). The cause of liver
+
+disease was HBV (38%), HCV (21%), alcohol (25%), or
+
+nonalcoholic steatohepatitis (7%). Twenty-eight percent of
+
+patients had macrovascular invasion, and 72% had ex-
+
+trahepatic spread (70% in the regorafenib group v 76% in
+
+the placebo group). The pattern of progression after sor-
+
+afenib for both treatment and control groups was new
+
+extrahepatic lesion (41%), new intrahepatic lesion (45%),
+
+or both (81%).
+
+OS was signiﬁcantly better with regorafenib com-
+
+pared with placebo (median survival, 10.6 months for
+
+regorafenib v 7.6 months for placebo; HR, 0.63; 95% CI,
+
+0.5 to 0.79; Table 8). Long survival time from start of
+
+treatment with ﬁrst-line sorafenib was noted (regorafenib:
+
+26.0 months; 95% CI, 22.6 to 28.1 months; v placebo:
+
+19.2 months; 95% CI, 16.3 to 22.8 months), indicating
+
+that this was a population with relatively stable disease
+
+and good tolerance to sorafenib.31 Other outcomes, in-
+
+cluding PFS, disease control rate, and ORR, also signif-
+
+icantly favored regorafenib. Adverse events that were
+
+signiﬁcantly more likely to occur with regorafenib were
+
+hypertension (15% v 5%), HFSR (13% v 1%), fatigue
+
+(9% v 5%), and diarrhea (3% v 0%). Seven deaths were
+
+considered by investigators to be due to treatment with
+
+regorafenib.32
+
+TABLE 5. Patients With Intermediate (21% BCLC B) or Advanced (79% BCLC C) Unresectable HCC (Kudo et al)18
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence
+
+(quality of
+
+evidence)
+
+Plain Text Summary
+
+Sorafenib
+
+(comparator)
+
+Lenvatinib
+
+(intervention)
+
+Overall survival
+
+(noninferiority
+
+primary endpoint)
+
+HR, 0.92 (95% CI, 0.79 to 1.06)
+
+731 deaths per
+
+1,000
+
+701 deaths per
+
+1,000
+
+Moderate (1)
+
+Lenvatinib probably has little or no
+
+effect on overall survival
+
+compared with sorafenib
+
+Based on data from 954 patients
+
+in one study; follow-up,
+
+6 months
+
+Difference: 30 fewer per 1,000 (95% CI,
+
+85 fewer to 20 more)
+
+Progression-free
+
+survival
+
+HR, 0.64 (95% CI, 0.55 to 0.76)
+
+197 progressions/
+
+deaths per
+
+1,000
+
+131 progressions/
+
+deaths per
+
+1,000
+
+High (1, 2, 3)
+
+Lenvatinib improves progression-
+
+free survival compared with
+
+sorafenib
+
+Based on data from 954 patients
+
+in one study; follow-up
+
+6 months
+
+Difference: 66 fewer per 1,000 (95% CI,
+
+83 fewer to 43 fewer)
+
+Objective response
+
+rate (mRECIST,
+
+independent
+
+review)
+
+OR, 5.01 (95% CI, 3.59 to 7.01) 124 responses per
+
+1,000
+
+415 responses per
+
+1,000
+
+High (1, 2, 3)
+
+Of 194 responses in the lenvatinib
+
+group, 10 were complete, 184
+
+partial; of 59 responses in the
+
+sorafenib group, 4 were
+
+complete and 55 partial
+
+Based on data from 954 patients
+
+in one study; follow-up,
+
+duration of study
+
+Difference: 291 more per 1,000
+
+(95% CI, 213 more to 374 more)
+
+Lenvatinib improves objective
+
+response rate compared with
+
+sorafenib
+
+Treatment
+
+discontinuation
+
+due to adverse
+
+events
+
+RR, 1.46 (95% CI, 1.01 to 2.1)
+
+73 discontinuation
+
+per 1,000
+
+107
+
+discontinuation
+
+per 1,000
+
+Moderate
+
+(1, 2)
+
+Lenvatinib has more treatment
+
+discontinuations due to adverse
+
+events compared with sorafeniba
+
+Based on data from 951 patients
+
+in one study; follow-up,
+
+duration of study (median
+
+follow-up 27.7 in lenvatinib
+
+group and 27.2 in sorafenib
+
+group)
+
+Difference: 34 more per 1,000 (95% CI,
+
+1 more to 80 more)
+
+Grade $ 3 treatment-
+
+related adverse
+
+events
+
+OR, 1.38 (95% CI, 1.07 to 1.79)
+
+486 per 1,000
+
+671 per 1,000
+
+Moderate
+
+(1, 2)
+
+Lenvatinib may worsen grade $
+
+3 treatment-related adverse
+
+events compared with sorafeniba
+
+(Table 4)
+
+Based on data from 951 patients
+
+in one study
+
+Difference: 185 more per 1,000
+
+(95% CI, 34 more to 384 more)
+
+NOTE. Downgrade: (1) commercially funded (risk of publication bias); (2) study participants and personnel not blinded to study allocation. (3) Upgrade:
+
+large magnitude of effect.
+
+Abbreviations: BCLC, Barcelona Clinic Liver Cancer staging; HR, hazard ratio; mRECIST, modiﬁed RECIST; OR, odds ratio; RR, relative risk.
+
+aThe median duration of lenvatinib treatment was 1.5 times longer than that of sorafenib treatment, which may have contributed to the higher rate of
+
+adverse events in the former group.
+
+Journal of Clinical Oncology
+
+4327
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+TABLE 6. Patients With Early (3% BCLC A), Intermediate (15% BCLC B) or Advanced (82% BCLC C) Unresectable HCC (Finn et al, 2020)12
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence (quality
+
+of evidence)
+
+Plain Text Summary
+
+Sorafenib
+
+(comparator)
+
+Atezo 1 Bev
+
+(intervention)
+
+Overall survival
+
+HR, 0.58 (95% CI, 0.42 to
+
+0.79)
+
+278 deaths per
+
+1,000
+
+172 deaths per
+
+1,000
+
+High (1, 2, 3)
+
+Atezo 1 bev improves overall
+
+survival compared with
+
+sorafenib
+
+Based on data from 501
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 106 fewer per 1,000
+
+(95% CI, 150 fewer to 51 fewer)
+
+Progression-free survival
+
+HR, 0.59 (95% CI, 0.47 to
+
+0.76)
+
+628 progressions/
+
+deaths per
+
+1,000
+
+442 progressions/
+
+deaths per
+
+1,000
+
+High (1, 2, 3)
+
+Atezo 1 bev improves
+
+progression-free survival
+
+compared with sorafenib
+
+Based on data from 501
+
+patients in one study;
+
+median follow-up,
+
+8.6 months
+
+Difference: 186 fewer per 1,000
+
+(95% CI, 256 fewer to 100 fewer)
+
+Objective response rate
+
+(independently assessed
+
+RECIST 1.1)
+
+RR, 2.28 (95% CI, 1.45 to
+
+3.61)
+
+119 responses per
+
+1,000
+
+251 responses per
+
+1,000
+
+Moderate (1, 2)
+
+Atezo 1 bev probably improves
+
+objective response rate
+
+compared with sorafenib
+
+Based on data from 485
+
+patients in one study;
+
+median follow-up,
+
+8.6 months
+
+Difference: 132 more per 1,000
+
+(95% CI, 49 more to 248 more)
+
+Objective response rate
+
+(independently assessed
+
+HCC mRECIST 1.1)
+
+HR, 2.5 (95% CI, 1.63 to
+
+3.83)
+
+133 responses per
+
+1,000
+
+300 responses per
+
+1,000
+
+Moderate (1, 2)
+
+Complete response: atezo 1 bev:
+
+18 (5.5%) v sorafenib: 0; partial
+
+response: atezo 1 bev: 71
+
+(22%) v sorafenib: 19 (12%)
+
+Based on data from 483
+
+patients in one study;
+
+median follow-up,
+
+8.6 months
+
+Difference: 167 more per 1,000
+
+(95% CI, 75 more to 288 more)
+
+Atezo 1 bev probably improves
+
+objective response rate
+
+compared with sorafenib
+
+Disease control rate
+
+(complete response,
+
+partial response and
+
+stable disease)
+
+RR, 1.33 (95% CI, 1.14 to
+
+1.55)
+
+553 disease
+
+controlled per
+
+1,000
+
+657 disease
+
+controlled per
+
+1,000
+
+Moderate (1, 2)
+
+Atezo 1 bev probably improves
+
+disease control rate compared
+
+with sorafenib
+
+Based on data from 485
+
+patients in one study;
+
+median follow-up,
+
+8.6 months
+
+Difference: 104 more per 1,000
+
+(95% CI, 48 more to 160 more)
+
+Grade 3-4 adverse events
+
+RR, 1.03 (95% CI, 0.86 to
+
+1.22)
+
+551 events per
+
+1,000
+
+568 events per
+
+1,000
+
+Moderate (1, 2)
+
+Atezo 1 bev probably has little or
+
+no effect on rate of grade 3-4
+
+adverse events compared with
+
+sorafenib (Table 4)
+
+Based on data from 485
+
+patients in one study;
+
+median follow-up,
+
+8.6 months
+
+Difference: 17 more per 1,000
+
+(95% CI, 77 fewer to 121 more)
+
+Grade 5 adverse events
+
+RR, 0.79 (95% CI, 0.35 to
+
+1.77)
+
+58 events per
+
+1,000
+
+46 events per
+
+1,000
+
+Moderate (1, 2)
+
+Atezo 1 bev probably has little or
+
+no effect on rate of grade 5
+
+adverse events compared with
+
+sorafenib
+
+Based on data from 485
+
+patients in one study;
+
+median follow-up,
+
+8.6 months
+
+Difference: 12 fewer per 1,000
+
+(95% CI, 38 fewer to 45 more)
+
+NOTE. Downgrade: (1) commercially funded (risk of publication bias); (2) study participants and personnel not blinded to study allocation (open-label
+
+design). Upgrade: (3) large magnitude of effect.
+
+Abbreviations: atezo 1 bev, atezolizumab 1 bevacizumab; BCLC, Barcelona Clinic Liver Cancer staging; HCC, hepatocellular carcinoma; HR, hazard ratio;
+
+mRECIST, modiﬁed RECIST; RR, relative risk.
+
+4328 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+TABLE 7. Phase III Randomized Controlled Trials of Second-Line or Third-Line Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Bruix et al (2017)24
+
+Abou-Alfa et al (2018)23
+
+Zhu et al (2019)27
+
+Finn et al (2020)26
+
+Variable
+
+Regorafenib (160 mg daily
+
+for ﬁrst 3 weeks of 4-week
+
+cycle; n 5 379)
+
+Matching
+
+Placebo
+
+(n 5 194)
+
+Cabozantinib
+
+(60 mg daily; n 5 470)
+
+Matching
+
+Placebo (n 5 237)
+
+Ramucirumab (8 mg/kg
+
+IV every 2 weeks; n 5
+
+97)
+
+Matching
+
+Placebo (n 5
+
+95)
+
+Pembrolizumab (200 mg IV every
+
+3 weeks for at least 35 cycles [approx. 2
+
+years]) plus BSC (n 5 278)
+
+Placebo
+
+(saline) 1
+
+BSC
+
+(n 5 135)
+
+Age, median (range)
+
+or (IQR)
+
+64 (54-71)
+
+62 (55-68)
+
+64 (22-86)
+
+64 (24-86)
+
+64 (58-73)
+
+64 (56-71)
+
+67 (18-91)
+
+68 (23-89)
+
+Sex
+
+Male
+
+88
+
+88
+
+81
+
+85
+
+78
+
+83
+
+81
+
+83
+
+Female
+
+12
+
+12
+
+19
+
+15
+
+22
+
+17
+
+19
+
+17
+
+Region
+
+Europe and
+
+Australasia
+
+Rest of world: 62
+
+62
+
+Europe
+
+49
+
+46
+
+35
+
+32
+
+Americas,
+
+Europe,
+
+Australia, Israel
+
+51
+
+53
+
+Asia
+
+38 (China, Japan, South
+
+Korea, Singapore,
+
+Taiwan)
+
+38
+
+25 (Hong Kong, South Korea,
+
+Singapore, Taiwan)
+
+25
+
+W/out Japan: 28;
+
+Japan: 21
+
+W/out Japan:
+
+24; Japan:
+
+19
+
+W/out Japan: 28; Japan: 14
+
+W/out Japan:
+
+23 Japan:
+
+14
+
+Canada/US
+
+23
+
+25
+
+8 (US)
+
+12 (US)
+
+Australia/New
+
+Zealand
+
+3
+
+5
+
+Other
+
+19
+
+19
+
+Disease etiology
+
+Hepatitis C
+
+21
+
+21
+
+24
+
+23
+
+24
+
+29
+
+16 (HCV1)
+
+16 (HCV1)
+
+Alcohol only
+
+24
+
+28
+
+24
+
+16
+
+Hepatitis B
+
+38
+
+38
+
+38
+
+38
+
+36
+
+38
+
+26 (HBV1)
+
+22 (HCV1)
+
+Hepatitis B and
+
+hepatitis C
+
+2
+
+2
+
+Nonalcoholic
+
+steatohepatitis
+
+7
+
+7
+
+9
+
+10
+
+10
+
+4
+
+Unknown
+
+17
+
+16
+
+16
+
+20
+
+Other
+
+7
+
+5
+
+5
+
+7
+
+15
+
+12
+
+Alcohol
+
+24
+
+22
+
+Uninfected with
+
+HBV or HCV
+
+59
+
+63
+
+(continued on following page)
+
+Journal of Clinical Oncology
+
+4329
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+TABLE 7. Phase III Randomized Controlled Trials of Second-Line or Third-Line Systemic Therapy for Advanced Hepatocellular Carcinoma (continued)
+
+Bruix et al (2017)24
+
+Abou-Alfa et al (2018)23
+
+Zhu et al (2019)27
+
+Finn et al (2020)26
+
+Variable
+
+Regorafenib (160 mg daily
+
+for ﬁrst 3 weeks of 4-week
+
+cycle; n 5 379)
+
+Matching
+
+Placebo
+
+(n 5 194)
+
+Cabozantinib
+
+(60 mg daily; n 5 470)
+
+Matching
+
+Placebo (n 5 237)
+
+Ramucirumab (8 mg/kg
+
+IV every 2 weeks; n 5
+
+97)
+
+Matching
+
+Placebo (n 5
+
+95)
+
+Pembrolizumab (200 mg IV every
+
+3 weeks for at least 35 cycles [approx. 2
+
+years]) plus BSC (n 5 278)
+
+Placebo
+
+(saline) 1
+
+BSC
+
+(n 5 135)
+
+ECOG PS
+
+0
+
+65
+
+67
+
+52
+
+55
+
+57
+
+58
+
+58
+
+53
+
+1
+
+35
+
+33
+
+48
+
+45
+
+43
+
+42
+
+42
+
+47
+
+2
+
+0
+
+0
+
+, 1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+BCLC stage
+
+A (early)
+
+, 1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+B (intermediate)
+
+14
+
+11
+
+17
+
+21
+
+20
+
+22
+
+C (advanced)
+
+86
+
+89
+
+83
+
+79
+
+80
+
+79
+
+MVI, hepatic and/or
+
+portal vein (yes)
+
+29
+
+28
+
+27
+
+34
+
+36
+
+35
+
+EH spread (yes)
+
+70
+
+76
+
+79
+
+77
+
+72
+
+74
+
+MVI or EH spread or
+
+both (present)
+
+80
+
+84
+
+85
+
+84
+
+Child-Pugh class
+
+A
+
+98
+
+97
+
+100
+
+100
+
+5 points: 62
+
+5 points: 57
+
+A5: 63
+
+A5: 64
+
+6 points: 38
+
+6 points: 43
+
+A6: 36
+
+A6: 35
+
+B
+
+1
+
+3
+
+0
+
+0
+
+B7: 0.4
+
+B7: 1.5
+
+AFP $ 400 ng/mL
+
+43
+
+45
+
+41
+
+43
+
+100
+
+100
+
+Median AFP (IQR),
+
+ng/mL
+
+3,920 (1,175-20,000)
+
+2,741 (1,178-
+
+11,681)
+
+Previous therapy
+
+Sorafenib
+
+Sorafenib
+
+Sorafenib (, 1% $ 3
+
+previous, 28% 2 previous,
+
+71% 1 previous regimen)
+
+Sorafenib (, 1% $ 3
+
+previous, 26% 2
+
+previous, 73% 1 previous
+
+regimen)
+
+In addition to sorafenib:
+
+In addition to
+
+sorafenib:
+
+Sorafenib
+
+Sorafenib
+
+Surgery: 44
+
+Surgery: 41
+
+RT: 18
+
+RT: 20
+
+NOTE. Data are presented as % unless otherwise noted.
+
+Abbreviations: AFP, a-fetoprotein; BCLC, Barcelona Clinic Liver Cancer staging; BSC, best supportive care; ECOG PS, Eastern Cooperative Oncology Group Performance Status; EH, extrahepatic; HBV,
+
+hepatitis B virus; HCC, hepatocellular carcinoma; HCV, hepatitis C virus; IQR, interquartile range; MVI, macrovascular invasion.
+
+4330 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+Cabozantinib Versus Placebo
+
+The study by Abou-Alfa et al (CELESTIAL)23 compared
+
+cabozantinib to placebo in 707 patients who had previously
+
+received treatment with one regimen of sorafenib (71%-
+
+73%) or up to two previous systemic treatment regimens
+
+(26%-28%) and were not considered amenable to curative
+
+treatment. The patient population was from Europe (48%),
+
+Asia (25%; ie, Hong Kong, South Korea, Singapore, and
+
+Taiwan), Canada/United States (24%), and Australia/New
+
+Zealand (4%). Cases were attributed to HBV (38%), HCV
+
+(24%), alcohol (24% in the cabozantinib group, 16% in the
+
+placebo group), nonalcoholic steatohepatitis (10%), or
+
+TABLE 8. Patients With Intermediate (13% BCLC B) or Advanced (83% BCLC C) HCC Experiencing Disease Progression While Receiving Sorafenib (Bruix et
+
+al, 2017)24
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence (quality
+
+of evidence)
+
+Plain Text Summary
+
+Placebo
+
+(comparator)
+
+Regorafenib
+
+(intervention)
+
+Overall survival (primary
+
+outcome)
+
+HR, 0.63 (95% CI, 0.5 to
+
+0.79)
+
+720 deaths per
+
+1,000
+
+552 deaths per
+
+1,000
+
+High (1, 2, 3)
+
+Median overall survival: 10.6 for
+
+regorafenib v 7.6 for placebo
+
+Based on data from 573
+
+patients in one study;
+
+follow-up, median
+
+7 months
+
+Difference: 168 fewer per 1,000
+
+(95% CI, 249 fewer to 86 fewer)
+
+Regorafenib improves overall
+
+survival (primary outcome)
+
+compared with placebo
+
+Progression-free survival
+
+HR, 0.43 (95% CI, 0.35 to
+
+0.52)
+
+918 progressions/
+
+deaths per
+
+1,000
+
+641 progressions/
+
+deaths per
+
+1,000
+
+High (1, 2, 3)
+
+Regorafenib improves progression-
+
+free survival compared with
+
+placebo
+
+Based on data from 573
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 277 fewer per 1,000
+
+(95% CI, 345 fewer to 197 fewer)
+
+Disease control rate
+
+(response or stable
+
+disease maintained for at
+
+least 6 weeks)
+
+RR, 1.81 (95% CI, 1.48 to
+
+2.21)
+
+360 per 1,000
+
+652 per 1,000
+
+Moderate (1, 2)
+
+Regorafenib probably improves
+
+disease control rate compared
+
+with placebo
+
+Based on data from 573
+
+patients in one study
+
+Difference: 292 more per 1,000
+
+(95% CI, 173 more to 436 more)
+
+Objective response rate
+
+(investigator-assessed
+
+HCC mRECIST)
+
+RR, 2.56 (95% CI, 1.22 to
+
+5.36)
+
+40 per 1,000
+
+102 per 1,000
+
+Moderate (1, 2)
+
+Regorafenib probably improves
+
+objective response rate
+
+compared with placebo
+
+Based on data from 573
+
+patients in one study;
+
+follow-up, until
+
+discontinuation
+
+Difference: 62 more per 1,000
+
+(95% CI, 9 more to 174 more)
+
+Serious adverse events
+
+attributed to study drug
+
+RR, 4.03 (95% CI, 1.61 to
+
+10.05)
+
+30 per 1,000
+
+121 per 1,000
+
+Moderate (1, 2)
+
+Regorafenib probably worsens
+
+serious adverse events attributed
+
+to study drug compared with
+
+placebo
+
+Based on data from 567
+
+patients in one study;
+
+follow-up, continuous
+
+monitoring
+
+Difference: 91 more per 1,000
+
+(95% CI, 18 more to 272 more)
+
+Drug-related adverse
+
+events leading to
+
+interruptions or dose
+
+reductions
+
+RR, 5.21 (95% CI, 3.41 to
+
+7.98)
+
+100 per 1,000
+
+521 per 1,000
+
+High (1, 2, 3)
+
+Regorafenib worsens drug-related
+
+adverse events leading to
+
+interruptions or dose reductions
+
+compared with placebo
+
+Based on data from 567
+
+patients in one study;
+
+follow-up, continuous
+
+monitoring
+
+Difference: 421 more per 1,000
+
+(95% CI, 241 more to 697 more)
+
+Drug-related adverse
+
+events leading to
+
+discontinuation
+
+RR, 2.88 (95% CI, 1.31 to
+
+6.31)
+
+40 per 1,000
+
+115 per 1,000
+
+Moderate (1, 2)
+
+Regorafenib probably worsens
+
+drug-related adverse events
+
+leading to discontinuation
+
+compared with placebo
+
+Based on data from 567
+
+patients in one study;
+
+follow-up, continuous
+
+monitoring
+
+Difference: 75 more per 1,000
+
+(95% CI, 12 more to 212 more)
+
+NOTE. Downgrade: (1) indirectness: patient population tolerant of ﬁrst-line sorafenib; (2) commercially funded (risk of publication bias). Upgrade: (3) large
+
+magnitude of effect.
+
+Abbreviations: BCLC, Barcelona Clinic Liver Cancer staging; HCC, hepatocellular carcinoma; HR, hazard ratio; mRECIST, modiﬁed RECIST; RR,
+
+relative risk.
+
+Journal of Clinical Oncology
+
+4331
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+unknown or other causes (21%). Eighty-ﬁve percent of
+
+patients had macrovascular invasion and/or extrahepatic
+
+spread (Table 7).
+
+OS was signiﬁcantly better with cabozantinib compared
+
+with placebo (median survival, 10.2 months for cabo-
+
+zantinib v 8.0 months for placebo; HR, 0.76; 95% CI, 0.63
+
+to 0.92). Other outcomes, including PFS, disease control
+
+rate, and ORR also signiﬁcantly favored cabozantinib.
+
+There were 18 partial responses out of 471 patients in the
+
+treatment group and one partial response among patients
+
+in the control group; no complete responses were observed
+
+across study groups (Table 9). Grade 3 or 4 adverse events
+
+were signiﬁcantly more common with cabozantinib versus
+
+placebo (68% v 37%; RR, 1.86; 95% CI, 1.56 to 2.23), and
+
+patients in the former group were more likely to discontinue
+
+therapy due to adverse events related to the trial regimen
+
+(16% v 3%). Patients treated with cabozantinib were more
+
+likely to experience grade 3 or 4 hypertension (16% v 2%),
+
+increased AST (12% v 7%), HFSR (17.0% v 0), fatigue
+
+(10% v 4%), and diarrhea (10% v 2%; Table 10).
+
+Ramucirumab Versus Placebo
+
+The study by Zhu et al (REACH-2)27 of ramucirumab versus
+
+placebo included 292 patients from the Americas, Europe,
+
+Australia, and Israel (52%); Asia (excluding Japan; 28%);
+
+and Japan (20%). Eligibility criteria included an AFP level
+
+$ 400 ng/mL. There were 197 patients assigned to
+
+treatment with ramucirumab, and 95 patients received
+
+a placebo. Approximately 63% of cases were attributed to
+
+HBV or HCV and 37% to other causes. Thirty-ﬁve percent of
+
+patients had macrovascular invasion, and 72% had ex-
+
+trahepatic spread. All patients were previously treated with
+
+sorafenib only, and a subset of patients had also undergone
+
+surgery (41%) or radiotherapy (19%). Sorafenib was dis-
+
+continued due to progressive disease in 83% of patients
+
+and toxicity in 17% of patients.
+
+TABLE 9. Patients With Noncurative HCC Previously Treated With Sorafenib and Experiencing Disease Progression After At Least One Systemic HCC
+
+Treatment (or up to two; Abou-Alfa et al, 2018)23
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence (quality
+
+of evidence)
+
+Plain Text Summary
+
+Placebo
+
+(comparator)
+
+Cabozantinib
+
+(intervention)
+
+Overall survival (primary
+
+outcome)
+
+HR, 0.76 (95% CI, 0.63
+
+to 0.92)
+
+390 deaths per
+
+1,000
+
+313 deaths per
+
+1,000
+
+Moderate (1)
+
+Cabozantinib probably improves
+
+overall survival compared with
+
+placebo
+
+Based on data from 707
+
+patients in one1 study;
+
+follow-up, 6 months
+
+Difference: 77 fewer per 1,000
+
+(95% CI, 122 fewer to 25 fewer)
+
+Progression-free survival
+
+HR, 0.44 (95% CI, 0.36
+
+to 0.52)
+
+89 progressions/
+
+deaths per
+
+1,000
+
+40 progressions/
+
+deaths per
+
+1,000
+
+High (1, 2)
+
+Cabozantinib improves progression-
+
+free survival compared with
+
+placebo
+
+Based on data from 707
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 49 fewer per 1,000
+
+(95% CI, 56 fewer to 42 fewer)
+
+Objective response rate
+
+(investigator assessed,
+
+RECIST v1.1)
+
+RR, 9.08 (95% CI, 1.22
+
+to 67.58)
+
+4 responses per
+
+1,000
+
+36 responses per
+
+1,000
+
+Low (1, 3)
+
+Cabozantinib: 18 partial responses;
+
+placebo: 1 partial response
+
+Based on data from 707
+
+patients in one study
+
+Difference: 32 more per 1,000
+
+(95% CI, 1 more to 266 more)
+
+Cabozantinib may improve objective
+
+response rate compared with
+
+placebo
+
+Disease control (partial
+
+response or stable
+
+disease)
+
+RR, 1.91 (95% CI, 1.58
+
+to 2.32)
+
+330 disease
+
+controlled per
+
+1,000
+
+630 disease
+
+controlled per
+
+1,000
+
+High (1, 2)
+
+Cabozantinib improves disease
+
+control compared with placebo
+
+Based on data from 707
+
+patients in one study
+
+Difference: 300 more per 1,000
+
+(95% CI, 191 more to 436 more)
+
+Grade 3 or 4 adverse events RR, 1.86 (95% CI, 1.56
+
+to 2.23)
+
+360 per 1,000
+
+670 per 1,000
+
+High (1, 2)
+
+Cabozantinib worsens grade 3 or 4
+
+adverse events compared with
+
+placebo
+
+Based on data from 704
+
+patients in one study
+
+Difference: 310 more per 1,000
+
+(95% CI, 202 more to 443 more)
+
+Discontinuation due to
+
+adverse events
+
+associated with the trial
+
+regimen
+
+RR, 5.51 (95% CI, 2.58
+
+to 11.76)
+
+30 per 1,000
+
+165 per 1,000
+
+High (1, 2)
+
+Cabozantinib worsens
+
+discontinuation due to adverse
+
+events associated with the trial
+
+regimen compared with placebo
+
+Based on data from 704
+
+patients in one study
+
+Difference: 135 more per 1,000
+
+(95% CI, 47 more to 323 more)
+
+NOTE. Downgrade: (1) commercially funded (risk of publication bias); (3) imprecision (wide conﬁdence interval). Upgrade: (2) large magnitude of effect.
+
+Abbreviations: HCC, hepatocellular carcinoma; HR, hazard ratio; RR, relative risk.
+
+4332 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+TABLE 10. Grade 3/4 Adverse Events Experienced by $ 5% of Patients in Either Arm of Phase III Trials of Second or Greater–Line Therapy for Advanced HCC
+
+Comparison
+
+HFSR
+
+Diarrhea
+
+Hyperbilirubinemia
+
+Hypertension
+
+AST
+
+Increase
+
+ALT
+
+Increase
+
+Fatigue
+
+Bleeding or
+
+Hemorrhage
+
+Anemia
+
+Hyponatremia
+
+Liver
+
+Failure or
+
+Injury
+
+Ascites
+
+Regorafenib v placebo24
+
+13 v 1
+
+15 v 5
+
+9 v 5
+
+Cabozantinib v placebo23
+
+17 v 0
+
+10 v 2
+
+16 v 2
+
+12 v 7
+
+10 v 4
+
+Ramucirumab v placebo
+
+(AFP $ 400 ng/mL)27
+
+13 v 5
+
+6 v 3
+
+18 v 16
+
+5 v 2
+
+Ramucirumab v placebo
+
+(AFP $ 400 ng/mL);
+
+combined data from
+
+REACH and REACH-2 trials27
+
+13 v 4
+
+3 v 5
+
+5 v 2
+
+Pembrolizumab v placebo26
+
+7.5 v 5.2
+
+13.3 v 7.5
+
+6.1 v 3.0
+
+3.9 v 9.0
+
+NOTE. Data presented as %.
+
+Abbreviations: AFP, a-fetoprotein; ALT: alanine transaminase, HFSR: hand–foot skin reaction.
+
+Journal of Clinical Oncology
+
+4333
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+The REACH study,33 published in 2015, found no differ-
+
+ence in OS between patients with advanced HCC who were
+
+randomly assigned to either ramucirumab or placebo (HR,
+
+0.87; 95% CI, 0.72 to 1.05) but found a signiﬁcant beneﬁt
+
+of ramucirumab for subgroups of patients with extrahepatic
+
+metastases (HR, 0.79; 95% CI, 0.63 to 0.98) and AFP level
+
+of $ 400 ng/mL (HR, 0.67; 95% CI, 0.51 to 0.90). The
+
+REACH-2 study was conducted as a follow-up trial to ex-
+
+plore the efﬁcacy of ramucirumab in the group of patients
+
+with elevated AFP. Within this speciﬁc patient population,
+
+Zhu et al27 found a signiﬁcant improvement in OS (HR,
+
+0.710; 95% CI, 0.531 to 0.949), and PFS (HR, 0.45;
+
+95% CI, 0.34 to 0.60; Table 11). ORR did not differ sig-
+
+niﬁcantly between groups, with nine responses experi-
+
+enced in the experimental and one response experienced
+
+in the control group. In a pooling of data from REACH and
+
+REACH-2, adverse events affecting at least 5% of patients
+
+in the ramucirumab or placebo groups, respectively, in-
+
+cluded hypertension (13% v 4%) and hyponatremia (5% v
+
+2%; Table 10).
+
+Pembrolizumab Versus Placebo
+
+The study by Finn et al (Keynote 240)26 of pembrolizumab
+
+versus placebo included 413 patients in Japan (14%),
+
+elsewhere in East Asia (24%), Europe (34%), and the
+
+United States (9%). Patients had experienced progressive
+
+disease (87%) or intolerable toxicity (13%) with sorafenib.
+
+Sixteen percent of all cases were HCV positive and
+
+26% and 22% were HBV positive in the pembrolizumab
+
+and placebo groups, respectively. Patients with main portal
+
+vein or inferior vena cava or cardiac involvement were
+
+excluded from the study. Median duration of follow-up was
+
+13.8 months (range, 0.9-30.4 months) for pembrolizumab
+
+and 10.6 months (range, 0.9-29.5 months) for placebo.
+
+Some patients received additional treatment after pro-
+
+gression, although the percent who received treatment was
+
+not reported.
+
+The HR for OS (0.781; 95% CI, 0.611 to 0.998; P 5 .0238)
+
+did not reach statistical signiﬁcance as per the prespeciﬁed
+
+statistical plan, which accounted for hypothesis testing at
+
+multiple time points as well as coprimary endpoints (OS and
+
+PFS). To reach statistical signiﬁcance, P values of .0174 for
+
+OS at ﬁnal analysis and .002 for PFS at primary analyses
+
+were required. Likewise, the PFS difference (HR, 0.72;
+
+95% CI, 0.57 to 0.90) did not reach statistical signiﬁcance
+
+as per the prespeciﬁed plan. ORRs were signiﬁcantly higher
+
+in the pembrolizumab group (RR, 4.13; 95% CI, 1.82 to
+
+9.38), and in this group there were six complete (2.2%) and
+
+45 partial (16.2%) responses, while there were no com-
+
+plete and six partial (4.4%) responses in the placebo group.
+
+There was no difference in rate of stable disease between
+
+groups, but progressive disease was less likely with pem-
+
+brolizumab (RR, 0.77; 95% CI, 0.59 to 0.99; Table 12).
+
+The most common grade 3 or 4 adverse events in the
+
+pembrolizumab or placebo groups were AST increase
+
+(13.3% v 7.5%), serum bilirubin increase (7.5% v 5.2%),
+
+alanine transaminase increase (6.1% v 3.0%), and anemia
+
+(3.9% v 9.0%). Treatment discontinuation due to grade 3
+
+or 4 adverse events was signiﬁcantly more likely in the
+
+pembrolizumab group (17.2% v 9.0%; RR, 2.74; 95% CI,
+
+1.26 to 5.96; Table 10).
+
+RECOMMENDATIONS
+
+Clinical Question
+
+What are the preferred treatment options for ﬁrst-line and
+
+subsequent line systemic therapy for patients with ad-
+
+vanced hepatocellular carcinoma?
+
+First-Line Therapy
+
+Recommendation 1.1. Atezolizumab-bevacizumab (atezo
+
+1 bev) may be offered as ﬁrst-line treatment for most
+
+patients with advanced HCC, Child-Pugh class A, ECOG PS
+
+0-1, and following management of esophageal varices,
+
+when present, according to institutional guidelines (Type:
+
+evidence-based, beneﬁts outweigh harms; Evidence
+
+quality: moderate to high; Strength of recommendation:
+
+strong).
+
+Qualifying statements:
+
+• Recommendation 1.1 is based on results from the
+
+IMbrave150 phase III RCT, which compared atezo 1
+
+bev to sorafenib (HR for OS, 0.58; 95% CI, 0.42 to
+
+0.79; P 5 .0006) in Child-Pugh class A patients.
+
+Caution should be exercised when applying these
+
+results to patients with more advanced liver disease
+
+who have a greater likelihood of portal hypertension
+
+because of the risk of bleeding complications asso-
+
+ciated with bevacizumab.
+
+• Due to risk of bleeding, patients in this trial were re-
+
+quired to have undergone esophagogastroduodeno-
+
+scopy (EGD) within 6 months of trial initiation and to
+
+have received treatment of esophageal varices when
+
+necessary.14 The Expert Panel recognizes that some
+
+patients may have been evaluated for varices outside
+
+the 6-month window, are receiving treatment (eg,
+
+adequately dosed nonselective b-blockers), and/or are
+
+deemed to be low risk for variceal bleed by a hep-
+
+atology specialist. In these patients, the decision to
+
+forgo an EGD prior to initiation of therapy with atezo 1
+
+bev may be carefully considered.
+
+• In an exploratory subgroup analysis, IMBrave150
+
+study authors found that overall survival was not sig-
+
+niﬁcantly different between treatment and control
+
+groups in the subgroup of patients who tested positive
+
+for treatment-emergent ADAs at 6 months (HR, 0.93;
+
+95% CI, 0.57 to 1.53). The HR in the ADA-negative
+
+subgroup to sorafenib was 0.39 (95% CI, 0.26 to
+
+0.60).29
+
+• Patients who had a myocardial infarction or stroke
+
+within the previous 3 months, a history of autoimmune
+
+disease, were on therapeutic anticoagulation, or had
+
+4334 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+coinfection with HBV and HCV were also excluded
+
+from the IMbrave150 RCT.
+
+Recommendation 1.2. Where there are contraindications to
+
+atezolizumab and/or bevacizumab, tyrosine kinase in-
+
+hibitors sorafenib or lenvatinib may be offered as ﬁrst-line
+
+treatment of patients with advanced HCC, Child-Pugh class
+
+A, and ECOG PS 0-1 (Type: evidence-based, beneﬁts
+
+outweigh harms; Evidence quality: moderate; Strength of
+
+recommendation: strong).
+
+Qualifying statements:
+
+• RCTs with the suggested options have been con-
+
+ducted in Child-Pugh A patient populations. Real-
+
+world studies and observational studies conducted
+
+in patients with Child-Pugh B have shown a similar rate
+
+of adverse events to the Child-Pugh A population but
+
+relatively shorter overall survival. Treatment with rec-
+
+ommended TKIs may be less effective for patients with
+
+more advanced liver cirrhosis. Careful patient selection
+
+is recommended.
+
+• The choice of treatment with lenvatinib or sorafenib
+
+should be made through a discussion involving the
+
+physician and patient (and caregiver, where applica-
+
+ble) and should include factors such as medical
+
+history, viral etiology of liver disease, toxicities asso-
+
+ciated with treatment, cost (see Cost Implications),
+
+goals of treatment, patient preference, and expected
+
+treatment beneﬁt. Factors affecting this choice, in-
+
+cluding response rates, are discussed further in the
+
+Clinical Interpretation.
+
+• Several meta-analyses of RCTs have shown sor-
+
+afenib to be more beneﬁcial in patients with HCV,
+
+especially as compared with patients with HBV.15-17
+
+In the REFLECT trial there was a trend toward im-
+
+provements across endpoints for lenvatinib over
+
+sorafenib in the HBV subgroup, though it was not
+
+signiﬁcant.18
+
+• Patients with a high tumor burden, . 50% liver in-
+
+volvement, or those with main portal vein invasion were
+
+excluded from the REFLECT trial of sorafenib versus
+
+lenvatinib.19
+
+Clinical interpretation. The combination of atezo 1 bev is
+
+recommended as ﬁrst-line therapy based on the results of
+
+the IMbrave150 trial (Recommendation 1.1). Sorafenib
+
+and lenvatinib are recommended where there are con-
+
+traindications to atezo 1 bev (Recommendation 1.2). The
+
+following points may be considered when selecting from the
+
+options presented in Recommendation 1.2:
+
+TABLE 11. Patients With Intermediate (18% BCLC B) or Advanced (82% BCLC C) HCC Previously Treated With Sorafenib, Baseline AFP $ 400 ng/mL (Zhu
+
+et al, 2019)27
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence (quality of
+
+evidence)
+
+Plain Text Summary
+
+Placebo
+
+(comparator)
+
+Ramucirumab
+
+(intervention)
+
+Overall survival
+
+HR, 0.71 (95% CI, 0.53 to
+
+0.95)
+
+800 deaths per
+
+1,000
+
+681 deaths per
+
+1,000
+
+High (1, 3)
+
+Ramucirumab improves
+
+overall survival compared
+
+with placebo
+
+Based on data from 292
+
+patients in one study;
+
+follow-up, 12 months
+
+Difference: 119 fewer per 1,000 (95% CI,
+
+226 fewer to 17 fewer)
+
+Progression-free survival
+
+HR, 0.45 (95% CI, 0.34 to
+
+0.60)
+
+947 progressions/
+
+deaths per 1,000
+
+733 progressions/
+
+deaths per 1,000
+
+High (1, 3)
+
+Ramucirumab improves
+
+progression-free survival
+
+compared with placebo
+
+Based on data from 292
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 214 fewer per 1,000 (95% CI,
+
+315 fewer to 119 fewer)
+
+Objective response rate
+
+(investigator assessed,
+
+RECIST 1.1)
+
+RR, 4.34 (95% CI, 0.56 to
+
+33.76)
+
+10 responses per
+
+1,000
+
+43 responses per
+
+1,000
+
+Low (1, 2)
+
+Ramucirumab may improve
+
+objective response rate
+
+compared with placebo
+
+Based on data from 292
+
+patients in one study;
+
+median follow-up,
+
+7.6 months
+
+Difference: 33 more per 1,000 (95% CI, 4
+
+more to 328 more)
+
+Serious adverse events
+
+(any grade and cause)
+
+RR, 1.21 (95% CI, 0.84 to
+
+1.75)
+
+290 events per
+
+1,000
+
+351 events per
+
+1,000
+
+Low (1)
+
+Ramucirumab may not
+
+worsen serious adverse
+
+events (any grade or cause)
+
+compared with placebo
+
+(Table 10)
+
+Based on data from 292
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 61 more per 1,000 (95% CI,
+
+46 fewer to 218 more)
+
+NOTE. Downgrade: (1) commercially funded (risk of publication bias); (2) imprecise estimate (wide conﬁdence interval). Upgrade: (3) large magnitude of
+
+effect.
+
+Abbreviations: AFP, a-fetoprotein; BCLC, Barcelona Clinic Liver Cancer staging; HCC, hepatocellular carcinoma; HR, hazard ratio; RR, relative risk.
+
+Journal of Clinical Oncology
+
+4335
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+• In an RCT, overall survival was found to be noninferior
+
+with lenvatinib compared with sorafenib; however,
+
+overall response and PFS were signiﬁcantly improved
+
+with lenvatinib (Table 5).
+
+• The adverse events proﬁles are similar, and there is
+
+a relatively high risk of speciﬁc adverse events with
+
+these two TKI treatment options (Table 4). There is
+
+a higher rate of hypertension with lenvatinib and more
+
+HFSR with sorafenib.18
+
+• Overall, sorafenib has a low response rate but improves
+
+time to radiographic progression and lengthens dis-
+
+ease stability.14
+
+• Patients treated with lenvatinib reported quality-of-life
+
+scores that indicated a delay in deterioration compared
+
+with sorafenib.
+
+Second-Line Therapy
+
+The decision to pursue second-line therapy and choice of
+
+treatment should be based on patient and clinician pref-
+
+erences and other factors, including comorbidities, liver
+
+function, performance status, and potential for beneﬁt and
+
+risk of harm associated with the treatment options. Options
+
+for second-line therapy are included in Recommendations
+
+2.1 to 2.3 and are described in greater detail in the Clinical
+
+Interpretation.
+
+Recommendation 2.1. Following ﬁrst-line treatment with
+
+atezo 1 bev, second-line therapy with a TKI (ie, sorafenib,
+
+lenvatinib, cabozantinib, or regorafenib) may be recom-
+
+mended (Type: informal consensus, beneﬁts may outweigh
+
+harms; Evidence quality: low; Strength of recommendation:
+
+weak).
+
+Qualifying statement:
+
+• No data have been published on therapy options after
+
+ﬁrst-line treatment with atezo 1 bev. It is the opinion of
+
+the Expert Panel that a TKI, preferably sorafenib or
+
+lenvatinib, may be offered. Cabozantinib or regorafenib
+
+are also reasonable options for second-line therapy
+
+following atezo 1 bev.
+
+Recommendation 2.2. Following ﬁrst-line therapy with
+
+sorafenib or lenvatinib, second-line therapy with another
+
+TKI (cabozantinib or regorafenib), ramucirumab (AFP
+
+$ 400 ng/mL), or atezo 1 bev may be recommended for
+
+appropriate candidates. Considerations regarding choice of
+
+therapy are included in the Clinical Interpretation (Type:
+
+informal consensus, beneﬁts may outweigh harms; Evi-
+
+dence quality: low to moderate; Strength of recommen-
+
+dation: weak).
+
+Qualifying statement:
+
+• It is likely that most patients being considered for atezo
+
+1 bev in the second-line setting did not have access to
+
+this combination when they started ﬁrst-line treatment.
+
+Recommendation 2.3. Following ﬁrst-line therapy with
+
+sorafenib or lenvatinib, pembrolizumab or nivolumab are
+
+reasonable options that may be considered for appropriate
+
+candidates (Type: informal consensus, beneﬁts may out-
+
+weigh harms; Evidence quality: low; Strength of recom-
+
+mendation: weak).
+
+Qualifying statement:
+
+• Immune checkpoint inhibitors pembrolizumab or
+
+nivolumab may be especially beneﬁcial for patients
+
+who have contraindications to or cannot tolerate TKIs.
+
+Clinical interpretation. To date, second-line therapy op-
+
+tions have only been evaluated following therapy with
+
+sorafenib; no second-line therapy options have been
+
+evaluated following treatment with ﬁrst-line therapy options
+
+lenvatinib or atezo 1 bev. It is the opinion of the Expert
+
+Panel that data for treatment options following sorafenib
+
+may be cautiously extrapolated to the population that has
+
+received ﬁrst-line therapy with lenvatinib, as both agents
+
+are TKIs. The Expert Panel also agrees that due to their
+
+differing mechanisms of action, second-line treatment with
+
+a TKI may offer clinical beneﬁt following treatment with
+
+atezo 1 bev. Several second-line or greater therapies have
+
+been evaluated following toxicity with or progression on
+
+sorafenib. In these settings, overall survival was improved
+
+compared with placebo with regorafenib, cabozantinib,
+
+and ramucirumab in patients with higher AFP levels. In
+
+addition to sorafenib and lenvatinib, options for second-
+
+line therapy include regorafenib, cabozantinib, and
+
+ramucirumab:
+
+• Regorafenib is US Food and Drug Administration
+
+(FDA)–approved as second-line therapy for patients
+
+who have progressed on sorafenib, based on data from
+
+the phase III placebo-controlled RESORCE trial that
+
+excluded patients who were intolerant to sorafenib.
+
+Sorafenib and regorafenib have almost identical mo-
+
+lecular structures, and regorafenib may have a similar
+
+but stronger toxicity proﬁle.34 Therefore, the appro-
+
+priate population for regorafenib would be patients
+
+with Child-Pugh A liver function who tolerated at least
+
+400 mg of sorafenib for 20 days or longer during the
+
+28-day period prior to disease progression.34
+
+• Cabozantinib was evaluated in patients who were not
+
+amenable to curative treatment and would be an
+
+option for patients who were intolerant or refractory to
+
+sorafenib or other previous lines of systemic therapy.
+
+• A survival beneﬁt was found in the second-line setting
+
+with the antiangiogenic agent ramucirumab in patients
+
+refractory/intolerant to sorafenib with AFP $ 400
+
+ng/mL.27
+
+In addition, a phase III RCT of immune checkpoint inhibitor
+
+pembrolizumab as second-line therapy following sorafenib
+
+was included in the systematic review. The response rate of
+
+18% in the pembrolizumab group was similar to that ob-
+
+served in previous smaller studies; however, there was no
+
+difference in PFS or OS compared with placebo.26 No other
+
+fully published studies of ICIs met the inclusion criteria
+
+for this review. A recommendation for consideration of
+
+4336 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+nivolumab as a second-line option is the consensus opinion
+
+of the Expert Panel, based on a response rate that was
+
+similar to pembrolizumab in a single-arm study35; however,
+
+this should be interpreted with caution, as no randomized
+
+trial data are available for this agent in the second-line
+
+setting. The Expert Panel agrees that ICIs in the second-line
+
+setting may be especially beneﬁcial for patients who have
+
+contraindications to or cannot tolerate TKIs due to wors-
+
+ening performance status. Further discussion of the role of
+
+ICIs in the context of second-line therapy is included in the
+
+Discussion.
+
+Finally, extrapolating from the IMbrave150 study in the ﬁrst-
+
+line setting, it is the opinion of the Expert Panel that atezo 1
+
+bev may be considered as second-line therapy in select
+
+patients who have progressed on or are intolerant of ﬁrst-
+
+line sorafenib or lenvatinib. It is likely that most patients
+
+receiving atezo 1 bev in the second-line setting did not
+
+have access to this combination when they started ﬁrst-line
+
+treatment.
+
+Third-line therapy. In the CELESTIAL trial of cabozantinib,
+
+192 patients (27%) were treated with third-line systemic
+
+therapy. Within this subgroup of patients, the median
+
+survival was 8.6 months for both the placebo and cabo-
+
+zantinib groups (HR, 0.90; 95% CI, 0.63 to 1.29), although
+
+PFS was signiﬁcantly improved by cabozantinib (HR, 0.58;
+
+95% CI, 0.41 to 0.83), suggesting cabozantinib is an ap-
+
+propriate option to consider in the third-line setting.23 As
+
+this subgroup was underpowered for the primary endpoint,
+
+however, this result indicates that placebo rather than
+
+cabozantinib should remain the comparator in any new
+
+clinical trials of third-line systemic therapy options.36
+
+Cabozantinib is approved as a second-line and third-line
+
+therapy option for patients with advanced HCC.37
+
+DISCUSSION
+
+Following the FDA approval of sorafenib for advanced liver
+
+disease in December 2007, almost a decade passed
+
+before additional therapy options became available. De-
+
+spite recent advances, there are still signiﬁcant areas of
+
+uncertainty and unmet need, including appropriate se-
+
+quencing of therapy and lack of adequately powered
+
+studies to identify subgroups that may beneﬁt more than
+
+others from currently available treatment options. There
+
+also continues to be a large unmet need for data to support
+
+treatment beneﬁt in Child-Pugh class B patients.
+
+Child-Pugh Class B
+
+The majority of patients included in RCTs of systemic
+
+therapy were relatively healthy, with preserved liver func-
+
+tion, deﬁned as Child-Pugh class A, and with an ECOG-PS
+
+of 0-1. A review of observational studies on the effective-
+
+ness of sorafenib in Child-Pugh class B reported a range of
+
+recommendations across studies, from limiting the in-
+
+dication to Child-Pugh class A, cautiously expanding the
+
+indication to a subset of Child-Pugh class B, or avoiding
+
+a recommendation in the absence of data.38 The review
+
+authors’ analysis of a sorafenib-treated “non-SHARP-
+
+eligible” patient population found OS to be similar to best
+
+supportive care (BSC; ie, approximately 5 months39), al-
+
+though the safety proﬁle of sorafenib does not differ by
+
+Child-Pugh class. A large multicenter prospective registry-
+
+based single-arm study found that there was a higher rate of
+
+sorafenib treatment discontinuation in the Child-Pugh B
+
+and C groups compared with the Child-Pugh A group.40
+
+In a retrospective case series of 18 Child-Pugh class B
+
+patients treated with nivolumab, rates of adverse events
+
+were high, although similar to those seen in a previous
+
+study of Child-Pugh A patients, and two partial and one
+
+complete response were recorded.41
+
+Some published guidelines specify that certain systemic
+
+therapy options are limited to the Child-Pugh class A
+
+population.42,43 On the other hand, allocation systems,
+
+such as BCLC, do not exclude Child-Pugh B patients from
+
+treatment with sorafenib but recommend careful evaluation
+
+of liver function and advise that optimal outcomes of sys-
+
+temic therapy can only be expected with compensated liver
+
+disease where the liver is still able to perform most of its
+
+basic functions (ie, Child-Pugh stage A without ascites), as
+
+well as emphasizing careful patient selection.8 The toler-
+
+able dose of sorafenib in cohorts of patients with hepatic
+
+and renal dysfunction has been explored.44
+
+Despite the cautions and lack of randomized trials of pa-
+
+tients with Child-Pugh class B, data suggest that sorafenib
+
+is often prescribed regardless of liver function,40 with the
+
+rate of prescription being approximately 12%-44% in pa-
+
+tients with Child-Pugh class B HCC across various stud-
+
+ies.45 In addition, Child-Pugh class is often not assessed
+
+among patients in the United States, according to obser-
+
+vational study data.40
+
+Due to lack of inclusion of Child-Pugh class B patients in
+
+randomized trials included in this review, systemic therapy
+
+in this population was not included in the Recommenda-
+
+tions section of this guideline. The Expert Panel agrees on
+
+a cautious approach to systematic therapy in patients with
+
+advanced HCC who are Child-Pugh class B with good
+
+performance status, considering underlying liver function,
+
+bleeding risk, presence of portal hypertension, extent of
+
+extrahepatic spread, tumor burden, and major vascular
+
+invasion. Furthermore, the Expert Panel recommends that
+
+wherever possible, treatment decisions for patients with
+
+advanced HCC be made by a multidisciplinary team, in-
+
+cluding hepatologists, surgeons, radiologists (including
+
+interventional radiologists), pathologists, and oncologists.
+
+Third-Line Therapy
+
+Patients who received cabozantinib following treatment
+
+with one or two other systemic therapy regimens were
+
+included in the CELESTIAL phase III RCT. Within this
+
+subgroup, the median survival did not differ signiﬁcantly
+
+between treatment and control groups.23 The sequence of
+
+Journal of Clinical Oncology
+
+4337
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+therapy used in this trial is unlikely to be offered at the
+
+present time, given the more recent publication of data that
+
+have impacted recommendations for therapy in the ﬁrst-
+
+line setting. Due to the lack of relevant data, the Expert
+
+Panel did not include a formal recommendation for third-
+
+line therapy within the Recommendations section but
+
+acknowledges that third-line therapy may be considered in
+
+Child-Pugh A patients with good performance status, using
+
+a shared decision-making, multidisciplinary approach.
+
+ICIs
+
+Treatment with monoclonal antibodies pembrolizumab and
+
+nivolumab has previously resulted in response rates of
+
+14%-20%.46,47 As mentioned previously, in a phase III
+
+TABLE 12. Patients With Intermediate (21% BCLC B) or Advanced (79% BCLC C) Hepatocellular Carcinoma Experiencing Disease Progression or
+
+Intolerance to First-line Sorafenib (Finn et al, 2020)26
+
+Outcome
+
+Study Results and
+
+Measurements
+
+Absolute Effect Estimates
+
+Certainty of the
+
+Evidence (quality
+
+of evidence)
+
+Plain Text Summary
+
+Placebo
+
+(comparator)
+
+Pembrolizumab
+
+(intervention)
+
+Overall survival (coprimary
+
+outcome)
+
+HR, 0.78 (95% CI, 0.61 to
+
+1.0)
+
+274 deaths per
+
+1,000
+
+221 deaths per
+
+1,000
+
+Low (1, 2)
+
+Trend toward better survival
+
+with pembrolizumab
+
+compared with placebo did
+
+not reach statistical
+
+signiﬁcance as per the
+
+prespeciﬁed statistical plan
+
+Based on data from 413
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 53 fewer per 1,000 (95% CI,
+
+97 fewer to 0 fewer)
+
+Progression-free survival
+
+(coprimary outcome)
+
+HR, 0.72 (95% CI, 0.57 to
+
+0.9)
+
+815 progressions/
+
+deaths per 1,000
+
+703 progressions/
+
+deaths per 1,000
+
+Low (1, 2)
+
+Trend toward better
+
+progression-free survival
+
+with pembrolizumab
+
+compared with placebo did
+
+not reach statistical
+
+signiﬁcance as per the
+
+prespeciﬁed statistical plan
+
+Based on data from 413
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 112 fewer per 1,000 (95% CI,
+
+197 fewer to 34 fewer)
+
+Objective response rate
+
+(central radiology review,
+
+RECIST v1.1)
+
+RR, 4.13 (95% CI, 1.82 to
+
+9.38)
+
+44 responses per
+
+1,000
+
+182 responses per
+
+1,000
+
+Moderate (1, 2, 3) Pembrolizumab group: 6
+
+complete and 45 partial
+
+responses; placebo group:
+
+0 complete and 6 partial
+
+responses
+
+Based on data from 413
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 138 more per 1,000 (95% CI,
+
+36 more to 369 more)
+
+Pembrolizumab may improve
+
+objective response rate
+
+compared with placebo
+
+Stable disease
+
+RR, 0.9 (95% CI, 0.72 to
+
+1.12)
+
+489 stable disease
+
+per 1,000
+
+440 stable disease
+
+per 1,000
+
+Low (1, 2)
+
+Pembrolizumab may have
+
+little or no effect on stable
+
+disease compared with
+
+placebo
+
+Based on data from 413
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 49 fewer per 1,000 (95% CI,
+
+137 fewer to 59 more)
+
+Progressive disease
+
+RR, 0.77 (95% CI, 0.59 to
+
+0.99)
+
+422 progressions
+
+per 1,000
+
+325 progressions
+
+per 1,000
+
+Low (1, 2)
+
+Pembrolizumab may improve
+
+progressive disease
+
+compared with placebo
+
+Based on data from 413
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 97 fewer per 1,000 (95% CI,
+
+173 fewer to 4 fewer)
+
+Adverse events (grade 3 or
+
+4 due to any cause)
+
+RR, 1.12 (95% CI, 0.91 to
+
+1.39)
+
+463 events per
+
+1,000
+
+519 events per
+
+1,000
+
+Low (1, 2)
+
+Pembrolizumab may not
+
+worsen adverse events
+
+(grade 3 or 4 due to any
+
+cause) compared with
+
+placebo
+
+Based on data from 413
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 56 more per 1,000 (95% CI,
+
+42 fewer to 181 more)
+
+Grade 3 or 4 adverse events
+
+leading to treatment
+
+discontinuation
+
+RR, 1.92 (95% CI, 1.06 to
+
+3.49)
+
+52 events per
+
+1,000
+
+142 events per
+
+1,000
+
+Low (1, 2)
+
+Pembrolizumab may worsen
+
+adverse events leading to
+
+treatment discontinuation
+
+compared with placebo
+
+Based on data from 413
+
+patients in one study;
+
+follow-up, 6 months
+
+Difference: 90 more per 1,000 (95% CI,
+
+14 more to 258 more)
+
+NOTE. Downgrade: (1) commercially funded (risk of publication bias); (2) indirectness: results potentially affected by patients using other drugs upon
+
+progression, patients with main portal vein invasion excluded. Upgrade: (3) large magnitude of effect.
+
+Abbreviations: BCLC, Barcelona Clinic Liver Cancer staging; HR, hazard ratio; RR, relative risk.
+
+4338 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+study of pembrolizumab as second-line therapy following
+
+sorafenib, the response rate was 18% (16% partial and
+
+2% complete response) in the pembrolizumab group,
+
+which is similar to that observed in previous smaller studies.
+
+However, there was no difference in PFS or OS compared
+
+with placebo; therefore, the study did not reach its primary
+
+and secondary endpoints.26 Nivolumab was FDA approved
+
+in September 2017 as a second-line therapy option, based
+
+on a single-arm study that demonstrated an ORR of 14.3%,
+
+according to blinded independent central review (RECIST
+
+1.1).35,47 More recently, reported in an abstract, a phase III
+
+study of nivolumab as ﬁrst-line therapy found a 10% re-
+
+sponse rate for patients treated with nivolumab and no
+
+difference in OS compared with sorafenib, and, therefore,
+
+the study did not meet its primary endpoint.28 In addition,
+
+most recently, the combination of nivolumab and ipilimu-
+
+mab as second-line therapy has been given accelerated
+
+approval by the FDA, based on results reported in an
+
+abstract from a subgroup analysis of the CheckMate 040
+
+phase I/II study that showed a 33% response rate with
+
+treatment.48 This approval may be conditional on the results
+
+of other conﬁrmatory trials.49,50 It is the Expert Panel’s
+
+opinion that ICIs have a role in the treatment of patients with
+
+advanced hepatocellular carcinoma and may be especially
+
+beneﬁcial for patients who have contraindications to or
+
+cannot tolerate TKIs. On the other hand, patients and
+
+clinicians should be aware that life-threatening toxicities
+
+can occur with ICIs. Future research on these options may
+
+provide additional information on speciﬁc patient sub-
+
+populations for which they could potentially be beneﬁcial.
+
+Future Directions
+
+Recent studies of systemic therapy in advanced HCC have
+
+demonstrated an increased beneﬁt in terms of response
+
+rate and survival from combined therapy.12 Future di-
+
+rections in advanced HCC include emerging data on
+
+combinations of TKIs and immune checkpoint inhibitors,
+
+including
+
+atezolizumab/cabozantinib,51
+
+lenvatinib/pem-
+
+brolizumab,52 nivolumab/ipilimumab,53 and other dual
+
+checkpoint inhibitors.13 There is growing interest in com-
+
+bining locoregional with systemic therapies; in a recent
+
+study, Kudo et al54 demonstrated improved PFS in patients
+
+with intermediate-stage HCC receiving combined endo-
+
+vascular locoregional and systemic therapy, including
+
+sorafenib in combination with on-demand TACE, as
+
+compared with patients undergoing TACE alone. Results
+
+from currently enrolling clinical trials combining locore-
+
+gional therapy with systemic therapies including TKIs,
+
+checkpoint inhibitors, as well as antivascular agents for the
+
+treatment of advanced-stage HCC will inform the role and
+
+judicious application of these strategies in this patient
+
+population. The linearity of treatments from curative to
+
+locoregional to systemic along the continuum of early to
+
+advanced HCC may change in response to ﬁndings from
+
+these trials. Most patients see a number of different
+
+stakeholders long before they see an oncologist along the
+
+course of care. As more effective therapies emerge, early
+
+oncologic referral while hepatic function is still preserved
+
+will be imperative. Changing treatment paradigms require
+
+a thorough understanding of hepatic reserve and available
+
+and emerging treatment options. Multidisciplinary man-
+
+agement of the patient with HCC in an environment that
+
+fosters dialogue, continuing education, and guideline-
+
+driven consensus among stakeholders is key to optimiz-
+
+ing patient outcomes.
+
+Limited biomarker data have been published to guide
+
+treatment selection for TKIs or ICIs, including the meta-
+
+analyses cited previously that showed better efﬁcacy for
+
+sorafenib in patients with HCV infection compared with
+
+patients with HBV infection. However, there is still a need
+
+for genetic and/or IHC biomarkers to guide treatment de-
+
+cision making. The Expert Panel notes the emergence of
+
+a subset of patients with HCC with a targetable driver
+
+(FGF19) and some early data on the development of
+
+FGFR4 inhibitors in this population; however, the efﬁcacy of
+
+these agents or the appropriate context for their use (if any)
+
+remains to be determined.55 The emergence of targeted
+
+therapies in HCC and other solid tumors, including bio-
+
+marker-speciﬁc/tumor-agnostic FDA-approved treatments,
+
+emphasizes the need to obtain histologic diagnosis of HCC.
+
+PATIENT AND CLINICIAN COMMUNICATION
+
+Poor adherence to oral chemotherapy is an ongoing con-
+
+cern with profound clinical implications and reduced
+
+therapeutic efﬁcacy,56-58 which is especially relevant for
+
+patients with HCC at risk for encephalopathy, esophageal
+
+varices, and/or ascites. Interventions to optimize patient
+
+adherence should be considered, such as involvement of
+
+pharmacists in managing oral chemotherapy, which has
+
+been shown to increase knowledge levels in a pilot study59
+
+and has resulted in improved adherence and response
+
+outcomes.60
+
+For recommendations and strategies to optimize patient-
+
+clinician communication, readers are referred to Patient-
+
+Clinician Communication: American Society of Clinical
+
+Oncology Consensus Guideline.61
+
+HEALTH DISPARITIES
+
+Although ASCO clinical practice guidelines represent ex-
+
+pert recommendations on the best practices in disease
+
+management to provide the highest level of cancer care, it is
+
+important to note that many patients have limited access to
+
+medical care. Racial and ethnic disparities in health care
+
+contribute signiﬁcantly to this problem in the United States.
+
+Patients with cancer who are members of racial/ethnic
+
+minorities suffer disproportionately from comorbidities,
+
+experience more substantial obstacles to receiving care,
+
+are more likely to be uninsured, present at a more ad-
+
+vanced stage, and are at greater risk of receiving care of
+
+poor quality compared with other Americans.62-65 Many
+
+Journal of Clinical Oncology
+
+4339
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+other patients lack access to care because of their geo-
+
+graphic location and distance from appropriate treatment
+
+facilities.
+
+Up to 5.3 million people—2% of the US population—are
+
+living with chronic HBV or HCV. Half of those with chronic
+
+HBV infection are Asian and Paciﬁc Islander Americans.
+
+HBV is the most common serious infection of the liver and
+
+can lead to premature death from liver cancer or liver
+
+failure. In 2013, to address HCV infection, and again in
+
+2015 to address HBV infection, enhanced testing was
+
+initiated in the United States.66 These initiatives were
+
+intended to make screening a standard of care for ap-
+
+propriate patient populations as well as to further other
+
+goals, such as earlier detection and reducing stigma that
+
+may discourage testing.
+
+In the United States, overall incidence of HCC is 9.4 per
+
+100,000 persons per year, but incidence of HCC varies by
+
+race/ethnicity. According to an analysis of the SEER da-
+
+tabase, incidence rates for the time period 2003-2011
+
+were: Asian: 18.6 per 100,000; Black: 15.7 per 100,000;
+
+Hispanic: 11.8 per 100,000; non-Hispanic Whites: 7 per
+
+100,000. The incidence rate in the Asian population fell by
+
+5.5% during this time, while incidence of both localized and
+
+advanced HCC increased over this time period for other
+
+ethnic groups.67 The study authors also found a trend to-
+
+ward detection at an earlier stage for Asian populations,
+
+possibly due to successful screening and surveillance.
+
+Better OS for Asian individuals has also been observed,
+
+which is likely related to this group’s relatively higher
+
+proportion of patients with HCC due to HBV infection and
+
+lower rate of underlying liver cirrhosis.68 Across all eth-
+
+nicities there is a higher incidence among males than
+
+females.
+
+For patients with HCC, studies have shown disparities in
+
+access to care, including liver transplantation, by race/
+
+ethnicity.67,69-71 HCC was also detected at a more advanced
+
+stage in an African American study population compared
+
+with other racial/ethnic groups.72 Detection at an earlier
+
+stage could help to reduce ethnic and racial disparities in
+
+outcomes.73 Differences in outcomes are also evident and
+
+persist even when receipt of treatment is the same, and
+
+a signiﬁcant negative impact of low income has been found
+
+on OS.70 Furthermore, geographic location in Southern US
+
+states, which have a higher proportion of Black populations
+
+and prevalence of known risk factors, has been associated
+
+with higher mortality risk in HCC.74 At the same time,
+
+, 10% of patients who take part in clinical trials are from
+
+racial/ethnic minority groups.75
+
+Data from a Medicare population show that only 27% of
+
+patients with advanced HCC meeting study eligibility cri-
+
+teria were initially treated with sorafenib after diagnosis,76
+
+and in an analysis of SEER data, authors found that only
+
+29.5% of patients received any treatment of HCC.68 While
+
+there were no articles located as part of this review that
+
+speciﬁcally addressed socioeconomic or racial and ethnic
+
+disparities in the context of the target population of patients
+
+receiving systemic therapy for advanced HCC, it seems
+
+likely, given the treatment costs outlined in the Cost Im-
+
+plications section, that such disparities exist and may in-
+
+tensify
+
+as
+
+newer
+
+costly
+
+options
+
+become
+
+approved.
+
+Underuse of curative treatment options can be due to
+
+patient factors such as comorbidities, poor liver function,
+
+and other patient characteristics; provider-related factors
+
+including lack of expertise or knowledge; and technical
+
+factors such as tumor location or limited organ availability.
+
+Awareness of low rates of treatment with systematic therapy
+
+and/or disparities in access to care and clinical trials and
+
+outcomes should be considered in the context of this
+
+clinical practice guideline, and health care providers
+
+should strive to deliver the highest level of cancer care to
+
+more vulnerable populations. It is equally important to
+
+redeﬁne the context of HCC disparity research to include
+
+the assessment of the impact of socioeconomic factors and
+
+social policies on outcomes, to inform strategies to mini-
+
+mize cancer treatment and outcome disparities. Finally,
+
+social and health policies must emphasize prevention of
+
+known risk factors for HCC, and a campaign for early
+
+detection methods should be promoted within racial/ethnic
+
+groups.
+
+COST IMPLICATIONS
+
+While conducting the systematic review for clinical in-
+
+terventions, an informal scan for recent independently
+
+conducted cost utility or economic analyses that might
+
+inform the relative value of available treatment options was
+
+also conducted. As a result, 12 studies of cost-effectiveness
+
+of systematic therapy options for advanced HCC were
+
+identiﬁed (Data Supplement, online only).77-88 These
+
+studies most commonly stated a willingness to pay (WTP)
+
+threshold for a quality-adjusted life-year (QALY; ie, 1 year in
+
+perfect health) of $100,000 US dollars (USD), while some
+
+studies used a WTP threshold of $50,000 USD. In addition
+
+to the costs of the drugs, other costs included in the model
+
+varied across studies but commonly included management
+
+of adverse events, supportive care, follow-up and sur-
+
+veillance, and end-of-life care. Results of the base-case
+
+analyses from these studies are brieﬂy described
+
+subsequently.
+
+Four studies of ﬁrst-line sorafenib compared with BSC were
+
+identiﬁed. Three of these studies, conducted in India,78
+
+a military hospital in Egypt,79 and a hypothetical cohort in
+
+Italy,77 respectively, found that sorafenib was not cost-
+
+effective at deﬁned WTP thresholds. However, one study
+
+found that dose-adjusted sorafenib was more cost-effective
+
+than full-dose sorafenib and that the former option was
+
+cost-effective at the deﬁned WTP threshold.77 A study that
+
+did not incorporate QALYs found that sorafenib was cost-
+
+effective at their WTP threshold for 1 life-year for patients
+
+with compensated cirrhosis.83
+
+4340 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+Analyses conducted in Japan and Canada, respectively,
+
+compared lenvatinib to sorafenib, applying the character-
+
+istics of the patient population from the REFLECT trial.80,81
+
+In both countries, the incremental cost-effectiveness ratios
+
+(ICERs) were found to exceed the respective WTP
+
+thresholds for 1 QALY for both drugs. Lenvatinib was found
+
+to have higher cost-effectiveness in both countries, but the
+
+higher cost of sorafenib was somewhat offset by costs
+
+associated with a longer treatment duration with lenvatinib.
+
+Six
+
+cost-effectiveness
+
+analyses
+
+assessed
+
+second-line
+
+therapy options following treatment with sorafenib. Three
+
+of these were studies of cabozantinib compared with BSC
+
+or placebo, conducted for populations in the United States,
+
+using assumptions based on the CELESTIAL RCT.82,86,87
+
+One of these studies also provided estimates for the United
+
+Kingdom and China. Across all three studies, the ICER for
+
+cabozantinib exceeded the WTP threshold for 1 QALY.
+
+Studies of the cost-effectiveness of regorafenib 1 BSC
+
+compared with placebo 1 BSC or BSC alone, conducted in
+
+the United States and with assumptions based on the
+
+RESORCE RCT, found that the ICERs with regorafenib
+
+exceeded the WTP threshold for 1 QALY.84,85 Likewise, the
+
+cost of 1 QALY was found to exceed the ICER for ramu-
+
+cirumab in patients with AFP levels of at least 400 ng/mL.88
+
+The ﬁnding that the cost of these drugs exceeds WTP
+
+thresholds in most cases reﬂects the balance of utility in
+
+terms of survival and other outcomes and disutility resulting
+
+from adverse events and relatively high drug costs. In
+
+general, for HCC, costs of care are highest in the initial
+
+treatment and terminal phases and lower in the continuing
+
+care phase.89 Study authors suggest that the ICER could be
+
+improved by lowering the cost82,84 or improving patient
+
+selection, ideally with the use of biomarkers.86
+
+Many study assumptions regarding patient characteristics,
+
+utility, and disutility estimates are based on randomized trial
+
+populations, which may not reﬂect the characteristics of
+
+real-world populations.90 These analyses are based on
+
+available cost information, but it is challenging to determine
+
+actual drug costs because information on discounts and
+
+rebates that could bring the ICER into the cost-effective
+
+range are often not publicly available. On the whole, it is
+
+expected that increased use of expensive medications will
+
+be the cause of rising costs of HCC treatment; however,
+
+incidence of HCC may be reduced by programs that screen
+
+for and provide treatment of viral hepatitis and screening
+
+among high-risk patients to detect HCC at a stage at which
+
+treatment is less costly.89 Generic sorafenib, expected after
+
+patent expiration in 2020,90 will perhaps make it cost-
+
+effective in more scenarios. Going forward, we anticipate
+
+that cost-utility analyses will eventually be published for the
+
+combination atezo 1 bev, for which the full trial results have
+
+recently been published.12 It would be helpful to see
+
+a comparison of this newer combination with other ﬁrst-line
+
+therapy options, to better inform treatment decision
+
+making.
+
+In addition, the discussion of cost has implications for the
+
+disparities in care that are discussed in the Health Dis-
+
+parities section; higher patient out-of-pocket costs have
+
+been shown to be a barrier to initiating and adhering to
+
+recommended cancer treatments.91,92 There remains an
+
+urgent need for simpliﬁed standardized methodologies to
+
+assess treatment costs and survival value93 and periodic
+
+recurrent team-based patient engagement around ﬁnancial
+
+toxicities related to cancer treatment94,95 and independent
+
+impact on quality of life. Across all disease sites, ASCO
+
+recommends that patients be made aware that different
+
+products may be preferred or covered by their particular
+
+insurance plan and that even with the same insurance plan,
+
+the price may vary between different pharmacies. Patients
+
+should also be made aware of any ﬁnancial counseling
+
+services—including the many Patient Assistance Programs
+
+offered by drug manufacturers—available to address this
+
+complex set of issues.96 Studies that examine impact of
+
+early involvement of palliative care and hepatology to
+
+minimize inpatient hospitalizations that drive 64% of the
+
+cost of care are also warranted.5
+
+OPEN COMMENT
+
+The draft recommendations were released to the public for
+
+open comment from June 8 through June 22, 2020. Re-
+
+sponse categories of “Agree as written,” “Agree with
+
+suggested modiﬁcations,” and “Disagree. See comments”
+
+were captured for every proposed recommendation, with
+
+written comments received. A total of 100% of the 10
+
+respondents either agreed or agreed with slight modiﬁca-
+
+tions to the recommendations, and none of the re-
+
+spondents disagreed. Expert Panel members reviewed
+
+comments from all sources and determined whether to
+
+maintain original draft recommendations, revise with minor
+
+language changes, or consider major recommendation
+
+revisions. As a result of feedback from two reviewers, level
+
+of AFP was speciﬁed in the recommendations for ramu-
+
+cirumab. A reviewer suggested including a recommenda-
+
+tion
+
+for
+
+the
+
+FDA-approved
+
+combination
+
+ipilimumab/
+
+nivolumab following sorafenib. The Expert Panel agreed to
+
+include this option in the Discussion section, rather than
+
+make a recommendation, as the only data available were
+
+published as a phase I/II abstract and have yet to be
+
+conﬁrmed in a full publication. All changes were in-
+
+corporated prior to Clinical Practice Guidelines Committee
+
+review and approval.
+
+GUIDELINE IMPLEMENTATION
+
+ASCO guidelines are developed for implementation across
+
+health settings. Each ASCO guideline includes one or more
+
+member from ASCO’s Practice Guideline Implementation
+
+Network (PGIN) on the panel. The additional role of this
+
+PGIN representative on the guideline panel is to assess the
+
+suitability of the recommendations to implementation in the
+
+community setting and also to identify other barriers to
+
+Journal of Clinical Oncology
+
+4341
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+implementation. Barriers to implementation include the
+
+need to increase awareness of the guideline recommen-
+
+dations among front-line practitioners and survivors of
+
+cancer and caregivers and also to provide adequate ser-
+
+vices in the face of limited resources. The guideline Bottom
+
+Line Box was designed to facilitate implementation of
+
+recommendations. This guideline will be distributed widely
+
+through the ASCO PGIN. ASCO guidelines are posted on
+
+the ASCO website and most often published in Journal of
+
+Clinical Oncology.
+
+This guideline included three panel members who are
+
+members of the PGIN. In general, they indicated that the
+
+guideline recommendations will be helpful for community
+
+oncologists. Some considerations regarding implementa-
+
+tion included the potential difﬁculty of independent medical
+
+oncology practitioners to easily access the expertise of GI or
+
+radiation oncology specialists when necessary, as well as
+
+the uncertainty of the evidence for certain subgroups of
+
+patients, such as Child-Pugh class B or patients with portal
+
+hypertension. All PGIN members indicated that the con-
+
+siderations outlined in the Cost Implications section are
+
+a factor in implementation of the guideline recommenda-
+
+tions so that patients can receive appropriate and timely
+
+care. One PGIN member reported that the insurance ap-
+
+proval for some of the options after ﬁrst-line therapy is
+
+uncertain. Another noted a concern about the inability of
+
+some patients to afford copayments. A third member re-
+
+ported that it is not uncommon for patients who are unable
+
+to pay for medications but who do qualify for ﬁnancial
+
+assistance from a drug company to experience a delay in
+
+assistance that results in cancer progression and patient
+
+comorbidities worsening to an extent that the cancer
+
+treatment becomes intolerable.
+
+ADDITIONAL RESOURCES
+
+More information, including a supplement with addi-
+
+tional evidence tables, slide sets, and clinical tools and
+
+resources, is available at www.asco.org/gastrointestinal-
+
+cancer-guidelines. Patient information is available at
+
+www.cancer.net.
+
+ASCO believes that cancer clinical trials are vital to inform
+
+medical decisions and improve cancer care, and that all
+
+patients should have the opportunity to participate.
+
+RELATED ASCO GUIDELINES
+
+• Integration of Palliative Care Into Standard On-
+
+cology Care: American Society of Clinical On-
+
+cology Clinical Practice Guideline Update97
+
+(http://ascopubs.org/doi/10.1200/
+
+JCO.2016.70.1474)
+
+• Patient-Clinician
+
+Communication:
+
+American
+
+Society of Clinical Oncology Consensus Guide-
+
+line61 (http://ascopubs.org/doi/10.1200/JCO.2017.
+
+75.2311)
+
+AFFILIATIONS
+
+1University of California, San Francisco, San Francisco, CA
+
+2American Society of Clinical Oncology, Alexandria, VA
+
+3Memorial Sloan Kettering Cancer Center, Weill Medical College at
+
+Cornell University, New York, NY
+
+4UT Southwestern, Dallas, TX
+
+5Lefcourt Family Cancer Treatment and Wellness Center, Englewood, NJ
+
+6Penn Medicine, Philadelphia, PA
+
+7Vanderbilt Ingram Cancer Center, Nashville, TN
+
+8Weill Cornell Medicine, New York, NY
+
+9Sutter Health, San Francisco, CA
+
+10UW Medicine, Seattle, WA
+
+11Roswell Park Comprehensive Cancer Center, Buffalo, NY
+
+12Beaumont Hospital, Royal Oak, MI
+
+13Englewood Hospital, Englewood, NJ
+
+14Cancer Treatment Centers of America, Tulsa, OK
+
+15MD Anderson Cancer Center, Houston, TX
+
+16Princess Margaret Cancer Centre, Toronto, Ontario, Canada
+
+17Yale Cancer Center, New Haven, CT
+
+18VA New York Harbor Healthcare System, Brooklyn, NY
+
+19California Hepatitis C Task Force, California Chronic Care Coalition,
+
+FAIR Foundation, San Francisco, CA
+
+20University of Arizona Cancer Center, Tucson, AZ
+
+21University of Cincinnati, Cincinnati, OH
+
+22Yale University School of Medicine and VA Connecticut Healthcare
+
+System, West Haven, CT
+
+23University of Illinois Hospital, Chicago, IL
+
+24Blue Faery: The Adrienne Wilson Liver Cancer Association,
+
+Birmingham, AL
+
+25Massachusetts General Hospital Cancer Center, Harvard Medical
+
+School, Boston, MA
+
+26Yale Cancer Center and VA Connecticut Healthcare System, West
+
+Haven, CT
+
+EDITOR’S NOTE
+
+This American Society of Clinical Oncology Clinical Practice Guideline
+
+provides recommendations, with comprehensive review and analyses of
+
+the relevant literature for each recommendation. Additional information,
+
+including a supplement with additional evidence tables, slide sets,
+
+clinical tools and resources, and links to patient information at
+
+www.cancer.net, is available at www.asco.org/gastrointestinal-cancer-
+
+guidelines.
+
+EQUAL CONTRIBUTION
+
+J.D.G. and M.G.R. were Expert Panel co-chairs
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF
+
+INTEREST
+
+Disclosures provided by the authors are available with this article at DOI
+
+https://doi.org/10.1200/JCO.20.02672.
+
+AUTHOR CONTRIBUTIONS
+
+Manuscript writing: All authors
+
+Final approval of manuscript: All authors
+
+Accountable for all aspects of the work: All authors
+
+4342 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+ACKNOWLEDGMENT
+
+We thank Nishin Bhadkamkar, MD and Shishir Maithel, MD and the
+
+Clinical Practice Guidelines Committee for their thoughtful reviews and
+
+insightful comments on this guideline.
+
+REFERENCES
+
+1.
+
+Bray F, Ferlay J, Soerjomataram I, et al: Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185
+
+countries. CA Cancer J Clin 68:394-424, 2018 [Erratum: CA Cancer J Clin 70:313, 2020] https://www.cancer.org/cancer/liver-cancer/about/what-is-key-
+
+statistics.html
+
+2.
+
+American Cancer Society: Key statistics about liver cancer, 2020
+
+3.
+
+Global Burden of Disease Liver Cancer Collaboration, Akinyemiju T, Abera S, et al: The burden of primary liver cancer and underlying etiologies from 1990 to
+
+2015 at the global, regional, and national level: Results from the Global Burden of Disease Study 2015. JAMA Oncol 3:1683-1691, 2017
+
+4.
+
+Villanueva A: Hepatocellular carcinoma. N Engl J Med 380:1450-1462, 2019
+
+5.
+
+Kaplan DE, Chapko MK, Mehta R, et al: Healthcare costs related to treatment of hepatocellular carcinoma among veterans with cirrhosis in the United States.
+
+Clin Gastroenterol Hepatol 16:106-114.e5, 2018
+
+6.
+
+Islami F, Miller KD, Siegel RL, et al: Disparities in liver cancer occurrence in the United States by race/ethnicity and state. CA Cancer J Clin 67:273-289, 2017
+
+7.
+
+Petrick JL, Kelly SP, Altekruse SF, et al: Future of hepatocellular carcinoma incidence in the United States forecast through 2030. J Clin Oncol 34:1787-1794,
+
+2016
+
+8.
+
+Forner A, Llovet JM, Bruix J: Hepatocellular carcinoma. Lancet 379:1245-1255, 2012
+
+9.
+
+Abou-Alfa GK, Schwartz L, Ricci S, et al: Phase II study of sorafenib in patients with advanced hepatocellular carcinoma. J Clin Oncol 24:4293-4300, 2006
+
+10.
+
+Cheng AL, Kang YK, Chen Z, et al: Efﬁcacy and safety of sorafenib in patients in the Asia-Paciﬁc region with advanced hepatocellular carcinoma: A phase III
+
+randomised, double-blind, placebo-controlled trial. Lancet Oncol 10:25-34, 2009
+
+11.
+
+Llovet J, Finn RS, Ikeda M, et al: A phase 1b trial of lenvatinib (LEN) plus pembrolizumab (PEMBRO) in unresectable hepatocellular carcinoma (UHCC):
+
+Updated results. Presented at the European Society for Medical Oncology 2019 Congress, Barcelona, Spain, September 27-October 1, 2019
+
+12.
+
+Finn RS, Qin S, Ikeda M, et al: Atezolizumab plus bevacizumab in unresectable hepatocellular carcinoma. N Engl J Med 382:1894-1905, 2020
+
+13.
+
+Kelley RK, Sangro B, Harris WP, et al: Efﬁcacy, tolerability, and biologic activity of a novel regimen of tremelimumab (T) in combination with durvalumab (D) for
+
+patients (pts) with advanced hepatocellular carcinoma (aHCC). J Clin Oncol 38,2020 (suppl 15; abstr 4508)
+
+14.
+
+El-Khoueiry A: Atezolizumab and bevacizumab combination therapy for hepatocellular carcinoma. Gastroenterol Hepatol (N Y) 16:145-148, 2020
+
+15.
+
+Jackson R, Psarelli EE, Berhane S, et al: Impact of viral status on survival in patients receiving sorafenib for advanced hepatocellular cancer: A meta-analysis of
+
+randomized phase III trials. J Clin Oncol 35:622-628, 2017
+
+16.
+
+Bruix J, Cheng AL, Meinhardt G, et al: Prognostic factors and predictors of sorafenib beneﬁt in patients with hepatocellular carcinoma: Analysis of two phase III
+
+studies. J Hepatol 67:999-1008, 2017 [Erratum: J Hepatol 69:990-991, 2018]
+
+17.
+
+Park J, Cho J, Lim JH, et al: Relative efﬁcacy of systemic treatments for patients with advanced hepatocellular carcinoma according to viral status: A systematic
+
+review and network meta-analysis. Target Oncol 14:395-403, 2019
+
+18.
+
+Kudo M, Finn RS, Qin S, et al: Lenvatinib versus sorafenib in ﬁrst-line treatment of patients with unresectable hepatocellular carcinoma: A randomised phase
+
+3 non-inferiority trial. Lancet 391:1163-1173, 2018
+
+19.
+
+Sangro B: State of the art management of advanced hepatocellular carcinoma. Presented at ASCO Gastrointestinal Cancers Symposium, San Francisco, CA,
+
+January 23-25, 2020
+
+20.
+
+Shiffman RN MG, Michel G, Rosenfeld RM, et al: Building better guidelines with BRIDGE-Wiz: Development and evaluation of a software assistant to promote
+
+clarity, transparency, and implementability. J Am Med Inform Assoc 19:94-101, 2012
+
+21.
+
+Higgins JPT, Thomas J, Chandler J, et al (eds): Cochrane Handbook for Systematic Reviews of Interventions (ed 2). Chichester, UK, Wiley, 2019
+
+22.
+
+Bro˙zek JL, Akl EA, Compalati E, et al: Grading quality of evidence and strength of recommendations in clinical practice guidelines part 3 of 3. The GRADE
+
+approach to developing recommendations. Allergy 66:588-595, 2011
+
+23.
+
+Abou-Alfa GK, Meyer T, Cheng AL, et al: Cabozantinib in patients with advanced and progressing hepatocellular carcinoma. N Engl J Med 379:54-63, 2018
+
+24.
+
+Bruix J, Qin S, Merle P, et al: Regorafenib for patients with hepatocellular carcinoma who progressed on sorafenib treatment (RESORCE): A randomised,
+
+double-blind, placebo-controlled, phase 3 trial. Lancet 389:56-66, 2017
+
+25.
+
+Llovet JM, Ricci S, Mazzaferro V, et al: Sorafenib in advanced hepatocellular carcinoma. N Engl J Med 359:378-390, 2008
+
+26.
+
+Finn RS, Ryoo BY, Merle P, et al: Pembrolizumab as second-line therapy in patients with advanced hepatocellular carcinoma in KEYNOTE-240: A randomized,
+
+double-blind, phase III trial. J Clin Oncol 38:193-202, 2020
+
+27.
+
+Zhu AX, Kang YK, Yen CJ, et al: Ramucirumab after sorafenib in patients with advanced hepatocellular carcinoma and increased a-fetoprotein concentrations
+
+(REACH-2): A randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol 20:282-296, 2019
+
+28.
+
+Yau T, Park JW, Finn RS, et al: CheckMate 459: A randomized, multi-center phase III study of nivolumab (NIVO) vs sorafenib (SOR) as ﬁrst-line (1L) treatment in
+
+patients (pts) with advanced hepatocellular carcinoma (aHCC). Ann Oncol 30, 2019 (suppl 5; abstr 6572)
+
+29.
+
+US
+
+Food
+
+and
+
+Drug
+
+Administration:
+
+Highlights
+
+of
+
+prescribing
+
+information,
+
+2020
+
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/
+
+761034s025lbl.pdf
+
+30.
+
+Galle PR, Finn RS, Qin S, et al: Patient-reported outcomes (PROs) from the Phase III IMbrave150 trial of atezolizumab (atezo) 1 bevacizumab (bev) vs sorafenib
+
+(sor) as ﬁrst-line treatment (tx) for patients (pts) with unresectable hepatocellular carcinoma (HCC). Presented at ASCO Gastrointestinal Cancers Symposium,
+
+San Francisco, CA, January 23-25, 2020
+
+31.
+
+Finn RS, Merle P, Granito A, et al: Outcomes of sequential treatment with sorafenib followed by regorafenib for HCC: Additional analyses from the phase III
+
+RESORCE trial. J Hepatol 69:353-358, 2018
+
+32.
+
+National Comprehensive Cancer Network: NCCN Guidelines Version 4.2020: Hepatobiliary Cancers. 2020 https://www.nccn.org/professionals/physician_gls/
+
+pdf/hepatobiliary.pdf
+
+33.
+
+Zhu AX, Park JO, Ryoo BY, et al: Ramucirumab versus placebo as second-line treatment in patients with advanced hepatocellular carcinoma following ﬁrst-line
+
+therapy with sorafenib (REACH): A randomised, double-blind, multicentre, phase 3 trial. Lancet Oncol 16:859-870, 2015
+
+34.
+
+Kudo M: Targeted and immune therapies for hepatocellular carcinoma: Predictions for 2019 and beyond. World J Gastroenterol 25:789-807, 2019
+
+Journal of Clinical Oncology
+
+4343
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+35.
+
+El-Khoueiry AB, Sangro B, Yau T, et al: Nivolumab in patients with advanced hepatocellular carcinoma (CheckMate 040): An open-label, non-comparative,
+
+phase 1/2 dose escalation and expansion trial. Lancet 389:2492-2502, 2017
+
+36.
+
+Allaire M, Nault JC: Cabozantinib and the moving ﬁeld of systemic treatments in advanced hepatocellular carcinoma. Hepatobiliary Surg Nutr 8:53-55, 2019
+
+37.
+
+US Food and Drug Administration: FDA approves cabozantinib for hepatocellular carcinoma, 2019 https://www.fda.gov/drugs/fda-approves-cabozantinib-
+
+hepatocellular-carcinoma#:~:text5On%20January%2014%2C%202019%2C%20the,been%20previously%20treated%20with%20sorafenib.
+
+38.
+
+Labeur TA, Ten Cate DWG, Bart Takkenberg R, et al: Are we SHARP enough? The importance of adequate patient selection in sorafenib treatment for
+
+hepatocellular carcinoma. Acta Oncol 57:1467-1474, 2018
+
+39.
+
+McNamara MG, Slagter AE, Nuttall C, et al: Sorafenib as ﬁrst-line therapy in patients with advanced Child-Pugh B hepatocellular carcinoma-a meta-analysis.
+
+Eur J Cancer 105:1-9, 2018
+
+40.
+
+Marrero JA, Kudo M, Venook AP, et al: Observational registry of sorafenib use in clinical practice across Child-Pugh subgroups: The GIDEON study. J Hepatol
+
+65:1140-1147, 2016
+
+41.
+
+Kambhampati S, Bauer KE, Bracci PM, et al: Nivolumab in patients with advanced hepatocellular carcinoma and Child-Pugh class B cirrhosis: Safety and
+
+clinical outcomes in a retrospective case series. Cancer 125:3234-3241, 2019
+
+42.
+
+European Association For The Study Of The Liver-European Organisation For Research And Treatment Of Cancer: EASL-EORTC clinical practice guidelines:
+
+Management of hepatocellular carcinoma. J Hepatol 56:908-943, 2012
+
+43.
+
+UK National Institute for Health and Care Excellence (NICE): Sorafenib for treating advanced hepatocellular carcinoma (TA474), 2017 https://www.nice.org.uk/
+
+guidance/ta474
+
+44.
+
+Miller AA, Murry DJ, Owzar K, et al: Phase I and pharmacokinetic study of sorafenib in patients with hepatic or renal dysfunction: CALGB 60301. J Clin Oncol 27:
+
+1800-1805, 2009
+
+45.
+
+Labeur TA, Achterbergh R, Takkenberg B, et al: Sorafenib for patients with hepatocellular carcinoma and Child-Pugh B liver cirrhosis: Lessons learned from
+
+a terminated study. Oncologist 25:e1274-e1279, 2019
+
+46.
+
+Zhu AX, Finn RS, Edeline J, et al: Pembrolizumab in patients with advanced hepatocellular carcinoma previously treated with sorafenib (KEYNOTE-224): A non-
+
+randomised, open-label phase 2 trial. Lancet Oncol 19:940-952, 2018
+
+47.
+
+U.S. Food and Drug Administration: FDA grants accelerated approval to nivolumab for HCC previously treated with sorafenib, 2017 https://www.fda.gov/drugs/
+
+resources-information-approved-drugs/fda-grants-accelerated-approval-nivolumab-hcc-previously-treated-sorafenib
+
+48.
+
+He AR, Yau T: Chiun Hsu Y-KK, et al: Nivolumab (NIVO) 1 ipilimumab (IPI) combination therapy in patients (pts) with advanced hepatocellular carcinoma
+
+(aHCC): Subgroup analyses from CheckMate 040. ASCO Gastrointestinal Cancers Symposium, San Francisco, CA, January 23-25, 2020
+
+49.
+
+Tucker N: FDA Approves Nivolumab Plus Ipilimumab in Advanced Hepatocellular Carcinoma, March 11, 2020 https://www.targetedonc.com/news/fda-
+
+approves-nivolumab-plus-ipilimumab-in-advanced-hepatocellular-carcinoma
+
+50.
+
+Bristol Myers Squibb: Bristol-Myers Squibb Announces First Presentation of Results for Opdivo (nivolumab) Plus Yervoy (ipilimumab) Combination in Advanced
+
+Hepatocellular Carcinoma at ASCO 2019 [news release]. Princeton, New Jersey, Bristol Myers Squibb, June 3, 2019
+
+51.
+
+Study of cabozantinib in combination with atezolizumab versus sorafenib in subjects with advanced HCC who have not received previous systemic anticancer
+
+therapy (COSMIC-312) https://clinicaltrials.gov/ct2/show/NCT03755791
+
+52.
+
+Ikeda M, Sung MW, Kudo M, et al: A phase 1b trial of lenvatinib (LEN) plus pembrolizumab (PEM) in patients (pts) with unresectable hepatocellular carcinoma
+
+(uHCC). J Clin Oncol 36, 2018 (suppl 15; abstr 4076)
+
+53.
+
+A study of nivolumab in combination with ipilimumab in participants with advanced hepatocellular carcinoma (CheckMate 9DW), 2020 https://clinicaltrials.gov/
+
+ct2/show/NCT04039607
+
+54.
+
+Kudo M, Ueshima K, Ikeda M, et al: Randomised, multicentre prospective trial of transarterial chemoembolisation (TACE) plus sorafenib as compared with
+
+TACE alone in patients with hepatocellular carcinoma: TACTICS trial. Gut 69:1492-1501, 2020
+
+55.
+
+Kim RD, Sarker D, Meyer T, et al: First-in-human phase I study of ﬁsogatinib (BLU-554) validates aberrant FGF19 signaling as a driver event in hepatocellular
+
+carcinoma. Cancer Discov 9:1696-1707, 2019
+
+56.
+
+Jacobs JM, Pensak NA, Sporn NJ, et al: Treatment satisfaction and adherence to oral chemotherapy in patients with cancer. J Oncol Pract 13:e474-e485, 2017
+
+57.
+
+Hirao C, Mikoshiba N, Shibuta T, et al: Adherence to oral chemotherapy medications among gastroenterological cancer patients visiting an outpatient clinic. Jpn
+
+J Clin Oncol 47:786-794, 2017
+
+58.
+
+Paolella GA, Boyd AD, Wirth SM, et al: Adherence to oral anticancer medications: Evolving interprofessional roles and pharmacist workforce considerations.
+
+Pharmacy (Basel) 6:23, 2018
+
+59.
+
+Darling JO, Raheem F, Carter KC, et al: Evaluation of a pharmacist led oral chemotherapy clinic: A pilot program in the gastrointestinal oncology clinic at an
+
+academic medical center. Pharmacy (Basel) 8:46, 2020
+
+60.
+
+Muluneh B, Schneider M, Faso A, et al: Improved adherence rates and clinical outcomes of an integrated, closed-loop, pharmacist-led oral chemotherapy
+
+management program. J Oncol Pract 14:e324-e334, 2018
+
+61.
+
+Gilligan T, Coyle N, Frankel RM, et al: Patient-clinician communication: American Society of Clinical Oncology Consensus Guideline. J Clin Oncol 35:
+
+3618-3632, 2017
+
+62.
+
+American Cancer Society: Cancer Facts &amp; Figures for African Americans 2016-2018. Atlanta GA, American Cancer Society, 2016. http://www.cancer.org/acs/
+
+groups/content/@editorial/documents/document/acspc-047403.pdf
+
+63.
+
+US Cancer Statistics Working Group: United States Cancer Statistics: 1999-2012 Incidence and Mortality Web-based Report. Atlanta GA, US Department of
+
+Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute, 2015
+
+64.
+
+Jones K, Siegel B, Mead H, et al: Racial and Ethnic Disparities in US Health Care: A Chartbook. New York, NY, Commonwealth Fund, 2008
+
+65.
+
+Howlader N, Noone AM, Krapcho M, et al: SEER Cancer Statistics Review, 1975-2013. Bethesda, MD, National Cancer Institute, 2016
+
+66.
+
+Centers for Disease Control and Prevention: Viral Hepatitis, 10 Jun 2020 https://www.cdc.gov/hepatitis/index.htm
+
+67.
+
+Ha J, Yan M, Aguilar M, et al: Race/ethnicity-speciﬁc disparities in cancer incidence, burden of disease, and overall survival among patients with hepatocellular
+
+carcinoma in the United States. Cancer 122:2512-2523, 2016
+
+68.
+
+Xu L, Kim Y, Spolverato G, et al: Racial disparities in treatment and survival of patients with hepatocellular carcinoma in the United States. Hepatobiliary Surg
+
+Nutr 5:43-52, 2016
+
+69.
+
+Mathur AK, Osborne NH, Lynch RJ, et al: Racial/ethnic disparities in access to care and survival for patients with early-stage hepatocellular carcinoma. Arch
+
+Surg 145:1158-1163, 2010
+
+70.
+
+Artinyan A, Mailey B, Sanchez-Luege N, et al: Race, ethnicity, and socioeconomic status inﬂuence the survival of patients with hepatocellular carcinoma in the
+
+United States. Cancer 116:1367-1377, 2010
+
+71.
+
+Frenette CT: Increasing awareness on racial disparities in liver transplantation for hepatocellular carcinoma in the United States. Hepatol Commun 3:5-7, 2019
+
+4344 © 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+72.
+
+Estevez J, Yang JD, Leong J, et al: Clinical features associated with survival outcome in African-American patients with hepatocellular carcinoma. Am
+
+J Gastroenterol 114:80-88, 2019
+
+73.
+
+Rich NE, Hester C, Odewole M, et al: Racial and ethnic differences in presentation and outcomes of hepatocellular carcinoma. Clin Gastroenterol Hepatol 17:
+
+551-559.e1, 2019
+
+74.
+
+Franco RA, Fan Y, Jarosek S, et al: Racial and geographic disparities in hepatocellular carcinoma outcomes. Am J Prev Med 55:S40-S48, 2018 (5, suppl 1)
+
+75.
+
+The Johns Hopkins Hospital: Understanding Disparities in Clinical Trial Enrollment, 2017 https://biomedicalodyssey.blogs.hopkinsmedicine.org/2017/08/
+
+understanding-disparities-in-clinical-trial-enrollment/
+
+76.
+
+Sanoff HK, Chang Y, Lund JL, et al: Sorafenib effectiveness in advanced hepatocellular carcinoma. Oncologist 21:1113-1120, 2016
+
+77.
+
+Camm`a C, Cabibbo G, Petta S, et al: Cost-effectiveness of sorafenib treatment in ﬁeld practice for patients with hepatocellular carcinoma. Hepatology 57:
+
+1046-1054, 2013
+
+78.
+
+Gupta N, Verma RK, Prinja S, et al: Cost-effectiveness of sorafenib for treatment of advanced hepatocellular carcinoma in India. J Clin Exp Hepatol 9:468-475,
+
+2019
+
+79.
+
+Hamdy Elsisi G, Nada Y, Rashad N, et al: Cost-effectiveness of sorafenib versus best supportive care in advanced hepatocellular carcinoma in Egypt. J Med
+
+Econ 22:163-168, 2019
+
+80.
+
+Kim JJ, McFarlane T, Tully S, et al: Lenvatinib versus sorafenib as ﬁrst-line treatment of unresectable hepatocellular carcinoma: A cost-utility analysis.
+
+Oncologist 25:e512-e519, 2020
+
+81.
+
+Kobayashi M, Kudo M, Izumi N, et al: Cost-effectiveness analysis of lenvatinib treatment for patients with unresectable hepatocellular carcinoma (uHCC)
+
+compared with sorafenib in Japan. J Gastroenterol 54:558-570, 2019
+
+82.
+
+Liao W, Huang J, Hutton D, et al: Cost-effectiveness analysis of cabozantinib as second-line therapy in advanced hepatocellular carcinoma. Liver Int 39:
+
+2408-2416, 2019
+
+83.
+
+Parikh ND, Marshall VD, Singal AG, et al: Survival and cost-effectiveness of sorafenib therapy in advanced hepatocellular carcinoma: An analysis of the SEER-
+
+Medicare database. Hepatology 65:122-133, 2017
+
+84.
+
+Parikh ND, Singal AG, Hutton DW: Cost effectiveness of regorafenib as second-line therapy for patients with advanced hepatocellular carcinoma. Cancer 123:
+
+3725-3731, 2017
+
+85.
+
+Shlomai A, Leshno M, Goldstein DA: Regorafenib treatment for patients with hepatocellular carcinoma who progressed on sorafenib-A cost-effectiveness
+
+analysis. PLoS One 13:e0207132, 2018
+
+86.
+
+Shlomai A, Leshno M, Goldstein DA: Cabozantinib for patients with advanced hepatocellular carcinoma: A cost-effectiveness analysis. Therap Adv Gas-
+
+troenterol 12:1756284819878304, 2019
+
+87.
+
+Soto-Perez-de-Celis E, Aguiar PN, Cord´on ML, et al: Cost-effectiveness of cabozantinib in the second-line treatment of advanced hepatocellular carcinoma.
+
+J Natl Compr Canc Netw 17:669-675, 2019
+
+88.
+
+Zheng H, Qin Z, Qiu X, et al: Cost-effectiveness analysis of ramucirumab treatment for patients with hepatocellular carcinoma who progressed on sorafenib with
+
+a-fetoprotein concentrations of at least 400 ng/ml. J Med Econ 23:347-352, 2020
+
+89.
+
+Thein HH, Isaranuwatchai W, Campitelli MA, et al: Health care costs associated with hepatocellular carcinoma: A population-based study. Hepatology 58:
+
+1375-1384, 2013
+
+90.
+
+Gyawali B, Prasad V: Health policy: Me-too drugs with limited beneﬁts - the tale of regorafenib for HCC. Nat Rev Clin Oncol 14:653-654, 2017 [Erratum: Nat Rev
+
+Clin Oncol 15:62, 2018]
+
+91.
+
+Streeter SB, Schwartzberg L, Husain N, et al: Patient and plan characteristics affecting abandonment of oral oncolytic prescriptions. J Oncol Pract 7:46s-51s,
+
+2011 (3, suppl)
+
+92.
+
+Dusetzina SB, Winn AN, Abel GA, et al: Cost sharing and adherence to tyrosine kinase inhibitors for patients with chronic myeloid leukemia. J Clin Oncol 32:
+
+306-311, 2014
+
+93.
+
+Guirgis HM: Drug costs vs probability of survival in lung cancer: Impact of dosage, duration, and immune checkpoint inhibitor combinations. J Clin Pathw 5:
+
+32-36, 2019
+
+94.
+
+Gilligan AM, Alberts DS, Roe DJ, et al: Death or debt? National estimates of ﬁnancial toxicity in persons with newly-diagnosed cancer. Am J Med 131:1187-
+
+1199.e5, 2018
+
+95.
+
+Ramsey SD, Bansal A, Fedorenko CR, et al: Financial insolvency as a risk factor for early mortality among patients with cancer. J Clin Oncol 34:980-986, 2016
+
+96.
+
+Meropol NJ, Schrag D, Smith TJ, et al: American Society of Clinical Oncology guidance statement: The cost of cancer care. J Clin Oncol 27:3868-3874, 2009
+
+97.
+
+Ferrell BR, Temel JS, Temin S, et al: Integration of palliative care into standard oncology care: American Society of Clinical Oncology clinical practice guideline
+
+update. J Clin Oncol 35:96-112, 2017
+
+n n n
+
+Journal of Clinical Oncology
+
+4345
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma: ASCO Guideline
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted.
+
+Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript.
+
+For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center.
+
+Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments).
+
+John D. Gordan
+
+Consulting or Advisory Role: Genentech/Roche
+
+Research Funding: ShangPharma Innovation (Inst)
+
+Patents, Royalties, Other Intellectual Property: A small molecule patent has
+
+been submitted for a tool compound developed in my academic research and is
+
+currently in provisional form. It has no current health applications but may
+
+eventually be developed into a clinically relevant compound. (Inst)
+
+Travel, Accommodations, Expenses: Genentech/Roche
+
+Ghassan K. Abou-Alfa
+
+Consulting or Advisory Role: Celgene, Silenseed (I), SillaJen, Gilead Sciences,
+
+Agios, Bayer, Eisai, Ipsen, Merck Serono, AstraZeneca, CytomX Therapeutics (I),
+
+BeiGene, Genoscience Pharma, LAM Therapeutics, Lilly, Loxo (I), Mina, QED,
+
+RedHill Biopharma, SOBI (I), twoXAR, Yiviva, Flatiron Health, Roche/
+
+Genentech, Autem, Berry Genomics, Gilead Sciences, Incyte, TheraBionic,
+
+Vector
+
+Research Funding: Bayer (Inst), Exelixis (Inst), CASI Pharmaceuticals (Inst),
+
+AstraZeneca (Inst), Bristol Myers Squibb (Inst), Incyte (Inst), Agios (Inst), Polaris
+
+(Inst), Puma Biotechnology (Inst), QED (Inst)
+
+Travel, Accommodations, Expenses: Polaris
+
+Muhammad Shaalan Beg
+
+Consulting or Advisory Role: Ipsen, Boston Biomedical, Array BioPharma,
+
+AstraZeneca/MedImmune
+
+Research Funding: Celgene (Inst), Bristol Myers Squibb (Inst), AstraZeneca/
+
+MedImmune (Inst), Merck Serono (Inst), Agios (Inst), Five Prime Therapeutics
+
+(Inst), MedImmune (Inst), ArQule (Inst), Genentech (Inst), Sillajen (Inst), CASI
+
+Pharmaceuticals (Inst), ImmuneSensor (Inst), Tolero Pharmaceuticals (Inst)
+
+Steven T. Brower
+
+Consulting or Advisory Role: Bayer
+
+Travel, Accommodations, Expenses: Bayer
+
+Terence P. Gade
+
+Consulting or Advisory Role: TriSalus Life Sciences
+
+Research Funding: Guerbet
+
+Laura Goff
+
+Consulting or Advisory Role: Lilly, Eisai, Bayer/Onyx, Newlink Genetics,
+
+Competitive Drug Development International, QED Therapeutics
+
+Research Funding: Astellas Pharma, Pﬁzer, Onyx, Sun Pharma, Lilly, Bristol
+
+Myers Squibb, Agios, ArQule, H3 Biomedicine, Incyte, Leap Therapeutics,
+
+ASLAN Pharmaceuticals, BeiGene, Basilea, Merck (Inst)
+
+William P. Harris
+
+Consulting or Advisory Role: NeoTherma, Eisai, Exelixis, Bristol Myers Squibb,
+
+QED Therapeutics, Zymeworks
+
+Research Funding: ArQule (Inst), Exelixis (Inst), Halozyme (Inst), Bristol Myers
+
+Squibb (Inst), MedImmune (Inst), Agios (Inst), Bayer (Inst), Merck (Inst), BTG
+
+(Inst)
+
+Travel, Accommodations, Expenses: Eisai
+
+Renuka Iyer
+
+Consulting or Advisory Role: Lexicon, Novartis, Eisai, Merck, Bayer, Advanced
+
+Accelerator Applications, Exelixis, Sun Pharmaceutical, QED therapeutics, Ipsen
+
+Research Funding: Genentech/Roche (Inst), Ipsen (Inst), Lilly (Inst), Merck
+
+(Inst), Taiho Pharmaceutical (Inst), Cleveland BioLabs (Inst), Novartis (Inst)
+
+Minaxi Jhawer
+
+Consulting or Advisory Role: Ipsen
+
+Ahmed O. Kaseb
+
+Honoraria: Merck, Exelixis, Bayer Health, Bristol Myers Squibb, Eisai,
+
+Genentech/Roche
+
+Consulting or Advisory Role: Bayer Health, Bristol Myers Squibb, Merck,
+
+Exelixis, Genentech/Roche, Eisai
+
+Research Funding: Bristol Myers Squibb (Inst), Merck (Inst), Bayer/Onyx (Inst),
+
+Genentech (Inst), Adaptimmune (Inst), Hengrui Pharmaceutical (Inst)
+
+Travel, Accommodations, Expenses: Exelixis, Merck, Bayer/Onyx, Bristol Myers
+
+Squibb
+
+Robin Kelley
+
+Consulting or Advisory Role: Agios (Inst), AstraZeneca (Inst), Bristol Myers
+
+Squibb (Inst), Genentech/Roche, Merck (Inst), Gilead Sciences, Exact Sciences
+
+Research Funding: Lilly (Inst), Exelixis (Inst), Novartis (Inst), Bristol Myers
+
+Squibb (Inst), MedImmune (Inst), Merck Sharp &amp; Dohme (Inst), Agios (Inst),
+
+AstraZeneca (Inst), Adaptimmune (Inst), Taiho Pharmaceutical (Inst), Bayer
+
+(Inst), QED (Inst), EMD Serono (Inst), Partner Therapeutics (Inst)
+
+Travel, Accommodations, Expenses: Ipsen
+
+Jennifer J. Knox
+
+Honoraria: Novartis, Roche Canada
+
+Consulting or Advisory Role: Lilly, Merck, AstraZeneca/MedImmune
+
+Research Funding: AstraZeneca, Merck, Ibsen Canada
+
+Expert Testimony: AstraZeneca
+
+Rachna T. Shroff
+
+Consulting or Advisory Role: Seattle Genetics, Exelixis, Merck, QED
+
+Therapeutics, Debio Pharma, Agios, Clovis Oncology, Incyte, AstraZeneca, Taiho
+
+Pharmaceutical, Boehringer Ingelheim
+
+Research Funding: Agios, Halozyme, Pieris Pharmaceuticals, Taiho
+
+Pharmaceutical, Merck, Exelixis, QED Therapeutics, Rafael Pharmaceuticals
+
+Davendra P.S. Sohal
+
+Honoraria: Foundation Medicine
+
+Consulting or Advisory Role: Perthera, Ability Pharma
+
+Speakers’ Bureau: Incyte
+
+Research Funding: Celgene (Inst), Genentech (Inst), Bristol Myers Squibb (Inst),
+
+Incyte (Inst), Rafael Pharmaceuticals (Inst), Apexigen (Inst), Amgen (Inst)
+
+Neeta K. Venepalli
+
+Honoraria: Lilly
+
+Andrea Wilson
+
+Employment: Cancer University
+
+Honoraria: HCC TAG Conference
+
+Consulting or Advisory Role: Eisai, Genentech/Roche, AstraZeneca, COR2ED
+
+Travel, Accommodations, Expenses: Genentech/Roche, HCC TAG Conference
+
+Andrew X. Zhu
+
+Consulting or Advisory Role: Eisai, Merck, AstraZeneca, Bayer, Exelixis, Lilly,
+
+Roche/Genentech, Sanoﬁ/Aventis
+
+Research Funding: Lilly (Inst), Bayer (Inst), Bristol Myers Squibb (Inst), Novartis
+
+(Inst), Merck (Inst)
+
+Michal G. Rose
+
+Research Funding: Lilly (Inst), Oncocyte (Inst), Bristol Myers Squibb (Inst),
+
+EpicentRx (Inst)
+
+No other potential conﬂicts of interest were reported.
+
+© 2020 by American Society of Clinical Oncology
+
+Volume 38, Issue 36
+
+Gordan et al
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+
+APPENDIX
+
+TABLE A1. Systemic Therapy for Advanced Hepatocellular Carcinoma Expert Panel Membership
+
+Name
+
+Afﬁliation/Institution
+
+Role/Area of Expertise
+
+John D. Gordan, MD, PhD, co-
+
+chair
+
+University of California, San Francisco, San Francisco, CA
+
+Medical Oncology
+
+Michal G. Rose, MD, co-chair
+
+Yale Cancer Center and VA Connecticut Healthcare System,
+
+West Haven, CT
+
+Medical Oncology
+
+Ghassan K. Abou-Alfa, MD, MBA Memorial Sloan Kettering Cancer Center and Weill Medical
+
+College at Cornell University, New York, NY
+
+Medical Oncology
+
+Steven T. Brower, MD
+
+Lefcourt Family Cancer Treatment and Wellness Center,
+
+Englewood, NJ
+
+Surgical Oncology (Community Oncology)
+
+Muhammad Shaalan Beg, MD,
+
+MS
+
+UT Southwestern, Dallas, TX
+
+Medical Oncology
+
+Terence P. Gade, MD, PhD
+
+Penn Medicine, Philadelphia, PA
+
+Interventional Radiology
+
+Laura Goff, MD
+
+Vanderbilt Ingram Cancer Center, Nashville, TN
+
+Medical Oncology
+
+Shilpi Gupta, MD
+
+Weill Cornell Medicine, New York, NY
+
+PGIN Representative
+
+Jennifer Guy, MD
+
+Sutter Health, San Francisco, CA
+
+Gastroenterology/Hepatology
+
+William P. Harris, MD
+
+UW Medicine, Seattle, WA
+
+Medical Oncology
+
+Renuka Iyer, MD
+
+Roswell Park Comprehensive Cancer Center, Buffalo, NY
+
+Medical Oncology
+
+Ishmael Jaiyesimi, DO, MS
+
+Beaumont Hospital, Royal Oak, MI
+
+PGIN Representative
+
+Minaxi Jhawer, MD
+
+Englewood Hospital, Englewood, NJ
+
+Medical Oncology
+
+Asha Karippot, MD
+
+Cancer Treatment Centers of America, Tulsa, OK
+
+PGIN Representative
+
+Ahmed O. Kaseb, MD
+
+MD Anderson Cancer Center, Houston, TX
+
+Medical Oncology
+
+R. Kate Kelley, MD
+
+University of California, San Francisco, San Francisco, CA
+
+Medical Oncology
+
+Jennifer J. Knox, MD, MS
+
+Princess Margaret Cancer Centre, Toronto, ON
+
+Medical Oncology
+
+Jeremy Kortmansky, MD
+
+Yale Cancer Center, New Haven, CT
+
+Medical Oncology
+
+Andrea Leaf, MD
+
+VA New York Harbor Healthcare System, Brooklyn, NY
+
+Medical Oncology
+
+William M. Remak, MT
+
+California Hepatitis C Task Force, California Chronic Care
+
+Coalition member, FAIR Foundation, San Francisco, CA
+
+Patient Representative
+
+Rachna T. Shroff, MD, MS
+
+University of Arizona Cancer Center, Tucson, AZ
+
+Medical Oncology
+
+Davendra P.S. Sohal, MD, MPH
+
+University of Cincinnati, Cincinnati, OH
+
+Medical Oncology
+
+Tamar H. Taddei, MD
+
+Yale University School of Medicine and VA Connecticut Health
+
+Care System, West Haven, CT
+
+Gastroenterology/Hepatology
+
+Neeta K. Venepalli, MD, MBA
+
+University of Illinois Hospital, Chicago, IL
+
+Medical Oncology
+
+Andrea Wilson, MFA
+
+Blue Faery: The Adrienne Wilson Liver Cancer Association,
+
+Birmingham, AL
+
+Patient Representative
+
+Andrew X. Zhu, MD, PhD
+
+Massachusetts General Hospital Cancer Center, Harvard
+
+Medical School, Boston, MA
+
+Medical Oncology
+
+Erin B. Kennedy, MHSc
+
+American Society of Clinical Oncology, Alexandria, VA
+
+ASCO Practice Guideline Staff (Health Research
+
+Methods)
+
+Abbreviation: PGIN, Practice Guidelines Implementation Network.
+
+Journal of Clinical Oncology
+
+Systemic Therapy for Advanced Hepatocellular Carcinoma
+
+Downloaded from ascopubs.org by 35.212.174.237 on April 16, 2022 from 035.212.174.237
+
+Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+

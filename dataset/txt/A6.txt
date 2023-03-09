@@ -1,0 +1,1704 @@
+
+
+
+
+
+
+
+
+
+C
+
+o
+
+n
+
+q
+
+ue
+
+ri
+
+ng
+
+ He
+
+patitis            
+
+          
+
+       
+
+  n
+
+o
+
+w
+
+!
+
+     an oVerView oF
+
+A Roadmap 
+
+for a Cure
+
+Featuring #justB Storytellers
+
+July
+
+2017
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+2
+
+About this Overview
+
+This overview of the research agenda has been condensed from two 
+
+papers: the Hepatitis B Foundation white paper, A Roadmap for 
+
+a Cure: Priority Areas for Chronic Hepatitis B and Liver Cancer 
+
+Research, and the manuscript, A Research Agenda for Curing 
+
+Hepatitis B Virus Infection (submitted for publication). 
+
+The professional judgment budget summary was drawn from an 
+
+analysis of the research priorities identified in the A Roadmap for 
+
+a Cure white paper, then aligned with existing NIH research grant 
+
+mechanisms, funding levels, and duration. The full budget analysis is 
+
+available from the Hepatitis B Foundation. Note that the Professional 
+
+Judgment Budget was prepared by a committee distinct from the 
+
+Research Agenda, and while it is based on the research agenda, the 
+
+budget recommendations have not been reviewed or endorsed by 
+
+the authors of the scientific research agenda. 
+
+Copies of the full-length versions of any of these papers, with 
+
+complete authorship information and citations, are available from 
+
+the Hepatitis B Foundation by emailing info@hepb.org.
+
+The Real Stories featured throughout this document are from the 
+
+Hepatitis B Foundation #JustB Storytelling Project. This project 
+
+creates a national storybank of real people who share their stories 
+
+to put a human face on this serious disease; decrease stigma and 
+
+discrimination; and promote testing, immunization and treatment 
+
+for hepatitis B to save lives. Stories are used with permission.  
+
+For complete stories see www.hepb.org/justB.
+
+About the  
+
+hepAtitis b FoundAtion  
+
+And the bAruch s. blumberg 
+
+institute
+
+the hepatitis b Foundation is a national 
+
+nonprofit organization dedicated to 
+
+finding a cure and improving the quality 
+
+of life for those affected by hepatitis b 
+
+worldwide, through research, education, 
+
+and patient advocacy. the baruch s. 
+
+blumberg institute, established in 2003 by 
+
+the hepatitis b Foundation, is the nation’s 
+
+leading nonprofit research organization 
+
+dedicated to hepatitis b and liver cancer 
+
+worldwide. Visit www.hepb.org and 
+
+blumberginstitute.org.
+
+boArd oF directors
+
+chairman: Joel rosen, esq.
+
+president: timothy m. block, phd
+
+Vice president: catharine Williams, mgA
+
+treasurer: Joseph hediger
+
+secretary: Janine Witte
+
+stanley broadbent
+
+nathaniel brown, md
+
+Alan brownstein, mph
+
+loren danzis, esq.
+
+craig esterly
+
+Anthony Ford-hutchinson, phd
+
+thomas shenk, phd
+
+Walter tsou, md, mph
+
+Wayne Yetter
+
+scientiFic And medicAl AdVisors
+
+harvey Alter, md 
+
+timothy m. block, phd
+
+nathaniel brown, md
+
+carol brosgart, md
+
+Francis chisari, md
+
+raymond dwek, dphil, Frs
+
+lawrence Friedman, md
+
+robert gish, md
+
+hie-Won l. hann, md
+
+William mason, phd
+
+brian mcmahon, md
+
+robert perrillo, md
+
+Kenneth rothstein, md
+
+raymond schinazi, phd
+
+thomas shenk, phd
+
+in memoriAm
+
+baruch blumberg, md, dphil (2011)
+
+W. thomas london, md (2017)
+
+bud tennant, dVm (2016) 
+
+C
+
+o
+
+n
+
+q
+
+ue
+
+ri
+
+ng
+
+ Hep
+
+atitis        
+
+          
+
+        
+
+   n
+
+o
+
+w
+
+!
+
+     an oVerView oF
+
+A Roadmap 
+
+for a Cure
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+Foreword
+
+In 2016, the World Health Organization and the U.S. National Academies 
+
+of Science, Engineering, and Medicine declared that elimination of 
+
+hepatitis B from the human population is possible. The strategies 
+
+to achieve this will require both prevention and effective treatment. 
+
+There is a growing sense of urgency and opportunity for finding 
+
+transformational new therapies.
+
+During the period of December 2016 to February 2017, the Hepatitis B 
+
+Foundation convened a “virtual workshop” to consider the possibility of 
+
+discovery of a cure for chronic hepatitis B infection, and the diseases with 
+
+which it is associated, including liver cancer. More than 30 of the world’s 
+
+leading experts contributed to the development of a detailed Research 
+
+Agenda, a collective professional judgment on the research that is most 
+
+likely to advance the discovery and development of curative therapies for 
+
+hepatitis B. A brief summary of their recommendations is included in this 
+
+overview. The Hepatitis B Foundation subsequently convened a second 
+
+panel of five experts in health research funding to develop a Professional 
+
+Judgment Budget detailing the funding needed to achieve a cure for HBV 
+
+infection. Highlights of their analysis are also included in this report.
+
+The time is right for an aggressive and vigorous research campaign to 
+
+find a cure for chronic hepatitis B infection, because of the unacceptable 
+
+morbidity and mortality of this serious liver disease in the U.S. and 
+
+worldwide, and because recent advances in technology surrounding 
+
+the problem make this a winnable battle. Indeed, there is an increasing 
+
+optimism in the scientific community that a cure is possible.
+
+
+
+Timothy M. Block, Ph.D.
+
+President, Hepatitis B Foundation and the  
+
+Baruch S. Blumberg Institute
+
+AcKnoWledgements 
+
+research Agenda: the hepatitis b 
+
+Foundation (hbF) wishes to thank all 
+
+of those who participated in the “virtual 
+
+workshop” leading to the development of 
+
+the scientific research Agenda, including 
+
+(alphabetically): harvey Alter, timothy 
+
+block, nathaniel brown, Alan brownstein, 
+
+carol brosgart, Kyong-mi chang, pei-Jer 
+
+chen, Francis V. chisari, chari cohen, 
+
+hashem el-serag, Jordan Feld, robert 
+
+gish, Jeffrey glenn, tim greten, haitao 
+
+guo, Ju-tao guo, Yujin hoshida, Jianming 
+
+hu, Kris Kowdley, Wenhui li, Jake liang, 
+
+stephen locarnini, Anna s. lok, William 
+
+mason, brian mcmahon, Anand mehta, 
+
+robert perrillo, peter revill, charles m. 
+
+rice, JoAnn rinaudo, raymond schinazi, 
+
+christoph seeger, Kirti shetty, John tavis, 
+
+and Fabien Zoulim.
+
+professional Judgment budget: the 
+
+Foundation also acknowledges 
+
+(alphabetically) timothy block, Alan 
+
+brownstein, chari cohen, J. michael hall, 
+
+and Alyson lewis for development of the 
+
+professional judgment budget. 
+
+hbF is indebted to the individuals affected 
+
+by hbV infection who were willing to 
+
+share their personal stories, which are 
+
+included in this report.
+
+hbF also wishes to acknowledge theresa 
+
+m. Wizemann, Alan brownstein and 
+
+Jenny Kimbel for the preparation of this 
+
+overview of the research agenda.
+
+
+
+3
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+4
+
+The Public Health Consequences  
+
+of Hepatitis B
+
+Hepatitis B continues to be a significant public health problem in the U.S., 
+
+and around the world. More than 250 million people worldwide, and up 
+
+to 2 million in the U.S., are living with chronic, life-long hepatitis B virus 
+
+(HBV) infection. People who develop a chronic HBV infection have a 
+
+significant lifetime risk of premature death from liver failure, cirrhosis, and 
+
+primary liver cancer.
+
+HBV infection is preventable with a safe and effective vaccine. However, 
+
+vaccine coverage is incomplete, and new infections continue to occur 
+
+in unvaccinated or incompletely vaccinated individuals (3 doses are 
+
+required). For those with chronic HBV infection, there are now seven 
+
+FDA-approved antiviral therapies that can help to keep the infection under 
+
+control, and reduce the risk of liver damage or liver cancer. While these 
+
+treatments are effective in managing the infection, there is still no cure 
+
+for hepatitis B. People with chronic HBV face a lifetime of treatment and 
+
+surveillance for disease progression. A complicating factor is that long-
+
+term use of antiviral drugs can lead to mutations in the virus that allow it 
+
+to become resistant to the drugs (Weinbaum, 2008).
+
+Although the burden of most other cancers is declining in the U.S., liver 
+
+cancer incidence and death rates have continued to increase. Routine 
+
+screening can detect liver cancer at an early stage, when it can be treated 
+
+and potentially cured. While everyone with chronic hepatitis B should 
+
+be monitored for liver cancer,  only about 25 percent of HBV-infected 
+
+individuals in the U.S. know that they are infected. Of those, less than 10 
+
+percent receive antiviral treatment, and very few receive ongoing screening 
+
+for early detection of liver cancer. As a result of gaps in HBV screening, 
+
+treatment, and disease monitoring, along with the current lack of effective 
+
+therapies for liver cancer, the 5-year survival rate for individuals with HBV-
+
+associated liver cancer remains very low, about 16 percent (Cohen, 2011; 
+
+McMahon, 2015; Ryerson, 2016).
+
+“ I think a breakthrough is going to happen in the next few years. We have to 
+
+figure out how to attack each step of the hepatitis B virus life cycle so that we can 
+
+develop new drugs that will be more effective than the ones we currently have.”
+
+Anna Lok, M.D.
+
+President of the American Association for the Study of Liver Diseases (AASLD), 2017
+
+•  Up to 2 million people in 
+
+the U.S. are chronically 
+
+infected with the hepatitis 
+
+B virus (HBV).
+
+•  Worldwide, at least 
+
+250 million people are 
+
+chronically infected with 
+
+HBV.
+
+•  Up to 25% of people 
+
+who have chronic HBV 
+
+infection die prematurely 
+
+from liver failure, 
+
+cirrhosis, or liver cancer.
+
+•  Nearly 800,000 deaths 
+
+worldwide each year  
+
+are associated with  
+
+HBV infection  
+
+(8-10,000 in U.S.).
+
+Fast Facts: Hepatitis B
+
+(CDC, 2017; NASEM, 2016, 2017; HHS, 2014)
+
+•  More than half of the 
+
+Americans living with  
+
+chronic HBV infections are 
+
+of Asian and Pacific Islander 
+
+descent. Also at high risk  
+
+are African immigrants.
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+5
+
+Finding a cure for both hepatitis B and 
+
+HBV-associated liver cancer is critical to 
+
+reducing the devastating loss of life and 
+
+productivity caused by HBV infection.
+
+Curing HBV is a Winnable Battle
+
+Recent reports from the U.S. National 
+
+Academies of Science, Engineering and 
+
+Medicine (NASEM, 2016, 2017) and the 
+
+World Health Organization (WHO, 2016) 
+
+agree that HBV could be eliminated by 2030, if effective treatment is found for 
+
+people who are already infected. Current treatment relies on a limited number 
+
+of approved antiviral drugs that suppress the virus, but do not cure the 
+
+infection. In addition, drug-resistant strains of HBV have developed. Clearly, 
+
+new therapeutic drugs are needed that can be used alone, or in combination 
+
+with current approaches, to achieve better disease management and, 
+
+ultimately, a lasting cure for hepatitis B.
+
+In 2016, the International Coalition to Eliminate HBV (ICE-HBV) published 
+
+broad goals for research on HBV infection, and global strategies for a 
+
+coordinated approach to advance a cure (Revill, 2016). The Hepatitis B 
+
+Foundation sought to build upon this effort, defining specific areas of priority 
+
+research to create a road map for policymakers, funding organizations, and 
+
+those planning long-term research strategies.
+
+Surveying the Experts
+
+Working with more than 30 leading scientists and clinicians in the fields of 
+
+hepatitis B and liver cancer research, the Hepatitis B Foundation prepared 
+
+a research agenda for filling the major gaps in basic science and clinical 
+
+knowledge of HBV biology. The experts identified research projects they 
+
+deemed important to the goal of finding a cure for hepatitis B and HBV-related 
+
+complications, especially liver cancer. Their feedback provided the basis of 
+
+a comprehensive scientific Roadmap for a Cure, outlining specific research 
+
+priorities, and providing the rationale for their selection. Highlights of this 
+
+research agenda are presented here. 
+
+From a clinical perspective, the goal of HBV therapeutics is to reduce a 
+
+patient’s risk of liver cancer, cirrhosis, and death due to liver disease. Ideally, 
+
+the level of risk would be reduced such that it is comparable to that of 
+
+someone who has never been infected with HBV, or perhaps more realistically, 
+
+to that of someone who has fully recovered from an acute HBV infection 
+
+(Block, 2013). Achieving this goal is ambitious, but the experts surveyed 
+
+believe this is achievable with an aggressive, vigorous effort. Multiple parallel 
+
+research approaches will be needed, because different strategies of treatment 
+
+(including combination therapies) will be required depending upon the age of 
+
+patients, length of time of infection, status of immune response, genotype of 
+
+the infecting virus, and other variables (Bertoletti, 2015; McMahon, 2016).
+
+•  HBV infection is preventable 
+
+with a safe and effective 
+
+vaccine. Coverage is 
+
+incomplete, however, and 
+
+new infections continue  
+
+to occur.
+
+•  There are 7 FDA-approved 
+
+antiviral treatments for people 
+
+with chronic HBV that can 
+
+help to control the disease.
+
+there is no cure for  
+
+hepatitis B.
+
+2,000,000– 
+
+1,500,000–
+
+1,000,000–
+
+500,000–
+
+0–
+
+# of  
+
+Chronic HBV 
+
+Infections
+
+# Aware  
+
+of their  
+
+Infections
+
+# Potentially
+
+Eligible for
+
+Treatment
+
+# Entering  
+
+into  
+
+Care
+
+# of  
+
+Annual HBV 
+
+Prescriptions
+
+1.4- 
+
+2M
+
+400,000-
+
+600,000
+
+LOW
+
+Estimate
+
+HIGH
+
+Estimate
+
+350,000-
+
+500,000
+
+200,000-
+
+300,000
+
+50,000
+
+HBV GrADIENT FroM INFECTIoN To CArE
+
+cohen, 2011. reprint with permission.
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+6
+
+
+
+Broad Areas for Priority Research Action
+
+The research agenda developed by the experts is organized into six broad areas 
+
+of research action (see Table 1). Each of these broad areas is further divided into 
+
+specific subcategories that are discussed in detail in the full report.  
+
+Highlights are provided below.
+
+Virology and Viral Therapeutics
+
+Current treatments for hepatitis B work by inhibiting replication of the virus 
+
+(specifically, by inhibiting the assembly of new viral DNA). The therapeutic 
+
+benefit of targeting other functions that influence the viral life cycle remains 
+
+largely unexplored. There are a handful of other virus-specified gene products 
+
+that could serve as therapeutic targets, and there are possibly more (Block, 
+
+2013). Other major HBV gene products that could potentially be therapeutically 
+
+targeted include cccDNA, HBx, and the hepatitis B surface, core, and e antigens 
+
+(HBsAg, HBcAg, and HBeAg, respectively). 
+
+One area of HBV research where there is general consensus is the need to 
+
+prioritize research on understanding the biology of HBV covalently closed 
+
+circular DNA (cccDNA), and the mechanisms controlling its function. cccDNA 
+
+is viral genomic DNA that persists in the cell nucleus of infected liver cells, and 
+
+is essential for viral replication. cccDNA persistence is the reason that current 
+
+antiviral therapies cannot be discontinued in patients with chronic infection, 
+
+even after symptoms subside and levels of virus are low or undetectable.  
+
+Virology
+
+improve understanding 
+
+of hbV virology; 
+
+emphasize research 
+
+to define the 
+
+molecular mechanisms 
+
+responsible for 
+
+cccdnA biogenesis, 
+
+homeostasis and 
+
+decay; expand 
+
+research on viral 
+
+and host functions 
+
+influencing the viral  
+
+life cycle
+
+Immunology
+
+improve understanding 
+
+of adaptive and innate 
+
+immunology of hbV 
+
+acute, chronic, and 
+
+resolved infections, 
+
+and reactivation
+
+Viral
+
+Therapeutics
+
+develop hbV antiviral 
+
+therapies against 
+
+new viral and cellular 
+
+targets; develop 
+
+immunological 
+
+approaches that 
+
+selectively repress 
+
+or eliminate hbV in 
+
+infected cells
+
+Liver Cancer
+
+improve understanding 
+
+of molecular pathways 
+
+leading to liver cancer
+
+Liver Cancer
+
+Management
+
+exploit understanding 
+
+of molecular pathways 
+
+leading to liver cancer 
+
+for discovery and 
+
+development of new 
+
+early detection and 
+
+management of the 
+
+cancer
+
+Combined
+
+• develop and standardize 
+
+new research reagents 
+
+and systems to study 
+
+hbV and liver cancer 
+
+for the purposes of 
+
+drug discovery and 
+
+development
+
+• establish new, and expand 
+
+current, inter-institution 
+
+and inter-laboratory 
+
+collaborative networks for 
+
+basic science discovery 
+
+and validations
+
+• establish new, and expand 
+
+upon current, clinical 
+
+networks for therapeutic 
+
+drug testing and validation, 
+
+nationally and globally
+
+Broad Areas of Research
+
+Table 1
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+7
+
+It is cccDNA that is the source of rebounding virus levels after stopping antiviral 
+
+treatment (McMahon 2016; Lok et al. 2016). A priority research question is if 
+
+and how HBV cccDNA can be therapeutically targeted. It is thought that achieving 
+
+sustained repression of HBV cccDNA within infected cells is a very high priority 
+
+approach (Guo, 2015; Revill et al. 2016).  However, much about cccDNA remains to 
+
+be elucidated, and a better understanding might be the fastest route to a cure.
+
+How HBV cccDNA can be therapeutically targeted is a priority 
+
+research question because it is associated with virus levels 
+
+rebounding after antiviral treatment is stopped.
+
+There is a growing consensus that the viral protein, HBx, has essential function 
+
+in the growth of the virus (Seeger, 2015), and is perhaps involved in enabling 
+
+transcription of HBV cccDNA.  If so, HBx could offer a viral protein target that, if 
+
+inhibited, could repress HBV cccDNA transcription.  As such, understanding whether 
+
+HBx is a potential target for new therapeutics is another priority research question.
+
+HBsAg is an essential viral protein needed for the secretion and infectivity of the 
+
+complete, newly replicated viruses from the liver cell (Seeger, 2015). To determine 
+
+whether it could be a potential target for therapeutic intervention, a better 
+
+understanding is needed of the broader role HBsAg plays in altering the immune 
+
+response and causing disease. HBcAg, another essential viral protein, is involved in 
+
+formation of the virus capsid (the virus’s outer protein shell). Reports suggest that 
+
+HBcAg might also be involved in regulating genes in both the virus and the patient, 
+
+and altering the immune response. Although the current evidence for this is limited, 
+
+this area warrants research attention, and there are several drugs targeting capsid 
+
+formation currently in development (Liang, 2015). The HBeAg is derived from 
+
+HBcAg, and is secreted from infected liver cells (Seeger, 2015). Although its function 
+
+is unclear, HBeAg has been associated with higher levels of circulating virus in the 
+
+serum of HBV-infected individuals, and with regulation of host immune recognition 
+
+of the virus (McMahon et al. 2014). A better understanding of the role HBeAg plays 
+
+in advancing disease is a research priority.
+
+The research agenda also discusses potentially inhibiting the activity of 
+
+ribonuclease H (RNaseH), an essential viral gene product, and exploring the role of 
+
+integrated HBV DNA in the development of chronic HBV infection (viral DNA that is 
+
+sometimes found inserted into host cell chromosomes). It is certainly possible that 
+
+there are other virus-specified gene products that could also be potential targets for 
+
+antiviral intervention. 
+
+“ i left my home in the marshall islands after being diagnosed with hepatitis b and liver cirrhosis 
+
+and being told that nothing could be done for me there. i eventually moved to hawaii with my 
+
+family, received a liver transplant, and made it through a very difficult recovery period. After 
+
+this experience, my wife and i developed an education project, in collaboration with hep Free 
+
+hawaii, to increase hepatitis b awareness among micronesian communities living in hawaii.
+
+Why an HBV cure is important to me: A cure is important to me because hbV is one of 
+
+the leading causes of death in my country. so many people have died and many others are 
+
+awaiting their turns because of lack of a cure to save lives. i’m optimistic that one day a cure 
+
+for hbV will be found.”
+
+Kenson, 53
+
+Honolulu, Hawaii
+
+www.hepb.org/justb/kenson
+
+
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+8
+
+Hepatitis D Virology parallels HBV virology. Approximately 15 to 25 million people 
+
+are infected with the hepatitis D virus (HDV) worldwide, and HDV superinfection 
+
+of chronic HBV is usually associated with a far more aggressive disease than HBV 
+
+infection alone (Noureddin, 2014). HDV requires HBV co-infection of the same liver 
+
+cells to complete its viral life cycle (Hughes, 2011). Thus, elimination of HBV would 
+
+be expected to result in elimination of HDV. There are unique virological and clinical 
+
+challenges associated with HDV infection, and key research areas for HDV parallel 
+
+those for HBV.
+
+Immunology
+
+Immune responses are critical in both resolving HBV infection and, conversely, 
+
+in promotion of HBV disease. While most HBV infections in adults induce a 
+
+robust immune response that results in resolution of the infection (Bertoletti, 
+
+2015), chronic hepatitis B is characterized by an unbeneficial and inadequate 
+
+immune response to HBV (Chisari, 1995). A better understanding of these 
+
+immune responses is central to finding a cure, and is an extremely high priority 
+
+for both clinical and basic research. It is also important to note that different viral 
+
+genotypes may behave differently with respect to HBV disease progression and 
+
+treatment response (Kim, 2011). Understanding the role of viral genotype on 
+
+the development of disease and on drug sensitivity could provide clues for new 
+
+strategies of intervention. 
+
+Liver Cancer and Cirrhosis
+
+Cirrhosis and liver cancer are potentially fatal consequences of chronic HBV 
+
+infection. The incidence of both diseases is growing at an alarming rate in the U.S. 
+
+and worldwide, and is of extremely high public health importance. Advances in 
+
+the effective management of HBV, risk screening, and cancer surveillance can go a 
+
+long way preventing disease. However, once established, these diseases must be 
+
+managed, and new, more effective treatments are needed. A better understanding 
+
+of the molecular mechanisms of liver cancer and cirrhosis, development of new 
+
+therapeutics, and improved diagnostics for early detection of liver cancer are all 
+
+critical research areas. 
+
+Research Reagents and Experimental Models
+
+The study of HBV and liver disease has been frustrated by a lack of critical 
+
+research tools, ranging from experimental models to standardized controls. 
+
+Current understanding of chronic HBV infection is largely based on observational 
+
+clinical studies. The lack of biologically relevant animal models prevents better 
+
+understanding of the immunological mechanism of chronic HBV infection. New 
+
+animal models are needed that will allow, for example, for the critical experiments 
+
+examining the impact of immune-restoration on the course of chronic HBV infection. 
+
+While some research tools could be easily provided with minimal investment, 
+
+new experimental systems will require greater investment of effort and funds, 
+
+but will expedite the success of many of the proposed specific projects identified 
+
+in the research agenda. In addition, current approaches to evaluating clinical trial 
+
+endpoints may be inadequate for some of the potential therapeutic approaches 
+
+being considered. Efforts to identify new biomarkers, or ways to redeploy currently 
+
+available tests, will be important areas of research. 
+
+Approximately 15 to 25 
+
+million people are infected 
+
+with HDV worldwide, and 
+
+HDV in people with HBV is 
+
+often associated with a far 
+
+more aggressive disease 
+
+than HBV alone
+
+Cirrhosis and liver cancer are 
+
+often fatal consequences…
+
+and the incidence of both is 
+
+growing at an alarming rate 
+
+in the U.S. and worldwide
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+9
+
+Investment for a Cure: 
+
+A Professional Judgment Budget
+
+The Hepatitis B Foundation’s research agenda is a roadmap to cure hepatitis B. It 
+
+represents the professional judgment of leading scientists of the critical questions 
+
+that need to be answered in virology, immunology and liver cancer to accelerate 
+
+the progress to cure hepatitis B and effectively treat liver cancer. To answer these 
+
+questions, a separate panel identified specific scientific projects and aligned them 
+
+with existing National Institutes of Health (NIH) funding mechanisms. We assumed 
+
+the maximum length for each grant, and a high mid-point (70% of max) for each 
+
+funding level. Using NIH funding levels for the identified research projects, a 
+
+professional judgment budget was prepared representing the increased investment 
+
+needed over the next six years to follow this scientific roadmap to cure hepatitis B.
+
+The professional judgment budget projects a nearly $39 million average annual 
+
+increase totaling an additional $232 million of NIH support needed over six 
+
+years through 2023.The funding outlined in the professional judgment budget 
+
+will support basic scientific studies, as well as translational and clinical research 
+
+designed to achieve specific milestones identified in the roadmap to a cure. 
+
+Investment for a Cure: Substantial Health and Economic Outcomes 
+
+Health Outcomes:
+
+A cure for hepatitis B will save approximately 169,200 lives in the U.S. by 2030, as 
+
+reflected in Table 2, below (current level of projected deaths at the current level – 
+
+188,000/column A less the reduction in deaths (column C – 18,800) if there were 
+
+a cure). A review of Table 2 displays the consequences of not having a cure (or 
+
+achieving an intermediate level of improved treatment and diagnosis) as well as 
+
+the positive health outcomes if a cure for hepatitis B were in place.
+
+•  If by 2030, there is no cure or improved diagnosis and treatment of chronic HBV, 
+
+the health consequences of chronic HBV will be staggering – see column A,  
+
+Table 2 (NASEM, 2017)
+
+•  If by 2030, there is substantial improvement in treatment, outreach and 
+
+diagnosis, the health outcomes are summarized in column B (WHO, 2016) 
+
+“ 15 years ago i adopted a beautiful chinese baby who was hepatitis b positive. Although my 
+
+daughter’s initial medical records indicated she was healthy, i was told when i arrived in china 
+
+that a blood test the day before had indicated she was hepatitis b positive. i cavalierly said, “Well, 
+
+that’s ok, it’s a virus—she’ll get better, right?” i had so much to learn. one of the things i learned, 
+
+however, was that managing a child’s hepatitis b is not life-consuming, especially if, as in my 
+
+daughter’s case, there is no observable liver damage. i adopted a second daughter a few years 
+
+later, who is also hepatitis b positive.
+
+Why an HBV cure is important to me: An hbV cure is important to me because it will allow my 
+
+daughters to enjoy their strength and energy, free from the shadow of a chronic condition.”
+
+
+
+Maureen, 63
+
+West Roxbury, Massachusetts
+
+www.hepb.org/justb/maureen
+
+9
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+10
+
+•  If by 2030, there is a cure, chronic HBV would be largely eliminated, assuming that 
+
+10% of current rate of disease and death would remain primarily due to lack of 
+
+access to therapeutic cure, small percent who do not respond to treatment and for 
+
+those whose disease progression is beyond the range of treatment – see column C.
+
+Table 2: Projected Health Outcomes for 2,000,000 Americans with 
+
+Chronic HBV by 2030 using Three Levels of Diagnosis and Treatment: 
+
+Current Level, Substantially Improved, HBV Cure.*
+
+ 
+
+ 
+
+A)  Current  
+
+B) Substantially C) HBV Cure
+
+ 
+
+ 
+
+ Level 
+
+Improved 
+
+ 
+
+Death 
+
+188,000 
+
+93,210 
+
+18,800
+
+ 
+
+Liver Cancer 
+
+120,000 
+
+78,204 
+
+12,000
+
+ 
+
+Cirrhosis 
+
+206,200 
+
+114,088 
+
+20,620
+
+ 
+
+ 
+
+ 
+
+      *Adapted from NASEM, Toy, 2017
+
+Economic Outcomes±
+
+Aside from the human toll described above, the economic burden of chronic HBV 
+
+needs to be considered. One measure is the enormous costs associated with treating 
+
+HBV as summarized in Table 3. 
+
+Table 3: Sample Costs Per Patient for Treating Chronic HBV
+
+The human and economic costs described provide compelling evidence for the 
+
+importance of investing in a cure for hepatitis B. With the current scientific 
+
+understanding of HBV, pursuing this Roadmap for a Cure offers a well-defined 
+
+scientific strategy for curing HBV within a decade.
+
+± There are many sophisticated economic analyses that need to be performed to fully document the economic impact 
+
+of curing HBV such as cost-benefit, incremental cost-effectiveness ratio (ICER) and quality-adjusted life–years 
+
+(QALY) analyses. 
+
+Liver Transplant  
+
+– charges  
+
+(UNOS, 2014)
+
+Liver Cancer 
+
+(NASEM, Toy, 2017)
+
+FDA Approved Drugs, 
+
+e.g. Entecavir, Tenofovir 
+
+(NASEM, Toy, 2017)
+
+$739,000
+
+$46,538 (annual)
+
+$232,690 
+
+(lifetime average)
+
+$8,400-$16,464 
+
+(annual)
+
+
+Conquering Hepatitis B now! an overview of a roadmap for a Cure
+
+Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
+
+©2017
+
+Moving Forward 
+
+Conquering Hepatitis B Now! –  
+
+The Facts
+
+The following facts have been established by the 
+
+Hepatitis B Foundation and other highly regarded 
+
+public and private scientific authorities in the U.S. 
+
+and the world:
+
+•  Chronic Hepatitis B persists as an urgent public 
+
+health threat, in the U.S. (2 million currently 
+
+infected, with 8-10,000 deaths per year) and 
+
+worldwide (250 million currently infected, with 
+
+800,000 deaths per year);
+
+•  Incidence of primary liver cancer in the U. S. is 
+
+increasing, with a 5-year survival rate less than 
+
+15%;
+
+•  The potential for eliminating hepatitis B has 
+
+been established by NASEM, WHO, and the 
+
+International Coalition to Eliminate HBV;
+
+•  NIH funding for hepatitis B is only $49 million per 
+
+year and has declined almost 16% since 2012.
+
+•  NIH has the research infrastructure needed to find 
+
+a cure, with well-documented contributions in 
+
+hepatitis research, and first-rate scientific capacity 
+
+in understanding hepatitis B and liver cancer at 
+
+NIAID, NIDDK and NCI; and,
+
+•  The Hepatitis B Foundation has developed A 
+
+Roadmap for a Cure: Priority Areas for Chronic 
+
+Hepatitis B and Liver Cancer Research based on  
+
+the findings of a “virtual panel” of more than  
+
+30 leading scientific and clinical experts in 
+
+hepatitis B and liver cancer. 
+
+Conquering Hepatitis B Now! – 
+
+Roadmap for a Cure
+
+The Roadmap for a Cure is a comprehensive guide 
+
+to the research necessary to cure hepatitis B, as well 
+
+as estimates of the costs and time required. NIH has 
+
+the research infrastructure needed to find a cure, 
+
+with well-documented contributions in hepatitis 
+
+research, and first-rate scientific capacity in 
+
+understanding hepatitis B and liver cancer at NIAID, 
+
+NIDDK and NCI. 
+
+To be able to achieve this goal and conquer hepatitis 
+
+B, the following actions need to be taken:
+
+•  Develop a framework for a trans-NIH scientific 
+
+meeting (including NIAID/NIDDK/NCI, and others) 
+
+toward developing an HBV and liver cancer NIH 
+
+Research Action Plan based on the Roadmap;
+
+•  Explore a potential future clinical trials network 
+
+expansion to evaluate new and emerging 
+
+therapeutic agents and combination therapies;
+
+•  Increase federal funding for hepatitis B research 
+
+over the next six years at an additional $39 million 
+
+per year needed to implement the Roadmap;
+
+•  Issue targeted requests for proposals for HBV/
+
+liver cancer research proposals (issued from 
+
+NIAID, NIDDK and NCI); and
+
+•  Identify ways of attracting private industry 
+
+investment in new drug discovery for HBV and 
+
+liver cancer.
+
+We have the scientific and technological capability 
+
+to find the cure and win the battle against hepatitis 
+
+B. It is now time to fund the Roadmap and eliminate 
+
+HBV infection.
+
+“ At four months old i was adopted from china, according to my medical record,  
+
+i didn’t have hepatitis b. two years later, my mother had me re-tested, and i tested positive.  
+
+i’ve known about my hepatitis b since i was very young, with time i came to terms with it and 
+
+yearly doctor visits just became part of my normal life. i’ve never had to be on medication as 
+
+my viral load has always been low.
+
+Why an HBV cure is important to me: An hbV cure is important to me because i want to be 
+
+fully cured, i don’t just want to sero-convert and still be tested and observed. i want myself and 
+
+others to be cured and not have to worry about it possibly becoming chronic.”
+
+
+
+Jinqiu, 23
+
+New England
+
+www.hepb.org/justb/jin
+
+It is now time to meet the challenge for hepatitis B — this can be achieved with the 
+
+Hepatitis B Foundation’s Roadmap for a Cure as a guide for a trans-NIH coordinated 
+
+research effort.
+
+11
+
+
+References
+
+Bertoletti A, Kennedy PT. The immune tolerant phase of 
+
+chronic HBV infection: new perspectives on an old concept. 
+
+Cell Mol Immunol. 2015;12:258-263.
+
+Block TM, Gish R, Guo H, Mehta A, Cuconati A, London WT, 
+
+et al. Chronic hepatitis B: what should be the goal for new 
+
+therapies? Antiviral Res. 2013;98(1):27-34.
+
+CDC (Centers for Disease Control and Prevention. 2017. 
+
+Hepatitis B Information. https://www.cdc.gov/hepatitis/hbv/ 
+
+(accessed May 5, 2017).
+
+Cohen, C., Holmberg, S., McMahon, B. J., Block, J. M., Brosgart, C. 
+
+L., et al. Is chronic hepatitis B being undertreated in the United 
+
+States? Journal of Viral Hepatitis. 2011;18:377-383.
+
+Chisari FV, Ferrari C. Hepatitis B virus immunopathogenesis. 
+
+Annu Rev Immunol. 1995;13:29-60.
+
+Guo, J-T, Guo H. Metabolism and function of hepatitis B virus 
+
+cccDNA: Implications for the development of cccDNA-targeting 
+
+antiviral therapeutics. Antiviral Res. 2015;122:91-100.
+
+HHS (U.S. Department of Health and Human Services). 2014. 
+
+Action plan for the prevention, care, and treatment of viral 
+
+hepatitis. Washington, DC: Department of Health and Human 
+
+Services. https://www.aids.gov/pdf/viral-hepatitis-action-
+
+plan.pdf
+
+Hughes SA, Wedemeyer H, Harrison PM. Hepatitis delta virus. 
+
+Lancet. 2011;378(9785):73-85.
+
+Kim BK, Revill PA, Ahn SH. HBV genotypes: relevance to 
+
+natural history, pathogenesis and treatment of chronic 
+
+hepatitis B. Antiviral Ther. 2011;16(8):1169-1186
+
+Liang TJ, Block TM, McMahon BJ, Ghany MG, Urban S, Guo JT, et 
+
+al. Present and future therapies of hepatitis B: From discovery 
+
+to cure. Hepatology. 2015;62(6):1893-1908.
+
+Lok AS, McMahon BJ, Brown RS, Jr, Wong JB, Ahmed AT, Farah 
+
+W, et al. Antiviral therapy for chronic hepatitis B viral infection 
+
+in adults: A systematic review and meta-analysis. Hepatology. 
+
+2016;63(1):284-306.
+
+McMahon B, Block J, Block T, Cohen C, Evans AA et. al. 
+
+Hepatitis-Associated Liver Cancer: Gaps and Opportunities to 
+
+Improve Care. J Natl Cancer Inst. 2015;108(4):1-6.
+
+McMahon BJ. Natural History of Chronic Hepatitis B. Clin Liver 
+
+Dis. 2016;14(3):381-396.
+
+McMahon BJ, Bulkow L, Simons B, Zhang Y, Negus S, Homan 
+
+C, et al. Relationship between level of hepatitis B virus DNA 
+
+and liver disease: a population-based study of hepatitis B e 
+
+antigen–negative persons with hepatitis B. Clin Gastroenterol 
+
+Hepatol. 2014;12(4):701-706.
+
+NASEM (National Academies of Sciences, Engineering, and 
+
+Medicine). 2016. Eliminating the public health problem 
+
+of hepatitis B and C in the United States: Phase one report. 
+
+Washington, DC: The National Academies Press.  
+
+https://www.nap.edu/read/23407/chapter/1
+
+NASEM. 2017. Eliminating the public health problem of 
+
+hepatitis B and C in the United States: Phase two report. 
+
+Washington, DC: The National Academies Press. Chapter 2. 
+
+https://www.nap.edu/read/24731/chapter/1
+
+Noureddin M, Gish R. Hepatitis delta: epidemiology, diagnosis 
+
+and management 36 years after discovery. Curr Gastroenterol 
+
+Rep. 2014;16(1):365.
+
+Revill P, Testoni B, Locarnini S, Zoulim F. Global strategies  
+
+are required to cure and eliminate HBV infection. Nat Rev  
+
+Gastroenterol Hepatol. 2016;13(4):239-248. https://
+
+www.nature.com/nrgastro/journal/v13/n4/pdf/
+
+nrgastro.2016.7.pdf
+
+Ryerson BA, Eheman CR, Altekruse SF, Ward JW, Jemal A, 
+
+et al. Annual Report to the Nation on the Status of Cancer, 
+
+1975-2012, featuring the increasing incidence of liver Cancer. 
+
+Cancer. 2016; 22(9):1312-1337. https://www.ncbi.nlm.nih.
+
+gov/pmc/articles/PMC4840031/
+
+Seeger C, Mason WS. Molecular biology of hepatitis B virus 
+
+infection. Virology. 2015;479-480:672-686.
+
+Weinbaum, C. M., Williams, I., Mast, E. E., Wang, S. A., Finelli, 
+
+L., et al. Recommendations for identification and public 
+
+health management of persons with chronic hepatitis B virus 
+
+infection. MMWR Recomm Rep. 2008;57(RR-8):1-20. https://
+
+www.cdc.gov/mmwr/preview/mmwrhtml/rr5708a1.htm
+
+WHO (World Health Organization). Combating hepatitis B 
+
+and C to reach elimination by 2030. 2016. Available from:  
+
+http://apps.who.int/iris/bitstream/10665/206453/1/WHO_
+
+HIV_2016.04_eng.pdf
+
+“ After receiving my diagnosis, i struggled to find any hepatitis b specialists in my hometown 
+
+in Kansas. the first doctor who treated me had very little experience with hepatitis b/hiV co-
+
+infections. she put me on a higher dose of medication, which led to me developing kidney 
+
+disease. i finally found a caring and knowledgeable hepatologist 290 miles away in st. louis.  
+
+he let me know that new medicines are coming down the pipeline and enrolled me into his 
+
+cohort study to monitor what makes hep b better or worse.
+
+Why an HBV cure is important to me: i can’t imagine anybody going through the 
+
+emotional roller coaster that i went through when i discovered my hep b diagnosis. it’s a lot 
+
+to take in. it’s a battle. every time i feel a pain on the right side of my abdomen, i ask myself,  
+
+“is it liver cancer?” it’s a paranoid way to live. Without a cure, this is a struggle.  
+
+A cure is like saying to me, “i’m Free to live.””
+
+
+
+Jason, 44
+
+Leavenworth, Kansas
+
+www.hepb.org/justb/jason
+
+3805 Old Easton Road, Doylestown, PA 18902    Phone: (215) 489-4900    Fax: (215) 489-4920  
+
+Email: info@hepb.org    Visit www.hepb.org and www.blumberginstitute.org
+

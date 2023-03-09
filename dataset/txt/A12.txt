@@ -1,0 +1,2656 @@
+
+Recommendations and Reports / Vol. 61 / No. 3 
+
+July 6, 2012 
+
+Updated CDC Recommendations for the Management of Hepatitis B 
+
+Virus–Infected Health-Care Providers and Students
+
+U.S. Department of Health and Human Services
+
+Centers for Disease Control and Prevention
+
+Morbidity and Mortality Weekly Report
+
+Please note: An erratum has been published for this issue. To view the erratum, please click here.
+
+
+Recommendations and Reports
+
+Disclosure of Relationship
+
+CDC, our planners, and our content experts wish to disclose 
+
+that they have no financial interests or other relationships 
+
+with the manufacturers of commercial products, suppliers of 
+
+commercial services, or commercial supporters. Presentations 
+
+will not include any discussion of the unlabeled use of a product 
+
+or a product under investigational use. CDC does not accept 
+
+commercial support.
+
+The MMWR series of publications is published by the Office of Surveillance, Epidemiology, and Laboratory Services, Centers for Disease Control and Prevention (CDC), 
+
+U.S. Department of Health and Human Services, Atlanta, GA 30333.
+
+Suggested Citation: Centers for Disease Control and Prevention. [Title]. MMWR 2012;61(No. RR-3):[inclusive page numbers].
+
+Centers for Disease Control and Prevention
+
+Thomas R. Frieden, MD, MPH, Director
+
+Harold W. Jaffe, MD, MA, Associate Director for Science
+
+James W. Stephens, PhD, Director, Office of Science Quality
+
+Stephen B. Thacker, MD, MSc, Deputy Director for Surveillance, Epidemiology, and Laboratory Services
+
+Stephanie Zaza, MD, MPH, Director, Epidemiology and Analysis Program Office
+
+MMWR Editorial and Production Staff
+
+Ronald L. Moolenaar, MD, MPH, Editor, MMWR Series
+
+Christine G. Casey, MD, Deputy Editor, MMWR Series
+
+Teresa F. Rutledge, Managing Editor, MMWR Series
+
+David C. Johnson, Lead Technical Writer-Editor
+
+ Jeffrey D. Sokolow, MA, Project Editor
+
+Martha F. Boyd, Lead Visual Information Specialist
+
+Maureen A. Leahy, Julia C. Martinroe, 
+
+Stephen R. Spriggs, Terraye M. Starr
+
+Visual Information Specialists
+
+Quang M. Doan, MBA, Phyllis H. King
+
+Information Technology Specialists
+
+MMWR Editorial Board
+
+William L. Roper, MD, MPH, Chapel Hill, NC, Chairman
+
+Matthew L. Boulton, MD, MPH, Ann Arbor, MI
+
+Virginia A. Caine, MD, Indianapolis, IN
+
+Jonathan E. Fielding, MD, MPH, MBA, Los Angeles, CA
+
+David W. Fleming, MD, Seattle, WA
+
+William E. Halperin, MD, DrPH, MPH, Newark, NJ
+
+King K. Holmes, MD, PhD, Seattle, WA
+
+Deborah Holtzman, PhD, Atlanta, GA
+
+Timothy F. Jones, MD, Nashville, TN
+
+Dennis G. Maki, MD, Madison, WI
+
+Patricia Quinlisk, MD, MPH, Des Moines, IA
+
+Patrick L. Remington, MD, MPH, Madison, WI
+
+John V. Rullan, MD, MPH, San Juan, PR
+
+William Schaffner, MD, Nashville, TN
+
+Dixie E. Snider, MD, MPH, Atlanta, GA
+
+John W. Ward, MD, Atlanta, GA
+
+CONTENTS
+
+Introduction  ...........................................................................................................1
+
+Methods  ...................................................................................................................2
+
+Major Trends in Regard to Providers with HBV Infection  .......................2
+
+Health-Care Provider-to-Patient Transmission of HBV  ........................2
+
+National Trends in Acute Hepatitis B Incidence and Prevalence  .....4
+
+Treatments for Chronic Hepatitis B Infection  .........................................4
+
+Consistency with Other Guidelines  ............................................................4
+
+Prevention Strategies  ..........................................................................................5
+
+Standard Precautions  ......................................................................................5
+
+Work Practice and Engineering Controls  .................................................6
+
+Testing and Vaccination of Health-Care Providers  ................................6
+
+ Actions Taken Against HBV-Infected Health-Care Providers and 
+
+Students  .............................................................................................................6
+
+Technical and Ethical Issues in Developing Recommendations  .........6
+
+Monitoring HBV DNA Level and Hepatitis B e Antigen (HBeAg)  .....6
+
+Assessing a Safe Level of HBV DNA  ............................................................7
+
+Fluctuating HBV DNA Levels  .........................................................................7
+
+Specifying Exposure-Prone Procedures ....................................................7
+
+Notification of Patients of HBV-Infected Health-Care Providers  ......8
+
+Ethical Considerations  ....................................................................................8
+
+Guidance for Expert Review Panels at Institutions  ...............................9
+
+Recommendations for Chronically HBV-Infected Health-Care 
+
+Providers and Students  ....................................................................................9
+
+Practice Scope  ....................................................................................................9
+
+Hepatitis B Vaccination and Screening  .....................................................9
+
+ Expert Panel Oversight Not Needed  ...................................................... 10
+
+Expert Panel Oversight Recommended  ................................................ 10
+
+Institutional Policies and Procedures  ..................................................... 10
+
+CONTENTS (Continued)
+
+
+Recommendations and Reports
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3 
+
+1
+
+The material in this report originated in the National Center for 
+
+HIV/AIDS, Viral Hepatitis, STD, and TB Prevention, Kevin 
+
+Fenton, MD, PhD, Director, and the Division of Viral Hepatitis, John 
+
+W. Ward, MD, Director. 
+
+Corresponding preparer: Scott D. Holmberg, MD, Division of Viral 
+
+Hepatitis, 1600 Clifton Rd, NE, MS G-37, Atlanta, GA 30329. 
+
+Telephone: 404-718-8550; Fax: 404-718-8585; E-mail: sdh1@cdc.gov. 
+
+Introduction 
+
+In 1991, CDC published recommendations to prevent 
+
+transmission of bloodborne viruses from infected health-care 
+
+providers to patients while conducting exposure-prone invasive 
+
+procedures (1). These recommendations did not prohibit the 
+
+continued practice of invasive surgical techniques by HBV-
+
+infected surgeons, dentists, and others, provided that the nature 
+
+of their illnesses and their practices are reviewed and overseen 
+
+by expert review panels. Essential elements of the 1991 CDC 
+
+recommendations relevant to HBV included that 1) there be 
+
+no restriction of activities for any health-care provider who does 
+
+not perform invasive (exposure-prone) procedures; 2) exposure-
+
+prone procedures should be defined by the medical/surgical/
+
+dental organizations and institutions at which the procedures 
+
+are performed; 3) providers who perform exposure-prone 
+
+procedures and who do not have serologic evidence of immunity 
+
+to HBV from vaccination should know their HBsAg status and, 
+
+if that is positive, also should know their hepatitis B e-antigen 
+
+(HBeAg) status; and 4) providers who are infected with HBV 
+
+(and are HBeAg-positive) should seek counsel from and perform 
+
+procedures under the guidance of an expert review panel (1). 
+
+The 1991 recommendations also recommended that an 
+
+HBV-infected health-care provider who performed exposure-
+
+prone procedures, broadly defined, should notify patients 
+
+Updated CDC Recommendations for the Management of Hepatitis B 
+
+Virus–Infected Health-Care Providers and Students 
+
+Prepared by
+
+Scott D. Holmberg, MD 
+
+Anil Suryaprasad, MD 
+
+John W. Ward, MD 
+
+Division of Viral Hepatitis, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention 
+
+Summary 
+
+This report updates the 1991 CDC recommendations for the management of hepatitis B virus (HBV)–infected health-care 
+
+providers and students to reduce risk for transmitting HBV to patients during the conduct of exposure-prone invasive procedures 
+
+(CDC. Recommendations for preventing transmission of human immunodeficiency virus and hepatitis B virus to patients during 
+
+exposure-prone invasive procedures. MMWR 1991;40[No. RR-8]). This update reflects changes in the epidemiology of HBV 
+
+infection in the United States and advances in the medical management of chronic HBV infection and policy directives issued by 
+
+health authorities since 1991. 
+
+The primary goal of this report is to promote patient safety while providing risk management and practice guidance to HBV-
+
+infected health-care providers and students, particularly those performing exposure-prone procedures such as certain types of surgery. 
+
+Because percutaneous injuries sustained by health-care personnel during certain surgical, obstetrical, and dental procedures provide 
+
+a potential route of HBV transmission to patients as well as providers, this report emphasizes prevention of operator injuries and 
+
+blood exposures during exposure-prone surgical, obstetrical, and dental procedures. 
+
+These updated recommendations reaffirm the 1991 CDC recommendation that HBV infection alone should not disqualify 
+
+infected persons from the practice or study of surgery, dentistry, medicine, or allied health fields. The previous recommendations have 
+
+been updated to include the following changes: no prenotification of patients of a health-care provider’s or student’s HBV status; use 
+
+of HBV DNA serum levels rather than hepatitis B e-antigen status to monitor infectivity; and, for those health-care professionals 
+
+requiring oversight, specific suggestions for composition of expert review panels and threshold value of serum HBV DNA considered 
+
+“safe” for practice (&lt;1,000 IU/ml). These recommendations also explicitly address the issue of medical and dental students who 
+
+are discovered to have chronic HBV infection. For most chronically HBV-infected providers and students who conform to current 
+
+standards for infection control, HBV infection status alone does not require any curtailing of their practices or supervised learning 
+
+experiences. These updated recommendations outline the criteria for safe clinical practice of HBV-infected providers and students 
+
+that can be used by the appropriate occupational or student health authorities to develop their own institutional policies. These 
+
+recommendations also can be used by an institutional expert panel that monitors providers who perform exposure-prone procedures. 
+
+
+Recommendations and Reports
+
+2 
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3
+
+in advance regarding the provider’s seropositivity. However, 
+
+scientific data and clinical experience accumulated since 1991 
+
+demonstrate that the risk for HBV and other bloodborne virus 
+
+transmission from providers in health-care settings is extremely 
+
+low. In addition, improvements in infection control practices 
+
+put into effect since 1991 have enhanced both health-care 
+
+provider and patient protection from exposure to blood and 
+
+bloodborne viruses in health-care settings. 
+
+This report is intended to guide the practices of chronically 
+
+HBV-infected providers and students and the institutions that 
+
+employ, oversee, or train them; it does not address those with 
+
+acute HBV infection. This report is limited to the provider-
+
+to-patient transmission of HBV; it does not address infection 
+
+control measures to prevent bloodborne transmission of HBV 
+
+to patients through receipt of human blood products, organs, 
+
+or tissues because these measures have been described elsewhere 
+
+(2). Nor does this report provide comprehensive guidance 
+
+about prevention of patient-to-health-care provider bloodborne 
+
+pathogen transmission because this guidance also has been 
+
+published previously (3,4). On the basis of a through literature 
+
+review, reports of providers who experienced curtailed scope of 
+
+practice, and expert consultation, CDC considered the following 
+
+issues when developing these recommendations:1) very rare or, for 
+
+most types of clinical practice, no detected transmission of HBV 
+
+from providers to patients; 2) nationally decreasing trends in the 
+
+incidence of acute HBV infection in both the general population 
+
+and health-care providers; 3) successful implementation and 
+
+efficacy of policies promoting hepatitis B vaccination; 4) evolving 
+
+and improving therapies for HBV infection; 5) guidelines in 
+
+the United States and other developed countries that propose 
+
+expert-based approaches to the risk management of infected 
+
+health-care providers; 6) the adoption of Standard Precautions 
+
+(formerly known as universal precautions) as a primary prevention 
+
+intervention for the protection of patients and providers from 
+
+infectious agent transmission; 7) the implementation of improved 
+
+work practice and engineering controls, including safety devices; 8) 
+
+the testing and vaccination of providers; 9) increasing availability 
+
+of HBV viral load testing; and 10) instances of restrictions or 
+
+prohibitions for HBV-infected providers and students that are 
+
+not consistent with CDC and other previous recommendations. 
+
+Methods 
+
+To update recommendations for the risk management of HBV-
+
+infected health-care providers and students, CDC considered 
+
+data that have become available since the 1991 recommendations 
+
+were published. Information reviewed was obtained through 
+
+literature searches both by standard search engines (PubMed) 
+
+and of other literature reviews used in guidelines developed by 
+
+other professional organizations since 1991. Search terms used 
+
+included “hepatitis B,” “hepatitis B virus,” or “HBV” with 
+
+“healthcare,” “health-care,” “healthcare workers” or “providers” 
+
+or “personnel”; “nosocomial” or “healthcare transmission”; and 
+
+“healthcare worker-to-patient.” However, these searches did not 
+
+identify additional cases beyond the few already known to CDC 
+
+and the experts consulted. To gather data on HBV transmission, 
+
+CDC reviewed all hepatitis B outbreak investigations conducted 
+
+by CDC and state officials since 1991. CDC national hepatitis 
+
+surveillance data were examined for reports of acute HBV 
+
+infection in persons with information about recent health 
+
+care, as well as reports received regarding dismissal of HBV-
+
+infected health-care providers (i.e., surgeons) or prohibition 
+
+from matriculation of medical, dental, and osteopathic students 
+
+identified as HBV-infected after acceptance (see Actions Taken 
+
+Against HBV-Infected Health Care Providers and Students). 
+
+Medical, dental, infection control, public health, infectious 
+
+disease, and hepatology experts, officials, and representatives 
+
+from government, academia, the public, organizations 
+
+representing medical, dental and osteopathic colleges, and 
+
+professional medical organizations were consulted.* Some 
+
+were consulted at an initial meeting on June 4, 2011. All 
+
+experts and organizations were provided draft copies of these 
+
+recommendations as they were developed, and they provided 
+
+insights, information, suggestions, and edits. In finalizing these 
+
+recommendations, CDC considered all available information, 
+
+including expert opinion, results of the literature review, 
+
+findings of outbreak investigations, surveillance data, and 
+
+reports of adverse actions taken against HBV-infected surgeons 
+
+and students. 
+
+Major Trends in Regard to Providers 
+
+with HBV Infection 
+
+Health-Care Provider-to-Patient 
+
+Transmission of HBV 
+
+Since publication of the 1991 CDC recommendations (1), 
+
+CDC has accrued substantial information about HBV-infected 
+
+health-care providers and students. Many interventions, 
+
+including the adoption of Standard Precautions (formerly known 
+
+as universal precautions) and double-gloving during invasive 
+
+surgical procedures, have eliminated almost completely the very 
+
+low risk for transmission of HBV (as well as hepatitis C virus 
+
+[HCV] and human immunodeficiency virus) during exposure-
+
+prone procedures. In developing these recommendations, CDC 
+
+weighed the risk for HBV transmission based on the following: 
+
+* A list of the persons consulted appears on page 10.
+
+
+Recommendations and Reports
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3 
+
+3
+
+1) documented cases of confirmed transmission of HBV from 
+
+health-care providers to patients are rare (up to eight cases from 
+
+one surgeon in the United States since 1994), 2) it has not 
+
+been possible to conduct case-control or cohort studies that 
+
+estimate the rate of such rare events, and 3) data are insufficient 
+
+to quantify the strength-of-evidence or enable the grading of a 
+
+recommendation (5). 
+
+Nonetheless, CDC and state authorities have been able to 
+
+detect instances of patient-to-patient transfer of HBV (and 
+
+HCV) from unsafe injection and dialysis practices, sharing of 
+
+blood-glucose monitoring equipment, and other unsanitary 
+
+practices and techniques (6). One report from an oral surgery 
+
+practice documented patient-to-patient HBV transmission, 
+
+although a retrospective assessment did not identify 
+
+inappropriate procedures (7). However, despite detecting 
+
+patient-to-patient transmission, there is only one published 
+
+report of health-care provider-to-patient transmission of HBV 
+
+during exposure-prone procedures in the United States since 
+
+1994 (8). In that case, an orthopedic surgeon who was unaware 
+
+of his HBV status and who had a very high level of HBV DNA 
+
+(viral load &gt;17 million IU/ml) (9) transmitted HBV to between 
+
+two and eight patients during August 2008–May 2009 (10). 
+
+An international review of HBV health-care provider-to-
+
+patient transmissions in other countries in which the HBV 
+
+DNA levels (viral load) of the providers were measured has 
+
+determined that 4 x 104 genome equivalents per ml (GE/ml) 
+
+(roughly comparable to 8,000 international units (IU)/ml) 
+
+was the lowest level of HBV DNA in any of several surgeons 
+
+implicated in transmission of HBV to patients between 1992 
+
+and 2008 (9–15; Table 1). This lowest measurement was 
+
+taken &gt;3 months after the suspected transmission event, so 
+
+the relevance of the HBV DNA viral load to transmissibility 
+
+TABLE 1. Cases of surgeon-to-patient transmission of hepatitis B virus (HBV) in which the surgeon’s HBV DNA was quantified
+
+Location of reported case (yr)
+
+Profession
+
+HBV DNA
+
+ (GE/ml)*
+
+HBV 
+
+e-antigen 
+
+Quantification technique 
+
+Time sample taken 
+
+after transmission
+
+United States (1992)†
+
+Thoracic surgery resident
+
+1.0 X 109
+
+Positive
+
+Semi-quantitative PCR dot-blot 
+
+hybridization, with comparison 
+
+serum containing 108 
+
+chimpanzee- infectious particles 
+
+4 mos 
+
+United Kingdom 
+
+(1990–1997)§
+
+Cardiothoracic surgeon 
+
+109
+
+Positive
+
+Semi-quantification by end-point 
+
+dilution
+
+6 mos
+
+General surgeon 
+
+108
+
+Positive
+
+&gt;8 wks
+
+General surgeon
+
+109
+
+Positive
+
+Unknown
+
+General surgeon
+
+107
+
+Positive
+
+Unknown
+
+Cardiothoracic surgeon
+
+105
+
+Positive
+
+Unknown
+
+United Kingdom 
+
+(1988, 1993–1995)¶
+
+General surgeon
+
+1.0 X 107
+
+Negative
+
+Liquid hybridization and enzyme-
+
+linked oligonucleotide assay
+
+12 wks 
+
+Gynecologist 
+
+4.4 X 106
+
+Negative
+
+Unknown
+
+Gynecologist 
+
+5.5 X 106
+
+Negative
+
+Unknown
+
+General surgeon
+
+2.5 X 105
+
+Negative
+
+12 wks
+
+United Kingdom (1999)**
+
+Surgeon
+
+1.03 X 106
+
+Negative
+
+Lightcycler PCR
+
+Unknown
+
+Netherlands (1998–1999)††
+
+Surgeon
+
+5.0 X 109
+
+Positive
+
+Limited dilution PCR
+
+1 yr 
+
+United Kingdom 
+
+(1988–1997)§§
+
+Surgeon
+
+1.12 X 108
+
+Negative 
+
+Chiron Quantiplex Branched DNA 
+
+assay and Roche Amplicor HBV 
+
+DNA monitor assay 
+
+At least 3 
+
+mos after 
+
+transmission in 
+
+all surgeons 
+
+Surgeon
+
+2.55 X 105
+
+Surgeon
+
+6.72 X 105
+
+Surgeon
+
+6.35 X 104 
+
+Surgeon
+
+4.20 X 108¶¶
+
+Surgeon
+
+9.47 X 108
+
+United States (2008)***
+
+Orthopedic surgeon
+
+1.79 X 107
+
+Positive
+
+Versant 3.0 third generation 
+
+branched DNA assay 
+
+14 wks 
+
+ * GE/ml, genome equivalents/ml; generally, approximately five times comparable measurement of international units (IU)/ml. 
+
+ 
+
+† Source: Harpaz R, von Seidlin L, Averhoff AM, et al. Transmission of hepatitis B virus to multiple patients from a surgeon without evidence of inadequate infection 
+
+control. N Engl J Med 1996;334:549–54.
+
+ 
+
+§ Source: Ngui SL, Watkins RPF, Heptonstall J, Teo CG. Selective transmission of hepatitis B after percutaneous exposure. J Infect Dis 2000;181:838–43.
+
+ 
+
+¶ Source: The Incident Investigation Teams and Others. Transmission of hepatitis to patients from four infected surgeons without hepatitis B e antigen. N Engl J Med 
+
+1997;336:178–84.
+
+ ** Source: Molyneaux P, Reid TM, Collacott I, Mcintyre PG, Dillon JF, Laing RB. Acute hepatitis B in two patients transmitted from an e antigen negative cardiothoracic 
+
+surgeon. Commun Dis Publ Health 2000;3:250–2.
+
+ †† Source: Spijkerman IJ, van Doorn LJ, Janssen MH, et al. Transmission of hepatitis B virus from a surgeon to his patients during high risk and low risk surgical 
+
+procedures during 4 years. Infect Contr Hosp Epidemiol 2002;23:306–12.
+
+ §§ Source: Corden S, Ballard AJ, Ijaz S, et al. HBV DNA levels and transmission of hepatitis B by health care workers. J Clin Virol 2003;27:52–8.
+
+ ¶¶ Lowest value in any transmitting surgeon; average of testing at two laboratories using the same (Roche) assay.
+
+ *** Source: Enfield KB, Sharapov U, Hall K, et al. Transmission of hepatitis B virus to patients from an orthopedic surgeon [Abstract no. 420]. Presented at the 5th 
+
+Decennial International Conference on Healthcare-Associated Infections, Atlanta, Georgia; March 18–20, 2010. Available at http://shea.confex.com/shea/2010/
+
+webprogram/Paper2428.html.
+
+
+Recommendations and Reports
+
+4 
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3
+
+is unclear. In general, those surgeons who transmitted HBV to 
+
+patients appear to have had HBV DNA viral loads well above 
+
+105 GE/ml (or above 20,000 IU/ml) at the earliest time that 
+
+viral load was tested after transmission (Table 1). However, the 
+
+few studies conducted in nonhuman primates have reported 
+
+different results regarding the correlation between HBV DNA 
+
+levels in blood and infectivity. One study found a correlation 
+
+(16), but another did not (17). 
+
+In addition to the rarity of surgery-related transmission of 
+
+HBV since 1994 (one reported instance), the most recent 
+
+case of HBV transmission from a U.S. dental health-care 
+
+provider to patients was reported in 1987 (18,19). Since this 
+
+event, certain infection control measures are thought to have 
+
+contributed to the absence of detected transmissions; such 
+
+measures include widespread vaccination of dental health-care 
+
+professionals, universal glove use, and adherence to the tenets 
+
+of the 1991 Occupational Safety and Health Administration 
+
+(OSHA) Bloodborne Pathogens Standard (20). Since 1991, no 
+
+transmission of HBV has been reported in the United States 
+
+or other developed countries from primary care providers, 
+
+clinicians, medical or dental students, residents, nurses, other 
+
+health-care providers, or any others who would not normally 
+
+perform exposure-prone procedures (21). 
+
+National Trends in Acute Hepatitis B 
+
+Incidence and Prevalence 
+
+Symptomatic acute HBV infections in the United States, 
+
+as reported through health departments to CDC, have 
+
+declined approximately 85% from the early 1990s to 2009 
+
+(22), following the adoption of universal infant vaccination 
+
+and catch-up vaccinations for children and adolescents (23). 
+
+If declining trends continue, an ever-increasing proportion 
+
+of patients receiving health care and their providers will be 
+
+protected by receipt of hepatitis B vaccination. 
+
+Patient-to-health-care provider transmission of HBV also has 
+
+declined markedly. Reflecting this finding, the reported number 
+
+of acute HBV infections among providers in the United States, 
+
+not all of which reflect occupational exposure, decreased from 
+
+approximately 10,000 in 1983 to approximately 400 in 2002 
+
+(24) and to approximately 100 by 2009 (22). 
+
+Treatments for Chronic 
+
+Hepatitis B Infection 
+
+Medications for hepatitis B have been improving continually 
+
+and are usually effective at reducing viral loads markedly or even to 
+
+undetectable levels. Currently, seven therapeutic agents are approved 
+
+by the Food and Drug Administration for the treatment of chronic 
+
+hepatitis B, including two formulations of interferon (interferon 
+
+alpha and pegylated interferon) and five nucleoside or nucleotide 
+
+analogs (lamuvidine, telbivudine, abacavir, entecavir, and tenofovir). 
+
+Among the approved analogs, both entecavir and tenofovir have 
+
+potent antiviral activity as well as very low rates of drug resistance. 
+
+Treatment with these agents reduces HBV DNA levels to undetectable 
+
+or nearly undetectable levels in most treated persons (25–27). 
+
+Virtually all treated patients, even those few still receiving older agents 
+
+(e.g., lamuvidine), can expect to achieve a reduction of HBV DNA 
+
+viral loads to very low levels within weeks or months of initiating 
+
+therapy (25). The newer medications are effective in suppressing 
+
+viral replication, and it is expected that they will be used for a newly 
+
+identified HBV-infected health-care provider who is performing 
+
+exposure-prone procedures and who has HBV virus levels above the 
+
+threshold suggested in this report (1,000 IU/ml [i.e., about 5,000 
+
+genome equivalents (GE)/ml]) or as adopted by his or her institution’s 
+
+expert review panel. However, clinicians caring for infected health-
+
+care providers or students who are not performing exposure-prone 
+
+procedures and who are not subject to expert panel review should 
+
+consider both the benefits and risks associated with life-long antiviral 
+
+therapy for chronic HBV started at young ages (25). 
+
+Consistency with Other Guidelines 
+
+Recommendations for the management of HBV-infected 
+
+health-care providers and students have evolved in the United 
+
+States and other developed countries (Table 2). In 2010, the 
+
+Society for Healthcare Epidemiology of America (SHEA) 
+
+issued updated guidelines that recommended a process 
+
+for ensuring safe clinical practice by HBV-infected health-
+
+care providers and students (28). These separate guidelines 
+
+classify many invasive procedures and list those associated 
+
+with potentially increased risk for provider-to-patient blood 
+
+exposures (Category III procedures, in the SHEA guidelines). 
+
+SHEA recommends restricting a provider’s practice on the 
+
+basis of the provider’s HBV DNA blood levels and the conduct 
+
+of certain invasive procedures considered exposure prone. 
+
+The SHEA guidelines also address the current therapeutic 
+
+interventions that reduce the viral loads and the infectiousness 
+
+of HBV-infected personnel. For providers practicing certain 
+
+exposure-prone procedures, SHEA recommends that they 
+
+maintain HBV blood levels &lt;104 GE/ml, i.e., depending on 
+
+the assay used, approximately 2,000 IU/ml (exposure prone, 
+
+Category III) procedures, or cease surgery until they can 
+
+reestablish a viral load level below that threshold. 
+
+Restrictions based on the provider’s HBV DNA blood levels 
+
+also exist in guidelines published by some European countries 
+
+and Canada (Table 2) (21,29–36). No guidelines from any 
+
+developed country recommend the systematic prohibition of 
+
+invasive surgical or dental practices by qualified health-care 
+
+providers whose chronic HBV infection is monitored. 
+
+Please note: An erratum has been published for this issue. To view the erratum, please click here.
+
+
+Recommendations and Reports
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3 
+
+5
+
+The generally permissive principles delineated in the CDC 
+
+1991 recommendations also have been reiterated in recent 
+
+Advisory Committee on Immunization Practices (ACIP) 
+
+recommendations on immunization of health-care personnel in 
+
+the United States for HBV infection (37). ACIP recommends 
+
+that HBV-infected persons who perform highly exposure-prone 
+
+procedures should be monitored by a panel of experts drawn 
+
+from diverse disciplines and perspectives to ensure balanced 
+
+recommendations. However, the ACIP recommendations do 
+
+not require that HBV-infected persons who do not perform 
+
+such procedures have their clinical duties restricted or managed 
+
+by a special panel because of HBV infection alone. 
+
+Prevention Strategies 
+
+Standard Precautions 
+
+Strategies to promote patient safety and to prevent 
+
+transmission of bloodborne viruses in health-care settings 
+
+include hepatitis B vaccination of susceptible health-care 
+
+personnel and the use of primary prevention (i.e., preventing 
+
+exposures and therefore infection) by strict adherence to the 
+
+tenets of standard (universal) infection control precautions, 
+
+the use of safer devices (engineering controls), and the 
+
+implementation of work practice controls (e.g., not recapping 
+
+needles) to prevent injuries that confer risks for HBV 
+
+transmission to patients and their providers. Public health 
+
+officials in the United States base Standard Precautions on the 
+
+premise that all blood and blood-containing body fluids are 
+
+potentially infectious (3,4). Since 1996, CDC has specified 
+
+the routine use of Standard Precautions (38,39) that include 
+
+use of protective equipment in appropriate circumstances, 
+
+implementation of both work practice controls and 
+
+engineering controls, and adherence to meticulous standards 
+
+for cleaning and reusing patient care equipment. For example, 
+
+double-gloving now is practiced widely, and the evidence 
+
+to demonstrate the feasibility and efficacy of this and other 
+
+interventions is extensive (40–44). 
+
+TABLE 2. Recommendations for the management of health-care providers (HCP) with hepatitis B virus (HBV) infection*
+
+HBV-infected HCP
+
+SHEA (2010)
+
+ACS (2004)
+
+Europe (2003)†
+
+Canada (2000)
+
+United Kingdom (2000) United States (1991)
+
+Screening
+
+—§
+
+All surgeons
+
+All who do EPP 
+
+and who do 
+
+not respond to 
+
+vaccination
+
+—
+
+All who do EPP
+
+All who do EPP
+
+Vaccination
+
+—
+
+All surgeons
+
+All who do EPP
+
+—
+
+All who do EPP
+
+All who do EPP
+
+Management of HBV-infected HCP performing EPP
+
+Hepatitis B e-antigen
+
+Not required 
+
+to be negative
+
+Not required 
+
+to be negative 
+
+Required to 
+
+be negative
+
+Required to 
+
+be negative
+
+Required to 
+
+be negative
+
+Required to 
+
+be negative
+
+HBV DNA
+
+&lt;104 GE/ml
+
+—
+
+Variable 
+
+by country 
+
+&lt;102–&lt;104 
+
+GE/ml
+
+&lt;105 GE/ml 
+
+initially and 
+
+&lt;103 GE/ml 
+
+on therapy
+
+&lt;103 GE/ml
+
+(test not 
+
+available)
+
+Frequency of 
+
+monitoring
+
+6 mos
+
+—
+
+3 mos if doing 
+
+EPP; 12 mos for 
+
+other HCP
+
+—
+
+12 mos
+
+—
+
+Expert panel
+
+Yes 
+
+Yes
+
+Yes
+
+Yes
+
+—  
+
+Yes
+
+Abbreviations: ACS = American College of Surgeons; EPP = exposure-prone procedures; GE/ml = genome equivalents/ml (roughly equal to 5 International Units/ml 
+
+depending on assay used); SHEA = Society for Healthcare Epidemiology of America.
+
+* Sources: CDC. Recommendations for preventing transmission of HIV and HBV virus to patients during exposure-prone invasive procedures. MMWR 1991;40(No. 
+
+RR-8); Henderson DK, Dembry L, Fishman NO, et al. SHEA guideline for management of healthcare workers who are infected with hepatitis B virus, hepatitis C virus 
+
+and/or human immunodeficiency virus. Infect Control Hosp Epidemiol 2010;31:203–32; American College of Surgeons. Statement on the surgeon and hepatitis. 
+
+Available at http://www.facs.org/fellows_info/statements/st-22.html; Health Canada. Proceedings of the consensus conference on infected health care worker risk 
+
+for transmission of bloodborne pathogens. Can Commun Dis Rep 1998;24(suppl 4):1–28. Available at http://www.collectionscanada.gc.ca/webarchives/20071124025757/
+
+http://www.phac-aspc.gc.ca/publicat/ccdr-rmtc/98vol24/24s4/index.html; UK Department of Health. Hepatitis B infected healthcare workers: guidance on 
+
+implementation of health service circular 2000/020. UK Department of Health. Hepatitis B infected healthcare workers and antiviral therapy. 2007. Available at http://
+
+www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_073164; U.K. Department of Health. Health Services Guidelines HSG 
+
+(93)40. Protecting health care workers and patients from hepatitis B. Available at http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/
+
+documents/digitalasset/dh_4088384.pdf; Gunson RN, Shouval D, Roggendorf M, et al. Hepatitis B virus (HBV) and hepatitis C virus (HCV) infections in health care 
+
+workers (HCWs): guidelines for prevention of transmission of HBV and HCV from HCW to patients. J Clin Virol 2003;27:213–30.
+
+† Consensus conference included representatives from Austria, Belgium, France, Germany, Greece, Holland, Israel, Italy, Portugal, The Republic of Ireland, Sweden, the 
+
+United Kingdom, and the United States.
+
+§ Issue not addressed in recommendation or guideline.
+
+
+Recommendations and Reports
+
+6 
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3
+
+Work Practice and Engineering Controls 
+
+ Parenteral exposures are mainly responsible for HBV 
+
+transmission in health-care settings. Work practice modifications 
+
+in the past 20 years have been important in mitigating such 
+
+exposures. Examples of such modifications include the practice 
+
+of not resheathing needles, the use of puncture-resistant needle 
+
+and sharp object disposal containers, avoidance of unnecessary 
+
+phlebotomies and other unnecessary needle and sharp object 
+
+use, the use of ports and other needleless vascular access 
+
+when practical or possible, and the avoidance of unnecessary 
+
+intravenous catheters by using needleless or protected needle 
+
+infusion systems. 
+
+Testing and Vaccination of 
+
+Health-Care Providers 
+
+Recommendations generated over the past 20 years, both 
+
+in the United States and other developed countries, urge all 
+
+health-care providers to know their HBV and other bloodborne 
+
+virus infection status (21), especially if they are at risk for HBV 
+
+infection (37,45). OSHA mandates that hepatitis B vaccine 
+
+be made available to health-care providers who are susceptible 
+
+to HBV infection and that they be urged to be vaccinated 
+
+(Bloodborne Pathogens Standard [29 CFR 1910.1030 and 29 
+
+CFR 1910.030f]) These guidelines stipulate that the employer 
+
+make available the hepatitis B vaccine and vaccination series 
+
+to all employees who have occupational exposure and that 
+
+postexposure evaluation and follow-up be provided to all 
+
+employees who have an exposure incident. 
+
+Approximately 25% or more of medical and dental students 
+
+(46,47) and many physicians, surgeons, and dentists in the 
+
+United States have been born to mothers in or from countries 
+
+in Asia (including India), Africa, and the Middle East with high 
+
+and intermediate endemicity for HBV. CDC recommends that 
+
+all health-care providers at risk for HBV infection be tested and 
+
+that all those found to be susceptible should receive vaccine 
+
+(37). Such testing is likely to detect chronically infected health-
+
+care providers and students. Recommendations to ensure safe 
+
+practice of health-care providers identified as chronic carriers 
+
+of HBV should have reasonable and feasible oversight by the 
+
+relevant school, hospital, or other health-care facility. 
+
+ Actions Taken Against HBV-Infected 
+
+Health-Care Providers and Students 
+
+CDC is aware of several recent instances in which 
+
+HBV-infected persons have been threatened with dismissal 
+
+or actually dismissed from surgical practice on the basis of 
+
+their HBV infection, and others have had their acceptances 
+
+to medical or dental schools rescinded or deferred because of 
+
+their infection (Joan M. Block, Hepatitis B Foundation, Anna 
+
+S. F. Lok, University of Michigan Medical Center, personal 
+
+communications, 2011). Some of these instances have involved 
+
+requirements that the infected provider, applicant, or student 
+
+demonstrate undetectable HBV viral load or hepatitis B 
+
+e-antigen negativity and, in at least one case, that this be 
+
+demonstrated continuously by weekly testing. These actions 
+
+might not be based on clear written guidance and procedures 
+
+at the institutions involved (48,49). 
+
+Technical and Ethical Issues in 
+
+Developing Recommendations 
+
+Monitoring HBV DNA Level and 
+
+Hepatitis B e Antigen (HBeAg) 
+
+Whereas the 1991 recommendations assessed the infectivity 
+
+of surgeons and others performing invasive procedures based on 
+
+the presence of HBeAg, documented transmissions of HBV to 
+
+patients from several HBeAg-negative surgeons (12,15,50) led 
+
+to examination of correlations between HBeAg and HBV viral 
+
+load. Some of these HBeAg-negative persons, despite high rates 
+
+of viral replication, might harbor pre-core mutants of the virus: 
+
+that is, loss of HBeAg expression might result from a single 
+
+nucleotide substitution that results in a stop codon preventing 
+
+transcription (51,52). Persons with such HBV strains who test 
+
+HBeAg-negative might nonetheless be infectious (despite the 
+
+mutation) and even have a high concentration of virions in 
+
+their blood. 
+
+Recent guidelines from other bodies (Table 2) have 
+
+recommended using HBV DNA serum levels in preference 
+
+to HBeAg in determining infectivity. Several studies have 
+
+documented numerous HBeAg-negative persons who have high 
+
+circulating levels of HBV DNA, i.e., viral loads often 105 IU/
+
+ml or more by various commercial assays: 78 HBeAg-negative 
+
+Australian patients with median HBV DNA of 38,000 IU/
+
+ml (determined by the Siemens Versant HBV DNA 3.0 assay) 
+
+(53); 48 HBeAg-negative Greek patients with a median HBV 
+
+DNA of 76,000 IU/ml (by Roche Amplicor HBV-Monitor) 
+
+(54); 165 HBeAg-negative Korean patients with a mean HBV 
+
+DNA of 155,000 IU/ml (by Roche COBAS TaqMan) (55); 
+
+and 47 HBeAg-negative Chinese patients with median HBV 
+
+DNA blood levels of 960,000 copies/ml (about 200,000 IU/
+
+ml) (by PG Biotech [Shenzhan, China] PCR) (56). On the 
+
+basis of these data, monitoring quantitative HBV DNA levels 
+
+provides better information to serve as a predictive indicator of 
+
+infectivity than is provided by monitoring HBeAg status alone. 
+
+
+Recommendations and Reports
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3 
+
+7
+
+Specifying Exposure-Prone Procedures 
+
+In general, three conditions are necessary for health-care 
+
+personnel to pose a risk for bloodborne virus transmission to 
+
+patients. First, the health-care provider must be sufficiently 
+
+viremic (i.e., have infectious virus circulating in the 
+
+bloodstream). Second, the health-care provider must have an 
+
+injury (e.g., a puncture wound) or a condition (e.g., nonintact 
+
+skin) that allows exposure to his/her blood or other infectious 
+
+body fluids. Third, the provider’s blood or infectious body 
+
+fluid must come in direct contact with a patient’s wound, 
+
+traumatized tissue, mucous membranes, or similar portal of 
+
+entry during an exposure-prone procedure. The vast majority 
+
+of HBV-infected health-care personnel pose no risk for patients 
+
+because they do not perform activities in which both the second 
+
+and third conditions are met. 
+
+Beyond meeting these three basic conditions, defining 
+
+exposure-prone invasive procedures that pose a risk for HBV 
+
+transmission between infected provider and patient has been 
+
+problematic in the development of all recommendations and 
+
+guidelines; this process is made especially difficult by varying 
+
+surgical techniques used by health-care providers doing the 
+
+same procedure. More recent guidelines and published articles 
+
+indicate that exposure-prone procedures can be defined 
+
+broadly, and lists of potentially exposure-prone procedures have 
+
+been developed (28,31,60). Principles cited are that exposure-
+
+prone procedures include those in which access for surgery is 
+
+difficult (28) or those in which needlestick injuries are likely to 
+
+occur (60), typically in very closed and unvisualized operating 
+
+spaces in which double gloving and the skin integrity of the 
+
+operator might be compromised (Box). 
+
+Defining exposure-prone procedures in dentistry and 
+
+oral surgery has been particularly difficult. Many intra-oral 
+
+procedures (e.g., injection or scaling) occur in a confined 
+
+cavity and might lead to injuries to the operator (61), so some 
+
+institutions have considered these procedures to be exposure-
+
+prone. However, no transmission of HBV from a U.S. dentist 
+
+to a patient has been reported since 1987, and no transmission 
+
+has ever been reported from a dental or medical student. Thus, 
+
+Category I Procedures (Box) include only major oral surgery, 
+
+and do not include the procedures that medical and dental 
+
+students or most dentists would be performing or assisting. 
+
+In addition to these lists of specific procedures, an 
+
+institutional expert review panel convened to oversee an HBV-
+
+infected surgeon or other health-care provider performing 
+
+exposure-prone procedures may consult the classification 
+
+of such procedures (Box) for guidance. Given the variety 
+
+of procedures, practices, and providers, each HBV-infected 
+
+health-care provider performing potentially exposure-prone 
+
+procedures will need individual consideration. However, this 
+
+Assessing a Safe Level of HBV DNA 
+
+Review of information concerning six HBeAg-negative 
+
+surgeons who had transmitted hepatitis B to patients and 
+
+whose HBV DNA had been determined (using both Chiron 
+
+Quantiplex Branched DNA assay and Roche Amplicor 
+
+HBV DNA Monitor assay) showed the lowest value (at 
+
+one laboratory) in one surgeon to be 40,000 copies/ml 
+
+(approximately 8,000 IU/ml) (9). However, because this 
+
+quantification was performed more than 3 months after the 
+
+transmission had taken place, correlative relevance is uncertain. 
+
+In 2003, recommendations from the Netherlands set the level 
+
+above which health-care providers should not be performing 
+
+exposure prone procedures at HBV DNA levels 105 GE/ml 
+
+or above (approximately 20,000 IU/ml). A larger European 
+
+consortium set this restriction at HBV DNA levels ≥104 
+
+GE/ml (approximately 2,000 IU/ml) (33) for persons who 
+
+are HBeAg-negative. In 2010, this latter threshold, without a 
+
+requirement for e-antigen negativity, was adopted in the U.S. 
+
+SHEA Guidelines (28). U.K. guidelines for HBV-infected 
+
+providers who are HBeAg-negative require these providers to 
+
+achieve or maintain HBV DNA levels of &lt;103 GE/ml (less 
+
+than approximately 200 IU/ml) (31,57). 
+
+Although newer assays such as real-time polymerase chain 
+
+reaction (PCR) tests are expected to reduce the level of detection 
+
+for HBV DNA to 10–20 IU/ml, this level could be undetectable 
+
+in some assays in use in the United States. The lower limit 
+
+of detection for four assays currently in use are 200 IU/ml 
+
+(qualitative assay); 30–350 IU/ml (branched DNA assay); 30 IU/
+
+ml (real-time PCR assay); and 10 IU/ml (real-time PCR assay). 
+
+Thus, any requirement for demonstration of a viral load &lt;200 
+
+IU/ml will need to specify the use of an assay (usually real-time 
+
+PCR) that can detect loads well below that threshold. 
+
+Fluctuating HBV DNA Levels 
+
+Persons who achieve and maintain HBV DNA blood concentrations 
+
+below some designated threshold level or attain an undetectable level 
+
+might have HBV DNA that is transiently elevated and detectable 
+
+but not necessarily transmissible. Such instances might represent 
+
+infrequent detections of virus at very low levels despite long-term 
+
+suppression of virus on therapy (58) but also could represent, especially 
+
+for persons taking older therapies, breakthrough of antiviral-drug 
+
+resistant HBV (59). As assays become increasingly sensitive (newer 
+
+ones can detect circulating HBV DNA down to 20–30 IU/ml), such 
+
+transient elevations will be recognized increasingly and will trigger 
+
+more frequent follow-up. If such an elevation in detectable HBV 
+
+DNA represents not spontaneous fluctuation (sometimes referred 
+
+to as a blip) but rather therapeutic drug failure (i.e., breakthrough), 
+
+then appropriate change in therapy may be considered. 
+
+
+Recommendations and Reports
+
+8 
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3
+
+evaluation should not define exposure-prone procedures too 
+
+broadly; the great majority of surgical and dental procedures 
+
+have not been associated with the transmission of HBV. 
+
+Notification of Patients of HBV-Infected 
+
+Health-Care Providers 
+
+There is no clear justification for or benefit from routine 
+
+notification of the HBV infection status of a health-care provider 
+
+to his or her patient with the exception of instances in which 
+
+an infected provider transmits HBV to one or more patients or 
+
+documented instances in which a provider exposes a patient to a 
+
+bloodborne infection. Routine mandatory disclosure might actually 
+
+be counterproductive to public health, as providers and students 
+
+might perceive that a positive test would lead to loss of practice 
+
+or educational opportunities. This misperception might lead to 
+
+avoidance of HBV testing, of hepatitis B vaccination (if susceptible), 
+
+of treatment and management (if infected), or of compliance with 
+
+practice oversight from an expert panel (if infected and practicing 
+
+exposure-prone procedures). In general, a requirement for disclosure 
+
+is accepted to be an insurmountable barrier to practice and might 
+
+limit patient and community access to quality medical care. 
+
+Ethical Considerations 
+
+On July 18, 2011, the Consult Subcommittee of CDC’s 
+
+Public Health Ethics Committee reviewed these proposed 
+
+recommendations. The reviewing team also included three 
+
+external ethicists. The opinion of the Consult Subcommittee 
+
+was that guidelines that allow providers with HBV to practice 
+
+while requiring those doing exposure-prone procedures to 
+
+be monitored to maintain low load strikes the right balance 
+
+between protecting patients’ interests and providers’ rights. 
+
+The Consult Subcommittee also noted that providers have an 
+
+ethical and professional obligation to know their HBV status 
+
+and to act on such knowledge accordingly (CDC Public Health 
+
+Ethics Committee, personal communication, 2011). The 
+
+Consult Subcommittee supported the new recommendation 
+
+that mandatory disclosure of provider HBV status to patients 
+
+was no longer warranted and that the 1991 recommendation 
+
+for disclosure was discriminatory and unwarranted. 
+
+In addition, the Consult Subcommittee determined that 
+
+there was no scientific or ethical basis for the restrictions that 
+
+some medical and dental schools have placed on HBV-infected 
+
+students and concluded that such restrictions were detrimental 
+
+to the professions as well as to the individual students. 
+
+BOX. CDC classification of exposure-prone patient care procedures
+
+Category I. Procedures known or likely to pose an 
+
+Category II. All other invasive and noninvasive procedures
+
+increased risk of percutaneous injury to a health-care 
+
+These and similar procedures are not included in Category I as 
+
+provider that have resulted in provider-to-patient 
+
+they pose low or no risk for percutaneous injury to a health-care 
+
+transmission of hepatitis B virus (HBV)
+
+provider or, if a percutaneous injury occurs, it usually happens 
+
+These procedures are limited to major abdominal, cardiothoracic, 
+
+outside a patient’s body and generally does not pose a risk for 
+
+and orthopedic surgery, repair of major traumatic injuries, 
+
+provider-to-patient blood exposure. These include
+
+abdominal and vaginal hysterectomy, caesarean section, vaginal 
+
+•	 surgical and obstetrical/gynecologic procedures that do 
+
+deliveries, and major oral or maxillofacial surgery (e.g., fracture 
+
+not involve the techniques listed for Category I;
+
+reductions). Techniques that have been demonstrated to increase 
+
+•	 the use of needles or other sharp devices when the health-care 
+
+the risk for health-care provider percutaneous injury and provider-
+
+provider’s hands are outside a body cavity (e.g., phlebotomy, 
+
+to-patient blood exposure include
+
+placing and maintaining peripheral and central intravascular 
+
+•	 digital palpation of a needle tip in a body cavity and/or
+
+lines, administering medication by injection, performing 
+
+•	 the simultaneous presence of a health care provider’s 
+
+needle biopsies, or lumbar puncture);
+
+fingers and a needle or other sharp instrument or object 
+
+•	 dental procedures other than major oral or maxillofacial 
+
+(e.g., bone spicule) in a poorly visualized or highly 
+
+surgery;
+
+confined anatomic site.
+
+•	 insertion of tubes (e.g., nasogastric, endotracheal, rectal, or 
+
+Category I procedures, especially those that have been 
+
+urinary catheters);
+
+implicated in HBV transmission, are not ordinarily 
+
+•	 endoscopic or bronchoscopic procedures;
+
+performed by students fulfilling the essential functions of a 
+
+•	 internal examination with a gloved hand that does not 
+
+medical or dental school education.
+
+involve the use of sharp devices (e.g., vaginal, oral, and 
+
+rectal examination; and
+
+•	 procedures that involve external physical touch (e.g., general 
+
+physical or eye examinations or blood pressure checks).
+
+
+Recommendations and Reports
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3 
+
+9
+
+Guidance for Expert Review 
+
+Panels at Institutions 
+
+HBV infection in health-care providers and students who 
+
+do not perform invasive exposure-prone procedures should 
+
+be managed as a personal health issue and does not require 
+
+special panel oversight. However, for providers who perform 
+
+exposure-prone procedures, all recent guidelines advocate the 
+
+constitution of an expert panel to provide oversight of the 
+
+infected health-care provider’s practice (Table 2). 
+
+For HBV-infected providers performing exposure-prone 
+
+procedures, expert review panels should evaluate the infected 
+
+provider’s clinical and viral burden status; assess his or 
+
+her practices, procedures and techniques, experience, and 
+
+adherence to recommended surgical and dental technique; 
+
+provide recommendations, counseling, and oversight of the 
+
+provider’s continued practice or study within the institution; and 
+
+investigate and notify appropriate persons and authorities (e.g., 
+
+risk management or, if need be, licensure boards) for suspected 
+
+and documented breaches (62) in procedure or incidents 
+
+resulting in patient exposure. The panel should reinforce the 
+
+need for Standard Precautions (e.g., double gloving, regular 
+
+glove changes, and use of blunt surgical needles). Panels may 
+
+appropriately provide counseling about alternate procedures 
+
+or specialty paths, especially for providers, students, residents, 
+
+and others early in their careers, as long as this is not coercion 
+
+or limitation (perceived or actual) of the provider or student. 
+
+The members of the expert review panel may be selected 
+
+from, but should not necessarily be limited to, the following: 
+
+one or more persons with expertise in the provider’s specialty; 
+
+infectious disease and hospital epidemiology specialists; liver 
+
+disease specialists (gastroenterologists); the infected providers’ 
+
+occupational health, student health, or primary care physicians; 
+
+ethicists; human resource professionals; hospital or school 
+
+administrators; and legal counsel. Certain members of the 
+
+panel should be familiar with issues relating to bloodborne 
+
+pathogens and their infectivity. 
+
+In instances when it is generally accepted (or thought) 
+
+that a patient might have been exposed to the blood of an 
+
+infected health-care provider, institutions should have in 
+
+place a protocol for communicating to the patient that such 
+
+an exposure might have occurred. The patient should receive 
+
+appropriate follow-up including post-exposure vaccination or 
+
+receipt of hepatitis B immune globulin and testing (i.e., similar 
+
+to the reverse situation of prophylaxis for providers exposed to 
+
+the blood of an HBV-infected patient). 
+
+The confidentiality of the infected provider or student 
+
+should be respected. Certain expert review panels might elect 
+
+to consider cases without knowledge of the name of the infected 
+
+provider or student. However, awareness of the infected 
+
+provider’s or student’s identity might be unavoidable. In such 
+
+cases, respect for the confidentiality of the person under review 
+
+should be accorded as it is for any other patient. 
+
+Recommendations for Chronically 
+
+HBV-Infected Health-Care Providers 
+
+and Students 
+
+CDC recommends the following measures for the management 
+
+of hepatitis B virus–infected health-care providers and students: 
+
+Practice Scope 
+
+•	 Chronic HBV infection in itself should not preclude the 
+
+practice or study of medicine, surgery, dentistry, or allied 
+
+health professions. Standard Precautions should be adhered 
+
+to rigorously in all health-care settings for the protection 
+
+of both patient and provider. 
+
+•	 CDC discourages constraints that restrict chronically HBV-
+
+infected health-care providers and students from the practice 
+
+or study of medicine, dentistry, or surgery, such as 
+
+ – repeated demonstration of persistently nondetectable 
+
+viral loads on a greater than semiannual frequency; 
+
+ – prenotification of patients of the HBV-infection status 
+
+of their care giver; 
+
+ – mandatory antiviral therapy with no other option such 
+
+as maintenance of low viral load without therapy; and
+
+ – forced change of practice, arbitrary exclusion from 
+
+exposure-prone procedures, or any other restriction 
+
+that essentially prohibits the health-care provider from 
+
+practice or the student from study. 
+
+Hepatitis B Vaccination and Screening 
+
+•	 All health-care providers and students should receive hepatitis B 
+
+vaccine according to current CDC recommendations 
+
+(37,45,63). Vaccination (3-dose series) should be followed by 
+
+assessment of hepatitis B surface antibody to determine 
+
+vaccination immunogenicity and, if necessary, revaccination. 
+
+Health-care providers who do not have protective concentration 
+
+of anti-HBs (&gt;10 mIU/ml) after revaccination (i.e., after 
+
+receiving a total of 6 doses) should be tested for HBsAg and 
+
+anti-HBc to determine their infection status (37). 
+
+•	 Prevaccination serologic testing is not indicated for most 
+
+persons being vaccinated, except for those providers and 
+
+students at increased risk for HBV infection (37), such as 
+
+those born to mothers in or from endemic countries and 
+
+sexually active men who have sex with men (64). 
+
+
+Recommendations and Reports
+
+10 
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3
+
+•	 Providers who are performing exposure-prone procedures 
+
+also should receive prevaccination testing for chronic HBV 
+
+infection. Exposure of a patient to the blood of an 
+
+HBV-infected health-care provider, in the performance of 
+
+any procedure, should be handled with postexposure 
+
+prophylaxis and testing of the patient in a manner similar 
+
+to the reverse situation (i.e., prophylaxis for providers 
+
+exposed to the blood of an HBV-infected patient) (65).
+
+ Expert Panel Oversight Not Needed 
+
+•	 Providers, residents, and medical and dental students with 
+
+active HBV infection (i.e., those who are HBsAg-positive) 
+
+who do not perform exposure-prone procedures but who 
+
+practice non- or minimally invasive procedures (Category 
+
+II, Box) should not be subject to any restrictions of their 
+
+activities or study. They do not need to achieve low or 
+
+undetectable levels of circulating HBV DNA, hepatitis 
+
+e-antigen negativity, or have review and oversight by an 
+
+expert review panel, as recommended for those performing 
+
+exposure-prone procedures. However, they should receive 
+
+medical care for their condition by clinicians, which might 
+
+be in the setting of student or occupational health. 
+
+Expert Panel Oversight Recommended 
+
+•	 Surgeons, including oral surgeons, obstetrician/gynecologists, 
+
+surgical residents, and others who perform exposure-prone 
+
+procedures, i.e., those listed under Category I activities 
+
+(Box), should fulfill the following criteria: 
+
+ – Consonant with the 1991 recommendations and 
+
+Advisory Committee on Immunization Practices (ACIP) 
+
+recommendations (37), their procedures should be 
+
+guided by review of a duly constituted expert review 
+
+panel with a balanced perspective (i.e., providers’ and 
+
+students’ personal, occupational or student health 
+
+physicians, infectious disease specialists, epidemiologists, 
+
+ethicists and others as indicated above) regarding the 
+
+procedures that they can perform and prospective 
+
+oversight of their practice (28). Confidentiality of the 
+
+health-care provider’s or student’s HBV serologic status 
+
+should be maintained. 
+
+ – HBV-infected providers can conduct exposure-prone 
+
+procedures if a low or undetectable HBV viral load is 
+
+documented by regular testing at least every 6 months 
+
+unless higher levels require more frequent testing; for 
+
+example, as drug therapy is added or modified or testing 
+
+is repeated to determine if elevations above a threshold 
+
+are transient. 
+
+ – CDC recommends that an HBV level 1,000 IU/ml 
+
+(5,000 GE/ml) or its equivalent is an appropriate 
+
+threshold for a review panel to adopt. Monitoring should 
+
+be conducted with an assay that can detect as low as 
+
+10–30 IU/ml, especially if the individual institutional 
+
+expert review panel wishes to adopt a lower threshold. 
+
+ – Spontaneous fluctuations (blips) of HBV DNA levels 
+
+and treatment failures might both present as higher-than-
+
+threshold (1,000 IU/ml; 5,000 GE/ml) values. This will 
+
+require the HBV-infected provider to abstain from 
+
+performing exposure-prone procedures, while subsequent 
+
+retesting occurs, and if needed, modifications or 
+
+additions to the health-care provider’s drug therapy and 
+
+other reasonable steps are taken. 
+
+Institutional Policies and Procedures 
+
+•	 Hospitals, medical and dental schools, and other institutions 
+
+should have written policies and procedures for the 
+
+identification and management of HBV-infected health-care 
+
+providers, students, and school applicants. These policies 
+
+should include the ability to identify and convene an expert 
+
+review panel (see Guidance for Expert Review Panels) aware 
+
+of these and other relevant guidelines and recommendations 
+
+before considering the management of HBV-infected 
+
+providers performing exposure-prone procedures.  
+
+Acknowledgments 
+
+The following persons were consulted in the drafting of these 
+
+recommendations: Ronald Bayer, PhD, Columbia University; Kathy 
+
+Kinlaw, MDiv, Emory University; Bernard Lo, MD, University of 
+
+California at San Francisco; David K. Henderson, MD, National 
+
+Institutes of Health Clinical Center; Disability Rights Section, Civil 
+
+Rights Division, U.S. Department of Justice; David Thomas, MD, 
+
+Infectious Diseases Society of America; Anna S. F. Lok, MD, American 
+
+Association for the Study of Liver Disease; Joan M. Block, Hepatitis B 
+
+Foundation; Su H. Wang, MD, Charles B. Wang Community Health 
+
+Center; Samuel So, MD, Asian Liver Center/Stanford University; Gabriel 
+
+Garcia, MD, American Association of American Medical Colleges; 
+
+Kathleen T. O’Laughlin, DMD, American Dental Association; Stephen 
+
+C. Shannon, DO, American Association of Colleges of Osteopathic 
+
+Medicine; Anne Wells, EdD, American Dental Education Association; 
+
+Therese M. Long, MBA, Organization for Safety, Asepsis and Prevention; 
+
+Alfred DeMaria Jr, MD, Council of State and Territorial Epidemiologists; 
+
+Mark Russi, MD, American College of Occupational and Environmental 
+
+Medicine; Harold W. Jaffe, MD, Office of the Director, Drue H. Barrett, 
+
+PhD, Leonard Ortman, PhD, Public Health Ethics Unit, Office of 
+
+the Director, Trudy K. Murphy, MD, Division of Viral Hepatitis, 
+
+National Center for HIV, Viral Hepatitis, STDs and TB Prevention, 
+
+Denise Cardo, MD, David T. Kuhar, MD, Division of Health Quality 
+
+Promotion, National Center for Emerging and Zoonotic Infectious 
+
+Diseases, Amy S. Collins, MPH, Barbara F. Gooch, DMD, Division 
+
+of Oral Health, National Center for Chronic Disease Prevention and 
+
+Health Promotion, CDC. 
+
+
+Recommendations and Reports
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3 
+
+11
+
+References 
+
+ 1. CDC. Recommendations for preventing transmission of human 
+
+immunodeficiency virus and hepatitis B virus to patients during 
+
+exposure-prone invasive procedures. MMWR 1991;40(No. RR-8). 
+
+ 2. CDC. Public Health Service inter-agency guidelines for screening donors 
+
+of blood, plasma, organs, tissues, and semen for evidence. MMWR 1991; 
+
+40(No. RR-4):1–17. 
+
+ 3. CDC. Recommendations for prevention of HIV transmission in health-
+
+care settings. MMWR 1987;36(Suppl 2S). 
+
+ 4. CDC. Universal precautions for prevention of transmission of human 
+
+immunodeficiency virus, hepatitis B virus, and other bloodborne 
+
+pathogens in health-care settings. MMWR 1988;37:377–88. 
+
+ 5. Lohr KN. Rating the strength of scientific evidence: relevance for quality 
+
+improvement programs. Intl J Qual Health Care 2004;16:9–18. 
+
+ 6. Perz JF, Thompson ND, Shaefer MK, Patel PR. US outbreak 
+
+investigations highlight the need for safe injection practices and basic 
+
+infection control. Clin Liver Dis 2010;14:137–51. 
+
+ 7. Redd JT, Baumbach J, Kohn W, Nainan O, Khristova M, Williams I. 
+
+Patient-to-patient transmission of hepatitis B virus associated with oral 
+
+surgery. J Infect Dis 2007;195:1311–4. 
+
+ 8. Bell DM, Shapiro CN, Ciesielski CA, et al. Preventing bloodborne 
+
+pathogen transmission from health-care workers to patients: the CDC 
+
+perspective. Surg Clin North Am 1995;75:1189–203. 
+
+ 9. Corden S, Ballard AJ, Ijaz S, et al. HBV DNA levels and transmission 
+
+of hepatitis B by health care workers. J Clin Virol 2003;27:52–8. 
+
+ 10. Enfield KB, Sharapov U, Hall K, et al. Transmission of hepatitis B virus 
+
+to patients from an orthopedic surgeon [Abstr no. 420]. Presented at 
+
+the 5th Decennial International Conference on Healthcare-Associated 
+
+Infections, Atlanta, Georgia; March 18–20, 2010. Available at http://
+
+shea.confex.com/shea/2010/webprogram/Paper2428.html. Accessed 
+
+May 8, 2012.
+
+ 11. Harpaz R, von Seidlin L, Averhoff AM, et al. Transmission of hepatitis B 
+
+virus to multiple patients from a surgeon without evidence of inadequate 
+
+infection control. N Engl J Med 1996;334:549–54. 
+
+ 12. Ngui SL, Watkins RPF, Heptonstall J, Teo CG. Selective transmission of 
+
+hepatitis B after percutaneous exposure. J Infect Dis 2000;181:838–43. 
+
+ 13. The Incident Investigation Teams and Others. Transmission of hepatitis 
+
+to patients from four infected surgeons without hepatitis B e antigen. 
+
+N Engl J Med 1997;336:178–84. 
+
+ 14. Molyneaux P, Reid TM, Collacott I, Mcintyre PG, Dillon JF, Laing RB. 
+
+Acute hepatitis B in two patients transmitted from an e antigen negative 
+
+cardiothoracic surgeon. Commun Dis Publ Health 2000;3:250–2. 
+
+ 15. Spijkerman IJ, van Doorn LJ, Janssen MH, et al. Transmission of hepatitis 
+
+B virus from a surgeon to his patients during high risk and low risk 
+
+surgical procedures during 4 years. Infect Contr Hosp Epidemiol 
+
+2002;23:306–12. 
+
+ 16. Ulrich PP, Ramesh AB, Deto B, Mack D, Sninsky J, Vyas GN. Enzymatic 
+
+amplification of hepatitis B virus DNA in serum compared with 
+
+infectivity testing in chimpanzees. J Infect Dis 1989;160:37–43. 
+
+ 17. Asabe S, Wieland SF, Chattopadhyay PK, et al. The size of the viral 
+
+inoculums contributes to the outcome of hepatitis B infection. J Virol 
+
+2009;83:9652–62. 
+
+ 18. CDC. Guidelines for infection control in dental health-care 
+
+settings—2003. MMWR 2003;52(No. RR-17). 
+
+ 19. Younai FS. Health care-associated transmission of hepatitis B &amp; C viruses 
+
+in dental care (dentistry). Clin Liver Dis 2010;14:93–104. 
+
+ 20. US Department of Labor. Occupational health and safety administration. 
+
+29 CFR part 1910.1030. Occupational exposure to bloodborne pathogens; 
+
+final rule. Federal Register 1991;56:64004-182. 
+
+ 21. Carlson AL, Perl TM. Health care workers as source of hepatitis B and 
+
+C virus transmission. Clin Liver Dis 2010;14:153–68. 
+
+ 22. CDC. Viral hepatitis surveillance, United States, 2009. Available at 
+
+http://www.cdc.gov/hepatitis/Statistics/2009Surveillance/index.htm. 
+
+Accessed May 8, 2012. 
+
+ 23. CDC. Hepatitis B virus: a comprehensive strategy for eliminating 
+
+transmission in the United States through universal childhood vaccination: 
+
+recommendations of the Immunization Practices Advisory Committee 
+
+(ACIP) MMWR 1991;40(No. RR-13). 
+
+ 24. Williams IT, Perz JF, Bell BP. Viral hepatitis transmission in ambulatory 
+
+care settings. Clin Infect Dis 2004;38:1592–8. 
+
+ 25. Hoofnagle JH, Doo E, Liang TJ, Fleischer R, Lok ASF. Management 
+
+of hepatitis B: summary of a clinical research workshop [Review]. 
+
+Hepatol 2007;45:1056–75. 
+
+ 26. Ribeiro RM, Germanidis G, Powers KA, et al. Hepatitis B virus kinetics 
+
+under antiviral therapy sheds light on differences in hepatitis B e antigen 
+
+positive and negative infections. J Infect Dis 2010;202:1309–18. 
+
+ 27. Leung N, Peng C-Y, Han H-W, et al. Early hepatitis B virus DNA 
+
+reduction in hepatitis B e antigen-positive patients with chronic hepatitis 
+
+B: a randomized international study of entecavir versus adefovir. Hepatol 
+
+2009;49:72–9. 
+
+ 28. Henderson DK, Dembry L, Fishman NO, et al. SHEA guideline for 
+
+management of healthcare workers who are infected with hepatitis B 
+
+virus, hepatitis C virus and/or human immunodeficiency virus. Infect 
+
+Control Hosp Epidemiol 2010;31:203–32. 
+
+ 29. American College of Surgeons. Statement on the surgeon and hepatitis. 
+
+Available at http://www.facs.org/fellows_info/statements/st-22.html. 
+
+Accessed May 8, 2012. 
+
+ 30. Health Canada. Proceedings of the Consensus Conference on Infected 
+
+Health Care Worker Risk for Transmission of Bloodborne Pathogens. 
+
+Can Commun Dis Rep 1998;24(Suppl 4):1–28. Available at http://
+
+www.phac-aspc.gc.ca/publicat/ccdr-rmtc/98vol24/24s4/index.html. 
+
+Accessed May 8, 2012. 
+
+ 31. UK Department of Health. Hepatitis B infected health care workers: 
+
+guidance on implementation of Health Service Circular 2000/020. 2007. 
+
+Available at http://www.dh.gov.uk/prod_consum_dh/groups/dh_
+
+digitalassets/@dh/@en/documents/digitalasset/dh_4057538.pdf. 
+
+Accessed May 8, 2012. 
+
+ 32. UK Department of Health. Health Services Guidelines HSG (93)40. 
+
+Protecting health care workers and patients from hepatitis B. Available at 
+
+http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@
+
+en/documents/digitalasset/dh_4088384.pdf. Accessed May 8, 2012. 
+
+ 33. Gunson RN, Shouval D, Roggendorf M, et al. Hepatitis B virus (HBV) 
+
+and hepatitis C virus (HCV) infections in health care workers (HCWs): 
+
+guidelines for prevention of transmission of HBV and HCV from HCW 
+
+to patients. J Clin Virol 2003;27:213–30. 
+
+ 34. Buster EH, van der Eijk AA, Schalm SW. Doctor to patient transmission 
+
+of hepatitis B virus: implications of HBV DNA levels and potential new 
+
+solutions. Antiviral Res 2003;60:79–85. 
+
+ 35. Van der Eijk AA, de Man RA, Niesters HG, Schalm SW, Zaaijer HL. 
+
+Hepatitis B virus (HBV) DNA levels and the management of HBV-
+
+infected health care providers. J Viral Hepatitis 2006;13:2–4. 
+
+ 36. FitzSimmons D, Francois G, De Carli G, et al. Hepatitis B virus, hepatitis 
+
+C virus and other blood-borne infections in healthcare providers: 
+
+guidelines for prevention and management in industrialized countries. 
+
+Occup Environ Med 2008;65:446–51. 
+
+ 37. CDC. Immunization of health-care personnel: recommendations of the 
+
+Advisory Committee on Immunization Practices (ACIP). MMWR 2011; 
+
+60(No. RR-7). 
+
+ 38. Garner JS. Guideline for isolation precautions in hospitals. The Hospital 
+
+Infection Control Practices Advisory Committee. Infect Control Hosp 
+
+Epidemiol 1996;17:53. 
+
+ 39. Mahoney FJ, Stewart K, Hu HX, Coleman P, Alter MJ. Progress toward 
+
+the elimination of hepatitis B virus transmission among health care 
+
+workers in the United States. Arch Intern Med 1997;157:2601–5. 
+
+ 40. Haiduven DJ, DeMaio TM, Stevens DA. A five-year study of needlestick 
+
+injuries: significant reduction associated with communication, education, 
+
+and convenient placement of sharps containers. Infect Control Hosp 
+
+Epidemiol 1992;13:265–71. 
+
+
+Recommendations and Reports
+
+12 
+
+MMWR / July 6, 2012 / Vol. 61 / No. 3
+
+ 41. Wong ES, Stoda JL, Chinchilli VM, Williams DS, Stuart G, Markowitz SM. 
+
+Are universal precautions effective in reducing the number of occupational 
+
+exposures among health care workers? JAMA 1991;265:1123–8. 
+
+ 42. Fahey BJ, Koziol DE, Banks SM, Henderson DK. Frequency of 
+
+nonparenteral occupational exposure to blood and body fluids before 
+
+and after universal precautions training. Am J Med 1991;90:145–53. 
+
+ 43. Beekman SE, Vlahov D, McShalley ED, Schmitt JM. Temporal 
+
+association between implementation of universal precautions and a 
+
+sustained progressive decrease in percutaneous exposures to blood. Clin 
+
+Infect Dis 1994;18:562–9. 
+
+ 44. Beltrami EM, Williams IT, Shapiro CN, Chamberland ME. Risk and 
+
+management of blood-borne infections in health care workers. Clin 
+
+Microbiol Rev 2000;13:385–407. 
+
+ 45. CDC. A comprehensive immunization strategy to eliminate transmission 
+
+of hepatitis B virus infection in the United States: recommendations of 
+
+the Advisory Committee on Immunization Practices. Part II: 
+
+immunization of adults. MMWR 2006;55(No. RR-16). 
+
+ 46. Association of American Medical Colleges. America needs a more diverse 
+
+physician workforce. Available at https://www.aamc.org/download/87306/
+
+data/physiciandiversityfacts.pdf. Accessed May 8, 2012. 
+
+ 47. American Dental Association. 2009–10 survey of dental education: 
+
+academic programs, enrollment, and graduates. Available at http://www.
+
+ada.org/sections/professionalResources/pdfs/survey_ed_vol1.pdf. 
+
+Accessed May 8, 2012. 
+
+ 48. Fredekind RE, Cuny EJ, Peltier B, Carpenter WM. The hepatitis B e-antigen 
+
+positive dental school applicant. J Dental Educ 1999;63:766–71. 
+
+ 49. Luu NS. Dental students with hepatitis B: issues to be considered when 
+
+defining policies. J Dental Educ 2004;68:306–15. 
+
+ 50. Sundkvist T, Hamilton GR, Rimmer D, Evans BG, Teo CG. Fatal 
+
+outcome of transmission of hepatitis B from an e antigen negative 
+
+surgeon. Commun Dis Public Health 1998;1:48–50. 
+
+ 51. Carman WF, Jacyna MR, Hadziyannis S, McGarvey S, Makris A, Thomas 
+
+HC. Mutation preventing formation of hepatitis e antigen in patients 
+
+with chronic hepatitis B infection. Lancet 1989;2:588–91. 
+
+ 52. Brunetto MR, Giarin MM, Olivieri F, et al. Wild type and e antigen-
+
+minus hepatitis B viruses and course of chronic hepatitis. Proc Natl Acad 
+
+Sci USA 1991;88:4186–90. 
+
+ 53. Thompson AJV, Nguyen T, Iser D, et al. Serum hepatitis B surface antigen 
+
+and hepatitis B e antigen titers: disease phase influences correlation with 
+
+viral load and intrahepatic hepatitis B virus markers. Hepatol 2010; 
+
+51:1933–44. 
+
+ 54. Zacharakis G, Koskinas J, Kotsiou S, et al. The role of serial measurement 
+
+of serum HBV DNA levels in patients with chronic HBeAg(-) hepatitis 
+
+B infection: association with liver disease progression: a prospective cohort 
+
+study. J Hepatol 2008;49:884–91. 
+
+ 55. Kim YJ, Cho HC, Choi MS, et al. The change of the quantitative HBsAg 
+
+level during the natural course of chronic hepatitis B. Liver International 
+
+2011;31:819–25. 
+
+ 56. Peng G, Luo B, Lie J, et al. HepatitisB e-antigen persistency is associated 
+
+with the properties of HBV-specific CD8 T cells in CHB patients. J 
+
+Clin Immunol 2011;31:195–204. 
+
+ 57. UK Department of Health. Hepatitis B infected healthcare workers and 
+
+antiviral therapy. Available at http://www.dh.gov.uk/prod_consum_dh/
+
+groups/dh_digitalassets/documents/digitalasset/dh_073133.pdf. 
+
+Accessed May 8, 2012. 
+
+ 58. Lampertico P, Viganò M, Soffredini R, et al. Maintained long-term suppression 
+
+of HBV replication in NUC-naïve patients with chronic hepatitis B treated 
+
+with EBV monotherapy infield practice: the Italian multicenter experience 
+
+[Abstract no. 391]. Hepatol 2010;42(4 Suppl):514–5A. 
+
+ 59. Stornaiuolo G, Stanzione M, Brancaccio G, et al. Viral blips during long-
+
+term treatment with standard or double dose lamivudine in HBe antigen 
+
+negative chronic hepatitis B. World J Gastroenterol 2007;13:5642–7. 
+
+ 60. Reitsma AM, Closen ML, Cunningham M, et al. Infected physicians 
+
+and invasive procedures: safe practice management. Clin Infect Dis 
+
+2005;40:1665–8; 41:136 [Erratum].
+
+ 61. Cleveland JL, Barker LK, Cuny EJ, Panlilio AL, National Surveillance System 
+
+for Health Care Workers Group. Preventing percutaneous injuries among 
+
+dental health care personnel. J Am Dental Assoc 2007;138:169–78. 
+
+ 62. CDC. Steps for evaluating an infection control breach. Available at 
+
+http://www.cdc.gov/HAI/surveillance/steps_for_eval_IC_breach.html. 
+
+Accessed May 8, 2012. 
+
+ 63. CDC. Recommended adult immunization schedule—United States. 
+
+MMWR 2012;61(4):1–4. 
+
+ 64. CDC. Recommendations for identification and public health management of 
+
+persons with chronic hepatitis B virus infection. MMWR 2008;57(No. RR-8). 
+
+ 65. CDC. Updated U.S. Public Health Service guidelines for the management 
+
+of occupational exposures to HBV, HCV, and HIV and recommendations 
+
+for postexposure prophylaxis. MMWR 2001;50(No. RR-11). 
+
+
+
+U.S. Government Printing Office: 2012-523-218/73628 Region IV ISSN: 1057-5987
+
+The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC) and is available free of 
+
+charge in electronic format. To receive an electronic copy each week, visit MMWR’s free subscription page at http://www.cdc.gov/mmwr/mmwrsubscribe.
+
+html. Paper copy subscriptions are available through the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402; 
+
+telephone 202-512-1800.
+
+Address all inquiries about the MMWR Series, including material to be considered for publication, to Editor, MMWR Series, Mailstop E-90, CDC, 1600 
+
+Clifton Rd., N.E., Atlanta, GA 30333 or to mmwrq@cdc.gov. 
+
+All material in the MMWR Series is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+
+Use of trade names and commercial sources is for identification only and does not imply endorsement by the U.S. Department of Health and Human Services.
+
+References to non-CDC sites on the Internet are provided as a service to MMWR readers and do not constitute or imply endorsement of these organizations 
+
+or their programs by CDC or the U.S. Department of Health and Human Services. CDC is not responsible for the content of these sites. URL addresses 
+
+listed in MMWR were current as of the date of publication.
+

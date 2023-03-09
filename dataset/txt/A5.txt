@@ -1,0 +1,1823 @@
+
+ 
+
+ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+■ 
+
+Hepatitis B Management:  
+
+Guidance for the Primary Care Provider 
+
+Last updated February 25, 2020 
+
+The purpose of this document is to provide simplified, 
+
+up-to-date, and readily accessible guidance for primary care 
+
+medical providers related to the prevention, diagnosis, and 
+
+management of hepatitis B virus (HBV) infection, including 
+
+hepatocellular carcinoma surveillance. 
+
+About the HBV Primary Care Workgroup 
+
+This guidance was developed by the Hepatitis B Primary Care 
+
+Workgroup, a multidisciplinary panel of national experts in the field of 
+
+viral hepatitis B, including representation from hepatology, infectious 
+
+diseases, pharmacy, primary care, public health, and other national 
+
+organizations. The workgroup was organized by the National Taskforce 
+
+on Hepatitis B in partnership with the San Francisco Hep B Free — Bay 
+
+Area and Project ECHO™ and did not receive any outside funding. 
+
+Collaboration with University of Washington 
+
+This guidance was produced in collaboration with the University of 
+
+Washington’s National Hepatitis Training Center (HTC). The UW HTC will 
+
+host and feature the most current version of these guidelines on the free 
+
+Hepatitis B Online website (hepatitisB.uw.edu). The UW HTC is funded by 
+
+the Centers for Disease Control and Prevention (CDC). 
+
+Suggested citation. Tang AS, Thornton K, and HBV Primary Care Workgroup. 
+
+Hepatitis B Management: Guidance for the Primary Care Provider. 
+
+February 25, 2020. [https://www.hepatitisB.uw.edu/hbv-pcw/guidance] 
+
+ 
+
+ 
+
+HBV Primary Care  
+
+Workgroup 
+
+HBV GUIDANCE CO-CHAIRS 
+
+Amy S. Tang, MD 
+
+Karla Thornton, MD, MPH 
+
+HEPATOLOGY 
+
+Eric W. Chak, MD, MPH 
+
+Robert G. Gish, MD 
+
+Anna S. Lok, MD 
+
+Brian J. McMahon, MD 
+
+Lewis R. Roberts, MB, ChB, PhD 
+
+Norah A. Terrault, MD, MPH 
+
+INFECTIOUS DISEASES 
+
+Camilla S. Graham, MD, MPH 
+
+David H. Spach, MD 
+
+Mark S. Sulkowski, MD 
+
+Karla Thornton, MD, MPH 
+
+PHARMACY 
+
+Paulina Deming, PharmD 
+
+PRIMARY CARE 
+
+Richard Andrews, MD, MPH 
+
+Amy S. Tang, MD 
+
+Grace Wang, MD, MPH 
+
+Su Wang, MD, MPH 
+
+PUBLIC HEALTH 
+
+Moon S. Chen Jr., PhD, MPH 
+
+Chari Cohen, DrPH, MPH 
+
+Stuart Fong, MD 
+
+Aaron M. Harris, MD, MPH 
+
+Rita K. Kuwahara, MD, MIH 
+
+Richard So, MPH, MPA 
+
+Ann Winters, MD 
+
+Additional Workgroup Support 
+
+Melanie Bird, PhD 
+
+Jennifer Lim 
+
+Amir Qaseem, MD, PhD 
+
+Amy Trang, PhD, M.Ed 
+
+ 
+
+TABLE OF CONTENTS 
+
+Chronic Hepatitis B Testing and Management Algorithm ........................... 2 
+
+Hepatitis B Virus (HBV) Serology Interpretation and Management ........... 3 
+
+Initial Evaluation of the HBsAg(+) Patient ................................................... 4 
+
+Counseling of the HBsAg(+) Patient ............................................................ 4 
+
+Management of the HBsAg(+) Patient ........................................................ 5 
+
+Preferred Antiviral Treatment of the HBsAg(+) Patient .............................. 6 
+
+Hepatocellular Carcinoma (HCC) Surveillance ............................................ 7 
+
+Perinatal HBV Management ........................................................................ 8 
+
+Selected References .................................................................................... 9 
+
+HBV Primary Care Workgroup Members .................................................. 10 
+
+Disclosures ................................................................................................ 11 
+
+ 
+
+
+2 
+
+Last updated February 25, 2020 
+
+ Chronic Hepatitis B Testing and Management Algorithm 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 Do not include anti-HBc IgM in HBV screening panel unless suspect acute HBV. 
+
+ 
+
+ 
+
+ 
+
+Screen for chronic hepatitis B virus (HBV) infection with: 
+
+  &gt;  Hepatitis B surface antigen (HBsAg), and 
+
+  &gt;  Hepatitis B surface antibody (anti-HBs), and 
+
+  &gt;  Hepatitis B core antibody (anti-HBc): Total or IgG1 
+
+See HBV Evaluation, Counseling, 
+
+Management, Treatment, and  
+
+HCC Surveillance (pages 4, 5, 6, 7) 
+
+See HBV Serology Interpretation 
+
+and Management 
+
+(page 3) 
+
+If pregnant, see 
+
+Perinatal HBV 
+
+Management 
+
+(page 8) 
+
+If treatment 
+
+candidate, see 
+
+Preferred HBV 
+
+Antiviral Treatment 
+
+(page 6) 
+
+HBsAg(–) 
+
+HBsAg(+) 
+
+If susceptible to HBV as 
+
+indicated by anti-HBc(–) 
+
+&amp; anti-HBs(–), vaccinate 
+
+If prior HBV infection  
+
+as indicated by  
+
+anti-HBc(+), counsel on 
+
+HBV reactivation risk 
+
+
+3 
+
+Last updated February 25, 2020 
+
+ Hepatitis B Virus (HBV) Serology Interpretation and Management 
+
+HBsAg 
+
+Anti-HBc  
+
+(Total or IgG)  
+
+Anti-HBs 
+
+Interpretation 
+
+Management 
+
++ 
+
++ 
+
+–/+ 
+
+Current infection 
+
+ 
+
+&gt; See Evaluation, Counseling, Management, 
+
+Treatment, and HCC Surveillance (pages 4, 5, 
+
+6, 7) 
+
+&gt; Refer household and sexual contacts for HBV 
+
+screening; if susceptible, vaccinate 
+
+– 
+
++ 
+
++ 
+
+Prior infection with 
+
+immune control 
+
+&gt; No transmission risk; HBV dormant in liver 
+
+&gt; Reactivation risk if on immunosuppressive 
+
+medications 
+
+– 
+
++ 
+
+– 
+
+Prior infection or 
+
+occult infection1 
+
+&gt; If immunocompetent2, counsel as prior 
+
+infection above 
+
+&gt; Reactivation risk if on immunosuppressive 
+
+medications 
+
+&gt; If immunocompromised, check HBV DNA for 
+
+occult infection1 
+
+– 
+
+– 
+
++ 
+
+Immune from prior 
+
+vaccination 
+
+Protected for life. No need for booster vaccine 
+
+– 
+
+– 
+
+– 
+
+Susceptible 
+
+VACCINATE3 
+
+ 
+
+1 Occult HBV infection is defined by the presence of detectable HBV DNA in persons who are negative for HBsAg. Patients with occult 
+
+HBV infection should be managed similarly to those with current infection, but note that most have very low HBV DNA levels and do 
+
+not need HBV treatment.  
+
+2 Consider HBV vaccination for persons with no known risk factors or persons not from an area of intermediate or high endemicity 
+
+as this may represent a false-positive anti-HBc result. The rate of false positive anti-HBc is less than 2 per 1,000 tests using 
+
+current assays. 
+
+3 For “susceptible” persons considered at high risk for HBV who previously received a complete vaccine series without follow-up 
+
+serologic testing, acceptable management options include (a) give a booster vaccine dose followed by serologic testing 1 to 2 months 
+
+later, with completion of a full vaccine series if the post-booster anti-HBs test remains negative or (b) give full vaccine series followed 
+
+by post-vaccination serologic testing 1 to 2 months after the last vaccine dose. 
+
+ 
+
+Post-Vaccination Serologic Testing 
+
+Assessment of the response to HBV vaccination with a post-vaccination serologic test of anti-HBs 
+
+between 1 and 2 months after the final dose of vaccine should be obtained in all of the following 
+
+adult groups at high risk for HBV:  
+
+&gt; Health care personnel and public safety workers 
+
+&gt; Sexual and household contacts of HBsAg(+) persons 
+
+&gt; Hemodialysis patients 
+
+&gt; Persons who inject drugs  
+
+&gt; Persons with HIV and other immunocompromising conditions 
+
+ 
+
+
+4 
+
+Last updated February 25, 2020 
+
+ Initial Evaluation of the HBsAg(+) Patient 
+
+History/Examination 
+
+Routine Laboratory Tests 
+
+Serology/Virology 
+
+Imaging/Staging Studies 
+
+□ Symptoms/signs of 
+
+cirrhosis 
+
+□ Alcohol and metabolic 
+
+risk factors 
+
+□ Family history of 
+
+hepatocellular 
+
+carcinoma (HCC) 
+
+□ Hepatitis A vaccination 
+
+status 
+
+ 
+
+□ CBC comprehensive 
+
+□ Comprehensive 
+
+metabolic panel 
+
+including: 
+
+ AST/ALT 
+
+ Total bilirubin 
+
+ Alkaline phosphatase 
+
+ Albumin 
+
+ Creatinine 
+
+□ INR 
+
+□ HBeAg/anti-HBe 
+
+□ HBV DNA 
+
+□ Anti-HAV (total or IgG) 
+
+to determine need for 
+
+vaccination if none 
+
+documented 
+
+□ Anti-HCV 
+
+□ Anti-HDV 
+
+□ Anti-HIV 
+
+ 
+
+□ Abdominal ultrasound 
+
+□ Elastography  
+
+(e.g. FibroScan)  
+
+or 
+
+Serum fibrosis 
+
+assessment1 (e.g. APRI, 
+
+FibroSure, FIB-4) 
+
+ 
+
+1 APRI and FIB-4 scores can be calculated using platelet count and AST and ALT from routine labs. Calculators with score interpretation 
+
+are available. See Hepatitis B Online APRI calculator and FIB-4 calculator. FibroSure and FibroTest are commercially available blood 
+
+tests that can be ordered as well. 
+
+ Counseling of the HBsAg(+) Patient 
+
+1.  Give a plan for follow-up care. Patients will need regular (minimum every 6 months) follow-up and 
+
+monitoring for disease progression.  
+
+2.  Educate and counsel on the long-term implications of chronic HBV infection (e.g., cirrhosis and 
+
+hepatocellular carcinoma).  
+
+3.  Advise patient to inform all current and future medical providers of their HBsAg-positive status, 
+
+especially if they ever need treatment for cancer or any immunologic condition such as rheumatoid 
+
+arthritis or other immune disorders. 
+
+4.  Counsel to avoid or limit alcohol use.  
+
+5.  Advise to optimize body weight and address metabolic complications, including control of diabetes 
+
+and dyslipidemia (to prevent concurrent development of metabolic syndrome and fatty liver). 
+
+6.  Provide education on how to prevent transmission of HBV to others.  
+
+Persons with chronic HBV: 
+
+Should: 
+
+&gt; Verify that sexual contacts, household contacts, 
+
+family members, or injection partners are screened 
+
+and vaccinated 
+
+&gt; Cover open cuts and scratches 
+
+&gt; Clean blood spills with diluted bleach (1:10) 
+
+&gt; Use condoms to prevent HBV transmission 
+
+during sexual intercourse with partners 
+
+who are susceptible to HBV infection. 
+
+Should 
+
+NOT: 
+
+&gt; Share toothbrushes, razors, nail clippers, or earrings 
+
+&gt; Share injection equipment 
+
+&gt; Share glucose testing equipment 
+
+&gt; Donate blood, organs, or sperm 
+
+Can: 
+
+&gt; Participate in all activities, including contact sports 
+
+&gt; Share food and utensils, or kiss others 
+
+&gt; Pursue educational or career opportunities 
+
+without limitations, including work as a 
+
+health care professional 
+
+ 
+
+
+5 
+
+Last updated February 25, 2020 
+
+ Management of the HBsAg(+) Patient1 
+
+Cirrhosis 
+
+HBV DNA (IU/mL) 
+
+ALT (U/L) 
+
+Management 
+
+YES 
+
+Any 
+
+Any 
+
+&gt; TREAT with antiviral medication (page 6) 
+
+&gt; Monitor HBV DNA and ALT every 6 months 
+
+&gt; Refer to specialist for screening endoscopy and, if needed, for 
+
+other cirrhosis-related complications 
+
+&gt; HCC surveillance, including in persons who become HBsAg(-) 
+
+(page 7) 
+
+&gt; All patients with decompensated cirrhosis2 should be 
+
+promptly referred to a hepatologist 
+
+NO 
+
+&gt;2,000 
+
+Elevated3 
+
+&gt; TREAT with antiviral medication (page 6) 
+
+&gt; Monitor HBV DNA and ALT every 6 months 
+
+&gt; Monitor HBeAg and anti-HBe every 6 months in patients  
+
+who are HBeAg+ at time of treatment initiation to evaluate 
+
+for seroconversion from HBeAg(+)/anti-HBe(-) to  
+
+HBeAg(-)/anti-HBe(+) 
+
+&gt; Check HBsAg annually if/when HBeAg negative 
+
+Normal 
+
+&gt; Monitor HBV DNA and ALT every 6 months 
+
+&gt; Liver fibrosis assessment every 2 to 3 years 
+
+≤2,000 
+
+Elevated3 
+
+&gt; Evaluate other etiologies for elevated ALT 
+
+&gt; Monitor HBV DNA and ALT every 6 months 
+
+Normal 
+
+&gt; Monitor HBV DNA and ALT every 6 months and  
+
+HBsAg every 1 year for seroclearance 
+
+1 In contrast to other HBV guidelines that have incorporated HBeAg status into treatment initiation decisions for non-cirrhotic HBsAg(+) 
+
+patients, this guidance for primary care providers uses only HBV DNA and ALT to determine initial treatment indication in non-
+
+cirrhotic HBsAg(+) patients.  
+
+2  Patients should be considered to have decompensated cirrhosis and promptly referred to a hepatologist if any of the following are 
+
+present: jaundice, ascites, variceal hemorrhage, hepatic encephalopathy, or a Child-Turcotte-Pugh (CTP) score ≥7 (see Hepatitis B 
+
+Online CTP calculator. 
+
+3 Elevated ALT defined as &gt;25 U/L in females and &gt;35 U/L in males that is persistent for at least 3 to 6 months. 
+
+ 
+
+Assessing Treatment Response and Endpoints for Antiviral Discontinuation 
+
+After initiation of HBV antiviral, recheck HBV DNA every 3 months until undetectable, then every 
+
+6 months once undetectable. If the patient does not achieve undetectable HBV DNA after 1 year of 
+
+antiviral therapy and the HBV DNA levels are not downtrending, obtain expert consultation or refer 
+
+to a specialist.  
+
+&gt; Persons with cirrhosis: Do not stop antiviral treatment, unless guided by expert consultation. 
+
+&gt; Persons without cirrhosis and HBeAg(+) at baseline: Patients with persistent undetectable HBV 
+
+DNA, normal ALT, and persistent HBeAg(-) and anti-HBe(+) 1 year after HBeAg seroconversion 
+
+[from HBeAg(+)/anti-HBe(-) to HBeAg(-)/anti-HBe(+)] may trial off antiviral treatment. 
+
+&gt; Persons without cirrhosis and HBeAg(-) at baseline: Continue antiviral treatment until HBsAg 
+
+clearance. 
+
+
+6 
+
+Last updated February 25, 2020 
+
+ Preferred Antiviral Treatment of the HBsAg(+) Patient 
+
+Drug 
+
+Adult dose 
+
+Pregnancy category1 
+
+Side effects 
+
+Monitoring on treatment 
+
+Entecavir 
+
+Baraclude 
+
+Standard: 0.5 mg 
+
+by mouth daily 
+
+Decompensated 
+
+liver disease: 1 mg 
+
+by mouth daily 
+
+Take 2 hours 
+
+before or after 
+
+food 
+
+Formerly FDA 
+
+category C  
+
+Limited pregnancy 
+
+exposure, pregnancy 
+
+exposure registry 
+
+available 
+
+Insufficient human 
+
+data to assess risk of 
+
+major birth defects 
+
+No adverse effects 
+
+observed in animal 
+
+studies 
+
+Headache, fatigue, 
+
+dizziness, nausea 
+
+reported in ≥3% 
+
+Post-marketing 
+
+surveillance include 
+
+infrequent reports 
+
+of: 
+
+&gt; lactic acidosis  
+
+&gt; severe 
+
+hepatomegaly 
+
+Adjust dose with CrCl 
+
+&lt;50 mL/min 
+
+Avoid in pregnant patients 
+
+Avoid in patients with prior 
+
+exposure to lamivudine or 
+
+known lamivudine resistance 
+
+Lactic acid levels if clinical 
+
+concern 
+
+Tenofovir 
+
+disoproxil 
+
+fumarate 
+
+(TDF) 
+
+Viread 
+
+300 mg by mouth 
+
+daily 
+
+Take without 
+
+regard to food 
+
+Formerly FDA 
+
+category B  
+
+Pregnancy exposure 
+
+registry available 
+
+Extensive data from 
+
+pregnant women with 
+
+HIV or HBV infections 
+
+indicate no increase in 
+
+pregnancy 
+
+complications or major 
+
+birth defects 
+
+Nausea (9%) 
+
+Post-marketing 
+
+surveillance include 
+
+infrequent reports 
+
+of: 
+
+&gt; nephropathy  
+
+&gt; Fanconi syndrome 
+
+&gt; osteomalacia  
+
+&gt; lactic acidosis 
+
+Adjust dose with CrCl 
+
+&lt;50 mL/min  
+
+Serum creatinine at baseline; 
+
+if at risk for renal impairment, 
+
+serum creatinine and 
+
+phosphorus, and urine glucose 
+
+and protein at least annually  
+
+Consider bone density study at 
+
+baseline and during treatment 
+
+in persons with history of 
+
+fracture or risks for osteopenia 
+
+Lactic acid levels if clinical 
+
+concern 
+
+Tenofovir 
+
+alafenamide 
+
+(TAF) 
+
+Vemlidy 
+
+25 mg by mouth 
+
+daily 
+
+Take with food 
+
+No human data in 
+
+pregnancy 
+
+No adverse effects 
+
+observed in animal 
+
+studies 
+
+Headache (12%) 
+
+Lactic acidosis/ 
+
+severe 
+
+hepatomegaly with 
+
+steatosis is a 
+
+warning for 
+
+tenofovir AF due to 
+
+rare reports with 
+
+use of tenofovir DF  
+
+Avoid with CrCl &lt;15 mL/min if 
+
+not receiving hemodialysis 
+
+Dose after HD in those on HD 
+
+If at risk for renal impairment, 
+
+serum creatinine and 
+
+phosphorus, and urine glucose 
+
+and protein as clinically 
+
+indicated.  
+
+Lactic acid levels if clinical 
+
+concern 
+
+1 In 2015, the US FDA replaced the pregnancy risk designation by letters A, B, C, D, and X with more specific language on pregnancy and 
+
+lactation. This new labeling is being phased in gradually and, to date, only tenofovir alafenamide includes these additional data.  
+
+2 Decompensated liver disease defined as Child-Turcotte-Pugh (CTP) ≥7 (see Hepatitis B Online CTP calculator). 
+
+
+7 
+
+Last updated February 25, 2020 
+
+ Hepatocellular Carcinoma (HCC) Surveillance 
+
+Indications for HCC Surveillance 
+
+Persons with chronic HBV at increased risk for hepatocellular carcinoma (HCC) who require routine 
+
+surveillance include:  
+
+&gt; All persons with cirrhosis, including persons who become HBsAg(-) 
+
+&gt; The following populations, even in the absence of cirrhosis: 
+
+ Asian or black/African1 males older than 40 years of age 
+
+ Asian females older than 50 years of age 
+
+ Persons with a family history of HCC  
+
+ Persons with hepatitis D virus coinfection 
+
+Recommended HCC Surveillance Method 
+
+HCC surveillance should be performed in the primary care setting with liver ultrasound with or without 
+
+serum alpha-fetoprotein (AFP)2 every 6 months. More frequent monitoring or other imaging modalities 
+
+such as computed tomography (CT) or magnetic resonance imaging (MRI), with and without contrast, may 
+
+be indicated to further evaluate new liver lesions.  
+
+ 
+
+1 More recent African immigrants may be at increased risk for HCC and some experts begin HCC surveillance at age &lt;40 years. 
+
+2 Wait at least 6 months after pregnancy before using AFP for HCC surveillance.  
+
+
+8 
+
+Last updated February 25, 2020 
+
+ Perinatal HBV Management 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 All pregnant women should be screened for HBV (with HBsAg at minimum) during each pregnancy, regardless of prior HBV screening 
+
+results. For complete HBV profile, add anti-HBs to determine immunity and anti-HBc IgG or total for evidence of prior infection. 
+
+2 All HBsAg(+) mothers should be educated on the importance of regular follow-up during and after the pregnancy so that appropriate 
+
+HBV monitoring can occur. 
+
+3 Engerix-B and Recombivax-HB are safe to give at any time during pregnancy. Due to insufficient data, Heplisav-B vaccine is not 
+
+recommended during pregnancy. 
+
+4 If an HBsAg(+) woman is already on antiviral therapy when she becomes pregnant, the antiviral regimen should immediately be 
+
+switched to tenofovir disoproxil fumarate (if she is not already taking this medication). 
+
+5 For infants weighing less than 2,000 grams, the birth dose does not count toward the vaccine series and the infant should receive 
+
+another HBV vaccine one month after birth. 
+
+ALL infants of HBsAg(-) women should: 
+
+&gt; Receive birth dose HBV vaccine within 
+
+24 hours of birth 
+
+ 
+
+ALL infants of HBsAg(+) women should: 
+
+&gt; Receive birth dose HBV vaccine and 
+
+HBIG within 12 hours of birth 
+
+&gt; Complete HBV vaccine series on 
+
+schedule5 
+
+&gt; Receive a post-vaccination serology 
+
+test at 9 to 12 months of age with 
+
+HBsAg and anti-HBs to assess for 
+
+mother-to-child transmission and 
+
+confirm immunity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviations 
+
+MTCT – mother-to-child transmission 
+
+TDF – tenofovir disoproxil fumarate  
+
+HBIG – hepatitis B immune globuline 
+
+HBV and Breastfeeding 
+
+All HBsAg(+) mothers, including those on TDF, 
+
+should be educated on the value and safety of 
+
+breastfeeding and that HBV is not transmitted 
+
+through breastmilk.  
+
+Breastfeeding mothers with cracked nipples 
+
+should practice proper nipple care and be 
+
+informed that HBV vaccination and HBIG will 
+
+protect against transmission from such blood 
+
+exposures. 
+
+See HBV Serology Interpretation and 
+
+Management (page 3) 
+
+If HBV susceptible and at high risk 
+
+for HBV infection, vaccinate during 
+
+pregnancy3 
+
+HBsAg(–) 
+
+Screen for HBV during each pregnancy1 
+
+Screen all household 
+
+and sexual contacts  
+
+for HBV 
+
+See Initial Evaluation, Counseling, Management, and Treatment  
+
+of the HBsAg(+) Patient (pages 4, 5, 6) 
+
+If not on HBV treatment, recheck HBV 
+
+DNA at 26 to 28 weeks gestation age 
+
+to determine MTCT risk 
+
+If treatment 
+
+indicated for active 
+
+HBV, start TDF 
+
+and continue 
+
+until stopping 
+
+criteria met4 
+
+HBV DNA 
+
+200,000 IU/mL 
+
+HBV DNA 
+
+&gt;200,000 IU/mL 
+
+High risk for 
+
+MTCT, start TDF 
+
+between 
+
+28 to 32 weeks  
+
+Stop TDF at 
+
+time of birth 
+
+and monitor for 
+
+ALT flares at 
+
+least every 3 
+
+months for 
+
+6 months 
+
+HBsAg(+)2 
+
+Low risk for 
+
+MTCT,  
+
+no HBV antiviral 
+
+indicated 
+
+
+9 
+
+Last updated February 25, 2020 
+
+ Selected References 
+
+1. Abara WE, Qaseem A, Schillie S, McMahon BJ, Harris AM; High Value Care Task Force of the American 
+
+College of Physicians and the Centers for Disease Control and Prevention. Hepatitis B vaccination, 
+
+screening, and linkage to care: best practice advice. From the American College of Physicians and the 
+
+Centers for Disease Control and Prevention. Ann Intern Med. 2017; 167:794-804. [PMID: 29159414] 
+
+2. LeFevre ML; U.S. Preventive Services Task Force. Screening for hepatitis B virus infection in 
+
+nonpregnant adolescents and adults: U.S. Preventive Services Task Force recommendation statement. 
+
+Ann Intern Med. 2014; 161:58-66. [PMID: 24863637] 
+
+3. Pan CQ, Duan Z, Dai E, et al.  Tenofovir to prevent hepatitis B transmission in mothers with high viral 
+
+load. N Engl J Med. 2016; 374:2324-34. [PMID: 27305192] 
+
+4. Patel EU, Thio CL, Boon D, Thomas DL, Tobian AAR. Prevalence of hepatitis B and hepatitis D virus 
+
+infections in the United States, 2011–2016. Clin Infect Dis. 2019;69:709-12. [PMID: 30605508] 
+
+5.   Perrillo RP, Gish R, Falck-Ytter YT. American Gastroenterological Association Institute technical review 
+
+on prevention and treatment of hepatitis B virus reactivation during immunosuppressive drug 
+
+therapy. Gastroenterology. 2015;148:221-244.e3. [PMID: 25447852] 
+
+6. Schillie S, Vellozzi C, Reingold A, Harris A, Haber P, Ward JW, Nelson NP. Prevention of Hepatitis B 
+
+Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization 
+
+Practices. MMWR Recomm Rep. 2018; 67: 1-31. [PMID: 29939980] 
+
+7. Schillie S, Harris A, Link-Gelles R, Romero J, Ward J, Nelson N. Recommendations of the Advisory 
+
+Committee on Immunization Practices for Use of a Hepatitis B Vaccine with a Novel Adjuvant. MMWR 
+
+Morb Mortal Wkly Rep. 2018; 67:455–8. [PMID: 29672472] 
+
+8. Tang LSY, Covert E, Wilson E, Kottilil S. Chronic Hepatitis B Infection: A Review. JAMA. 2018;319:1802-
+
+13. [PMID 29715359] 
+
+9. Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic 
+
+hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018; 67:1560-99. [PMID 29405329] 
+
+10. Terrault NA, Bzowej NH, Chang KM, Hwang JP, Jonas MM, Murad MH; American Association for the 
+
+Study of Liver Diseases. AASLD guidelines for treatment of chronic hepatitis B. Hepatology. 
+
+2016;63;261-83. [PMID 26566064] 
+
+11. Yang JD, Mohamed EA, Aziz AO, et al. Characteristics, management, and outcomes of patients with 
+
+hepatocellular carcinoma in Africa: a multicountry observational study from the Africa Liver Cancer 
+
+Consortium. Lancet Gastroenterol Hepatol. 2017;2:103-11.[PMID: 28403980] 
+
+12. US Preventive Services Task Force, Owens DK, Davidson KW, et al. Screening for Hepatitis B Virus 
+
+Infection in Pregnant Women: US Preventive Services Task Force Reaffirmation Recommendation 
+
+Statement. JAMA. 2019; 322:349-54. [PMID: 31334800] 
+
+ 
+
+
+10 
+
+Last updated February 25, 2020 
+
+ HBV Primary Care Workgroup Members* 
+
+ 
+
+HBV GUIDANCE CO-CHAIRS 
+
+Amy S. Tang, MD 
+
+Karla Thornton, MD, MPH 
+
+HEPATOLOGY 
+
+Eric W. Chak, MD, MPH 
+
+Assistant Professor of Medicine  
+
+Division of Gastroenterology and Hepatology  
+
+UC Davis Comprehensive Cancer Center 
+
+Robert G. Gish, MD 
+
+Medical Director 
+
+Hepatitis B Foundation 
+
+Anna S. Lok, MD 
+
+Alice Lohrman Andrews Research Professor of Hepatology 
+
+Professor of Internal Medicine 
+
+Director of Clinical Hepatology 
+
+Assistant Dean for Clinical Research 
+
+University of Michigan Medical School 
+
+Brian J. McMahon, MD 
+
+Medical and Research Director, Liver Disease and  
+
+Viral Hepatitis Program 
+
+Alaska Native Medical Center 
+
+Lewis R. Roberts, MB, ChB, PhD 
+
+Peter and Frances Georgeson Professor of  
+
+Gastroenterology Cancer Research 
+
+Division of Gastroenterology and Hepatology   
+
+Mayo Clinic 
+
+Norah A. Terrault, MD, MPH  
+
+Professor of Medicine  
+
+Chief, Division of Gastroenterology and Liver 
+
+Keck School of Medicine, University of Southern California 
+
+INFECTIOUS DISEASES 
+
+Camilla S. Graham, MD, MPH 
+
+Co-Director, Viral Hepatitis Center  
+
+Beth Israel Deaconess Medical Center 
+
+David H. Spach, MD 
+
+Professor of Medicine  
+
+Division of Infectious Diseases 
+
+University of Washington 
+
+Mark S. Sulkowski, MD 
+
+Medical Director, Viral Hepatitis Center  
+
+Professor of Medicine 
+
+John Hopkins University and Medicine 
+
+Karla Thornton, MD, MPH 
+
+Professor, Division of Infectious Diseases 
+
+Senior Associate Director, Project ECHO Viral Hepatitis Programs 
+
+University of New Mexico Health Science Center 
+
+PHARMACY 
+
+Paulina Deming, Pharm D 
+
+Associate Professor of Pharmacy Practice 
+
+Assistant Director, Project ECHO Viral Hepatitis Programs 
+
+University of New Mexico Health Sciences Center 
+
+PRIMARY CARE 
+
+Richard Andrews, MD, MPH 
+
+Co-Chair, National Taskforce on Hepatitis B 
+
+Viral Hepatitis Director 
+
+HOPE Clinic, Houston, TX 
+
+Amy S. Tang, MD 
+
+Co-Chair, National Taskforce on Hepatitis B 
+
+Director of Immigrant Health  
+
+North East Medical Services, San Francisco, CA 
+
+Grace Wang, MD, MPH 
+
+Family Physician 
+
+International Community Health Services 
+
+Su Wang, MD, MPH 
+
+Medical Director, Center for Asian Health 
+
+Saint Barnabas Medical Center 
+
+President-Elect, World Hepatitis Alliance 
+
+PUBLIC HEALTH 
+
+Moon S. Chen Jr., PhD, MPH 
+
+Professor and Associate Director for Population Sciences and 
+
+Community Outreach/Engagement 
+
+UC Davis Comprehensive Cancer Center 
+
+Chari Cohen, DrPH, MPH 
+
+Senior Vice President 
+
+Hepatitis B Foundation 
+
+Stuart Fong, MD 
+
+Governing Counsel Chair  
+
+San Francisco Hep B Free – Bay Area 
+
+Aaron M. Harris, MD, MPH 
+
+Team Lead (Acting), Prevention Branch 
+
+Division of Viral Hepatitis,  
+
+Centers for Disease Control and Prevention 
+
+Rita K. Kuwahara, MD, MIH 
+
+Hepatitis B Policy Fellow 
+
+Association of Asian Pacific Community Health Organizations 
+
+(AAPCHO) 
+
+Richard So, MPH, MPA 
+
+Executive Director  
+
+SF Hep B Free – Bay Area 
+
+Ann Winters, MD 
+
+Medical Director, Viral Hepatitis Program 
+
+New York City Department of Health and Mental Hygiene 
+
+ 
+
+Additional Workgroup Support from:  
+
+Melanie Bird, PhD 
+
+Clinical Policies Strategist 
+
+American Academy of Family Physicians 
+
+Jennifer Lim 
+
+Data Manager 
+
+South Central AIDS Education and Training Center (SCAETC) 
+
+ECHO Institute 
+
+University of New Mexico Health Sciences Center 
+
+Amir Qaseem, MD, PhD  
+
+Vice President, Clinical Policy and Center for Evidence Reviews 
+
+American College of Physicians 
+
+Amy Trang, PhD, M.Ed  
+
+Administrator 
+
+National Taskforce on Hepatitis B 
+
+ 
+
+* Committee participation in the HBV Primary Care Workgroup does not constitute organizational endorsement of the 
+
+recommendations or conclusions. 
+
+
+11 
+
+Last updated February 25, 2020 
+
+ Disclosures 
+
+The following workgroup members had no disclosures: Melanie Bird, PhD; Eric W. Chak, MD, MPH; 
+
+Moon S. Chen Jr., PhD, MPH; Paulina Deming, PharmD; Stuart Fong, MD; Camilla S. Graham, MD, MPH; 
+
+Aaron M. Harris, MD, MPH; Rita K. Kuwahara, MD, MIH; Jennifer Lim; Amir Qaseem, MD, PhD; 
+
+Richard So, MPH, MPA; David H. Spach, MD; Karla Thornton, MD, MPH; Amy Trang, PhD, M.Ed; 
+
+Grace Wang, MD, MPH. 
+
+Workgroup 
+
+Member Name 
+
+Research Grant or 
+
+Research Support 
+
+Speakers Bureaus/ 
+
+Honoraria 
+
+Consultant/ 
+
+Advisory Board 
+
+Stock Shareholder 
+
+(directly purchased) 
+
+Richard Andrews, MD, 
+
+MPH 
+
+ 
+
+Med-IQ, Practicing 
+
+Clinicians Exchange 
+
+Med-IQ 
+
+ 
+
+Chari Cohen, DrPH, MPH 
+
+Dynavax Technologies, 
+
+Eiger 
+
+BioPharmaceuticals, 
+
+Gilead Sciences, 
+
+Janssen (foundation)  
+
+ 
+
+Hepatitis B stigma 
+
+working group for 
+
+Janssen, unpaid. 
+
+ 
+
+Robert G. Gish, MD 
+
+Gilead Sciences 
+
+AbbVie, Bayer 
+
+Pharmaceuticals, Bristol-
+
+Meyers Squibb, Dova 
+
+Pharmaceuticals, Eisai, 
+
+Gilead Sciences, Intercept 
+
+Pharmaceuticals 
+
+See footnote 1 
+
+Athenex, Cocrystal 
+
+Pharma, Ribosciences, 
+
+Triact Therapeutics 
+
+See footnote 2 
+
+Anna S. Lok, MD 
+
+Assembly Biosciences, 
+
+Bristol-Meyers Squibb, 
+
+Gilead Sciences, 
+
+TARGET 
+
+PharmaSolutions 
+
+ 
+
+CLEAR, Gilead 
+
+Sciences, 
+
+GlaxoSmithKline, 
+
+Huahui, Roche, 
+
+Spring Bank 
+
+Pharmaceuticals, 
+
+TARGET Pharma-
+
+Solutions, Viravaxx 
+
+ 
+
+Brian J. McMahon, MD 
+
+Gilead Sciences  
+
+(non-salary program) 
+
+ 
+
+ 
+
+ 
+
+Lewis R. Roberts, MB, 
+
+ChB, PhD 
+
+ARIAD Pharmaceuticals, 
+
+Bayer Pharmaceuticals, 
+
+BTG International, 
+
+Exact Sciences, Gilead 
+
+Sciences, RedHill 
+
+Biopharma, Wako 
+
+Diagnostics 
+
+Bayer Pharmaceuticals, 
+
+Exact Sciences, Gilead 
+
+Sciences, GRAIL, North 
+
+American Center for 
+
+Continuing Medical 
+
+Education (NACCME), 
+
+Wako Diagnostics 
+
+Bayer 
+
+Pharmaceuticals, 
+
+Exact Sciences, 
+
+Gilead Sciences, 
+
+GRAIL, NACCME, QED 
+
+Bioscience, Tavec, 
+
+Wako Diagnostics 
+
+ 
+
+Mark S. Sulkowski, MD 
+
+AbbVie, Assembly 
+
+Biosciences, Gilead 
+
+Sciences, Janssen 
+
+ 
+
+AbbVie, Arbutus 
+
+Biopharma, Gilead 
+
+Sciences, 
+
+Immunocore 
+
+ 
+
+Amy S. Tang, MD 
+
+ 
+
+ 
+
+NYC Hep B Coalition 
+
+Advisory Board, 
+
+PRIME 
+
+ 
+
+Norah A. Terrault, MD, 
+
+MPH 
+
+Gilead Sciences 
+
+(institutional) 
+
+ 
+
+ 
+
+ 
+
+Su Wang, MD, MPH 
+
+Gilead Sciences 
+
+ 
+
+ 
+
+ 
+
+Ann Winters, MD 
+
+See footnote 3 
+
+ 
+
+ 
+
+ 
+
+1 Dr. Robert G. Gish’s current activity with scientific or clinical advisory boards: Abbott, Abbvie, Arrowhead Pharmaceuticals, Bayer 
+
+Pharmaceuticals, Dova Pharmaceuticals, Eiger BioPharmaceuticals, ENYO Pharma, Hatch Biofund, HepQuant, Intercept 
+
+Pharmaceuticals, Janssen, Medimmune, Merck. In the last two years, Dr. Robert G. Gish has been a consultant or an advisor to: 
+
+Abbott, AbbVie, Access Biologicals, Alexion Pharmaeuticals, Arrowhead Pharmaceuticals, Bayer Pharmaceuticals, Biocollections 
+
+Worldwide, Bristol-Myers Squibb, Eiger BioPharmaceuticals, Eisai, ENYO Pharma, eStudySite, Fujifilm/Wako, Gilead Sciences, HepaTx, 
+
+HepQuant, Intercept Pharmaceuticals, Ionis Pharmaceuticals, Janssen, Laboratory for Advanced Medicine, Lilly, Merck, Salix 
+
+Pharmaceuticals, Shionogi, Quest Diagnostics, TRImaran Pharma, Viking Therapeutics. 
+
+2 Dr. Robert G. Gish’s stock options: Arrowhead Pharmaceuticals, Athenex, Eiger BioPharmaceuticals, HepQuant 
+
+3 The NYC Department of Health and Mental Hygiene has worked in collaboration with fiscal partners Public Health Solutions and the 
+
+Fund for Public Health New York which received grant support from Gilead for viral hepatitis projects. 
+

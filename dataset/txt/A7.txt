@@ -1,0 +1,229 @@
+
+■
+
+■
+
+■
+
+■
+
+Interpretation of Hepatitis B Serologic Test Results
+
+Hepatitis B serologic testing involves measurement of several hepatitis B 
+
+virus (HBV)-speciﬁ c antigens and antibodies. Different serologic “markers” 
+
+or combinations of markers are used to identify different phases of HBV 
+
+infection and to determine whether a patient has acute or chronic HBV 
+
+infection, is immune to HBV as a result of prior infection or vaccination, or 
+
+is susceptible to infection.
+
+Hepatitis B surface 
+
+antigen (HBsAg):  
+
+A protein on the surface 
+
+of hepatitis B virus; it can 
+
+be detected in high levels 
+
+in serum during acute or 
+
+chronic hepatitis B virus 
+
+infection. The presence of 
+
+HBsAg indicates that the 
+
+person is infectious. The 
+
+body normally produces 
+
+antibodies to HBsAg as 
+
+part of the normal immune 
+
+response to infection. 
+
+HBsAg is the antigen used 
+
+to make hepatitis B vaccine.
+
+Hepatitis B surface 
+
+antibody (anti-HBs):  
+
+The presence of anti-HBs 
+
+is generally interpreted as 
+
+indicating recovery and 
+
+immunity from hepatitis B 
+
+virus infection. Anti-HBs 
+
+also develops in a person 
+
+who has been successfully 
+
+vaccinated against 
+
+hepatitis B. 
+
+Total hepatitis B core 
+
+antibody (anti-HBc):  
+
+Appears at the onset 
+
+of symptoms in acute 
+
+hepatitis B and persists 
+
+for life. The presence of 
+
+anti-HBc indicates previous 
+
+or ongoing infection with 
+
+hepatitis B virus in an 
+
+undeﬁ ned time frame. 
+
+IgM antibody to hepatitis B 
+
+core antigen (IgM anti-HBc): 
+
+Positivity indicates recent 
+
+infection with hepatitis B 
+
+virus (&lt;6 mos). Its presence 
+
+indicates acute infection. 
+
+Tests
+
+Results
+
+Interpretation
+
+HBsAg
+
+negative
+
+Susceptible
+
+anti-HBc
+
+negative
+
+anti-HBs
+
+negative
+
+HBsAg
+
+negative
+
+Immune due to natural infection
+
+anti-HBc
+
+positive
+
+anti-HBs
+
+positive
+
+HBsAg
+
+negative
+
+Immune due to hepatitis B vaccination
+
+anti-HBc
+
+negative
+
+anti-HBs
+
+positive
+
+HBsAg
+
+positive
+
+Acutely infected
+
+anti-HBc
+
+positive
+
+IgM anti-HBc
+
+positive
+
+anti-HBs
+
+negative
+
+HBsAg
+
+positive
+
+Chronically infected
+
+anti-HBc
+
+positive
+
+IgM anti-HBc
+
+negative
+
+anti-HBs
+
+negative
+
+HBsAg
+
+negative
+
+Interpretation unclear; four possibilities:
+
+anti-HBc
+
+positive
+
+1.  Resolved infection (most common)
+
+anti-HBs
+
+negative
+
+2.  False-positive anti-HBc, thus susceptible
+
+3.  “Low level” chronic infection
+
+4.  Resolving acute infection
+
+Adapted from:  A Comprehensive Immunization Strategy to Eliminate Transmission of Hepatitis B 
+
+Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization 
+
+Practices.  Part I: Immunization of Infants, Children, and Adolescents.  MMWR 2005;54(No. RR-16).
+
+DEPARTMENT OF HEALTH &amp; HUMAN SERVICES
+
+Centers for Disease Control and Prevention
+
+Division of Viral Hepatitis
+
+www.cdc.gov/hepatitis
+
