@@ -2,13 +2,9 @@ Chapter 1
 
 Hepatitis B Virus Infection: Overview
 
-Hong Li, Libo Yan, Ying Shi, Duoduo Lv, Jin Shang, Lang Bai,
-
-and Hong Tang
-
 Abstract Hepatitis B virus (HBV) is a DNA virus, belonging to the Hepadnaviridae family. It is a partially double-stranded DNA virus with a small viral genome
 
-(3.2 kb). Chronic HBV infection remains a global public health problem. If left
+. Chronic HBV infection remains a global public health problem. If left
 
 untreated, chronic HBV infection can progress to end-stage liver disease, such as liver cirrhosis and hepatocellular carcinoma (HCC). In recent years, tremendous
 
@@ -28,21 +24,7 @@ As early as the 1950s, clinicians observed the hepatitis that occurred after blo
 
 from a transfused hemophilic patient and an Australian aborigine, and the new antigen was designated as the “Australian antigen” [2, 3]. By 1967, accumulating evi-dences from Blumberg’s group and other research groups showed a strong correlation between the presence of the Australian antigen and serum hepatitis [4–8]. In 1970, David Dane used electron microscope to inspect the isolated virus particles from
 
-serum of patients with Australian antigen-associated hepatitis and demonstrated the famous “Dane particles” as the complete virus (42 nm in diameter) [9]. The outer Hong Li and Libo Yan contributed equally to this chapter.
-
-H. Li · L. Yan · Y. Shi · D. Lv · J. Shang · L. Bai · H. Tang (*)
-
-Center of Infectious Diseases, Division of Infectious Diseases, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China
-
-© Springer Nature Singapore Pte Ltd. 2020
-
-1
-
-H. Tang (ed.), Hepatitis B Virus Infection, Advances in Experimental Medicine and Biology 1179, https://doi.org/10.1007/978-981-13-9151-4_1
-
-2
-
-H. Li et al.
+serum of patients with Australian antigen-associated hepatitis and demonstrated the famous “Dane particles” as the complete virus (42 nm in diameter) [9]. The outer 
 
 surface protein of the Dane particle is the Australian antigen, which was later offi-cially named by the World Health Organization (WHO) as the HBV surface antigen
 
@@ -108,7 +90,6 @@ allows evaluation of antiviral therapy effect.
 
 1 Hepatitis B Virus Infection: Overview
 
-3
 
 In the 1990s, interferon-α was approved by the US FDA for the treatment of
 
@@ -159,14 +140,6 @@ by elevated ALT and HBV DNA levels together with liver injury by liver histology
 ALT levels, and the low or undetectable HBV DNA levels. However, around
 
 10–30% of those patients who have HBeAg seroconversion continue to have
-
-
-
-
-
-4
-
-H. Li et al.
 
 elevated ALT and high HBV DNA levels and, therefore, are defined as HBeAg-
 
@@ -228,8 +201,6 @@ cotransporting polypeptide (NTCP) on the surface of hepatocytes [34, 35]. After 
 
 1 Hepatitis B Virus Infection: Overview
 
-5
-
 HBV enters the nucleus to form cccDNA, which resides inside the hepatocyte as a
 
 microchromosome [36]. Current anti-HBV NAs have no direct effect on cccDNA, which explains why HBV infection is currently manageable but still incurable by
@@ -271,14 +242,6 @@ HNF4, HNF3, RXR, PPAR, COUPTF1, and ARP1 [40, 41].
 HNF4, RXR, PPAR, FXR, and LRH1 are liver-enriched transcription factors
 
 capable of supporting HBV replication in non-hepatoma cells [41, 42]. The identi-fication of these liver-enriched transcription factors contributes significantly to the hepatocyte-specific tropism of HBV. In addition to the transcription factors, some transcriptional co-activators (including PGC1, CBP, SRC1, and PRMT1) and co-repressors (including SBP) are also involved in the regulation of HBV transcription
-
-
-
-
-
-6
-
-H. Li et al.
 
 and replication [43–45]. In addition, other host proteins including APOBEC3B, PRMT5, and PRKAA/AMPK have also been reported to participate in the HBV
 
@@ -339,13 +302,6 @@ HBV-specific CD8+ T cells, the reduced cytokine function and proliferative capac
 ity, and the T-cell exhaustion contribute to HBV persistence [60].
 
 
-
-
-
-1 Hepatitis B Virus Infection: Overview
-
-7
-
 4 Current Antiviral Drugs Against HBV and New Antiviral
 
 Drugs Under Development
@@ -399,14 +355,6 @@ and even the reversal of liver fibrosis. Tenofovir alafenamide (TAF) has been
 recently approved for treatment of CHB in adults. Compared to TDF, TAF has a
 
 better safety profile (lower rates of bone and renal abnormalities) and similar
-
-
-
-
-
-8
-
-H. Li et al.
 
 antiviral efficacy. Therefore, current international guidelines recommend the use of Peg- IFN, ETV, TDF, and TAF as first-line therapeutic options for CHB, while the
 
@@ -472,14 +420,6 @@ DNA < 200 IU/mL with previous NA treatment (ADV, LAM or ETV). The patients
 
 were randomized to receive Peg-IFN for 48 or 96 weeks [83]. Both the OSST study
 
-
-
-
-
-1 Hepatitis B Virus Infection: Overview
-
-9
-
 and the New Switch study demonstrated a significant increase of HBsAg loss in the Peg-IFN switch group than the NA monotherapy group, and CHB patients with low
 
 baseline HBsAg level and on-treatment HBsAg response are more likely to benefit
@@ -542,14 +482,6 @@ Several new NAs currently under different phases of clinical trials include Besi
 
 II) [102, 103]. The RNaseH inhibitors are also promising candidates for developing new anti-HBV drugs [104, 105]. The HBsAg release inhibitors include REP2139 or its analog REP2165 which have progressed to phase II clinical trials. The results
 
-
-
-
-
-10
-
-H. Li et al.
-
 showed that the combination of REP2139-Mg or REP2165-Mg (250 mg iv qW)
 
 with TDF and Peg-IFN led to HBsAg loss or seroconversion in a high proportion of
@@ -589,335 +521,3 @@ With the optimization treatment strategies based on current antiviral drugs and 
 achieved in the foreseeable future.
 
 Acknowledgments This work was supported by a grant from the National Natural Science Foundation of China (No.81772193).
-
-References
-
-1. Maccallum FO (1946) Homologous serum hepatitis. Proc R Soc Med 39(10):655–657
-
-2. Blumberg BS (1964) Polymorphisms of the serum proteins and the development of Iso-precipitins in transfused patients. Bull N Y Acad Med 40:377–386
-
-3. Blumberg BS, Alter HJ, Visnich S (1965) A “New” antigen in leukemia sera. JAMA 191:541–546
-
-1 Hepatitis B Virus Infection: Overview
-
-11
-
-4. Blumberg BS, Gerstley BJ, Hungerford DA, London WT, Sutnick AI (1967) A serum antigen (Australia antigen) in Down’s syndrome, leukemia, and hepatitis. Ann Intern Med 66(5):924–931
-
-5. Bayer ME, Blumberg BS, Werner B (1968) Particles associated with Australia antigen in the sera of patients with leukaemia, down’s syndrome and hepatitis. Nature 218(5146):1057–1059
-
-6. Prince AM, Fuji H, Gershon RK (1964) Immunohistochemical studies on the etiology of anicteric hepatitis in Korea. Am J Hyg 79:365–381
-
-7. Prince AM (1968) An antigen detected in the blood during the incubation period of serum hepatitis. Proc Natl Acad Sci U S A 60(3):814–821
-
-8. Prince AM (1968) Relation of Australia and SH antigens. Lancet 2(7565):462–463
-
-9. Dane DS, Cameron CH, Briggs M (1970) Virus-like particles in serum of patients with Australia-antigen-associated hepatitis. Lancet 1(7649):695–698
-
-10. Galibert F, Mandart E, Fitoussi F, Tiollais P, Charnay P (1979) Nucleotide sequence of the hepatitis B virus genome (subtype ayw) cloned in E. coli. Nature 281(5733):646–650
-
-11. Szmuness W, Stevens CE, Harley EJ, Zang EA, Oleszko WR, William DC et al (1980) Hepatitis B vaccine: demonstration of efficacy in a controlled clinical trial in a high-risk population in the United States. N Engl J Med 303(15):833–841
-
-12. Valenzuela P, Gray P, Quiroga M, Zaldivar J, Goodman HM, Rutter WJ (1979) Nucleotide sequence of the gene coding for the major protein of hepatitis B virus surface antigen. Nature 280(5725):815–819
-
-13. Edman JC, Hallewell RA, Valenzuela P, Goodman HM, Rutter WJ (1981) Synthesis of hepatitis B surface and core antigens in E. coli. Nature 291(5815):503–506
-
-14. Valenzuela P, Medina A, Rutter WJ, Ammerer G, Hall BD (1982) Synthesis and assembly of hepatitis B virus surface antigen particles in yeast. Nature 298(5872):347–350
-
-15. McAleer WJ, Buynak EB, Maigetter RZ, Wampler DE, Miller WJ, Hilleman MR (1984) Human hepatitis B vaccine from recombinant yeast. Nature 307(5947):178–180
-
-16. Brunetto MR (2010) A new role for an old marker, HBsAg. J Hepatol 52(4):475–477
-
-17. Sonneveld MJ, Zoutendijk R, Janssen HL (2011) Hepatitis B surface antigen monitoring and management of chronic hepatitis B. J Viral Hepat 18(7):449–457
-
-18. Trepo C (2014) A brief history of hepatitis milestones. Liver Int 34(Suppl 1):29–37
-
-19. Dienstag JL, Schiff ER, Wright TL, Perrillo RP, Hann HW, Goodman Z et al (1999) Lamivudine as initial treatment for chronic hepatitis B in the United States. N Engl J Med 341(17):1256–1263
-
-20. WHO (2017) Global hepatitis report, 2017. [updated April 2017; cited 2019 June 11]
-
-21. Liang X, Bi S, Yang W, Wang L, Cui G, Cui F et al (2009) Epidemiological serosurvey of hepatitis B in China--declining HBV prevalence due to hepatitis B vaccination. Vaccine 27(47):6550–6557
-
-22. Liang X, Bi S, Yang W, Wang L, Cui G, Cui F et al (2009) Evaluation of the impact of hepatitis B vaccination among children born during 1992–2005 in China. J Infect Dis 200(1):39–47
-
-23. Lu FM, Zhuang H (2009) Management of hepatitis B in China. Chin Med J 122(1):3–4
-
-24. Polaris Observatory C (2018) Global prevalence, treatment, and prevention of hepatitis B
-
-virus infection in 2016: a modelling study. Lancet Gastroenterol Hepatol 3(6):383–403
-
-25. Terrault NA, Bzowej NH, Chang KM, Hwang JP, Jonas MM, Murad MH et al (2016) AASLD
-
-guidelines for treatment of chronic hepatitis B. Hepatology (Baltimore, MD) 63(1):261–283
-
-26. Terrault NA, Lok ASF, McMahon BJ, Chang KM, Hwang JP, Jonas MM et al (2018) Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B
-
-guidance. Hepatology (Baltimore, MD) 67(4):1560–1599
-
-27. European Association for the Study of the Liver. Electronic address eee, European Association for the Study of the L. EASL 2017 (2017) Clinical practice guidelines on the management of hepatitis B virus infection. J Hepatol 67(2):370–398
-
-28. Hsu YS, Chien RN, Yeh CT, Sheen IS, Chiou HY, Chu CM et al (2002) Long-term outcome after spontaneous HBeAg seroconversion in patients with chronic hepatitis B. Hepatology (Baltimore, MD) 35(6):1522–1527
-
-12
-
-H. Li et al.
-
-29. Fattovich G, Bortolotti F, Donato F (2008) Natural history of chronic hepatitis B: special emphasis on disease progression and prognostic factors. J Hepatol 48(2):335–352
-
-30. Chu CM, Liaw YF (2006) Hepatitis B virus-related cirrhosis: natural history and treatment.
-
-Semin Liver Dis 26(2):142–152
-
-31. Chen YC, Chu CM, Yeh CT, Liaw YF (2007) Natural course following the onset of cirrhosis in patients with chronic hepatitis B: a long-term follow-up study. Hepatol Int 1(1):267–273
-
-32. WHO (2018) The top 10 causes of death. [updated May 24 2018; cited 2019 June 11]
-
-33. Sureau C, Salisse J (2013) A conformational heparan sulfate binding site essential to infectiv-ity overlaps with the conserved hepatitis B virus a-determinant. Hepatology (Baltimore, MD) 57(3):985–994
-
-34. Yan H, Zhong G, Xu G, He W, Jing Z, Gao Z et al (2012) Sodium taurocholate cotransporting polypeptide is a functional receptor for human hepatitis B and D virus. elife 1:e00049
-
-35. Hayes CN, Zhang Y, Makokha GN, Hasan MZ, Omokoko MD, Chayama K (2016) Early
-
-events in hepatitis B virus infection: from the cell surface to the nucleus. J Gastroenterol Hepatol 31(2):302–309
-
-36. Nassal M (2015) HBV cccDNA: viral persistence reservoir and key obstacle for a cure of chronic hepatitis B. Gut 64(12):1972–1984
-
-37. Jones SA, Hu J (2013) Protein-primed terminal transferase activity of hepatitis B virus polymerase. J Virol 87(5):2563–2576
-
-38. Nassal M (2008) Hepatitis B viruses: reverse transcription a different way. Virus Res 134(1–2):235–249
-
-39. Hu J, Liu K (2017) Complete and incomplete hepatitis B virus particles: formation, function, and application. Viruses 9(3):56
-
-40. Tang H, Banks KE, Anderson AL, McLachlan A (2001) Hepatitis B virus transcription and replication. Drug News Perspect 14(6):325–334
-
-41. Tang H, McLachlan A (2001) Transcriptional regulation of hepatitis B virus by nuclear hormone receptors is a critical determinant of viral tropism. Proc Natl Acad Sci U S A 98(4):1841–1846
-
-42. Reese V, Ondracek C, Rushing C, Li L, Oropeza CE, McLachlan A (2011) Multiple nuclear receptors may regulate hepatitis B virus biosynthesis during development. Int J Biochem Cell Biol 43(2):230–237
-
-43. Shalaby RE, Iram S, Cakal B, Oropeza CE, McLachlan A (2017) PGC1 alpha transcriptional adaptor function governs hepatitis B virus replication by controlling HBcAg/p21 protein-mediated capsid formation. J Virol 91(20)
-
-44. Shalaby RE, Iram S, Oropeza CE, McLachlan A (2019) Peroxisome proliferator-activated receptor gamma coactivator family members competitively regulate hepatitis b virus biosynthesis. Virology 526:214–221
-
-45. Reese VC, Moore DD, McLachlan A (2012) Limited effects of bile acids and small heterodi-mer partner on hepatitis B virus biosynthesis in vivo. J Virol 86(5):2760–2768
-
-46. Chen Y, Hu J, Cai X, Huang Y, Zhou X, Tu Z et al (2018) APOBEC3B edits HBV DNA and inhibits HBV replication during reverse transcription. Antivir Res 149:16–25
-
-47. Xie N, Yuan K, Zhou L, Wang K, Chen HN, Lei Y et al (2016) PRKAA/AMPK restricts HBV
-
-replication through promotion of autophagic degradation. Autophagy 12(9):1507–1520
-
-48. Zhang W, Chen J, Wu M, Zhang X, Zhang M, Yue L et al (2017) PRMT5 restricts hepatitis B
-
-virus replication through epigenetic repression of covalently closed circular DNA transcription and interference with pregenomic RNA encapsidation. Hepatology (Baltimore, MD) 66(2):398–415
-
-49. Gong DY, Chen EQ, Huang FJ, Leng XH, Cheng X, Tang H (2013) Role and functional domain of hepatitis B virus X protein in regulating HBV transcription and replication in vitro and in vivo. Viruses 5(5):1261–1271
-
-50. Tang H, Delgermaa L, Huang F, Oishi N, Liu L, He F et al (2005) The transcriptional trans-activation function of HBx protein is important for its augmentation role in hepatitis B virus replication. J Virol 79(9):5548–5556
-
-1 Hepatitis B Virus Infection: Overview
-
-13
-
-51. Bouchard MJ, Wang L, Schneider RJ (2006) Activation of focal adhesion kinase by hepatitis B virus HBx protein: multiple functions in viral replication. J Virol 80(9):4406–4414
-
-52. Decorsiere A, Mueller H, van Breugel PC, Abdul F, Gerossier L, Beran RK et al (2016) Hepatitis B virus X protein identifies the Smc5/6 complex as a host restriction factor. Nature 531(7594):386–389
-
-53. Murphy CM, Xu Y, Li F, Nio K, Reszka-Blanco N, Li X et al (2016) Hepatitis B virus X protein promotes degradation of SMC5/6 to enhance HBV replication. Cell Rep 16(11):2846–2854
-
-54. Guidotti LG, Chisari FV (2001) Noncytolytic control of viral infections by the innate and adaptive immune response. Annu Rev Immunol 19:65–91
-
-55. Wu J, Meng Z, Jiang M, Pei R, Trippler M, Broering R et al (2009) Hepatitis B virus suppresses toll-like receptor-mediated innate immune responses in murine parenchymal and nonparenchymal liver cells. Hepatology (Baltimore, MD) 49(4):1132–1140
-
-56. Chen J, Wu M, Zhang X, Zhang W, Zhang Z, Chen L et al (2013) Hepatitis B virus polymerase impairs interferon-alpha-induced STA T activation through inhibition of importin-alpha5 and protein kinase C-delta. Hepatology (Baltimore, MD) 57(2):470–482
-
-57. Wei C, Ni C, Song T, Liu Y, Yang X, Zheng Z et al (2010) The hepatitis B virus X protein disrupts innate immunity by downregulating mitochondrial antiviral signaling protein.
-
-J Immunol (Baltimore, MD: 1950) 185(2):1158–1168
-
-58. Jiang J, Tang H (2010) Mechanism of inhibiting type I interferon induction by hepatitis B
-
-virus X protein. Protein Cell 1(12):1106–1117
-
-59. Han Q, Zhang C, Zhang J, Tian Z (2011) Reversal of hepatitis B virus-induced immune tolerance by an immunostimulatory 3p-HBx-siRNAs in a retinoic acid inducible gene I-dependent manner. Hepatology (Baltimore, MD) 54(4):1179–1189
-
-60. Bertoletti A, Ferrari C (2012) Innate and adaptive immune responses in chronic hepatitis B virus infections: towards restoration of immune control of viral infection. Gut 61(12):1754–1764
-
-61. Isogawa M, Tanaka Y (2015) Immunobiology of hepatitis B virus infection. Hepatol Res 45(2):179–189
-
-62. Lin SM, Yu ML, Lee CM, Chien RN, Sheen IS, Chu CM et al (2007) Interferon therapy in HBeAg positive chronic hepatitis reduces progression to cirrhosis and hepatocellular carcinoma. J Hepatol 46(1):45–52
-
-63. Wong DK, Cheung AM, O’Rourke K, Naylor CD, Detsky AS, Heathcote J (1993) Effect of alpha-interferon treatment in patients with hepatitis B e antigen-positive chronic hepatitis B. A meta-analysis. Ann Intern Med 119(4):312–323
-
-64. Lau GK, Piratvisuth T, Luo KX, Marcellin P, Thongsawat S, Cooksley G et al (2005) Peginterferon Alfa-2a, lamivudine, and the combination for HBeAg-positive chronic hepatitis B. N Engl J Med 352(26):2682–2695
-
-65. Piratvisuth T, Lau G, Chao YC, Jin R, Chutaputti A, Zhang QB et al (2008) Sustained response to peginterferon alfa-2a (40 kD) with or without lamivudine in Asian patients with HBeAg-positive and HBeAg-negative chronic hepatitis B. Hepatol Int 2(1):102–110
-
-66. Janssen HL, van Zonneveld M, Senturk H, Zeuzem S, Akarca US, Cakaloglu Y et al (2005) Pegylated interferon alfa-2b alone or in combination with lamivudine for HBeAg-positive chronic hepatitis B: a randomised trial. Lancet 365(9454):123–129
-
-67. Lai CL, Dienstag J, Schiff E, Leung NW, Atkins M, Hunt C et al (2003) Prevalence and clinical correlates of YMDD variants during lamivudine therapy for patients with chronic hepatitis B. Clin Infect Dis 36(6):687–696
-
-68. Han GR, Cao MK, Zhao W, Jiang HX, Wang CM, Bai SF et al (2011) A prospective and open-label study for the efficacy and safety of telbivudine in pregnancy for the prevention of perinatal transmission of hepatitis B virus infection. J Hepatol 55(6):1215–1221
-
-69. Han GR, Jiang HX, Yue X, Ding Y, Wang CM, Wang GJ et al (2015) Efficacy and safety of telbivudine treatment: an open-label, prospective study in pregnant women for the prevention of perinatal transmission of hepatitis B virus infection. J Viral Hepat 22(9):754–762
-
-14
-
-H. Li et al.
-
-70. Marcellin P, Chang TT, Lim SG, Sievert W, Tong M, Arterburn S et al (2008) Long-term efficacy and safety of adefovir dipivoxil for the treatment of hepatitis B e antigen-positive chronic hepatitis B. Hepatology (Baltimore, MD) 48(3):750–758
-
-71. Seto WK, Lai CL, Fung J, Wong DK, Yuen JC, Hung IF et al (2011) Significance of HBV
-
-DNA levels at 12 weeks of telbivudine treatment and the 3 years treatment outcome. J Hepatol 55(3):522–528
-
-72. Yokosuka O, Takaguchi K, Fujioka S, Shindo M, Chayama K, Kobashi H et al (2010) Long-term use of entecavir in nucleoside-naive Japanese patients with chronic hepatitis B infection.
-
-J Hepatol 52(6):791–799
-
-73. Kitrinos KM, Corsa A, Liu Y, Flaherty J, Snow-Lampart A, Marcellin P et al (2014) No detectable resistance to tenofovir disoproxil fumarate after 6 years of therapy in patients with chronic hepatitis B. Hepatology (Baltimore, MD) 59(2):434–442
-
-74. Marcellin P, Lau GK, Bonino F, Farci P, Hadziyannis S, Jin R et al (2004) Peginterferon alfa-2a alone, lamivudine alone, and the two in combination in patients with HBeAg-negative chronic hepatitis B. N Engl J Med 351(12):1206–1217
-
-75. Stelma F, van der Ree MH, Jansen L, Peters MW, Janssen HLA, Zaaijer HL et al (2017) HBsAg loss after peginterferon-nucleotide combination treatment in chronic hepatitis B
-
-patients: 5 years of follow-up. J Viral Hepat 24(12):1107–1113
-
-76. Marcellin P, Ahn SH, Ma X, Caruntu FA, Tak WY, Elkashab M et al (2016) Combination of tenofovir disoproxil fumarate and peginterferon alpha-2a increases loss of hepatitis B surface antigen in patients with chronic hepatitis B. Gastroenterology 150(1):134–144. e10
-
-77. de Niet A, Jansen L, Stelma F, Willemse SB, Kuiken SD, Weijer S et al (2017) Peg-interferon plus nucleotide analogue treatment versus no treatment in patients with chronic hepatitis B
-
-with a low viral load: a randomised controlled, open-label trial. Lancet Gastroenterol Hepatol 2(8):576–584
-
-78. Marcellin P, Ahn SH, Chuang WL, Hui AJ, Tabak F, Mehta R et al (2016) Predictors of response to tenofovir disoproxil fumarate plus peginterferon alfa-2a combination therapy for chronic hepatitis B. Aliment Pharmacol Ther 44(9):957–966
-
-79. Brouwer WP, Xie Q, Sonneveld MJ, Zhang N, Zhang Q, Tabak F et al (2015) Adding pegylated interferon to entecavir for hepatitis B e antigen-positive chronic hepatitis B: a multicenter randomized trial (ARES study). Hepatology (Baltimore, MD) 61(5):1512–1522
-
-80. van Campenhout MJH, Brouwer WP, Xie Q, Guo S, Chi H, Qi X et al (2019) Long-term follow- up of patients treated with entecavir and peginterferon add-on therapy for HBeAg-positive chronic hepatitis B infection: ARES long-term follow-up. J Viral Hepat 26(1):109–117
-
-81. Bourliere M, Rabiega P, Ganne-Carrie N, Serfaty L, Marcellin P, Barthe Y et al (2017) Effect on HBs antigen clearance of addition of pegylated interferon alfa-2a to nucleos(t)ide analogue therapy versus nucleos(t)ide analogue therapy alone in patients with HBe antigen-negative chronic hepatitis B and sustained undetectable plasma hepatitis B virus DNA: a randomised, controlled, open-label trial. Lancet Gastroenterol Hepatol 2(3):177–188
-
-82. Ning Q, Han M, Sun Y, Jiang J, Tan D, Hou J et al (2014) Switching from entecavir to PegIFN
-
-alfa-2a in patients with HBeAg-positive chronic hepatitis B: a randomised open-label trial (OSST trial). J Hepatol 61(4):777–784
-
-83. Hu P, Shang J, Zhang W, Gong G, Li Y, Chen X et al (2018) HBsAg loss with peg-interferon Alfa-2a in hepatitis B patients with partial response to Nucleos(t)ide analog: new switch study. J Clin Transl Hepatol 6(1):25–34
-
-84. Blank A, Markert C, Hohmann N, Carls A, Mikus G, Lehr T et al (2016) First-in-human application of the novel hepatitis B and hepatitis D virus entry inhibitor myrcludex B. J
-
-Hepatol 65(3):483–489
-
-85. Blank A, Eidam A, Haag M, Hohmann N, Burhenne J, Schwab M et al (2018) The NTCP-inhibitor Myrcludex B: effects on bile acid disposition and Tenofovir pharmacokinetics. Clin Pharmacol Ther 103(2):341–348
-
-86. Gaj T, Gersbach CA, Barbas CF 3rd. (2013) ZFN, TALEN, and CRISPR/Cas-based methods for genome engineering. Trends Biotechnol 31(7):397–405
-
-1 Hepatitis B Virus Infection: Overview
-
-15
-
-87. Sander JD, Joung JK (2014) CRISPR-Cas systems for editing, regulating and targeting genomes. Nat Biotechnol 32(4):347–355
-
-88. Schiffer JT, Aubert M, Weber ND, Mintzer E, Stone D, Jerome KR (2012) Targeted DNA mutagenesis for the cure of chronic viral infections. J Virol 86(17):8920–8936
-
-89. Dong C, Qu L, Wang H, Wei L, Dong Y, Xiong S (2015) Targeting hepatitis B virus cccDNA by CRISPR/Cas9 nuclease efficiently inhibits viral replication. Antivir Res 118:110–117
-
-90. Kennedy EM, Bassit LC, Mueller H, Kornepati AVR, Bogerd HP, Nie T et al (2015) Suppression of hepatitis B virus DNA accumulation in chronically infected cells using a bacterial CRISPR/Cas RNA-guided DNA endonuclease. Virology 476:196–205
-
-91. Joung JK, Sander JD (2013) TALENs: a widely applicable technology for targeted genome editing. Nat Rev Mol Cell Biol 14(1):49–55
-
-92. Wooddell CI, Yuen MF, Chan HL, Gish RG, Locarnini SA, Chavez D et al (2017) RNAi-based treatment of chronically infected patients and chimpanzees reveals that integrated hepatitis B virus DNA is a source of HBsAg. Sci Trans Med 9(409)
-
-93. Lam AM, Espiritu C, Vogel R, Ren S, Lau V, Kelly M et al (2019) Preclinical characterization of NVR 3-778, a first-in-class capsid assembly modulator against hepatitis B virus.
-
-Antimicrob Agents Chemother 63(1)
-
-94. Klumpp K, Shimada T, Allweiss L, Volz T, Lutgehetmann M, Hartman G et al (2018) Efficacy of NVR 3-778, alone and in combination with pegylated interferon, vs entecavir in uPA/
-
-SCID mice with humanized livers and HBV infection. Gastroenterology 154(3):652–662. e8
-
-95. Yuen MF, Gane EJ, Kim DJ, Weilert F, Yuen Chan HL, Lalezari J et al (2019) Antiviral activity, safety, and pharmacokinetics of capsid assembly modulator NVR 3-778 in patients with chronic HBV infection. Gastroenterology
-
-96. Zoulim F, Yogaratnam J, Vandenbossche JJ, Moscalu I, Streinu-Cercel A, Lenz O et al (2019) Safety, pharmacokinetics and antiviral activity of a novel hepatitis B virus capsid assembly modulator, JNJ-56136379, in Patients with Chronic Hepatitis B. APASL. Adv Ther 36(9):2450–2462
-
-97. Zhang HZX, Chen H et al (2018) Safety, Pharmacokinetics and anti-viral efficacy of novel core protein allosteric modifier GLS4 in patients with chronic hepatitis B: interim results from a 48 weeks phase 2a Study. AASLD 2018 Abstract LB-13
-
-98. Ma XL Lalezari J et al (2019) Interim safety and efficacy results of the ABI-H0731 phase 2a program exploring the combination of ABI-H0731 with Nuc therapy in treatment-naive and treatment-suppressed chronic hepatitis B patients. EASL 2019 Abs LBO-06. Hepatology 70(1):e130
-
-99. Lampertico P (2014) Oral antiviral therapy for hepatitis B: the case of besifovir, a new kid on the block with a long way to go. Gut 63(6):869–870
-
-100. Lai CL, Ahn SH, Lee KS, Um SH, Cho M, Yoon SK et al (2014) Phase IIb multicentred randomised trial of besifovir (LB80380) versus entecavir in Asian patients with chronic hepatitis B. Gut 63(6):996–1004
-
-101. Ahn SH, Kim W, Jung YK, Yang JM, Jang JY, Kweon YO et al (2019) Efficacy and safety of besifovir dipivoxil maleate compared with tenofovir disoproxil fumarate in treatment of chronic hepatitis B virus infection. Clin Gastroenterol Hepatol 17(9):1850–1859.e4
-
-102. Feng S, Gao L, Han X, Hu T, Hu Y, Liu H et al (2018) Discovery of small molecule therapeutics for treatment of chronic HBV infection. ACS Infect Dis 4(3):257–277
-
-103. Painter GR, Almond MR, Trost LC, Lampert BM, Neyts J, De Clercq E et al (2007) Evaluation of hexadecyloxypropyl-9-R-[2-(Phosphonomethoxy)propyl]- adenine, CMX157, as a potential treatment for human immunodeficiency virus type 1 and hepatitis B virus infections. Antimicrob Agents Chemother 51(10):3505–3509
-
-104. Cai CW, Lomonosova E, Moran EA, Cheng X, Patel KB, Bailly F et al (2014) Hepatitis B
-
-virus replication is blocked by a 2-hydroxyisoquinoline-1,3(2H,4H)-dione (HID) inhibitor of the viral ribonuclease H activity. Antivir Res 108:48–55
-
-105. Edwards TC, Lomonosova E, Patel JA, Li Q, Villa JA, Gupta AK et al (2017) Inhibition of hepatitis B virus replication by N-hydroxyisoquinolinediones and related polyoxygenated heterocycles. Antivir Res 143:205–217
-
-16
-
-H. Li et al.
-
-106. Grant E, Joshi A, Ayithan N, Daffis S, Woo J, Lam T et al (2018) Pharmacodynamic response to oral administration of the selective toll-like receptor 8 agonist GS-9688 in healthy volun-teers. Hepatology (Baltimore, MD) 68:270a–a
-
-107. Lanford RE, Guerra B, Chavez D, Giavedoni L, Hodara VL, Brasky KM et al (2013) GS-9620, an oral agonist of Toll-like receptor-7, induces prolonged suppression of hepatitis B virus in chronically infected chimpanzees. Gastroenterology 144(7).:1508–1517, 17.e1–17.e10
-
-108. Wenjin Z, Chuanhui P, Yunle W, Lateef SA, Shusen Z (2012) Longitudinal fluctuations in PD1 and PD-L1 expression in association with changes in anti-viral immune response in chronic hepatitis B. BMC Gastroenterol 12:109
-
-109. El-Khoueiry AB, Sangro B, Yau T, Crocenzi TS, Kudo M, Hsu C et al (2017) Nivolumab in patients with advanced hepatocellular carcinoma (CheckMate 040): an open-label, non-comparative, phase 1/2 dose escalation and expansion trial. Lancet 389(10088):2492–2502
-
-110. Boni C, Janssen HLA, Rossi M, Yoon SK, Vecchi A, Barili V et al (2019) Combined GS-4774
-
-and tenofovir therapy can improve HBV-specific T-cell responses in patients with chronic hepatitis. Gastroenterology 157(1):227–241.e7
-
-111. Lok AS, Pan CQ, Han SH, Trinh HN, Fessel WJ, Rodell T et al (2016) Randomized phase II study of GS-4774 as a therapeutic vaccine in virally suppressed patients with chronic hepatitis B. J Hepatol 65(3):509–516
-
-112. Martin P, Dubois C, Jacquier E, Dion S, Mancini-Bourgine M, Godon O et al (2015) TG1050, an immunotherapeutic to treat chronic hepatitis B, induces robust T cells and exerts an antiviral effect in HBV-persistent mice. Gut 64(12):1961–1971
-
-113. Liang TJ, Block TM, McMahon BJ, Ghany MG, Urban S, Guo JT et al (2015) Present and future therapies of hepatitis B: from discovery to cure. Hepatology (Baltimore, MD) 62(6):1893–1908
-
-114. Brahmania M, Feld J, Arif A, Janssen HL (2016) New therapeutic agents for chronic hepatitis B. Lancet Infect Dis 16(2):e10–e21
-
-
-
-
-
-Document Outline
-
-
-Chapter 1: Hepatitis B Virus Infection: Overview 1 Discovery of HBV
-
-2 Epidemiology and Natural History of HBV Infection
-
-3 Biological Characteristics and Immunopathogenesis of HBV 3.1 HBV Genome and Life Cycle
-
-3.2 HBV Transcription and Translation
-
-3.3 Immunopathogenesis of HBV
-
-
-
-
-
-4 Current Antiviral Drugs Against HBV and New Antiviral Drugs Under Development 4.1 Current Antiviral Drugs Against HBV
-
-4.2 Optimization Treatment Strategies Based on Current Antiviral Drugs
-
-4.3 Advances in the Development of New Anti-HBV Drugs 4.3.1 Direct Antiviral Drugs Against the Life Cycle of HBV
-
-4.3.2 Indirect Antiviral Drugs that Modulate Host Immune Response to Control CHB
-
-
-
-
-
-References
-
-
-
-
-
