@@ -1,10 +1,4 @@
 
-Hepatitis B
-
-143
-
-10
-
 Viral hepatitis is a term commonly used for several diseases 
 
 that are clinically similar but etiologically and epidemiologically 
@@ -99,99 +93,6 @@ reversion to HBeAg positivity can occur.
 
 Penina Haber, MPH and Sarah Schillie, MD, MPH, MBA
 
-Hepatitis B
-
- 
-
-●
-
-Epidemic jaundice described by
-
-Hippocrates in 5th century BCE
-
- 
-
-●
-
-First recorded cases in 1883
-
-following administration of
-
-smallpox vaccine containing
-
-human lymph
-
- 
-
-●
-
-Transmission via blood further
-
-emphasized in 1943
-
- 
-
-●
-
-HBsAg first described in 1965
-
- 
-
-●
-
-Plasma-derived HepB vaccine
-
-licensed in 1981 replaced in
-
-1986 with recombinant
-
-HepB vaccines
-
-Hepatitis B Virus
-
- 
-
-●
-
-Hepadnaviridae family (DNA)
-
- 
-
-●
-
-Multiple serologic markers
-
-for infection
-
- 
-
-●
-
-Classified by serologic
-
-subtype and genotype, which
-
-vary geographically
-
- 
-
-●
-
-Infectious for at least 7 days
-
-on surfaces
-
-https://www.cdc.gov/vaccines/pubs/pinkbook/hepb.html
-
-Aug 2021
-
-
-144
-
-Hepatitis B
-
-  10
-
 HBV has been classified by two separate systems: serologic 
 
 subtype and genotype. Nine serologic subtypes based on 
@@ -283,101 +184,6 @@ chronic infection. Perinatal transmission from mother to
 infant at birth (vertical transmission) is highly efficient. Prior 
 
 to the widespread availability of postexposure prophylaxis, 
-
-Hepatitis B Pathogenesis
-
- 
-
-●
-
-Transmission by parenteral or
-
-mucosal exposure
-
- 
-
-●
-
-Replicates in hepatocytes
-
- 
-
-●
-
-Unique reverse
-
-transcription replication
-
-Hepatitis B Clinical Features
-
- 
-
-●
-
-Incubation period 60 to 90 days
-
- 
-
-●
-
-Clinical signs and symptoms
-
-more common in adults
-
- 
-
-●
-
-Prodromal phase lasts 3 to 10
-
-days; abrupt onset of fever,
-
-malaise, anorexia, nausea,
-
-abdominal discomfort, and dark
-
-urine before jaundice
-
- 
-
-●
-
-Icteric phase lasts 1 to 3
-
-weeks; jaundice, light or gray
-
-stools, hepatic tenderness,
-
-hepatomegaly
-
- 
-
-●
-
-Convalescent phase lasts weeks
-
-to months; malaise and fatigue
-
-persist while jaundice, anorexia,
-
-and other symptoms disappear
-
- 
-
-●
-
-Most adults recover while
-
-most infants progress to
-
-chronic infection
-
-
-Hepatitis B
-
-145
-
-10
 
 the proportion of infants born to HBsAg-positive women that 
 
@@ -475,79 +281,6 @@ occurs, but rates of chronic liver disease and liver cancer among
 
 adults are very high. In the United States, Western Europe, and 
 
-Hepatitis B Complications
-
- 
-
-●
-
-Fulminant hepatitis in about 1% 
-
-to 2% of acutely infected adults
-
-Chronic Hepatitis B Virus  
-
-Infection (HBV)
-
- 
-
-●
-
-Proportion of persons with 
-
-acute HBV that progress to 
-
-chronic HBV
-
- 
-
-■ As many as 90% of infants
-
- 
-
-■ 30% to 50% of children 
-
-between age 1 and 5 years
-
- 
-
-■ 5% of adults
-
- 
-
-●
-
-Often asymptomatic
-
- 
-
-●
-
-Responsible for most 
-
-HBV-related morbidity  
-
-and mortality
-
- 
-
-●
-
-25% of persons infected as 
-
-children and 15% of persons 
-
-infected as adults will  
-
-die prematurely
-
-
-146
-
-Hepatitis B
-
-  10
-
 Australia, HBV infection is a disease of low endemicity. Infection 
 
 occurs primarily during adulthood, and only 0.1% to 0.5% of the 
@@ -640,13 +373,6 @@ assess the likelihood of perinatal HBV transmission, and detect
 
 the presence of occult HBV infection (i.e., infection in someone 
 
-
-Hepatitis B
-
-147
-
-10
-
 who tests HBsAg-negative). In resource-limited settings, HBeAg 
 
 may replace the use of HBV DNA for some purposes, e.g., 
@@ -734,79 +460,6 @@ sexual transmission and saliva can be a vehicle of transmission
 through bites; other types of exposure (e.g., to saliva through 
 
 kissing) are unlikely modes of transmission. HBsAg is also found 
-
-Hepatitis B Epidemiology
-
- 
-
-●
-
-Reservoir
-
- 
-
-■ Human 
-
- 
-
-■ Some primates
-
- 
-
-●
-
-Transmission
-
- 
-
-■ Body fluids (highest 
-
-concentration in blood  
-
-and serous fluids)
-
- 
-
-●
-
-Temporal Pattern
-
- 
-
-■ No temporal pattern
-
- 
-
-●
-
-Communicability
-
- 
-
-■ Persons with acute or  
-
-chronic HBV infection are 
-
-infectious any time HBsAg 
-
-present in blood
-
- 
-
-■ Persons with acute HBV 
-
-infection can have HBsAg in 
-
-blood 1–2 months before and 
-
-after onset of symptoms
-
-
-148
-
-Hepatitis B
-
-  10
 
 in other body fluids (e.g., breast milk, bile, feces, nasopharyngeal 
 
@@ -897,73 +550,6 @@ In 2018, a total of 3,322 cases of acute hepatitis B were reported
 to CDC, for an overall incidence rate of 1.0 cases per 100,000 
 
 population. After adjusting for under-ascertainment and 
-
-Hepatitis B Secular Trends  
-
-in the United States
-
- 
-
-●
-
-Acute HBV infection
-
- 
-
-■ Before vaccine, about  
-
-9.6 per 100,000 cases
-
- 
-
-■ Following vaccine, about  
-
-1 per 100,000 cases in 2018 
-
-(~90% decrease) 
-
- 
-
-■ During 2009 through 2013, 
-
-KY, TN, and WV experienced 
-
-114% increase associated with 
-
-injection-drug use
-
- 
-
-■ Incidence greatest for  
-
-persons 40 through 49 years 
-
-and lowest for persons  
-
-19 years or younger
-
- 
-
-●
-
-Chronic HBV infection
-
- 
-
-■ Estimated 850,000 to 2.2 
-
-million persons infected in the 
-
-U.S.; most immigrated from  
-
-endemic countries
-
-
-Hepatitis B
-
-149
-
-10
 
 under-reporting, an estimated 21,600 acute hepatitis B cases 
 
@@ -1057,13 +643,6 @@ unvaccinated children less than age 19 years, and vaccination
 
 of adults at risk for HBV infection, including those requesting 
 
-
-150
-
-Hepatitis B
-
-  10
-
 protection from HBV without acknowledgement of a specific 
 
 risk factor. It also includes universal testing of pregnant 
@@ -1150,91 +729,6 @@ administered as a 2-dose series on a 0, 1 month schedule and is
 
 approved for persons age 18 years or older. 
 
-Hepatitis B Vaccine Characteristics
-
- 
-
-●
-
-Administered by  
-
-intramuscular injection
-
- 
-
-●
-
-Contain yeast protein
-
- 
-
-●
-
-Contain aluminum adjuvant 
-
-(Engerix-B and Recombivax 
-
-HB) or synthetic adjuvant 
-
-(Heplisav-B)
-
- 
-
-●
-
-Some presentations  
-
-contain latex
-
- 
-
-●
-
-Ingredients in combination 
-
-vaccines differ; all  
-
-contain antibiotics
-
-Hepatitis B Vaccines
-
- 
-
-●
-
-DTaP-HepB-IPV (Pediarix)
-
- 
-
-●
-
-DTaP-IPV-Hib-HepB (Vaxelis)
-
- 
-
-●
-
-HepA-HepB (Twinrix)
-
- 
-
-●
-
-HepB (Engerix-B, Heplisav-B, 
-
-and Recombivax HB)
-
-
-Hepatitis B
-
-151
-
-10
-
-Vaccination Schedule and Use
-
-Infants and Children
-
 HepB vaccination is recommended for all medically stable 
 
 infants weighing at least 2,000 grams within 24 hours of birth. 
@@ -1305,85 +799,6 @@ status is unknown should receive the last dose by age 6 months
 
 but not before age 24 weeks.
 
-Hepatitis B Vaccination Schedule 
-
- 
-
-●
-
-Infants: See Hepatitis B vaccine 
-
-schedule for infants
-
- 
-
-●
-
-Adolescents: All children and 
-
-adolescents through age 18 
-
-years not previously vaccinated 
-
- 
-
-■ 3-dose series at 0, 1, 6 months
-
- 
-
-■ Adolescents age 11 through 
-
-15 years may use 2-dose series 
-
-of Recombivax HB separated 
-
-by 4 to 6 months
-
- 
-
-●
-
-Adults: All unvaccinated 
-
-adults at risk for or requesting 
-
-protection from HBV infection 
-
- 
-
-■ 2-dose series at 0 and 1 
-
-month (Heplisav-B) or  
-
-3-dose series at 0, 1 and 
-
-6 months (Engerix-B and 
-
-Recombivax HB)
-
- 
-
-■ 3-dose series at 0, 1 and 6 
-
-months (Twinrix)
-
- 
-
-■ 3-dose series with doses at  
-
-0, 7, 21–30 days, and booster  
-
-12 months after dose 1 
-
-(Twinrix, accelerated)
-
-
-152
-
-Hepatitis B
-
-  10
-
 Preterm infants weighing less than 2,000 grams have a 
 
 decreased response to HepB vaccine administered before 1 
@@ -1411,309 +826,6 @@ The third HepB dose must be administered at least 8 weeks after
 the second dose, and at least 16 weeks after the first dose. The 
 
 minimum interval between the first and second dose is 4 weeks.
-
-Hepatitis B vaccine schedules for infants (≥2,000 g birthweight), by maternal HBsAg status
-
-Maternal HBsAg Status
-
-Single-antigen  
-
-vaccine dose
-
-Single-antigen vaccine 
-
-age indications
-
-Single-antigen + 
-
-combination  
-
-vaccine† dose
-
-Single-antigen + 
-
-combination vaccine† 
-
-age indications
-
-Positive
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-HBIG§
-
-Birth (≤12 hrs)
-
-HBIG§
-
-Birth (≤12 hrs)
-
-2
-
-1–2 mos
-
-2
-
-2 mos
-
-3
-
-6 mos¶
-
-3
-
-4 mos
-
-N/A
-
-N/A
-
-4
-
-6 mos¶
-
-Unknown*
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-2
-
-1–2 mos
-
-2
-
-2 mos
-
-3
-
-6 mos¶
-
-3
-
-4 mos
-
-N/A
-
-N/A
-
-4
-
-6 mos¶
-
-Negative
-
-1
-
-Birth (≤24 hrs)
-
-1
-
-Birth (≤24 hrs)
-
-2
-
-1–2 mos
-
-2
-
-2 mos
-
-3
-
-6–18 mos¶
-
-3
-
-4 mos
-
-N/A
-
-N/A
-
-4
-
-6 mos¶
-
-* Mothers should have blood drawn and tested for HBsAg as soon as possible after admission for delivery; if the mother is found to  
-
-be HBsAg positive, the infant should receive HBIG as soon as possible but no later than age 7 days.
-
-† Pediarix and Vaxelis should not be administered before age 6 weeks.
-
-§ HBIG should be administered at a separate anatomical site from vaccine.
-
-¶ The final dose in the vaccine series should not be administered before age 24 weeks (164 days).
-
-
-Hepatitis B
-
-153
-
-10
-
-Hepatitis B vaccine schedules for infants (&lt;2,000 g birthweight), by maternal HBsAg status
-
-Maternal HBsAg Status
-
-Single-antigen  
-
-vaccine dose
-
-Single-antigen vaccine 
-
-age indications
-
-Single-antigen + 
-
-combination  
-
-vaccine† dose
-
-Single-antigen + 
-
-combination vaccine† 
-
-age indications
-
-Positive
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-HBIG§
-
-Birth (≤12 hrs)
-
-HBIG§
-
-Birth (≤12 hrs)
-
-2
-
-1 mos
-
-2
-
-2 mos
-
-3
-
-2–3 mos
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-4
-
-6 mos¶
-
-Unknown
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-HBIG§
-
-Birth (≤12 hrs)
-
-HBIG§
-
-Birth (≤12 hrs)
-
-2
-
-1 mos
-
-2
-
-2 mos
-
-3
-
-2–3 mos
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-4
-
-6 mos¶
-
-Negative
-
-1
-
-Hospital discharge  
-
-or age 1 mo
-
-1
-
-Hospital discharge  
-
-or age 1 mo
-
-2
-
-2 mos
-
-2
-
-2 mos
-
-3
-
-6–18 mos¶
-
-3
-
-4 mos
-
-N/A
-
-N/A
-
-4
-
-6 mos¶
-
-† Pediarix and Vaxelis should not be administered before age 6 weeks.
-
-§ HBIG should be administered at a separate anatomical site from vaccine.
-
-¶ The final dose in the vaccine series should not be administered before age 24 weeks (164 days).
 
 DTaP-HepB-IPV (Pediarix)
 
@@ -1763,13 +875,6 @@ used for the birth dose of HepB vaccine. The final dose of DTaP-
 
 IPV-Hib-HepB vaccine should be administered at age 24 weeks 
 
-
-154
-
-Hepatitis B
-
-  10
-
 or older, the minimum age for completion of the HepB vaccine 
 
 series. When DTaP-IPV-Hib-HepB vaccine is used to provide 3 
@@ -1816,7 +921,7 @@ than one sex partner during the previous 6 months, persons
 
 seeking evaluation or treatment for a sexually transmitted 
 
-infection (STI), and MSM
+infection (STI), and MSM.
 
 • Household contacts of persons who are HBsAg-positive. 
 
@@ -1834,17 +939,17 @@ and staff of facilities for developmentally disabled persons,
 
 health care and public safety workers with risk for exposure 
 
-to blood or blood-contaminated body fluids
+to blood or blood-contaminated body fluids.
 
 • Persons with end-stage renal disease, including predialysis, 
 
-hemodialysis, peritoneal dialysis, and home dialysis patients
+hemodialysis, peritoneal dialysis, and home dialysis patients.
 
 • Persons with diabetes age 19 through 59 years; persons 
 
 with diabetes age 60 years or older at the discretion of the 
 
-treating clinician 
+treating clinician.
 
 • Persons with hepatitis C infection or chronic liver disease, 
 
@@ -1854,14 +959,7 @@ liver disease, autoimmune hepatitis, and an alanine
 
 aminotransferase (ALT) or aspartate aminotransferase (AST) 
 
-level greater than twice the upper limit of normal
-
-
-Hepatitis B
-
-155
-
-10
+level greater than twice the upper limit of normal.
 
 • Persons traveling internationally to regions with high or 
 
@@ -1869,13 +967,13 @@ intermediate levels (HBsAg prevalence of 2% or higher) of
 
 endemic HBV infection, including those who may engage in 
 
-high-risk behaviors or provide health care while traveling
+high-risk behaviors or provide health care while traveling.
 
-• Persons with human immunodeficiency virus (HIV) infection
+• Persons with human immunodeficiency virus (HIV) infection.
 
-• Persons who are incarcerated
+• Persons who are incarcerated.
 
-• All other persons seeking protection from HBV infection
+• All other persons seeking protection from HBV infection.
 
 In settings in which a high proportion of adults have risks for 
 
@@ -1946,63 +1044,6 @@ schedule; the minimum interval recommendations will be met.
 Single-antigen HepB vaccine can be used to complete a series 
 
 begun with Twinrix or vice versa.
-
-Hepatitis B Vaccine Efficacy
-
- 
-
-●
-
-Over 90% of infants, children, 
-
-adolescents, and healthy adults 
-
-&lt;40 years develop protective 
-
-antibody response following 
-
-complete series
-
- 
-
-●
-
-80 to 100% effective in 
-
-preventing infection or  
-
-clinical hepatitis following 
-
-complete series
-
- 
-
-●
-
-Larger doses or increased 
-
-number of doses necessary 
-
-for dialysis patients and 
-
-immunocompromised persons
-
- 
-
-●
-
-Booster doses not 
-
-recommended for 
-
-immunocompetent persons
-
-
-156
-
-Hepatitis B
-
-  10
 
 Immunogenicity and Vaccine Efficacy
 
@@ -2100,13 +1141,6 @@ using the 2 adult-dose Recombivax HB schedule compared to
 
 those vaccinated using 3 doses.
 
-
-Hepatitis B
-
-157
-
-10
-
 Serologic Testing of Vaccine Recipients
 
 Prevaccination Serologic Testing
@@ -2199,125 +1233,6 @@ Immunocompromised persons might need annual testing to
 
 assess anti-HBs concentrations. 
 
-Serologic Testing
-
-Prevaccination
-
- 
-
-●
-
-Consists of testing for HBsAg, 
-
-anti-HBs, and anti-HBc
-
- 
-
-●
-
-Recommended for:
-
- 
-
-■ Household, sexual, or needle-
-
-sharing contacts of HBsAg-
-
-positive persons
-
- 
-
-■ HIV-positive persons
-
- 
-
-■ Persons with elevated ALT/
-
-AST of unknown etiology
-
- 
-
-■ Hemodialysis patients
-
- 
-
-■ MSM
-
- 
-
-■ Past or current PWID
-
-Postvaccination
-
- 
-
-●
-
-Not routinely recommended 
-
- 
-
-●
-
-Recommended for:
-
- 
-
-■ Infants born to HBsAg+ 
-
-women or women with 
-
-unknown HBsAg status
-
- 
-
-■ HCP and public safety workers
-
- 
-
-■ Hemodialysis patients
-
- 
-
-■ HIV-infected persons
-
- 
-
-■ Other immunocompromised 
-
-persons
-
- 
-
-■ Sex partners of HBsAg+ 
-
-persons
-
- 
-
-●
-
-Results:
-
- 
-
-■ Anti-HBs ≥ 10 mIU/mL  
-
- Immune
-
- 
-
-■ Anti-HBs &lt; 10 mIU/mL  
-
- Revaccinate
-
-
-158
-
-Hepatitis B
-
-  10
-
 Persons found to have anti-HBs concentrations less than 
 
 10 mIU/mL after the primary vaccine series should be 
@@ -2398,13 +1313,6 @@ series in the past should ensure timely assessment and
 
 postexposure prophylaxis following an exposure.
 
-
-Hepatitis B
-
-159
-
-10
-
 Vaccine Nonresponse
 
 Several factors have been associated with nonresponse 
@@ -2471,37 +1379,6 @@ also be counseled about the need to obtain HBIG prophylaxis
 
 for exposure to HBsAg-positive blood.
 
-Vaccine Nonresponse
-
- 
-
-●
-
-Persons who do not respond 
-
-to the first HepB series should 
-
-complete a second series on a 
-
-0, 1, 6 month schedule
-
- 
-
-●
-
-Retest anti-HBs 1–2 months 
-
-after completion of  
-
-second series
-
-
-160
-
-Hepatitis B
-
-  10
-
 Occupational Postexposure Management
 
 After a percutaneous (needle stick, laceration, bite) or 
@@ -2518,200 +1395,6 @@ anti-HBs response status of the exposed HCP. Recommended
 
 postexposure prophylaxis is described in the following table.
 
-Postexposure Management of Health Care Personnel after Occupational Exposure to Blood and Body 
-
-Fluids, by Health Care Personnel HepB Vaccination and Response Status
-
-HepB Vaccination 
-
-and Response 
-
-Status
-
-Postexposure 
-
-testing results for 
-
-source patient 
-
-(HBsAg)
-
-Postexposure 
-
-testing results for 
-
-HCP (anti-HBs)
-
-HBIG*  
-
-postexposure 
-
-prophylaxis
-
-Vaccination 
-
-postexposure 
-
-prophylaxis
-
-Postvaccination 
-
-Serologic  
-
-Testing†
-
-Documented 
-
-responder§ after 
-
-complete series  
-
-(3 or more doses)
-
-No action needed
-
-No action needed
-
-No action needed
-
-No action needed
-
-No action needed
-
-Documented 
-
-nonresponder¶ 
-
-after 2 complete 
-
-series
-
-Positive/ unknown
-
-**
-
-2 doses HBIG 
-
-separated by  
-
-1 month
-
-No action needed
-
-No action needed
-
-Negative
-
-No action needed
-
-No action needed
-
-No action needed
-
-No action needed
-
-Response 
-
-unknown after a 
-
-complete series
-
-Positive/ unknown
-
-less than  
-
-10 mIU/mL**
-
-1 dose HBIG
-
-Initiate  
-
-revaccination
-
-Yes
-
-Negative
-
-less than  
-
-10 mIU/mL
-
-None
-
-Initiate  
-
-revaccination
-
-Yes
-
-Any result
-
-greater than or 
-
-equal to 10 mIU/mL
-
-No action needed
-
-No action needed
-
-No action needed
-
-Unvaccinated/
-
-incompletely 
-
-vaccinated or 
-
-vaccine refusers
-
-Positive/ unknown
-
-**
-
-1 dose HBIG
-
-Complete 
-
-vaccination
-
-Yes
-
-Negative
-
-No action needed
-
-None
-
-Complete 
-
-vaccination
-
-Yes
-
-*HBIG should be administered intramuscularly as soon as possible after exposure when indicated. The effectiveness of HBIG when 
-
-administered greater than 7 days after percutaneous, mucosal, or nonintact skin exposures is unknown. HBIG and HepB vaccine 
-
-should be administered in separate anatomic injection sites.
-
-†Should be performed 1 to 2 months after the last dose of the HepB vaccine series (and 4 to 6 months after administration of HBIG 
-
-to avoid detection of passively administered anti-HBs) using a quantitative method that allows detection of the protective concen-
-
-tration of anti-HBs (greater than or equal to 10 mIU/mL).
-
-§A responder is defined as a person with anti-HBs greater than or equal to 10 mIU/mL after 3 or more doses of HepB vaccine.
-
-¶A nonresponder is defined as a person with anti-HBs less than 10 mIU/mL after 2 complete series of HepB vaccine.
-
-**HCP who have anti-HBs less than 10 mIU/mL, or who are unvaccinated or incompletely vaccinated, and sustain an exposure to a 
-
-source patient who is HBsAg-positive or has unknown HBsAg status, should undergo baseline testing for HBV infection as soon as 
-
-possible after exposure and follow-up testing approximately 6 months later. Initial baseline tests consist of total anti-HBc; testing at 
-
-approximately 6 months consists of HBsAg and total anti-HBc.
-
 Non-Occupational Exposure 
 
 Persons who have written documentation of a complete 
@@ -2725,13 +1408,6 @@ non-occupational exposure to an HBsAg-positive source.
 Persons who are in the process of being vaccinated but who 
 
 have not completed the vaccine series should complete the 
-
-
-Hepatitis B
-
-161
-
-10
 
 vaccine series and receive the appropriate dose of HBIG as soon 
 
@@ -2823,49 +1499,6 @@ infection during pregnancy (e.g., persons with more than one
 
 sex partner during the previous 6 months, persons who have 
 
-Hepatitis B Vaccine 
-
-Contraindications and Precautions
-
- 
-
-●
-
-Contraindication
-
- 
-
-■ Severe allergic reaction 
-
-to vaccine component or 
-
-following a prior dose
-
- 
-
-■ History of hypersensitivity  
-
-to yeast
-
- 
-
-●
-
-Precaution
-
- 
-
-■ Moderate or severe  
-
-acute illness
-
-
-162
-
-Hepatitis B
-
-  10
-
 been evaluated or treated for an STI, recent or current PWID, or 
 
 persons who have had an HBsAg-positive sex partner) should 
@@ -2947,146 +1580,3 @@ vaccine-preventable diseases, please consult the Manual for the
 Surveillance of Vaccine-Preventable Diseases, www.cdc.gov/
 
 vaccines/pubs/surv-manual/chapters.html. 
-
-Hepatitis B Vaccine Safety
-
- 
-
-●
-
-Pain
-
- 
-
-■ 3% to 29%
-
- 
-
-●
-
-Erythema
-
- 
-
-■ 3%
-
- 
-
-●
-
-Swelling
-
- 
-
-■ 3%
-
- 
-
-●
-
-Fever
-
- 
-
-■ 1% to 6%
-
- 
-
-●
-
-Headache
-
- 
-
-■ 3%
-
-
-Hepatitis B
-
-163
-
-10
-
-Acknowledgements
-
-The editors would like to acknowledge Maria Cano and Phil 
-
-Spradling for their contributions to this chapter.
-
-Selected References
-
-Ascherio A, Zhang S, Hernán M, et al. Hepatitis B vaccination and 
-
-the risk of multiple sclerosis. N Engl J Med 2001;344(5):327–32.
-
-CDC. CDC guidance for evaluating health-care personnel for 
-
-hepatitis B virus protection and for administering posexposure 
-
-management. MMWR 2013;62(RR-10):1–19.
-
-CDC. CDC Yellow Book 2018: Health Information for 
-
-International Travel. New York: Oxford University Press;2017.
-
-CDC. Immunization of health-care personnel. Recommendations 
-
-of the Advisory Committee on Immunization Practices (ACIP). 
-
-MMWR 2011;60(RR-7):1–45.
-
-CDC. Prevention of Hepatitis B Virus Infection in the United 
-
-States: Recommendations of the Advisory Committee on 
-
-Immunization Practices. MMWR 2018;67(1):1–31.
-
-CDC. Recommendations for identification and public health 
-
-management of persons with chronic hepatitis B virus infection. 
-
-MMWR 2008;57(RR-8):1–20.
-
-CDC. Use of hepatitis B vaccination for adults with diabetes 
-
-mellitus. Recommendations of the Advisory Committee on 
-
-Immunization Practices (ACIP). MMWR 2011;60(50):1709–11 . 
-
-Institute of Medicine. Adverse effects of vaccines: Evidence and 
-
-causality. Washington D.C.: The National Academies Press;2011.
-
-Institute of Medicine. Immunization Safety Review: Hepatitis B 
-
-Vaccine and Demyelinating Neurological Disorders. Washington 
-
-D.C.: The National Academy Press;2002.
-
-Lewis E, Shinefield H, Woodruff B, et al. Safety of neonatal 
-
-hepatitis B vaccine administration. Pediatr Infect Dis J 
-
-2001;20(11):1049–54.
-
-Poland G, Jacobson R. Clinical practice: prevention of hepatitis B 
-
-with the hepatitis B vaccine. N Engl J Med 2004;351(27):2832–8.
-
-Van Damme P, Ward J, Shouval D, et al. Hepatitis B Vaccines. In: 
-
-Plotkin S, Orenstein W, Offit P, et al., eds. Plotkin’s Vaccines. 7th 
-
-ed. Elsevier;2018:342–74.
-
-NOTES
-
-
-164
-
-Hepatitis B
-
-  10
-
-NOTES
-

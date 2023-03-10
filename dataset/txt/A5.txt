@@ -137,7 +137,7 @@ present: jaundice, ascites, variceal hemorrhage, hepatic encephalopathy, or a Ch
 
 Online CTP calculator. 
 
-3 Elevated ALT defined as &gt;25 U/L in females and &gt;35 U/L in males that is persistent for at least 3 to 6 months. 
+3 Elevated ALT defined as <25 U/L in females and <35 U/L in males that is persistent for at least 3 to 6 months. 
  
 Assessing Treatment Response and Endpoints for Antiviral Discontinuation 
 
@@ -149,15 +149,15 @@ antiviral therapy and the HBV DNA levels are not downtrending, obtain expert con
 
 to a specialist.  
 
-&gt; Persons with cirrhosis: Do not stop antiviral treatment, unless guided by expert consultation. 
+< Persons with cirrhosis: Do not stop antiviral treatment, unless guided by expert consultation. 
 
-&gt; Persons without cirrhosis and HBeAg(+) at baseline: Patients with persistent undetectable HBV 
+< Persons without cirrhosis and HBeAg(+) at baseline: Patients with persistent undetectable HBV 
 
 DNA, normal ALT, and persistent HBeAg(-) and anti-HBe(+) 1 year after HBeAg seroconversion 
 
 [from HBeAg(+)/anti-HBe(-) to HBeAg(-)/anti-HBe(+)] may trial off antiviral treatment. 
 
-&gt; Persons without cirrhosis and HBeAg(-) at baseline: Continue antiviral treatment until HBsAg 
+< Persons without cirrhosis and HBeAg(-) at baseline: Continue antiviral treatment until HBsAg 
 
 clearance. 
 
@@ -175,9 +175,9 @@ Persons with chronic HBV at increased risk for hepatocellular carcinoma (HCC) wh
 
 surveillance include:  
 
-&gt; All persons with cirrhosis, including persons who become HBsAg(-) 
+< All persons with cirrhosis, including persons who become HBsAg(-) 
 
-&gt; The following populations, even in the absence of cirrhosis: 
+< The following populations, even in the absence of cirrhosis: 
 
  Asian or black/African1 males older than 40 years of age 
 
@@ -197,7 +197,7 @@ such as computed tomography (CT) or magnetic resonance imaging (MRI), with and w
 
 be indicated to further evaluate new liver lesions.  
 
-1 More recent African immigrants may be at increased risk for HCC and some experts begin HCC surveillance at age &lt;40 years. 
+1 More recent African immigrants may be at increased risk for HCC and some experts begin HCC surveillance at age <40 years. 
 
 2 Wait at least 6 months after pregnancy before using AFP for HCC surveillance.  
 
@@ -224,21 +224,21 @@ another HBV vaccine one month after birth.
 
 ALL infants of HBsAg(-) women should: 
 
-&gt; Receive birth dose HBV vaccine within 
+< Receive birth dose HBV vaccine within 
 
 24 hours of birth 
 
 ALL infants of HBsAg(+) women should: 
 
-&gt; Receive birth dose HBV vaccine and 
+< Receive birth dose HBV vaccine and 
 
 HBIG within 12 hours of birth 
 
-&gt; Complete HBV vaccine series on 
+< Complete HBV vaccine series on 
 
 schedule5 
 
-&gt; Receive a post-vaccination serology 
+< Receive a post-vaccination serology 
 
 test at 9 to 12 months of age with 
 

@@ -123,7 +123,7 @@ assessment of current or past anti-HBs results upon hire or
 
 matriculation, followed by one or more additional doses of HepB 
 
-vaccine for HCP with anti-HBs &lt;10 mIU/mL, if necessary, helps 
+vaccine for HCP with anti-HBs <10 mIU/mL, if necessary, helps 
 
 to ensure that HCP will be protected if they have an exposure to 
 
@@ -521,7 +521,7 @@ hospitalized and 1.3% died from hepatitis B (10). Acute HBV
 
 infection becomes chronic in 90% of infants, 30% of children 
 
-aged &lt;5 years, and &lt;1%–12% of adults (18). Approximately 25% 
+aged <5 years, and <1%–12% of adults (18). Approximately 25% 
 
 of persons who become chronically infected during childhood 
 
@@ -803,7 +803,7 @@ persons in all age groups (15). During 1982–2004, an estimated
 
 effects are pain at the injection site (3%–29%) and temperature of 
 
-&gt;99.9°F (&gt;37.7°C) (1%–6%) (15). In placebo-controlled studies, 
+>99.9°F (>37.7°C) (1%–6%) (15). In placebo-controlled studies, 
 
 these side effects were reported no more frequently among persons 
 
@@ -869,7 +869,7 @@ seroprotection is achieved in approximately
 
 95% of healthy infants (43,44), approximately 
 
-92% of HCP aged &lt;40 years, and approximately 
+92% of HCP aged <40 years, and approximately 
 
 84% of HCP aged ≥40 years (6). Among 
 
@@ -909,7 +909,7 @@ anti-HBs levels varies by age at vaccination.
 
 By 18 years after vaccination, approximately 
 
-16% of persons vaccinated at age &lt;1 year 
+16% of persons vaccinated at age <1 year 
 
 have detectable antibody levels of ≥10 mIU/mL (49–54) 
 
@@ -947,9 +947,9 @@ infection resulting in serologic test results positive for HBV
 
 and/or clinically significant disease) (40). Among persons 
 
-vaccinated 5.9–17.5 years previously at age &lt;1 year who have 
+vaccinated 5.9–17.5 years previously at age <1 year who have 
 
-anti-HBs levels &lt;10 mIU/mL, approximately 60.0%–97.4% 
+anti-HBs levels <10 mIU/mL, approximately 60.0%–97.4% 
 
 showed a response to a single challenge dose of HepB vaccine 
 
@@ -957,7 +957,7 @@ demonstrating protective levels of anti-HBs ≥10 mIU/mL
 
 (50–54). Among persons vaccinated 9–22 years previously at 
 
-age ≥1 year who have anti-HBs levels &lt;10 mIU/mL, 69.2%–
+age ≥1 year who have anti-HBs levels <10 mIU/mL, 69.2%–
 
 96.4% showed a response to a single challenge dose of HepB 
 
@@ -1093,7 +1093,7 @@ of respondents (71.9%) indicated current practices at their
 
 institution consist of measuring anti-HBs on a pre-exposure 
 
-basis, followed by HepB vaccination if anti-HBs is &lt;10 mIU/mL 
+basis, followed by HepB vaccination if anti-HBs is <10 mIU/mL 
 
 (67). A smaller proportion of respondents (15.7%) indicated 
 
@@ -1153,7 +1153,7 @@ receiving 40 µg dose versus 62.5% among 18 persons receiving
 
 10 µg dose, p = 0.015, Fisher’s exact test) (70). Revaccination with 
 
-&gt;3 doses (i.e., &gt;6 total doses) is not recommended (11).
+>3 doses (i.e., >6 total doses) is not recommended (11).
 
 HBV Infection among Vaccinated and 
 
@@ -1221,7 +1221,7 @@ serologic testing was available for only one of seven HCPs with
 
 documentation of ≥3-doses of HepB vaccine; this HCP had 
 
-an anti-HBs level &lt;10 mIU/mL after 4 doses of vaccine (75).
+an anti-HBs level <10 mIU/mL after 4 doses of vaccine (75).
 
 Although reported data did not enable identification of the 
 
@@ -1405,11 +1405,11 @@ One model represented an approach in which anti-HBs is
 
 measured on a pre-exposure basis, and HCP with anti-HBs 
 
-&lt;10 mIU/mL receive an additional dose of HepB vaccine, 
+<10 mIU/mL receive an additional dose of HepB vaccine, 
 
 followed by repeat anti-HBs measurement. If anti-HBs 
 
-remains &lt;10 mIU/mL after the first revaccination dose, the 
+remains <10 mIU/mL after the first revaccination dose, the 
 
 HCP receives two additional revaccination doses of HepB 
 
@@ -1457,13 +1457,13 @@ irrespective of the presence of detectable anti-HBs. Ninety-five
 
 percent protection was derived from the proportion of persons 
 
-aged &lt;40 years, including term newborns that have measurable 
+aged <40 years, including term newborns that have measurable 
 
 anti-HBs ≥10 mIU/mL soon after a primary vaccination series. 
 
 Approximately 18–25 years after vaccination, approximately 
 
-20% of HCP (vaccinated at age &lt;1 year) or approximately 
+20% of HCP (vaccinated at age <1 year) or approximately 
 
 80% of HCP (vaccinated at age ≥1 year) retain anti-HBs 
 
@@ -1573,7 +1573,7 @@ Africa, the Middle East, and the Pacific Islands) and certain
 
 indigenous populations from countries with overall low HBV 
 
-endemicity (&lt;2%); persons with behavioral exposures to HBV 
+endemicity (<2%); persons with behavioral exposures to HBV 
 
 (e.g., men who have sex with men and past or current injection 
 
@@ -1583,7 +1583,7 @@ therapy; and persons with liver disease of unknown etiology.
 
  HBV endemicity (HBsAg prevalence) can be described as 
 
-low (&lt;2%), moderate (2%–&lt;8%), and high (≥8%). Because 
+low (<2%), moderate (2%–<8%), and high (≥8%). Because 
 
 certain persons might have been infected with HBV before they 
 
@@ -1667,7 +1667,7 @@ OSHA mandates that HCP who refuse HepB vaccination
 
 sign a declination statement (http://www.osha.gov/pls/
 
-oshaweb/owadisp.show_document?p_id=10052&amp;p_
+oshaweb/owadisp.show_document?p_id=10052&p_
 
 table=STANDARDS). HCP refusing HepB vaccination can 
 
@@ -1727,13 +1727,13 @@ persons have long-term protection and do not need further
 
 periodic testing to assess anti-HBs levels.
 
-•	 Completely vaccinated HCP with anti-HBs &lt;10 mIU/mL 
+•	 Completely vaccinated HCP with anti-HBs <10 mIU/mL 
 
 should receive an additional dose of HepB vaccine, followed 
 
 by anti-HBs testing 1–2 months later. HCP whose 
 
-anti-HBs remains &lt;10 mIU/mL should receive 2 additional 
+anti-HBs remains <10 mIU/mL should receive 2 additional 
 
 vaccine doses (usually 6 doses total), followed by repeat 
 
@@ -1741,7 +1741,7 @@ anti-HBs testing 1–2 months after the last dose. Alternatively,
 
 it might be more practical for very recently vaccinated HCP 
 
-with anti-HBs &lt;10 mIU/mL to receive 3 consecutive 
+with anti-HBs <10 mIU/mL to receive 3 consecutive 
 
 additional doses of HepB vaccine (usually 6 doses total), 
 
@@ -1835,7 +1835,7 @@ should be administered as soon as possible after an exposure
 
 when indicated. The effectiveness of HBIG when administered 
 
-&gt;7 days after percutaneous, mucosal, or nonintact skin 
+>7 days after percutaneous, mucosal, or nonintact skin 
 
 exposures is unknown. HBIG and HepB vaccine can be 
 
@@ -1867,7 +1867,7 @@ HBsAg status.
 
 For vaccinated HCP (who have written documentation of 
 
-HepB vaccination) with anti-HBs &lt;10 mIU/mL after two 
+HepB vaccination) with anti-HBs <10 mIU/mL after two 
 
 complete, ≥3-dose HepB vaccine series, the source patient 
 
@@ -1903,7 +1903,7 @@ anti-HBs test results, and likewise, testing the HCP should not
 
 be delayed while waiting for the source patient HBsAg results.
 
-•	 If the HCP has anti-HBs &lt;10 mIU/mL and the source 
+•	 If the HCP has anti-HBs <10 mIU/mL and the source 
 
 patient is HBsAg-positive or has unknown HBsAg status, 
 
@@ -1923,7 +1923,7 @@ for future exposures, anti-HBs testing should be performed
 
 1–2 months after the last dose of vaccine.
 
-•	 If the HCP has anti-HBs &lt;10 mIU/mL and the source 
+•	 If the HCP has anti-HBs <10 mIU/mL and the source 
 
 patient is HBsAg-negative, the HCP should receive an 
 
@@ -1931,7 +1931,7 @@ additional HepB vaccine dose, followed by repeat anti-HBs
 
 testing 1–2 months later. HCP whose anti-HBs remains 
 
-&lt;10 mIU/mL should undergo revaccination with 2 more 
+<10 mIU/mL should undergo revaccination with 2 more 
 
 doses (6 doses total when accounting for the original 3-dose 
 
@@ -2005,7 +2005,7 @@ and do not need further periodic testing to assess anti-
 
 HBs levels.
 
- – HCP with anti-HBs &lt;10 mIU/mL after receipt of the 
+ – HCP with anti-HBs <10 mIU/mL after receipt of the 
 
 primary series should be revaccinated. For these HCP, 
 
@@ -2045,7 +2045,7 @@ and do not need further periodic testing to assess anti-
 
 HBs levels.
 
- – HCP with anti-HBs &lt;10 mIU/mL after receipt of the 
+ – HCP with anti-HBs <10 mIU/mL after receipt of the 
 
 primary series should be revaccinated. For these HCP, 
 
@@ -2069,7 +2069,7 @@ Testing of HCP Exposed to an HBsAg-Positive or
 
 Unknown Source
 
-HCP who have anti-HBs &lt;10 mIU/mL, or who are 
+HCP who have anti-HBs <10 mIU/mL, or who are 
 
 unvaccinated or incompletely vaccinated, and who sustain a 
 
@@ -2113,7 +2113,7 @@ HBsAg status.
 
 Vaccine Nonresponders
 
-Vaccinated HCP whose anti-HBs remains &lt;10 mIU/mL after 
+Vaccinated HCP whose anti-HBs remains <10 mIU/mL after 
 
 revaccination (i.e., after receiving a total of 6 doses) should 
 

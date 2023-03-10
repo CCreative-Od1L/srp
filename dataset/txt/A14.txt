@@ -1,207 +1,8 @@
-
-U.S. Department of Health and Human Services
-
-Centers for Disease Control and Prevention
-
-Morbidity and Mortality Weekly Report
-
-Recommendations and Reports / Vol. 67 / No. 1 
-
-January 12, 2018 
-
 Prevention of Hepatitis B Virus Infection in the 
 
 United States: Recommendations of the Advisory 
 
 Committee on Immunization Practices
-
-
-Recommendations and Reports
-
-The MMWR series of publications is published by the Center for Surveillance, Epidemiology, and Laboratory Services, Centers for Disease Control and Prevention (CDC), 
-
-U.S. Department of Health and Human Services, Atlanta, GA 30329-4027.
-
-Suggested citation: [Author names; first three, then et al., if more than six.] [Title]. MMWR Recomm Rep 2018;67(No. RR-#):[inclusive page numbers].
-
-Centers for Disease Control and Prevention
-
-Brenda Fitzgerald, MD, Director 
-
-William R. Mac Kenzie, MD, Acting Associate Director for Science 
-
-Joanne Cono, MD, ScM, Director, Office of Science Quality 
-
-Chesley L. Richards, MD, MPH, Deputy Director for Public Health Scientific Services
-
-Michael F. Iademarco, MD, MPH, Director, Center for Surveillance, Epidemiology, and Laboratory Services 
-
-MMWR Editorial and Production Staff (Serials)
-
-Sonja A. Rasmussen, MD, MS, Editor-in-Chief
-
-Charlotte K. Kent, PhD, MPH, Executive Editor 
-
-Christine G. Casey, MD, Editor
-
-Teresa F. Rutledge, Managing Editor
-
-David C. Johnson, Lead Technical Writer-Editor
-
-Jeffrey D. Sokolow, MA, Project Editor
-
-Martha F. Boyd, Lead Visual Information Specialist
-
-Maureen A. Leahy, Julia C. Martinroe, 
-
-Stephen R. Spriggs, Tong Yang,
-
-Visual Information Specialists
-
-Quang M. Doan, MBA, Phyllis H. King, 
-
-Paul D. Maitland, Terraye M. Starr, Moua Yang,
-
-Information Technology Specialists
-
-MMWR Editorial Board
-
-Timothy F. Jones, MD, Chairman
-
-Matthew L. Boulton, MD, MPH
-
-Virginia A. Caine, MD 
-
-Katherine Lyon Daniel, PhD
-
-Jonathan E. Fielding, MD, MPH, MBA
-
-David W. Fleming, MD 
-
-William E. Halperin, MD, DrPH, MPH
-
-King K. Holmes, MD, PhD 
-
-Robin Ikeda, MD, MPH 
-
-Rima F. Khabbaz, MD
-
-Phyllis Meadows, PhD, MSN, RN
-
-Jewel Mullen, MD, MPH, MPA
-
-Jeff Niederdeppe, PhD
-
-Patricia Quinlisk, MD, MPH 
-
-Patrick L. Remington, MD, MPH 
-
-Carlos Roig, MS, MA
-
-William L. Roper, MD, MPH 
-
-William Schaffner, MD
-
-CONTENTS
-
-Introduction ............................................................................................................1
-
-New or Updated Recommendations .............................................................1
-
-Methods ....................................................................................................................2
-
-HBV Background ....................................................................................................3
-
-Prophylaxis Against HBV Infection ..................................................................9
-
-Recommendations ............................................................................................. 13
-
-Future Directions ................................................................................................ 25
-
-Acknowledgments ............................................................................................. 25
-
-References ............................................................................................................. 25
-
-Disclosure of Relationships
-
-The 2016–2017 ACIP Hepatitis Vaccines Work Group 
-
-members wish to disclose that they have no financial or 
-
-competing interests with the manufacturers of commercial 
-
-products or suppliers of commercial services related to 
-
-hepatitis B (HepB) vaccines. Content will not include any 
-
-discussion of the unlabeled use of a product or a product under 
-
-investigational use, with the following exceptions:
-
-• use of Pediarix vaccine for infants born to hepatitis B 
-
-surface antigen (HBsAg)–positive mothers or mothers 
-
-with an unknown HBsAg status to complete the vaccine 
-
-series after receipt of a birth dose of single-antigen HepB 
-
-vaccine and hepatitis B immune globulin (HBIG);
-
-• alternate 3-dose vaccine administration schedules heeding 
-
-to minimum intervals of 4 weeks between the first and 
-
-second dose, 8 weeks between the second and third dose, 
-
-and 16 weeks between the first and third dose;
-
-• modified dosing regimens (e.g., doubling of standard dose 
-
-and administration of additional doses) in certain 
-
-circumstances (e.g., for persons with immunocompromising 
-
-conditions); and
-
-• antiviral therapy during pregnancy for the prevention of 
-
-perinatal hepatitis B virus (HBV) transmission.
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-Prevention of Hepatitis B Virus Infection in the United States: 
-
-Recommendations of the Advisory Committee 
-
-on Immunization Practices
-
-Sarah Schillie, MD1
-
-Claudia Vellozzi, MD1
-
-Arthur Reingold, MD2
-
-Aaron Harris, MD1
-
-Penina Haber, MPH3
-
-John W. Ward, MD1
-
-Noele P. Nelson, MD1
-
-1Division of Viral Hepatitis, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention, CDC
-
-2University of California, Berkeley School of Public Health, Berkeley, California
-
-3Division of Healthcare Quality Promotion, National Center for Emerging and Zoonotic Infectious Diseases, CDC
 
 Summary
 
@@ -219,7 +20,7 @@ globulin (HBIG) for infants born to HBV-infected women within 12 hours of birth,
 
 postvaccination serologic testing; universal hepatitis B vaccination within 24 hours of birth, followed by completion of the vaccine 
 
-series; and vaccination of children and adolescents aged &lt;19 years who have not been vaccinated previously. ACIP recommends 
+series; and vaccination of children and adolescents aged <19 years who have not been vaccinated previously. ACIP recommends 
 
 vaccination of adults at risk for HBV infection, including universal vaccination of adults in settings in which a high proportion 
 
@@ -259,12 +60,6 @@ published recommendations from the Advisory Committee
 
 on Immunization Practices (ACIP) and CDC. It also 
 
-Corresponding author: Sarah Schillie, Division of Viral Hepatitis, 
-
-National Center for HIV/AIDS, Viral Hepatitis, STD, and TB 
-
-Prevention, CDC. Telephone: 404-718-8608; E-mail: Ggi1@cdc.gov.
-
 contains updates to recommendations for the prevention of 
 
 HBV infection in the United States. A list of frequently used 
@@ -296,15 +91,6 @@ an infant confidentially shortly after birth);
 • single-dose revaccination for infants born to HBsAg-
 
 positive women not responding to the initial vaccine series;
-
-
-Recommendations and Reports
-
-2 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 • vaccination for persons with chronic liver disease (including, 
 
@@ -398,120 +184,6 @@ of infant abandonments and safely surrendered infants. The
 
 literature searches included clinical trials and comparative 
 
-* A list of the members appears on page 30.
-
-BOX 1. Abbreviations used in this report
-
-AASLD  
-
-American Association for the Study of 
-
-Liver Diseases
-
-ACIP  
-
-Advisory Committee on Immunization 
-
-Practices
-
-anti-HBc  
-
-antibody to hepatitis B core antigen
-
-anti-HBe  
-
-antibody to hepatitis B e antigen
-
-anti-HBs  
-
-antibody to hepatitis B surface antigen
-
-HBeAg  
-
-hepatitis B e antigen
-
-HBIG  
-
-hepatitis B immune globulin
-
-HBsAg  
-
-hepatitis B surface antigen
-
-HBV  
-
-hepatitis B virus
-
-HBV DNA 
-
-hepatitis B virus deoxyribonucleic acid
-
-HCP  
-
-health care personnel
-
-HCV  
-
-hepatitis C virus
-
-HepB  
-
-hepatitis B 
-
-HIV  
-
-human immunodeficiency virus
-
-IDSA  
-
-Infectious Diseases Society of America
-
-IDU  
-
-Injection-drug use
-
-IgM  
-
-Immunoglobulin class M
-
-IgG  
-
-Immunoglobulin class G
-
-MSM  
-
-men who have sex with men
-
-NNDSS  
-
-National Notifiable Diseases Surveillance 
-
-System
-
-PHBPP  
-
-Perinatal Hepatitis B Prevention Program
-
-PWID  
-
-persons who inject drugs
-
-QALY  
-
-quality-adjusted life-year
-
-STI  
-
-sexually transmitted infection
-
-VAERS  
-
-Vaccine Adverse Events Reporting System
-
-VSD  
-
-Vaccine Safety Datalink
-
 studies conducted worldwide and published in English since 
 
 2000. All studies yielding pertinent information were eligible 
@@ -547,15 +219,6 @@ vaccine safety studies. VAERS can generate vaccine safety
 hypotheses but cannot assess causality and is subject to several 
 
 limitations, including reporting biases and inconsistent data 
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-3
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 quality (12,13). VSD can be used to assess hypotheses that 
 
@@ -745,79 +408,6 @@ within 12 hours of birth (29). Universal HepB vaccine birth
 
 dose coverage, defined as 1 dose of vaccine administered 
 
-
-Recommendations and Reports
-
-4 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-FIGURE 1. Incidence of hepatitis B virus infection — National Notifiable Diseases Surveillance System, United States, 1980–2015
-
-0
-
-50
-
-100
-
-150
-
-200
-
-250
-
-300
-
-350
-
-Incidence (1,000s)
-
-New Hepatitis B infections
-
-1980
-
-1982
-
-1984
-
-1986
-
-1988
-
-1990
-
-1992
-
-1994
-
-1996
-
-1998
-
-2000
-
-2002
-
-2004
-
-2010
-
-2012
-
-2014
-
-2006
-
-2008
-
-Years
-
-Vaccine recs were 
-
-frst issued in 1982
-
 by 3 days of life, is 71.1% (30), an increase from 50.1% 
 
 during 2003–2005 prior to revised ACIP recommendations 
@@ -866,7 +456,7 @@ during pregnancy further reduces perinatal HBV transmission;
 
 hence, AASLD suggests antiviral therapy when maternal HBV 
 
-DNA is &gt;200,000 IU/mL (5,38,39).
+DNA is >200,000 IU/mL (5,38,39).
 
 Virus Description and Transmission
 
@@ -889,15 +479,6 @@ subtype and genotype. Nine serologic subtypes initially were
 described based on the heterogeneity of HBsAg: adrq+, adrq–, 
 
 ayr, ayw1, ayw2, ayw3, ayw4, adw2, and adw4 (44,45). Ten 
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-5
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 HBV genotypes, designated A–J, have been described. HBV 
 
@@ -995,68 +576,6 @@ unsafe injections, needle-stick injuries, organ transplantation,
 
 and dialysis (49).
 
-BOX 2. Strategy to eliminate HBV transmission in the United States*
-
-• Screening of all pregnant women for HBsAg
-
- – HBV DNA testing for HBsAg-positive pregnant 
-
-women, with suggestion of maternal antiviral 
-
-therapy to reduce perinatal transmission when 
-
-HBV DNA is &gt;200,000 IU/mL
-
- – Prophylaxis (HepB vaccine and HBIG) for infants 
-
-born to HBsAg-positive† women
-
-• Universal vaccination of all infants beginning at 
-
-birth§,¶ as a safeguard for infants born to HBV-
-
-infected mothers not identified prenatally
-
-• Routine vaccination of previously unvaccinated 
-
-children aged &lt;19 years
-
-• Vaccination of adults at risk for HBV infection, 
-
-including those requesting protection from HBV 
-
-without acknowledgment of a specific risk factor
-
-* Sources: Mast EE, Margolis HS, Fiore AE, et al. A comprehensive 
-
-immunization strategy to eliminate transmission of hepatitis B virus 
-
-infection in the United States: recommendations of the Advisory 
-
-Committee on Immunization Practices (ACIP). Part 1: immunization of 
-
-infants, children, and adolescents. MMWR Recomm Rep 2005;54(No. 
-
-RR-16):1–31; Mast EE, Weinbaum CM, Fiore AE, et al. A comprehensive 
-
-immunization strategy to eliminate transmission of hepatitis B virus 
-
-infection in the United States: recommendations of the Advisory 
-
-Committee on Immunization Practices (ACIP). Part II: immunization 
-
-of adults. MMWR Recomm Rep 2006;55(No. RR-16):1–33.
-
-† Refer to Table 3 for prophylaxis recommendations for infants born to 
-
-women with unknown HBsAg status.
-
-§ Within 24 hours of birth for medically stable infants weighing ≥2,000 grams.
-
-¶ Refer to Table 3 for birth dose recommendations for infants weighing 
-
-&lt;2,000 grams.
-
 Clinical Features and Natural History
 
 Clinical manifestations of HBV infection range from 
@@ -1069,7 +588,7 @@ to onset of abnormal serum ALT levels and 90 days (range:
 
 60–150 days) from exposure to onset of jaundice (8,42,43). 
 
-Infants, children aged &lt;5 years, and immunosuppressed adults 
+Infants, children aged <5 years, and immunosuppressed adults 
 
 with newly acquired HBV infection typically are asymptomatic, 
 
@@ -1085,7 +604,7 @@ splenomegaly, and jaundice. Malaise and anorexia might
 
 precede jaundice by 1–2 weeks. Fulminant HBV infection is 
 
-uncommon (&lt;1%) but often results in death or liver failure 
+uncommon (<1%) but often results in death or liver failure 
 
 necessitating liver transplantation. Extrahepatic manifestations 
 
@@ -1093,16 +612,7 @@ of disease (e.g., skin rash, arthralgias, and arthritis) also might
 
 occur (51). The fatality rate among persons with reported 
 
-cases of acute HBV infection is &lt;1.5%, with the highest rates 
-
-
-Recommendations and Reports
-
-6 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
+cases of acute HBV infection is <1.5%, with the highest rates 
 
 in adults aged ≥55 years. Because a substantial number of 
 
@@ -1116,7 +626,7 @@ Chronic infection occurs among 80%–90% of persons
 
 infected during infancy, 30% of persons infected before 
 
-age 6 years, and &lt;1%–12% of persons infected as an older 
+age 6 years, and <1%–12% of persons infected as an older 
 
 child or adult (7,52–54). Approximately 95% of primary 
 
@@ -1198,7 +708,7 @@ treatment and who are at high risk for liver-related morbidity
 
 is suggested for HBsAg-positive pregnant women whose HBV 
 
-DNA level is &gt;200,000 IU/mL (5).
+DNA level is >200,000 IU/mL (5).
 
 In areas in which HBV is highly endemic, HBV frequently 
 
@@ -1270,7 +780,7 @@ A confirmed positive HBsAg result indicates current HBV
 
 infection, either acute or chronic. All HBsAg-positive persons are 
 
-infectious. If HBsAg persists for &gt;6 months, spontaneous clearance 
+infectious. If HBsAg persists for >6 months, spontaneous clearance 
 
 is unlikely, and the infection is deemed chronic. HBV DNA can 
 
@@ -1298,132 +808,7 @@ The presence of IgM anti-HBc is indicative of acute infection,
 
 while IgG anti-HBc indicates past infection (65,66). In persons 
 
-who recover from HBV infection, HBsAg is eliminated from 
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-7
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-TABLE 1. Typical interpretation of test results for hepatitis B virus infection
-
-HBsAg
-
-Total anti-HBc IgM anti-HBc
-
-Anti-HBs
-
-HBV DNA
-
-Interpretation
-
--
-
--
-
--
-
--
-
--
-
-Never infected
-
-+
-
--
-
--
-
--
-
-+ or -
-
-Early acute infection; transient (up to 18 days) after vaccination
-
-+
-
-+
-
-+
-
--
-
-+
-
-Acute infection
-
--
-
-+
-
-+
-
-+ or -
-
-+ or -
-
-Acute resolving infection
-
--
-
-+
-
--
-
-+
-
--
-
-Recovered from past infection and immune
-
-+
-
-+
-
--
-
--
-
-+
-
-Chronic infection
-
--
-
-+
-
--
-
--
-
-+ or -
-
-False-positive (i.e., susceptible); past infection; “low-level” chronic infection; or passive 
-
-transfer of anti-HBc to infant born to HBsAg-positive mother
-
--
-
--
-
--
-
-+
-
--
-
-Immune if anti-HBs concentration is ≥10 mIU/mL after vaccine series completion; 
-
-passive transfer after hepatitis B immune globulin administration
-
-Abbreviations: - = negative; + = positive; anti-HBc = antibody to hepatitis B core antigen; anti-HBs = antibody to hepatitis B surface antigen; HBsAg = hepatitis B 
-
-surface antigen; HBV DNA = hepatitis B virus deoxyribonucleic acid; IgM = immunoglobulin class M.
+who recover from HBV infection, HBsAg is eliminated from
 
 the blood and anti-HBs develops, typically within 3–4 months. 
 
@@ -1461,7 +846,7 @@ chronically infected persons with isolated anti-HBc-positivity
 
 have circulating HBsAg that is not detectable by a laboratory 
 
-assay. HBV DNA has been detected in &lt;10% of persons with 
+assay. HBV DNA has been detected in <10% of persons with 
 
 isolated anti-HBc (70,71), although the presence of detectable 
 
@@ -1541,7 +926,7 @@ use in three states (Kentucky, Tennessee, and West Virginia)
 
 increased significantly, from 53% during 2006–2009 to 75% 
 
-during 2010–2013 (p&lt;0.001, chi-square) (16).
+during 2010–2013 (p<0.001, chi-square) (16).
 
 Sexual (heterosexual and MSM) exposure. Among persons 
 
@@ -1568,15 +953,6 @@ Household contacts. An estimated 45% of persons living
 in households with others with chronic HBV infection have 
 
 serologic evidence of past HBV infection, and 16% have 
-
-
-Recommendations and Reports
-
-8 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 evidence of current infection (CDC, unpublished data, 2017). 
 
@@ -1644,7 +1020,7 @@ among hemodialysis patients has declined approximately 95%
 
 HBsAg seroprevalence has remained at 1% (90). Receipt of 
 
-dialysis was reported in &lt;1% of acute HBV surveillance cases 
+dialysis was reported in <1% of acute HBV surveillance cases 
 
 with information reported to CDC (4).
 
@@ -1671,60 +1047,6 @@ liver disease (e.g., cirrhosis, fatty liver disease, alcoholic liver
 disease, and autoimmune hepatitis) are not at increased risk 
 
 for HBV infection unless they have percutaneous or mucosal 
-
-FIGURE 2. Acute hepatitis B virus infection with recovery
-
-Titer
-
-Weeks after exposure
-
-0
-
-4
-
-8
-
-12
-
-16
-
-20
-
-24
-
-28
-
-32
-
-36
-
-52
-
-100
-
-Total anti-HBc
-
-IgM anti-HBc
-
-Anti-HBs
-
-HBsAg
-
-HBV DNA
-
-HBeAG
-
-Anti-HBe
-
-Symptoms
-
-Abbreviations: anti-HBc = antibody to hepatitis B core antigen; anti-HBe = 
-
-antibody to hepatitis B e antigen; anti-HBs = antibody to hepatitis B surface 
-
-antigen; HBeAg = hepatitis B e antigen; HBsAg = hepatitis B surface antigen; HBV 
-
-DNA = hepatitis B virus deoxyribonucleic acid; IgM = immunoglobulin class M.
 
 exposure to blood or body fluids. However, concurrent chronic 
 
@@ -1778,105 +1100,6 @@ among persons with diabetes acutely infected with HBV
 
 compared with those without diabetes (9).
 
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-9
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-BOX 3. Prevalence of chronic hepatitis B virus infection, by country*
-
-High (≥8% prevalence): Angola, Benin, Burkina Faso, 
-
-Burundi, Cameroon, Central African Republic, Congo, 
-
-Côte d’Ivoire, Djibouti, Equatorial Guinea, Gabon, 
-
-Gambia, Ghana, Guinea, Haiti, Kiribati, Kyrgyzstan, Laos, 
-
-Liberia, Malawi, Mali, Mauritania, Mongolia, Mozambique, 
-
-Namibia, Nauru, Niger, Nigeria, Niue, Papua New Guinea, 
-
-Senegal, Sierra Leone, Solomon Islands, Somalia, South 
-
-Sudan, Sudan, Swaziland, Togo, Tonga, Uganda, Vanuatu, 
-
-Vietnam, Yemen, and Zimbabwe.
-
-Intermediate (5%–7.9% prevalence): Albania, Bhutan, 
-
-Cape Verde, China, Democratic Republic of the 
-
-Congo, Ethiopia, Kazakhstan, Kenya, Marshall Islands, 
-
-Moldova, Oman, Romania, Rwanda, Samoa, South 
-
-Africa, Tajikistan, Tanzania, Thailand, Tunisia, Tuvalu, 
-
-Uzbekistan, and Zambia.
-
-Low Intermediate (2%–4.9% prevalence): Algeria, 
-
-Azerbaijan, Bangladesh, Belarus, Belize, Brunei Darussalam, 
-
-Bulgaria, Cambodia, Colombia, Cyprus, Dominican 
-
-Republic, Ecuador, Eritrea, Federated States of Micronesia, 
-
-Fiji, Georgia, Italy, Jamaica, Kosovo, Libya, Madagascar, 
-
-Myanmar, New Zealand, Pakistan, Palau, Philippines, Peru, 
-
-Russia, Saudi Arabia, Singapore, South Korea, Sri Lanka, 
-
-Suriname, Syria, Tahiti, and Turkey.
-
-Low (≤1.9% prevalence): Afghanistan, Argentina, 
-
-Australia, Austria, Bahrain, Barbados, Belgium, Bolivia, Bosnia 
-
-and Herzegovina, Brazil, Canada, Chile, Costa Rica, Croatia, 
-
-Cuba, Czech Republic, Denmark, Egypt, France, Germany, 
-
-Greece, Guatemala, Hungary, Iceland, India, Indonesia, 
-
-Iran, Iraq, Ireland, Israel, Japan, Jordan, Kuwait, Lebanon, 
-
-Lithuania, Malaysia, Mexico, Morocco, Nepal, Netherlands, 
-
-Nicaragua, Norway, Palestine, Panama, Poland, Portugal, 
-
-Qatar, Serbia, Seychelles, Slovakia, Slovenia, Spain, Sweden, 
-
-Switzerland, Ukraine, UK, United Arab Emirates, United 
-
-States of America, and Venezuela. 
-
-No data: Andorra, Antigua and Barbuda, Armenia, 
-
-The Bahamas, Botswana, Chad, Comoros, Cook Islands, 
-
-Dominica, El Salvador, Finland, Grenada, Guinea- 
-
-Bissau, Guyana, Honduras, Latvia, Lesotho, Lithuania, 
-
-Luxembourg, Macedonia, Maldives, Malta, Mauritius, 
-
-Monaco, Montenegro, North Korea, Paraguay, Saint Kitts 
-
-and Nevis, Saint Lucia, Saint Vincent and the Grenadines, 
-
-San Marino, Sao Tome and Principe, Timor-Leste, Trinidad 
-
-and Tobago, Turkmenistan, and Uruguay.
-
-* Source: CDC. Travelers health: infectious diseases related to travel. Atlanta, GA: US Department of Health and Human Services, CDC; 2017.
-
 Prophylaxis Against HBV Infection
 
 Hepatitis B Vaccines and 
@@ -1927,7 +1150,7 @@ antigen vaccines recommended for use in the United States,
 
 Engerix-B (GlaxoSmithKline Biologicals, Rixensart, Belgium) 
 
-and Recombivax HB (Merck &amp; Co., Inc., Whitehouse 
+and Recombivax HB (Merck &; Co., Inc., Whitehouse 
 
 Station, New Jersey), are used for the vaccination of persons 
 
@@ -1947,7 +1170,7 @@ is used for the vaccination of persons aged ≥18 years and
 
 contains recombinant HBsAg and inactivated hepatitis A virus 
 
-(Table 2). Comvax (Merck &amp; Co., Inc., Whitehouse Station, 
+(Table 2). Comvax (Merck & Co., Inc., Whitehouse Station, 
 
 New Jersey), which was used previously for the vaccination of 
 
@@ -1964,165 +1187,6 @@ product safety or manufacturing issues. Aluminum salts
 generally are used as adjuvants to enhance the immune response 
 
 of vaccinated persons.
-
-
-Recommendations and Reports
-
-10 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-TABLE 2. Recommended doses of hepatitis B vaccine, by group and vaccine type
-
-Age group (yrs)
-
-Single-antigen vaccine
-
-Combination vaccine
-
-Recombivax
-
-Engerix
-
-Pediarix*
-
-Twinrix†
-
-Dose (µg)
-
-Vol (mL)
-
-Dose (µg)
-
-Vol (mL)
-
-Dose (µg)
-
-Vol (mL)
-
-Dose (µg)
-
-Vol (mL)
-
-Birth–10
-
-5
-
-0.5
-
-10
-
-0.5
-
-10*
-
-0.5
-
-N/A
-
-N/A
-
-11–15
-
-10§
-
-1
-
-N/A
-
-N/A
-
-N/A
-
-N/A
-
-N/A
-
-N/A
-
-11–19
-
-5
-
-0.5
-
-10
-
-0.5
-
-N/A
-
-N/A
-
-N/A
-
-N/A
-
-≥20
-
-10
-
-1
-
-20
-
-1
-
-N/A
-
-N/A
-
-20†
-
-1
-
-Hemodialysis patients and other immune-compromised persons
-
-&lt;20
-
-5
-
-0.5
-
-10
-
-0.5
-
-N/A
-
-N/A
-
-N/A
-
-N/A
-
-≥20
-
-40
-
-1
-
-40
-
-2
-
-N/A
-
-N/A
-
-N/A
-
-N/A
-
-Abbreviation: N/A = not applicable.
-
-* Pediarix is approved for use in persons aged 6 weeks through 6 years (prior to the 7th birthday).
-
-† Twinrix is approved for use in persons aged ≥18 years.
-
-§ Adult formulation administered on a 2-dose schedule.
 
 Two HBIG products are licensed for use in the United States: 
 
@@ -2172,7 +1236,7 @@ over time following vaccination related in part to the age at
 
 vaccination. Approximately 16% of persons vaccinated at age 
 
-&lt;1 year have antibody levels of ≥10 mIU/mL 18 years following 
+<1 year have antibody levels of ≥10 mIU/mL 18 years following 
 
 vaccination, compared with 74% for those vaccinated at 
 
@@ -2180,7 +1244,7 @@ age ≥1 year (10). However, persons initially responding to
 
 the full 3-dose HepB vaccine series and who are later found 
 
-to have anti-HBs &lt;10 mIU/mL remain protected. Most 
+to have anti-HBs <10 mIU/mL remain protected. Most 
 
 persons (88%) who receive a challenge dose of HepB vaccine 
 
@@ -2204,19 +1268,19 @@ antibody response (anti-HBs ≥10 mIU/mL) in approximately
 
 95% of healthy infants overall (response is lower for infants 
 
-with lower birth weights) (64) and &gt;90% of healthy adults 
+with lower birth weights) (64) and >90% of healthy adults 
 
-aged &lt;40 years (111,112). Among healthy infants, 25% and 
+aged <40 years (111,112). Among healthy infants, 25% and 
 
 63% achieve anti-HBs levels ≥10 mIU/mL after the first and 
 
-second dose, respectively. Among healthy adults aged &lt;40 years, 
+second dose, respectively. Among healthy adults aged <40 years, 
 
 30%–55% and 75% achieve anti-HBs levels ≥10 mIU/mL 
 
 after the first and second dose, respectively (7,8,64). Vaccine 
 
-response is decreased among infants weighing &lt;2000 grams 
+response is decreased among infants weighing <2000 grams 
 
 and older adults. Other factors (e.g., smoking, obesity, aging, 
 
@@ -2264,16 +1328,7 @@ Vaccination produces seroprotection in 98% of healthy
 
 term infants. Vaccine response is lower among infants with 
 
-birth weights &lt;2000 grams (64). A study among low birth 
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-11
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
+birth weights <2000 grams (64). A study among low birth 
 
 weight infants demonstrated that more infants achieved 
 
@@ -2281,7 +1336,7 @@ seroprotective anti-HBs levels when vaccine was initiated at
 
 1 month of age versus within the first 3 days of life (96% vs. 
 
-68%, p&lt;0.02) (118). Vaccine response among infants does 
+68%, p<0.02) (118). Vaccine response among infants does 
 
 not vary appreciably by maternal HBsAg status or HBIG 
 
@@ -2309,7 +1364,7 @@ protection among adolescents for 2-dose schedules are lacking.
 
 Adults. Vaccination with a complete series results in 
 
-seroprotection in &gt;90% of healthy adults aged &lt;40 years. 
+seroprotection in >90% of healthy adults aged <40 years. 
 
 Response decreases with age, and seroprotection is achieved 
 
@@ -2463,265 +1518,6 @@ consists of three intramuscular doses administered on a 0-,
 
 administered in a 2-dose schedule at 0 and 4–6 months for 
 
-† Code of Federal Regulations. 21 CFR §600.80. Revised April 1, 2010. Available at 
-
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm? fr=600.80.
-
-
-Recommendations and Reports
-
-12 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-TABLE 3. Hepatitis B vaccine schedules for infants, by infant birthweight and maternal HBsAg status
-
-Birthweight
-
-Maternal HBsAg status
-
-Single-antigen vaccine
-
-Single-antigen + combination vaccine†
-
-Dose
-
-Age
-
-Dose
-
-Age
-
-≥2,000 g
-
-Positive
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-HBIG§
-
-Birth (≤12 hrs)
-
-HBIG
-
-Birth (≤12 hrs)
-
-2
-
-1–2 mos
-
-2
-
-2 mos
-
-3
-
-6 mos¶
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-Unknown*
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-2
-
-1–2 mos
-
-2
-
-2 mos
-
-3
-
-6 mos¶
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-Negative
-
-1
-
-Birth (≤24 hrs)
-
-1
-
-Birth (≤24 hrs)
-
-2
-
-1–2 mos
-
-2
-
-2 mos
-
-3
-
-6–18 mos¶
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-&lt;2,000 g
-
-Positive
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-HBIG
-
-Birth (≤12 hrs)
-
-HBIG
-
-Birth (≤12 hrs)
-
-2
-
-1 mos
-
-2
-
-2 mos
-
-3
-
-2–3 mos
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-4
-
-6 mos¶
-
-Unknown
-
-1
-
-Birth (≤12 hrs)
-
-1
-
-Birth (≤12 hrs)
-
-HBIG
-
-Birth (≤12 hrs)
-
-HBIG
-
-Birth (≤12 hrs)
-
-2
-
-1 mos
-
-2
-
-2 mos
-
-3
-
-2–3 mos
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-4
-
-6 mos¶
-
-Negative
-
-1
-
-Hospital discharge or age 1 mo
-
-1
-
-Hospital discharge or age 1 mo
-
-2
-
-2 mos
-
-2
-
-2 mos
-
-3
-
-6–18 mos¶
-
-3
-
-4 mos
-
-4
-
-6 mos¶
-
-Abbreviations: HBIG = hepatitis B immune globulin; HBsAg = hepatitis B surface antigen.
-
-* Mothers should have blood drawn and tested for HBsAg as soon as possible after admission for delivery; if the mother is found to be HBsAg positive, the infant 
-
-should receive HBIG as soon as possible but no later than age 7 days.
-
-† Pediarix should not be administered before age 6 weeks.
-
-§ HBIG should be administered at a separate anatomical site from vaccine.
-
-¶ The final dose in the vaccine series should not be administered before age 24 weeks (164 days).
-
 persons aged 11–15 years using the adult formulation. Pediarix 
 
 is administered at ages 2, 4, and 6 months; it is not used for 
@@ -2786,7 +1582,7 @@ and/or clinically significant disease). Among persons who were
 
 vaccinated prior to age 1 year and found to have anti-HBs levels 
 
-&lt;10 mIU/mL 6–18 years later, a single challenge dose of HepB 
+<10 mIU/mL 6–18 years later, a single challenge dose of HepB 
 
 vaccine resulted in anti-HBs levels ≥10 mIU/mL in 60%–97% 
 
@@ -2795,15 +1591,6 @@ of those tested. Similar results were found among persons
 initially vaccinated at age ≥1 year (10). Immunocompetent 
 
 persons with a response ≥10 mIU/mL following a challenge 
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-13
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 dose are considered protected, regardless of subsequent declines 
 
@@ -2855,7 +1642,7 @@ content in infants with in utero exposure (5,39,63,144–146).
 
 AASLD suggests antiviral therapy to reduce perinatal HBV 
 
-transmission when maternal HBV DNA is &gt;200,000 IU/mL. 
+transmission when maternal HBV DNA is >200,000 IU/mL. 
 
 Maternal therapy is generally discontinued at birth to 3 months 
 
@@ -2867,7 +1654,7 @@ HBV prevention strategies targeting perinatal transmission
 
 are considered very cost-effective (i.e., an incremental 
 
-cost-effectiveness ratio &lt;$25,000). The current strategy of 
+cost-effectiveness ratio <$25,000). The current strategy of 
 
 administering HepB vaccine and HBIG within 12 hours of 
 
@@ -2896,88 +1683,6 @@ effective use of resources (148). A strategy of testing HBsAg-
 positive pregnant women for HBV DNA, followed by maternal 
 
 antiviral prophylaxis for women with high HBV DNA, would 
-
-TABLE 4. Hepatitis B vaccine schedules for children, adolescents, and adults
-
-Age group
-
-Schedule* (interval represents time 
-
-in months from first dose)
-
-Children (1–10 yrs)
-
-0, 1, and 6 mos
-
-0, 1, 2, and 12 mos
-
-Adolescents (11–19 yrs)
-
-0, 1, and 6 mos
-
-0, 12, and 24 mos
-
-0 and 4–6 mos†
-
-0, 1, 2, and 12 mos
-
-0, 7 days, 21–30 days, 12 mos§
-
-Adults (≥20 yrs)
-
-0, 1, and 6 mos
-
-0, 1, 2, and 12 mos
-
-0, 1, 2, and 6 mos¶
-
-0, 7 days, 21–30 days, 12 mos§
-
-* Refer to package inserts for further information. For all ages, when the HepB 
-
-vaccine schedule is interrupted, the vaccine series does not need to be 
-
-restarted. If the series is interrupted after the first dose, the second dose should 
-
-be administered as soon as possible, and the second and third doses should 
-
-be separated by an interval of at least 8 weeks. If only the third dose has been 
-
-delayed, it should be administered as soon as possible. The final dose of vaccine 
-
-must be administered at least 8 weeks after the second dose and should follow 
-
-the first dose by at least 16 weeks; the minimum interval between the first and 
-
-second doses is 4 weeks. Inadequate doses of hepatitis B vaccine or doses 
-
-received after a shorter-than-recommended dosing interval should be 
-
-readministered, using the correct dosage or schedule. Vaccine doses 
-
-administered ≤4 days before the minimum interval or age are considered valid. 
-
-Because of the unique accelerated schedule for Twinrix, the 4-day guideline 
-
-does not apply to the first three doses of this vaccine when administered on a 
-
-0-day, 7-day, 21–30-day, and 12-month schedule (new recommendation).
-
-† A 2-dose schedule of Recombivax adult formulation (10 µg) is licensed for 
-
-adolescents aged 11–15 years. When scheduled to receive the second dose, 
-
-adolescents aged &gt;15 years should be switched to a 3-dose series, with doses 2 and 
-
-3 consisting of the pediatric formulation administered on an appropriate schedule.
-
-§ Twinrix is approved for use in persons aged ≥18 years and is available on an 
-
-accelerated schedule with doses administered at 0, 7, 21–30 days, and 12 months.
-
-¶ A 4-dose schedule of Engerix administered in two 1 mL doses (40 µg) on a 0-, 
-
-1-, 2-, and 6-month schedule is recommended for adult hemodialysis patients. 
 
 cost an additional $3 million but would save 2,080 QALYs and 
 
@@ -3017,15 +1722,6 @@ infection, including ACIP recommendations for HepB
 
 vaccination of infants, children, adolescents, and adults 
 
-
-Recommendations and Reports
-
-14 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
 (Box 4) and CDC and ACIP recommendations for HBV 
 
 prophylaxis following occupational and nonoccupational 
@@ -3064,7 +1760,7 @@ perinatal HBV transmission (new recommendation).
 
  – AASLD suggests maternal antiviral therapy when the 
 
-maternal HBV DNA is &gt;200,000 IU/mL 
+maternal HBV DNA is >200,000 IU/mL 
 
 (new recommendation).
 
@@ -3120,11 +1816,31 @@ licensed or approved HBsAg test and should perform
 
 testing according to the manufacturer’s labeling, including 
 
+
+
+testing of initially reactive specimens with a licensed 
+
+neutralizing confirmatory test. When pregnant women 
+
+are tested for HBsAg at the time of admission for delivery, 
+
+shortened testing protocols may be used and initially 
+
+reactive results reported to expedite administration of 
+
+postexposure prophylaxis of infants. Commercial 
+
+laboratories should be encouraged to capture pregnancy 
+
+status for women tested for HBsAg to aid in identification 
+
+of HBV-infected pregnant women.
+
 BOX 4. Persons recommended to receive hepatitis B vaccination
 
 • All infants
 
-• Unvaccinated children aged &lt;19 years
+• Unvaccinated children aged <19 years
 
 • Persons at risk for infection by sexual exposure
 
@@ -3204,33 +1920,6 @@ than twice the upper limit of normal)
 
 infection
 
-testing of initially reactive specimens with a licensed 
-
-neutralizing confirmatory test. When pregnant women 
-
-are tested for HBsAg at the time of admission for delivery, 
-
-shortened testing protocols may be used and initially 
-
-reactive results reported to expedite administration of 
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-15
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-postexposure prophylaxis of infants. Commercial 
-
-laboratories should be encouraged to capture pregnancy 
-
-status for women tested for HBsAg to aid in identification 
-
-of HBV-infected pregnant women.
-
 Management of Infants Born to Women Who Are 
 
 HBsAg-Positive
@@ -3275,7 +1964,7 @@ after receipt of a birth dose of single-antigen HepB vaccine
 
 and HBIG.
 
-• For infants weighing &lt;2,000 grams, the birth dose (i.e., 
+• For infants weighing <2,000 grams, the birth dose (i.e., 
 
 the initial HepB vaccine dose) should not be counted as 
 
@@ -3331,7 +2020,7 @@ mothers up to age 24 months.
 
 mL are protected and need no further medical management.
 
- – HBsAg-negative infants with anti-HBs &lt;10 mIU/mL 
+ – HBsAg-negative infants with anti-HBs <10 mIU/mL 
 
 should be revaccinated with a single dose of HepB 
 
@@ -3339,7 +2028,7 @@ vaccine and receive postvaccination serologic testing
 
 1–2 months later (new recommendation). Infants 
 
-whose anti-HBs remains &lt;10 mIU/mL following single 
+whose anti-HBs remains <10 mIU/mL following single 
 
 dose revaccination should receive two additional doses 
 
@@ -3351,7 +2040,7 @@ the final dose.
 
  – Based on clinical circumstances or family preference, 
 
-HBsAg-negative infants with anti-HBs &lt;10 mIU/mL may 
+HBsAg-negative infants with anti-HBs <10 mIU/mL may 
 
 instead be revaccinated with a second, complete 3-dose 
 
@@ -3419,15 +2108,6 @@ soon as possible.
 
 with birth weights ≥2,000 grams born to women with an 
 
-
-Recommendations and Reports
-
-16 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
 unknown HBsAg status should receive the first dose of 
 
 HepB vaccine (without HBIG) within 12 hours of birth. 
@@ -3462,7 +2142,7 @@ age 24 weeks (164 days).
 
 • Because of the potentially decreased immunogenicity of 
 
-vaccine in infants weighing &lt;2,000 grams, these infants 
+vaccine in infants weighing <2,000 grams, these infants 
 
 should receive both single-antigen HepB vaccine and 
 
@@ -3526,7 +2206,7 @@ born to HBsAg-positive mothers up to age 24 months.
 
 are protected and need no further medical management.
 
- – HBsAg-negative infants with anti-HBs &lt;10 mIU/mL 
+ – HBsAg-negative infants with anti-HBs <10 mIU/mL 
 
 should be revaccinated with a single dose of HepB 
 
@@ -3534,7 +2214,7 @@ vaccine and receive postvaccination serologic testing
 
 1–2 months later (new recommendation). Infants 
 
-whose anti-HBs remains &lt;10 mIU/mL following single 
+whose anti-HBs remains <10 mIU/mL following single 
 
 dose revaccination should receive two additional doses 
 
@@ -3546,7 +2226,7 @@ the final dose.
 
  – Based on clinical circumstances or family preference, 
 
-HBsAg-negative infants with anti-HBs &lt;10 mIU/mL may 
+HBsAg-negative infants with anti-HBs <10 mIU/mL may 
 
 instead be revaccinated with a second, complete 3-dose 
 
@@ -3604,13 +2284,13 @@ of vaccine should be administered within 24 hours of birth
 
 vaccine should be used for the birth dose.
 
-• Infants weighing &lt;2,000 grams and born to HBsAg-
+• Infants weighing <2,000 grams and born to HBsAg-
 
 negative mothers should have their first vaccine dose 
 
 delayed to the time of  hospital discharge or age 1 month 
 
-(even if weight is still &lt;2,000 grams). For these infants, a 
+(even if weight is still <2,000 grams). For these infants, a 
 
 copy of the original laboratory report indicating that the 
 
@@ -3618,16 +2298,7 @@ mother was HBsAg negative during this pregnancy should
 
 be placed in the infant’s medical record. Infants weighing 
 
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-17
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-&lt;2,000 grams at birth have a decreased response to HepB 
+<2,000 grams at birth have a decreased response to HepB 
 
 vaccine administered before age 1 month (118).
 
@@ -3663,7 +2334,7 @@ Vaccination of Children and Adolescents
 
 • HepB vaccination is recommended for all unvaccinated 
 
-children and adolescents aged &lt;19 years (Box 4).
+children and adolescents aged <19 years (Box 4).
 
 • Children and adolescents who have not previously received 
 
@@ -3727,7 +2398,7 @@ fluids; hemodialysis patients and predialysis, peritoneal
 
 dialysis, and home dialysis patients; persons with 
 
-diabetes mellitus aged &lt;60 years and persons with 
+diabetes mellitus aged <60 years and persons with 
 
 diabetes mellitus aged ≥60 years at the discretion of the 
 
@@ -3814,15 +2485,6 @@ maternal antiviral therapy. Infants born to HBsAg-positive
 women and women with unknown HBsAg status also 
 
 should receive case management.
-
-
-Recommendations and Reports
-
-18 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 Settings Providing Services to Adults
 
@@ -3936,7 +2598,7 @@ and likewise, testing the HCP should not be delayed while
 
 waiting for the source patient’s HBsAg results (Table 5).
 
- – If the HCP has anti-HBs &lt;10 mIU/mL and the source 
+ – If the HCP has anti-HBs <10 mIU/mL and the source 
 
 patient is HBsAg-positive or has an unknown HBsAg 
 
@@ -3958,126 +2620,11 @@ original series) according to the vaccination schedule.
 
 So the HCP’s vaccine response status can be documented 
 
-TABLE 5. Postexposure management of health care personnel after occupational percutaneous or mucosal exposure to blood or body fluids, 
-
-by health care personnel HepB vaccination and response status
-
-HCP status
-
-Postexposure testing
-
-Postexposure prophylaxis
-
-Postvaccination 
-
-serologic testing
-
-Source patient 
-
-(HBsAg)
-
-HCP testing (anti-HBs)
-
-HBIG
-
-Vaccination
-
-Documented responder after complete series
-
-No action needed
-
-Documented nonresponder after two 
-
-complete series
-
-Positive/unknown
-
--*
-
-HBIG x2 separated by 
-
-1 month
-
--
-
-N/A
-
-Negative
-
-No action needed
-
-Response unknown after complete series
-
-Positive/unknown
-
-&lt;10 mIU/mL
-
-HBIG x1
-
-Initiate revaccination
-
-Yes
-
-Negative
-
-&lt;10 mIU/mL
-
-None
-
-Initiate revaccination
-
-Yes
-
-Any result
-
-≥10 mIU/mL
-
-No action needed
-
-Unvaccinated/incompletely vaccinated or 
-
-vaccine refusers
-
-Positive/unknown
-
--
-
-HBIG x1
-
-Complete vaccination
-
-Yes
-
-Negative
-
--
-
-None
-
-Complete vaccination
-
-Yes
-
-Abbreviations: anti HBs = antibody to hepatitis B surface antigen; HBIG = hepatitis B immune globulin; HBsAg = hepatitis B surface antigen; HCP = health care 
-
-personnel; N/A = not applicable.
-
-* Not indicated.
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-19
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
 for future exposures, anti-HBs testing should be 
 
 performed 1–2 months after the final vaccine dose.
 
- – If the HCP has anti-HBs &lt;10 mIU/mL and the source 
+ – If the HCP has anti-HBs <10 mIU/mL and the source 
 
 patient is HBsAg-negative, the HCP should receive an 
 
@@ -4085,7 +2632,7 @@ additional single HepB vaccine dose, followed by repeat
 
 anti-HBs testing 1–2 months later. HCP whose anti-
 
-HBs remains &lt;10 mIU/mL should undergo 
+HBs remains <10 mIU/mL should undergo 
 
 revaccination with two more doses (likely 6 doses total 
 
@@ -4103,7 +2650,7 @@ the exposure, no postexposure HBV management is
 
 necessary, regardless of the source patient’s HBsAg status.
 
-• For vaccinated HCP with anti-HBs &lt;10 mIU/mL after 
+• For vaccinated HCP with anti-HBs <10 mIU/mL after 
 
 two complete HepB vaccine series, the source patient 
 
@@ -4193,7 +2740,7 @@ and do not need further periodic testing to assess anti-
 
 HBs levels.
 
- – HCP with anti-HBs &lt;10 mIU/mL after receipt of the 
+ – HCP with anti-HBs <10 mIU/mL after receipt of the 
 
 primary series should be revaccinated. For these HCP, 
 
@@ -4235,7 +2782,7 @@ and do not need further periodic testing to assess anti-
 
 HBs levels.
 
- – HCP with anti-HBs &lt;10 mIU/mL after receipt of the 
+ – HCP with anti-HBs <10 mIU/mL after receipt of the 
 
 primary series should be revaccinated. For these HCP, 
 
@@ -4257,7 +2804,7 @@ vaccine dose.
 
 Clinical Management of Exposed HCP
 
-• HCP who have anti-HBs &lt;10 mIU/mL (or who are 
+• HCP who have anti-HBs <10 mIU/mL (or who are 
 
 unvaccinated or incompletely vaccinated) and sustain an 
 
@@ -4268,15 +2815,6 @@ an unknown HBsAg status should undergo baseline testing
 for HBV infection as soon as possible after the exposure, 
 
 and follow-up testing approximately 6 months later. Testing 
-
-
-Recommendations and Reports
-
-20 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 immediately after the exposure should consist of total anti-
 
@@ -4334,7 +2872,7 @@ of current or past anti-HBs results upon hire or
 
 matriculation, followed by one or more additional doses 
 
-of HepB vaccine for HCP with anti-HBs &lt;10 mIU/mL 
+of HepB vaccine for HCP with anti-HBs <10 mIU/mL 
 
 and retesting anti-HBs, if necessary, helps to ensure that 
 
@@ -4454,15 +2992,6 @@ is unlikely to exceed 7 days for percutaneous exposure and
 
 completed according to the vaccination schedule.
 
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-21
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
 Immunization Management Issues
 
 Prevaccination Testing
@@ -4571,191 +3100,7 @@ status (Box 7):
 
 born to women whose HBsAg status remains unknown 
 
-BOX 5. Testing anti-HBs for health care personnel (HCP) vaccinated 
 
-in the past
-
-The issue: An increasing number of HCP have received 
-
-routine hepatitis B (HepB) vaccination during childhood. 
-
-No postvaccination serologic testing is recommended after 
-
-routine infant or adolescent HepB vaccination. Because 
-
-vaccine-induced antibody to hepatitis B surface antigen 
-
-(anti-HBs) wanes over time, testing HCP for anti-HBs 
-
-years after vaccination might not distinguish vaccine 
-
-nonresponders from responders.
-
-Guidance for health care institutions: Health 
-
-care institutions may measure anti-HBs upon hire or 
-
-matriculation for HCP who have documentation of a 
-
-complete HepB vaccine series in the past (e.g., as part 
-
-of routine infant or adolescent vaccination). HCP with 
-
-anti-HBs &lt;10 mIU/mL should receive one or more 
-
-additional doses of HepB vaccine and retesting (Figure 3). 
-
-Institutions that decide to not measure anti-HBs upon hire 
-
-or matriculation for HCP who have documentation of a 
-
-complete HepB vaccine series in the past should ensure 
-
-timely assessment and postexposure prophylaxis following 
-
-an exposure (Table 5).
-
-Considerations: The risk for occupational HBV 
-
-infection for vaccinated HCP might be low enough in 
-
-certain settings so that assessment of anti-HBs status 
-
-and appropriate follow-up should be done at the time of 
-
-exposure to potentially infectious blood or body fluids. This 
-
-approach relies on HCP recognizing and reporting blood 
-
-and body fluid exposures and therefore may be applied 
-
-on the basis of documented low risk, implementation, 
-
-and cost considerations. Certain HCP occupations have 
-
-lower risk for occupational blood and body fluid exposures 
-
-(e.g., occupations involving counseling versus performing 
-
-procedures), and nontrainees have lower risks for blood 
-
-and body fluid exposures than trainees. Some settings 
-
-also will have a lower prevalence of HBV infection in the 
-
-patient population served than in other settings, which will 
-
-influence the risk for HCP exposure to HBsAg-positive 
-
-blood and body fluids.
-
-
-Recommendations and Reports
-
-22 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-FIGURE 3. Pre-exposure evaluation for health care personnel previously vaccinated with complete, ≥3-dose HepB vaccine series who have 
-
-not had postvaccination serologic testing* 
-
-Measure antibody to hepatitis B surface antigen (anti-HBs)
-
-anti-HBs 
-
-≥10 mIU/mL
-
-anti-HBs 
-
-&lt;10 mIU/mL
-
-anti-HBs 
-
-&lt;10 mIU/mL
-
-anti-HBs 
-
-≥10 mIU/mL
-
-Administer 1 dose of HepB vaccine,
-
-postvaccination serologic testing
-
-Administer 2 more doses 
-
-of HepB vaccine, 
-
-postvaccination serologic testing
-
-anti-HBs &lt;10 mIU/mL
-
-anti-HBs ≥10 mIU/mL
-
-No action for 
-
-hepatitis B prophylaxis
-
-(regardless of source patient 
-
-hepatitis B surface antigen status)
-
-Health care 
-
-personnel need 
-
-to receive
-
-hepatitis B 
-
-evaluation for 
-
-all exposures
-
-Source: Adapted from CDC. A comprehensive immunization strategy to eliminate transmission of hepatitis B virus infection in the United States: recommendations 
-
-of the Advisory Committee on Immunization Practices (ACIP). Part II: immunization of adults. MMWR 2006;55(No. RR-16).
-
-* Should be performed 1–2 months after the last dose of vaccine using a quantitative method that allows detection of the protective concentration of anti-HBs 
-
-(≥10 mIU/mL) (e.g., enzyme-linked immunosorbent assay [ELISA]).
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-23
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-TABLE 6. Postexposure management after distinct nonoccupational percutaneous or mucosal exposure to blood or body fluids
-
-Exposure*
-
-Management
-
-Unvaccinated person
-
-Previously vaccinated person
-
-HBsAg-positive source
-
-HepB vaccine series and HBIG
-
-HepB vaccine dose
-
-HBsAg status unknown for source
-
-Hep B vaccine series
-
-No management
-
-Abbreviations: HepB = hepatitis B; HBsAg = hepatitis B surface antigen; HBIG = hepatitis B immune globulin.
-
-* Exposures include percutaneous (e.g., bite or needlestick) or mucosal exposure to blood or body fluids, sex or needle-sharing contact, or victim of sexual assault/abuse.
 
 (e.g., infants safely surrendered shortly after birth). 
 
@@ -4809,7 +3154,7 @@ to assess anti-HBs concentrations (See Revaccination).
 
  – Persons found to have anti-HBs concentrations of 
 
-&lt;10 mIU/mL after the primary vaccine series should 
+<10 mIU/mL after the primary vaccine series should 
 
 be revaccinated. Administration of all doses in the 
 
@@ -4867,7 +3212,7 @@ pre-exposure assessment of prior response to HepB
 
 vaccination), followed by one or more additional doses of 
 
-HepB vaccine for HCP with anti-HBs &lt;10 mIU/mL, helps 
+HepB vaccine for HCP with anti-HBs <10 mIU/mL, helps 
 
 to ensure that HCP will be protected if they have an 
 
@@ -4885,6 +3230,84 @@ package insert of the test for the determination of actual/
 
 correct levels of anti-HBs antibodies.
 
+BOX 5. Testing anti-HBs for health care personnel (HCP) vaccinated 
+
+in the past
+
+The issue: An increasing number of HCP have received 
+
+routine hepatitis B (HepB) vaccination during childhood. 
+
+No postvaccination serologic testing is recommended after 
+
+routine infant or adolescent HepB vaccination. Because 
+
+vaccine-induced antibody to hepatitis B surface antigen 
+
+(anti-HBs) wanes over time, testing HCP for anti-HBs 
+
+years after vaccination might not distinguish vaccine 
+
+nonresponders from responders.
+
+Guidance for health care institutions: Health 
+
+care institutions may measure anti-HBs upon hire or 
+
+matriculation for HCP who have documentation of a 
+
+complete HepB vaccine series in the past (e.g., as part 
+
+of routine infant or adolescent vaccination). HCP with 
+
+anti-HBs <10 mIU/mL should receive one or more 
+
+additional doses of HepB vaccine and retesting (Figure 3). 
+
+Institutions that decide to not measure anti-HBs upon hire 
+
+or matriculation for HCP who have documentation of a 
+
+complete HepB vaccine series in the past should ensure 
+
+timely assessment and postexposure prophylaxis following 
+
+an exposure (Table 5).
+
+Considerations: The risk for occupational HBV 
+
+infection for vaccinated HCP might be low enough in 
+
+certain settings so that assessment of anti-HBs status 
+
+and appropriate follow-up should be done at the time of 
+
+exposure to potentially infectious blood or body fluids. This 
+
+approach relies on HCP recognizing and reporting blood 
+
+and body fluid exposures and therefore may be applied 
+
+on the basis of documented low risk, implementation, 
+
+and cost considerations. Certain HCP occupations have 
+
+lower risk for occupational blood and body fluid exposures 
+
+(e.g., occupations involving counseling versus performing 
+
+procedures), and nontrainees have lower risks for blood 
+
+and body fluid exposures than trainees. Some settings 
+
+also will have a lower prevalence of HBV infection in the 
+
+patient population served than in other settings, which will 
+
+influence the risk for HCP exposure to HBsAg-positive 
+
+blood and body fluids.
+
 Revaccination
 
 • Revaccination (i.e., booster dose, challenge dose, or 
@@ -4899,17 +3322,17 @@ adults. Available data do not suggest a maximum number
 
 of booster doses. Revaccination when anti-HBs is 
 
-&lt;10 mIU/mL is recommended for the following persons:
+<10 mIU/mL is recommended for the following persons:
 
  – Infants born to HBsAg-positive mothers. HBsAg-
 
-negative infants with anti-HBs &lt;10 mIU/mL should 
+negative infants with anti-HBs <10 mIU/mL should 
 
 be revaccinated with a single dose of HepB vaccine, 
 
 and retested 1–2 months later. Infants whose anti-HBs 
 
-remains &lt;10 mIU/mL following single dose 
+remains <10 mIU/mL following single dose 
 
 revaccination should receive two additional doses of 
 
@@ -4922,15 +3345,6 @@ later. Alternatively, these infants may be revaccinated
 with a second 3-dose series and retested (HBsAg and 
 
 anti-HBs) 1–2 months after the final dose of vaccine.
-
-
-Recommendations and Reports
-
-24 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
 
 BOX 6. Persons recommended to receive serologic testing prior 
 
@@ -4990,11 +3404,11 @@ serologic testing.
 
  – HCP. Completely vaccinated HCP with anti-HBs 
 
-&lt;10 mIU/mL should receive an additional dose of HepB 
+<10 mIU/mL should receive an additional dose of HepB 
 
 vaccine, followed by anti-HBs testing 1–2 months later. 
 
-HCP whose anti-HBs remains &lt;10 mIU/mL should 
+HCP whose anti-HBs remains <10 mIU/mL should 
 
 complete the second series (usually 6 doses total), followed 
 
@@ -5002,7 +3416,7 @@ by repeat anti-HBs testing 1–2 months after the final dose.
 
 Alternatively, it might be more practical for very recently 
 
-vaccinated HCP with anti-HBs &lt;10 mIU/mL to receive 
+vaccinated HCP with anti-HBs <10 mIU/mL to receive 
 
 the second complete series (usually 6 doses total), followed 
 
@@ -5016,7 +3430,7 @@ should be assessed by annual anti-HBs testing. A
 
 booster dose should be administered when anti-HBs 
 
-levels decline to &lt;10 mIU/mL. Anti-HBs testing 
+levels decline to <10 mIU/mL. Anti-HBs testing 
 
 1–2 months following the booster dose to assess 
 
@@ -5124,15 +3538,6 @@ anti-HBs ≥10 mIU/mL is a serologic correlate of protection
 
 only when following a documented, complete series.
 
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-25
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
 BOX 7. Persons recommended to receive postvaccination serologic 
 
 testing* following a complete series of HepB vaccination
@@ -5175,7 +3580,7 @@ HBsAg-positive (or HBsAg-unknown) mothers consists of anti-HBs.
 
 HBsAg-unknown) mothers consists of anti-HBs and HBsAg. Persons 
 
-with anti-HBs &lt;10 mIU/mL after the primary vaccine series should be 
+with anti-HBs <10 mIU/mL after the primary vaccine series should be 
 
 revaccinated. Infants born to HBsAg-positive mothers or mothers with 
 
@@ -5183,7 +3588,7 @@ an unknown HBsAg status should be revaccinated with a single dose of
 
 HepB vaccine and receive postvaccination serologic testing 1–2 months 
 
-later. Infants whose anti-HBs remains &lt;10 mIU/mL following single dose 
+later. Infants whose anti-HBs remains <10 mIU/mL following single dose 
 
 revaccination should receive two additional doses of HepB vaccine, 
 
@@ -5191,13 +3596,13 @@ followed by postvaccination serologic testing 1–2 months after the final
 
 dose. Based on clinical circumstances or family preference, HBsAg-
 
-negative infants with anti-HBs &lt;10 mIU/mL may instead be revaccinated 
+negative infants with anti-HBs <10 mIU/mL may instead be revaccinated 
 
 with a second, complete 3-dose series, followed by postvaccination 
 
 serologic testing performed 1–2 months after the final dose of vaccine. 
 
-For others with anti-HBs &lt;10 mIU/mL after the primary series, 
+For others with anti-HBs <10 mIU/mL after the primary series, 
 
 administration of 3 additional HepB vaccine doses on an appropriate 
 
@@ -5232,1285 +3637,3 @@ HepB vaccine adverse events, and the experience gained in the
 implementation of these recommendations becomes available. 
 
 Revised recommendations will be developed as needed.
-
-Acknowledgments
-
-Mona Doshani, Alaya Koneru, Henry Roberts, PhD, Division of 
-
-Viral Hepatitis, National Center for HIV/AIDS, Viral Hepatitis, 
-
-STD, and TB Prevention, CDC.
-
-References
-
- 1. CDC. Updated U.S. Public Health Service guidelines for the 
-
-management of occupational exposures to HBV, HCV, and HIV and 
-
-recommendations for postexposure prophylaxis. MMWR Recomm Rep 
-
-2001;50(No. RR-11):1–52.
-
- 2. Preboth M. PHS guidelines for management of occupational exposure 
-
-to HBV, HCV and HIV: management of occupational blood exposures. 
-
-Am Fam Physician 2001;64:2012–4.
-
- 3. Bond WW, Favero MS, Petersen NJ, Gravelle CR, Ebert JW, Maynard JE. 
-
-Survival of hepatitis B virus after drying and storage for one week. Lancet 
-
-1981;317:550–1. https://doi.org/10.1016/S0140-6736(81)92877-4
-
- 4. CDC. Viral hepatitis—statistics and surveillance. Atlanta, GA: US 
-
-Department of Health and Human Services, CDC; 2017. https://www.
-
-cdc.gov/hepatitis/statistics/
-
- 5. Terrault NA, Bzowej NH, Chang KM, Hwang JP, Jonas MM, 
-
-Murad MH; American Association for the Study of Liver Diseases. 
-
-AASLD guidelines for treatment of chronic hepatitis B. Hepatology 
-
-2016;63:261–83. https://doi.org/10.1002/hep.28156
-
- 6. Rubin LG, Levin MJ, Ljungman P, et al.; Infectious Diseases Society of 
-
-America. 2013 IDSA clinical practice guideline for vaccination of the 
-
-immunocompromised host. Clin Infect Dis 2014;58:e44–100. https://
-
-doi.org/10.1093/cid/cit684
-
- 7. Mast EE, Margolis HS, Fiore AE, et al.; Advisory Committee on 
-
-Immunization Practices (ACIP). A comprehensive immunization strategy 
-
-to eliminate transmission of hepatitis B virus infection in the United 
-
-States: recommendations of the Advisory Committee on Immunization 
-
-Practices (ACIP). Part 1: immunization of infants, children, and 
-
-adolescents. MMWR Recomm Rep 2005;54(No. RR-16):1–31.
-
- 8. Mast EE, Weinbaum CM, Fiore AE, et al. A comprehensive 
-
-immunization strategy to eliminate transmission of hepatitis B virus 
-
-infection in the United States: recommendations of the Advisory 
-
-Committee on Immunization Practices (ACIP). Part II: immunization 
-
-of adults. MMWR Recomm Rep 2006;55(No. RR-16):1–33.
-
- 9. CDC. Use of hepatitis B vaccination for adults with diabetes mellitus: 
-
-recommendations of the Advisory Committee on Immunization 
-
-Practices (ACIP). MMWR Morb Mortal Wkly Rep 2011;60:1709–11.
-
- 10. Schillie S, Murphy TV, Sawyer M, et al.; CDC. CDC guidance for 
-
-evaluating health-care personnel for hepatitis B virus protection and 
-
-for administering postexposure management. MMWR Recomm Rep 
-
-2013;62(No. RR-10):1–19.
-
- 11. Schillie S, Murphy TV, Fenlon N, Ko S, Ward JW. Update: shortened 
-
-interval for postvaccination serologic testing of infants born to hepatitis 
-
-b-infected mothers. MMWR Morb Mortal Wkly Rep 2015;64:1118–20. 
-
- 12. Shimabukuro TT, Nguyen M, Martin D, DeStefano F. Safety monitoring 
-
-in the Vaccine Adverse Event Reporting System (VAERS). Vaccine 
-
-2015;33:4398–405. https://doi.org/10.1016/j.vaccine.2015.07.035
-
- 13. Zhou W, Pool V, Iskander JK, et al. Surveillance for safety 
-
-after immunization: Vaccine Adverse Event Reporting System 
-
-(VAERS)—United States, 1991–2001. MMWR Surveill Summ 
-
-2003;52(No. SS-1):1–24.
-
- 14. McNeil MM, Gee J, Weintraub ES, et al. The Vaccine Safety 
-
-Datalink: successes and challenges monitoring vaccine safety. Vaccine 
-
-2014;32:5390–8. https://doi.org/10.1016/j.vaccine.2014.07.073
-
- 15. CDC. Surveillance data for acute viral hepatitis—United States, 2008. 
-
-Atlanta, GA: US Department of Health and Human Services, CDC; 2010. 
-
-https://www.cdc.gov/hepatitis/statistics/2008surveillance/index.htm
-
-
-Recommendations and Reports
-
-26 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
- 16. Harris AM, Iqbal K, Schillie S, et al. Increases in acute hepatitis B virus 
-
-infections—Kentucky, Tennessee, and West Virginia, 2006–2013. 
-
-MMWR Morb Mortal Wkly Rep 2016;65:47–50.
-
- 17. Roberts H, Kruszon-Moran D, Ly KN, et al. Prevalence of chronic 
-
-hepatitis B virus (HBV) infection in U.S. households: National Health 
-
-and Nutrition Examination Survey (NHANES), 1988-2012. Hepatology 
-
-2016;63:388–97. https://doi.org/10.1002/hep.28109
-
- 18. Wasley A, Kruszon-Moran D, Kuhnert W, et al. The prevalence of 
-
-hepatitis B virus infection in the United States in the era of vaccination. 
-
-J Infect Dis 2010;202:192–201. https://doi.org/10.1086/653622
-
- 19. Kowdley KV, Wang CC, Welch S, Roberts H, Brosgart CL. Prevalence 
-
-of chronic hepatitis B among foreign-born persons living in the United 
-
-States by country of origin. Hepatology 2012;56:422–33. https://doi.
-
-org/10.1002/hep.24804
-
- 20. Mitchell T, Armstrong GL, Hu DJ, Wasley A, Painter JA. The 
-
-increasing burden of imported chronic hepatitis B—United States, 
-
-1974–2008. PLoS One 2011;6:e27717. https://doi.org/10.1371/
-
-journal.pone.0027717
-
- 21. CDC. Hepatitis B virus: a comprehensive strategy for eliminating 
-
-transmission in the United States through universal childhood 
-
-vaccination. Recommendations of the Immunization Practices Advisory 
-
-Committee (ACIP). MMWR Recomm Rep 1991;40(No. RR-13):1–25.
-
- 22. CDC. Recommendation of the Immunization Practices Advisory 
-
-Committee (ACIP). Inactivated hepatitis B virus vaccine. MMWR Morb 
-
-Mortal Wkly Rep 1982;31:317–22, 327–8.
-
- 23. CDC. Changing patterns of groups at high risk for hepatitis B in the 
-
-United States. MMWR Morb Mortal Wkly Rep 1988;37:429–32, 437.
-
-24. CDC. Update: universal precautions for prevention of transmission of 
-
-human immunodeficiency virus, hepatitis B virus, and other bloodborne 
-
-pathogens in health-care settings. MMWR Morb Mortal Wkly Rep 
-
-1988;37:377–82, 387–8.
-
-25. CDC. Prevention of perinatal transmission of hepatitis B virus: prenatal 
-
-screening of all pregnant women for hepatitis B surface antigen. MMWR 
-
-Morb Mortal Wkly Rep 1988;37:341–6, 351.
-
-26. CDC. Update: recommendations to prevent hepatitis B virus 
-
-transmission—United States. MMWR Morb Mortal Wkly Rep 
-
-1999;48:33–4.
-
-27. Kolasa MS, Tsai Y, Xu J, Fenlon N, Schillie S. Hepatitis B surface antigen 
-
-testing among pregnant women, United States 2014. Pediatr Infect Dis 
-
-J 2017;36:e175–80. https://doi.org/10.1097/INF.0000000000001516
-
-28. Kubo A, Shlager L, Marks AR, et al. Prevention of vertical transmission of 
-
-hepatitis B: an observational study. Ann Intern Med 2014;160:828–35. 
-
-https://doi.org/10.7326/M13-2529
-
-29. Schillie S, Walker T, Veselsky S, et al. Outcomes of infants born to 
-
-women infected with hepatitis B. Pediatrics 2015;135:e1141–7. https://
-
-doi.org/10.1542/peds.2014-3213
-
-30. Hill HA, Elam-Evans LD, Yankey D, Singleton JA, Kang Y. Vaccination 
-
-coverage among children aged 19–35 months—United States, 2016. 
-
-MMWR Morb Mortal Wkly Rep 2017;66:1171–7. https://doi.
-
-org/10.15585/mmwr.mm6643a3
-
-31. CDC. Newborn hepatitis B vaccination coverage among children born 
-
-January 2003-June 2005—United States. MMWR Morb Mortal Wkly 
-
-Rep 2008;57:825–8.
-
-32. US Department of Health and Human Services, Office of Disease 
-
-Prevention and Health Promotion. Healthy people 2020. Washington, 
-
-DC: US Department of Health and Human Services; 2014. https://
-
-www.healthypeople.gov/
-
-33. Walker TY, Elam-Evans LD, Singleton JA, et al. National, regional, 
-
-state, and selected local area vaccination coverage among adolescents 
-
-aged 13–17 years-United States, 2016. MMWR Morb Mortal Wkly 
-
-Rep 2017;66:874–82. 
-
-34. Williams WW, Lu PJ, O’Halloran A, et al.; CDC. Surveillance of 
-
-vaccination coverage among adult populations—United States, 2015. 
-
-MMWR Surveill Summ 2017;66(No. SS-11):1–28. 
-
-35. Agerton TB, Mahoney FJ, Polish LB, Shapiro CN. Impact of the 
-
-bloodborne pathogens standard on vaccination of healthcare workers with 
-
-hepatitis B vaccine. Infect Control Hosp Epidemiol 1995;16:287–91. 
-
-https://doi.org/10.2307/30143095
-
-36. Fan L, Owusu-Edusei K Jr, Schillie SF, Murphy TV. Cost-effectiveness of 
-
-testing hepatitis B-positive pregnant women for hepatitis B e antigen or 
-
-viral load. Obstet Gynecol 2014;123:929–37. https://doi.org/10.1097/
-
-AOG.0000000000000124
-
-37. CDC; The American College of Obstetricians and Gynecologists. 
-
-Screening pregnant women for hepatitis B virus (HBV) infection. 
-
-Atlanta, GA: US Department of Health and Human Services, CDC; 
-
-2015. https://www.cdc.gov/hepatitis/hbv/pdfs/prenatalhbsagtesting.pdf
-
-38. Pan CQ, Duan ZP, Bhamidimarri KR, et al. An algorithm for risk 
-
-assessment and intervention of mother to child transmission of 
-
-hepatitis B virus. Clin Gastroenterol Hepatol 2012;10:452–9. https://
-
-doi.org/10.1016/j.cgh.2011.10.041
-
-39. Pan CQ, Han GR, Jiang HX, et al. Telbivudine prevents vertical 
-
-transmission from HBeAg-positive women with chronic hepatitis B. 
-
-Clin Gastroenterol Hepatol 2012;10:520–6. https://doi.org/10.1016/j.
-
-cgh.2012.01.019
-
-40. Chang JJ, Lewin SR. Immunopathogenesis of hepatitis B virus 
-
-infection. Immunol Cell Biol 2007;85:16–23. https://doi.org/10.1038/
-
-sj.icb.7100009
-
-41. Gish RG, Given BD, Lai CL, et al. Chronic hepatitis B: Virology, 
-
-natural history, current management and a glimpse at future 
-
-opportunities. Antiviral Res 2015;121:47–58. https://doi.org/10.1016/j.
-
-antiviral.2015.06.008
-
-42. Hoofnagle JH, Di Bisceglie AM. Serologic diagnosis of acute and 
-
-chronic viral hepatitis. Semin Liver Dis 1991;11:73–83. https://doi.
-
-org/10.1055/s-2008-1040426
-
-43. Krugman S, Overby LR, Mushahwar IK, Ling CM, Frösner GG, 
-
-Deinhardt F. Viral hepatitis, type B. Studies on natural history and 
-
-prevention re-examined. N Engl J Med 1979;300:101–6. https://doi.
-
-org/10.1056/NEJM197901183000301
-
-44. Long SS, Prober CG, Fischer M. Principles and practice of pediatric 
-
-infectious diseases. 5th ed. Amsterdam, the Netherlands: Elsevier; 2017.
-
-45. Magnius LO, Norder H. Subtypes, genotypes and molecular epidemiology 
-
-of the hepatitis B virus as reflected by sequence variability of the S-gene. 
-
-Intervirology 1995;38:24–34. https://doi.org/10.1159/000150411
-
-46. Kramvis A. Genotypes and genetic variability of hepatitis B virus. 
-
-Intervirology 2014;57:141–50. https://doi.org/10.1159/000360947
-
-47. Kramvis A. The clinical implications of hepatitis B virus genotypes and 
-
-HBeAg in pediatrics. Rev Med Virol 2016;26:285–303. https://doi.
-
-org/10.1002/rmv.1885
-
-48. Allain JP. Occult hepatitis B virus infection. Transfus Clin Biol 
-
-2004;11:18–25. https://doi.org/10.1016/j.tracli.2003.11.007
-
-49. Trépo C, Chan HL, Lok A. Hepatitis B virus infection. Lancet 
-
-2014;384:2053–63. https://doi.org/10.1016/S0140-6736(14)60220-8
-
-50. McMahon BJ, Alward WL, Hall DB, et al. Acute hepatitis B 
-
-virus infection: relation of age to the clinical expression of disease 
-
-and subsequent development of the carrier state. J Infect Dis 
-
-1985;151:599–603. https://doi.org/10.1093/infdis/151.4.599
-
-51. Dienstag JL. Immunopathogenesis of the extrahepatic manifestations 
-
-of hepatitis B virus infection. Springer Semin Immunopathol 
-
-1981;3:461–72. https://doi.org/10.1007/BF01951493
-
-52. Beasley RP, Hwang LY, Lee GC, et al. Prevention of perinatally 
-
-transmitted hepatitis B virus infections with hepatitis B immune 
-
-globulin and hepatitis B vaccine. Lancet 1983;322:1099–102. https://
-
-doi.org/10.1016/S0140-6736(83)90624-4
-
-53. Edmunds WJ, Medley GF, Nokes DJ, Hall AJ, Whittle HC. The 
-
-influence of age on the development of the hepatitis B carrier state. Proc 
-
-Biol Sci 1993;253:197–201. https://doi.org/10.1098/rspb.1993.0102
-
-54. Hyams KC. Risks of chronicity following acute hepatitis B virus 
-
-infection: a review. Clin Infect Dis 1995;20:992–1000. https://doi.
-
-org/10.1093/clinids/20.4.992
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-27
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-55. Hadler SC, Judson FN, O’Malley PM, et al. Outcome of hepatitis B 
-
-virus infection in homosexual men and its relation to prior human 
-
-immunodeficiency virus infection. J Infect Dis 1991;163:454–7. https://
-
-doi.org/10.1093/infdis/163.3.454
-
-56. Beasley RP, Lin CC, Hwang LY, Chien CS. Hepatocellular carcinoma and 
-
-hepatitis B virus. A prospective study of 22 707 men in Taiwan. Lancet 
-
-1981;318:1129–33. https://doi.org/10.1016/S0140-6736(81)90585-7
-
-57. Goldstein ST, Zhou F, Hadler SC, Bell BP, Mast EE, Margolis HS. A 
-
-mathematical model to estimate global hepatitis B disease burden and 
-
-vaccination impact. Int J Epidemiol 2005;34:1329–39. https://doi.
-
-org/10.1093/ije/dyi206
-
-58. McMahon BJ, Alberts SR, Wainwright RB, Bulkow L, Lanier AP. Hepatitis 
-
-B-related sequelae. Prospective study in 1400 hepatitis B surface antigen-
-
-positive Alaska native carriers. Arch Intern Med 1990;150:1051–4. 
-
-https://doi.org/10.1001/archinte.1990.00390170087019
-
-59. Jonas MM, Lok AS, McMahon BJ, et al. Antiviral therapy in management 
-
-of chronic hepatitis B viral infection in children: a systematic review and 
-
-meta-analysis. Hepatology 2016;63:307–18. https://doi.org/10.1002/
-
-hep.28278
-
-60. Lok AS, McMahon BJ, Brown RS Jr, et al. Antiviral therapy for 
-
-chronic hepatitis B viral infection in adults: A systematic review and 
-
-meta-analysis. Hepatology 2016;63:284–306. https://doi.org/10.1002/
-
-hep.28280
-
-61. McMahon BJ. Chronic hepatitis B virus infection. Med Clin North Am 
-
-2014;98:39–54. https://doi.org/10.1016/j.mcna.2013.08.004
-
-62. Wang C, Ji D, Chen J, et al. Hepatitis due to reactivation of 
-
-hepatitis B virus in endemic areas among patients with hepatitis C 
-
-treated with direct-acting antiviral agents. Clin Gastroenterol Hepatol 
-
-2017;15:132–6. https://doi.org/10.1016/j.cgh.2016.06.023
-
-63. Nelson NP, Jamieson DJ, Murphy TV. Prevention of perinatal 
-
-hepatitis B virus transmission. J Pediatric Infect Dis Soc 2014;3(Suppl 
-
-1):S7–12. https://doi.org/10.1093/jpids/piu064
-
-64. Schillie SF, Murphy TV. Seroprotection after recombinant hepatitis B 
-
-vaccination among newborn infants: a review. Vaccine 2013;31:2506–16. 
-
-https://doi.org/10.1016/j.vaccine.2012.12.012
-
-65. Pondé RA. Atypical serological profiles in hepatitis B virus infection. Eur 
-
-J Clin Microbiol Infect Dis 2013;32:461–76. https://doi.org/10.1007/
-
-s10096-012-1781-9
-
-66. Pondé RA, Cardoso DD, Ferro MO. The underlying mechanisms for 
-
-the ‘anti-HBc alone’ serological profile. Arch Virol 2010;155:149–58. 
-
-https://doi.org/10.1007/s00705-009-0559-6
-
-67. Franks AL, Berg CJ, Kane MA, et al. Hepatitis B virus infection 
-
-among children born in the United States to Southeast Asian 
-
-refugees. N Engl J Med 1989;321:1301–5. https://doi.org/10.1056/
-
-NEJM198911093211905
-
-68. Mortensen E, Kamali A, Schirmer PL, et al. Are current screening 
-
-protocols for chronic hepatitis B virus infection adequate? Diagn 
-
-Microbiol Infect Dis 2016;85:159–67. https://doi.org/10.1016/j.
-
-diagmicrobio.2015.12.005
-
-69. Calisti G, Herman O, Powley M, Haque T. Persistence of hepatitis B surface 
-
-antigen in blood in a chronic haemodialysis patient following vaccination 
-
-booster. BMJ Case Rep 2014;2014(jun10 1):bcr2013202191. https://
-
-doi.org/10.1136/bcr-2013-202191
-
-70. Grob P, Jilg W, Bornhak H, et al. Serological pattern “anti-HBc alone”: 
-
-report on a workshop. J Med Virol 2000;62:450–5. https://doi.
-
-org/10.1002/1096-9071(200012)62:4&lt;450::AID-JMV9&gt;3.0.CO;2-Y
-
-71. Silva AE, McMahon BJ, Parkinson AJ, Sjogren MH, Hoofnagle JH, Di 
-
-Bisceglie AM. Hepatitis B virus DNA in persons with isolated antibody 
-
-to hepatitis B core antigen who subsequently received hepatitis B vaccine. 
-
-Clin Infect Dis 1998;26:895–7. https://doi.org/10.1086/513918
-
-72. Candotti D, Lin CK, Belkhiri D, et al. Occult hepatitis B infection 
-
-in blood donors from South East Asia: molecular characterisation and 
-
-potential mechanisms of occurrence. Gut 2012;61:1744–53. https://
-
-doi.org/10.1136/gutjnl-2011-301281
-
- 73. De Feo TM, Poli F, Mozzi F, Moretti MP, Scalamogna M; Collaborative 
-
-Kidney, Liver and Heart North Italy Transplant Program Study 
-
-Groups. Risk of transmission of hepatitis B virus from anti-HBC 
-
-positive cadaveric organ donors: a collaborative study. Transplant Proc 
-
-2005;37:1238–9. https://doi.org/10.1016/j.transproceed.2004.12.041
-
- 74. Council of State and Territorial Epidemiologists. Hepatitis B, perinatal 
-
-virus infection 2017 case definition. Atlanta, GA: Council of State 
-
-and Territorial Epidemiologists; 2017. https://wwwn.cdc.gov/nndss/
-
-conditions/hepatitis-b-perinatal-virus-infection/case-definition/2017/
-
- 75. Nelson PK, Mathers BM, Cowie B, et al. Global epidemiology of 
-
-hepatitis B and hepatitis C in people who inject drugs: results of 
-
-systematic reviews. Lancet 2011;378:571–83. https://doi.org/10.1016/
-
-S0140-6736(11)61097-0
-
- 76. CDC. Viral hepatitis—CDC recommendations for specific 
-
-populations and settings. Atlanta, GA: US Department of Health 
-
-and Human Services, CDC; 2015. https://www.cdc.gov/hepatitis/
-
-populations/stds.htm
-
- 77. Hurie MB, Mast EE, Davis JP. Horizontal transmission of hepatitis B virus 
-
-infection to United States-born children of Hmong refugees. Pediatrics 
-
-1992;89:269–73.
-
- 78. Chaudhary RK, Perry E, Cleary TE. Prevalence of hepatitis B infection 
-
-among residents of an institution for the mentally retarded. Am J Epidemiol 
-
-1977;105:123–6. https://doi.org/10.1093/oxfordjournals.aje.a112363
-
- 79. Thompson ND, Perz JF, Moorman AC, Holmberg SD. Nonhospital 
-
-health care-associated hepatitis B and C virus transmission: United 
-
-States, 1998-2008. Ann Intern Med 2009;150:33–9. https://doi.
-
-org/10.7326/0003-4819-150-1-200901060-00007
-
- 80. Williams RE, Sena AC, Moorman AC, et al. Hepatitis B vaccination 
-
-of susceptible elderly residents of long term care facilities during 
-
-a hepatitis B outbreak. Vaccine 2012;30:3147–50. https://doi.
-
-org/10.1016/j.vaccine.2012.02.078
-
- 81. Woodruff BA, Vazquez E. Prevalence of hepatitis virus 
-
-infections in an institution for persons with developmental 
-
-disabilities. Am J Ment Retard 2002;107:278–92. https://doi.
-
-org/10.1352/0895-8017(2002)107&lt;0278:POHVII&gt;2.0.CO;2
-
- 82. Rosenberg SD, Goodman LA, Osher FC, et al. Prevalence of HIV, 
-
-hepatitis B, and hepatitis C in people with severe mental illness. Am J 
-
-Public Health 2001;91:31–7.
-
- 83. Weinbaum CM, Williams I, Mast EE, et al. Recommendations for 
-
-identification and public health management of persons with chronic 
-
-hepatitis B virus infection. MMWR Recomm Rep 2008;57(No. RR-8):1–20.
-
- 84. Weinbaum C, Lyerla R, Margolis HS. Prevention and control of 
-
-infections with hepatitis viruses in correctional settings. MMWR 
-
-Recomm Rep 2003;52(No. RR-1):1–36.
-
- 85. Dienstag JL, Ryan DM. Occupational exposure to hepatitis B virus 
-
-in hospital personnel: infection or immunization? Am J Epidemiol 
-
-1982;115:26–39. https://doi.org/10.1093/oxfordjournals.aje.a113277
-
- 86. Hadler SC, Doto IL, Maynard JE, et al. Occupational risk of 
-
-hepatitis B infection in hospital workers. Infect Control 1985;6:24–31. 
-
-https://doi.org/10.1017/S0195941700062457
-
- 87. US Department of Labor. Occupational Safety and Health 
-
-Administration. OSHA Law and Regulations. https://www.osha.gov/
-
-law-regs.html
-
- 88. CDC. Recommendations for preventing transmission of infections 
-
-among chronic hemodialysis patients. MMWR Recomm Rep 
-
-2001;50(No. RR-5):1–43.
-
- 89. Alter MJ, Favero MS, Maynard JE. Impact of infection control 
-
-strategies on the incidence of dialysis-associated hepatitis in the United 
-
-States. J Infect Dis 1986;153:1149–51. https://doi.org/10.1093/
-
-infdis/153.6.1149
-
-
-Recommendations and Reports
-
-28 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
- 90. Finelli L, Miller JT, Tokars JI, Alter MJ, Arduino MJ. National surveillance 
-
-of dialysis-associated diseases in the United States, 2002. Semin Dial 
-
-2005;18:52–61. https://doi.org/10.1111/j.1525-139X.2005.18108.x
-
- 91. Zibbell JE, Iqbal K, Patel RC, et al. Increases in hepatitis C virus 
-
-infection related to injection drug use among persons aged ≤30 years—
-
-Kentucky, Tennessee, Virginia, and West Virginia, 2006–2012. 
-
-MMWR Morb Mortal Wkly Rep 2015;64:453–8.
-
- 92. Bell BP. Hepatitis A and hepatitis B vaccination of patients with chronic 
-
-liver disease. Acta Gastroenterol Belg 2000;63:359–63.
-
- 93. Johnson DF, Leder K, Torresi J. Hepatitis B and C infection in 
-
-international travelers. J Travel Med 2013;20:194–202. https://doi.
-
-org/10.1111/jtm.12026
-
- 94. Kellerman SE, Hanson DL, McNaghten AD, Fleming PL. Prevalence 
-
-of chronic hepatitis B and incidence of acute hepatitis B infection in 
-
-human immunodeficiency virus-infected subjects. J Infect Dis 
-
-2003;188:571–7. https://doi.org/10.1086/377135
-
- 95. Chun HM, Fieberg AM, Hullsiek KH, et al.; Infectious Disease Clinical 
-
-Research Program HIV Working Group. Epidemiology of Hepatitis B 
-
-virus infection in a US cohort of HIV-infected individuals during the 
-
-past 20 years. Clin Infect Dis 2010;50:426–36. https://doi.
-
-org/10.1086/649885
-
- 96. Homann C, Krogsgaard K, Pedersen C, Andersson P, Nielsen JO. High 
-
-incidence of hepatitis B infection and evolution of chronic hepatitis B 
-
-infection in patients with advanced HIV infection. J Acquir Immune 
-
-Defic Syndr 1991;4:416–20.
-
- 97. Thio CL. Hepatitis B in the human immunodeficiency virus-infected 
-
-patient: epidemiology, natural history, and treatment. Semin Liver Dis 
-
-2003;23:125–36. https://doi.org/10.1055/s-2003-39951
-
- 98. Alter MJ. Epidemiology of viral hepatitis and HIV co-infection. J 
-
-Hepatol 2006;44(Suppl):S6–9. https://doi.org/10.1016/j.
-
-jhep.2005.11.004
-
- 99. Thio CL, Seaberg EC, Skolasky R Jr, et al.; Multicenter AIDS Cohort 
-
-Study. HIV-1, hepatitis B virus, and risk of liver-related mortality in 
-
-the Multicenter Cohort Study (MACS). Lancet 2002;360:1921–6. 
-
-https://doi.org/10.1016/S0140-6736(02)11913-1
-
-100. Reilly ML, Schillie SF, Smith E, et al. Increased risk of acute hepatitis B 
-
-among adults with diagnosed diabetes mellitus. J Diabetes Sci Technol 
-
-2012;6:858–66. https://doi.org/10.1177/193229681200600417
-
-101. Schillie SF, Xing J, Murphy TV, Hu DJ. Prevalence of hepatitis B 
-
-virus infection among persons with diagnosed diabetes mellitus in the 
-
-United States, 1999–2010. J Viral Hepat 2012;19:674–6. https://doi.
-
-org/10.1111/j.1365-2893.2012.01616.x
-
-102. Polish LB, Shapiro CN, Bauer F, et al. Nosocomial transmission of 
-
-hepatitis B virus associated with the use of a spring-loaded finger-stick 
-
-device. N Engl J Med 1992;326:721–5. https://doi.org/10.1056/
-
-NEJM199203123261101
-
-103. Emini EA, Ellis RW, Miller WJ, McAleer WJ, Scolnick EM, 
-
-Gerety RJ. Production and immunological analysis of recombinant 
-
-hepatitis B vaccine. J Infect 1986;13(Suppl A):3–9. https://doi.
-
-org/10.1016/S0163-4453(86)92563-6
-
-104. Stephenne J. Development and production aspects of a recombinant 
-
-yeast-derived hepatitis B vaccine. Vaccine 1990;8(Suppl):S69–73, 
-
-discussion S79–80.
-
-105. CDC. Update: expanded availability of thimerosal preservative-free 
-
-hepatitis B vaccine. MMWR Morb Mortal Wkly Rep 2000;49:642–51.
-
-106. US Food and Drug Administration. Licensed biological products with 
-
-supporting documents. Silver Spring, MD: US Department of Health 
-
-and Human Services, Food and Drug Administration; 2017. https://
-
-www.fda.gov/biologicsbloodvaccines/ucm133705.htm
-
-107. Jack AD, Hall AJ, Maine N, Mendy M, Whittle HC. What level of 
-
-hepatitis B antibody is protective? J Infect Dis 1999;179:489–92. 
-
-https://doi.org/10.1086/314578
-
-108. Bruce MG, Bruden D, Hurlburt D, et al. Antibody levels and protection 
-
-after hepatitis B vaccine: results of a 30-year follow-up study and 
-
-response to a booster dose. J Infect Dis 2016;214:16–22. https://doi.
-
-org/10.1093/infdis/jiv748
-
-109. Leuridan E, Van Damme P. Hepatitis B and the need for a booster dose. 
-
-Clin Infect Dis 2011;53:68–75 https://doi.org/10.1093/cid/cir270.
-
-110. Simons BC, Spradling PR, Bruden DJ, et al. A longitudinal hepatitis B vaccine 
-
-cohort demonstrates long-lasting hepatitis B virus (HBV) cellular immunity 
-
-despite loss of antibody against HBV surface antigen. J Infect Dis 
-
-2016;214:273–80. https://doi.org/10.1093/infdis/jiw142
-
-111. André FE. Summary of safety and efficacy data on a yeast-derived 
-
-hepatitis B vaccine. Am J Med 1989;87(3a):S14–20. https://doi.
-
-org/10.1016/0002-9343(89)90525-1
-
-112. Schillie SF, Spradling PR, Murphy TV. Immune response of hepatitis B vaccine 
-
-among persons with diabetes: a systematic review of the literature. Diabetes 
-
-Care 2012;35:2690–7. https://doi.org/10.2337/dc12-0312
-
-113. Averhoff F, Mahoney F, Coleman P, Schatz G, Hurwitz E, Margolis 
-
-H. Immunogenicity of hepatitis B Vaccines. Implications for persons 
-
-at occupational risk of hepatitis B virus infection. Am J Prev Med 
-
-1998;15:1–8. https://doi.org/10.1016/S0749-3797(98)00003-8
-
-114. Shaw FE Jr, Guess HA, Roets JM, et al. Effect of anatomic 
-
-injection site, age and smoking on the immune response to 
-
-hepatitis B vaccination. Vaccine 1989;7:425–30. https://doi.
-
-org/10.1016/0264-410X(89)90157-6
-
-115. Bowman S, Grau LE, Singer M, Scott G, Heimer R. Factors associated 
-
-with hepatitis B vaccine series completion in a randomized trial for 
-
-injection drug users reached through syringe exchange programs 
-
-in three US cities. BMC Public Health 2014;14:820. https://doi.
-
-org/10.1186/1471-2458-14-820
-
-116. Drachman R, Isacsohn M, Rudensky B, Drukker A. Vaccination 
-
-against hepatitis B in children and adolescent patients on dialysis. 
-
-Nephrol Dial Transplant 1989;4:372–4. https://doi.org/10.1093/
-
-oxfordjournals.ndt.a091892
-
-117. Lee C, Gong Y, Brok J, Boxall EH, Gluud C. Effect of 
-
-hepatitis B immunisation in newborn infants of mothers positive for 
-
-hepatitis B surface antigen: systematic review and meta-analysis. BMJ 
-
-2006;332:328–36. https://doi.org/10.1136/bmj.38719.435833.7C
-
-118. Patel DM, Butler J, Feldman S, Graves GR, Rhodes PG. Immunogenicity 
-
-of hepatitis B vaccine in healthy very low birth weight infants. J Pediatr 
-
-1997;131:641–3. https://doi.org/10.1016/S0022-3476(97)70078-7
-
-119. Marsano LS, West DJ, Chan I, et al. A two-dose hepatitis B 
-
-vaccine regimen: proof of priming and memory responses in 
-
-young adults. Vaccine 1998;16:624–9. https://doi.org/10.1016/
-
-S0264-410X(97)00233-8
-
-120. Cassidy WM, Watson B, Ioli VA, Williams K, Bird S, West DJ. 
-
-A randomized trial of alternative two- and three-dose hepatitis B 
-
-vaccination regimens in adolescents: antibody responses, safety, and 
-
-immunologic memory. Pediatrics 2001;107:626–31. https://doi.
-
-org/10.1542/peds.107.4.626
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-29
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-121. Fabrizi F, Dixit V, Messa P, Martin P. Hepatitis B virus vaccine in 
-
-chronic kidney disease: improved immunogenicity by adjuvants? A 
-
-meta-analysis of randomized trials. Vaccine 2012;30:2295–300. https://
-
-doi.org/10.1016/j.vaccine.2012.01.064
-
-122. Hovi L, Valle M, Siimes MA, Jalanko H, Saarinen UM. Impaired 
-
-response to hepatitis B vaccine in children receiving anticancer 
-
-chemotherapy. Pediatr Infect Dis J 1995;14:931–4. https://doi.
-
-org/10.1097/00006454-199511000-00002
-
-123. Zuin G, Principi N, Tornaghi R, et al. Impaired response to 
-
-hepatitis B vaccine in HIV infected children. Vaccine 1992;10:857–60. 
-
-https://doi.org/10.1016/0264-410X(92)90050-T
-
-124. World Health Organization. Information sheet observed rate of vaccine 
-
-reactions: hepatitis B vaccine. Geneva, Switzerland: World Health 
-
-Organization; 2012. http://www.who.int/vaccine_safety/initiative/
-
-tools/Hep_B_Vaccine_rates_information_sheet.pdf
-
-125. Bohlke K, Davis RL, Marcy SM, et al.; Vaccine Safety Datalink Team. 
-
-Risk of anaphylaxis after vaccination of children and adolescents. 
-
-Pediatrics 2003;112:815–20. https://doi.org/10.1542/peds.112.4.815
-
-126. Stratton K, Ford A, Rusch E, Clayton EW, eds. Adverse effects of vaccines: 
-
-evidence and causality. Washington, DC: National Academy Press; 2012.
-
-127. Stratton K, Almario D, McCormick MC, editors. Immunization safety 
-
-review: hepatitis B vaccine and demyelinating neurological disorders. 
-
-Washington, DC: National Academies Press; 2002.
-
-128. Halsey NA, Duclos P, Van Damme P, Margolis H; Viral Hepatitis 
-
-Prevention Board. Hepatitis B vaccine and central nervous system 
-
-demyelinating diseases. Pediatr Infect Dis J 1999;18:23–4. https://
-
-doi.org/10.1097/00006454-199901000-00007
-
-129. DeStefano F, Weintraub ES, Chen RT. Hepatitis B vaccine and risk 
-
-of multiple sclerosis. Pharmacoepidemiol Drug Saf 2007;16:705–7, 
-
-author reply 707–8. https://doi.org/10.1002/pds.1408
-
-130. Ray P, Black S, Shinefield H, et al.; Vaccine Safety Datalink Team. Risk 
-
-of rheumatoid arthritis following vaccination with tetanus, influenza 
-
-and hepatitis B vaccines among persons 15–59 years of age. Vaccine 
-
-2011;29:6592–7. https://doi.org/10.1016/j.vaccine.2011.06.112
-
-131. Rowhani-Rahbar A, Klein NP, Lewis N, et al. Immunization and 
-
-Bell’s palsy in children: a case-centered analysis. Am J Epidemiol 
-
-2012;175:878–85. https://doi.org/10.1093/aje/kws011
-
-132. Yu O, Bohlke K, Hanson CA, et al. Hepatitis B vaccine and risk 
-
-of autoimmune thyroid disease: a Vaccine Safety Datalink study. 
-
-Pharmacoepidemiol Drug Saf 2007;16:736–45. https://doi.
-
-org/10.1002/pds.1354
-
-133. Naleway AL, Belongia EA, Donahue JG, Kieke BA, Glanz JM; Vaccine 
-
-Safety Datalink. Risk of immune hemolytic anemia in children 
-
-following immunization. Vaccine 2009;27:7394–7. https://doi.
-
-org/10.1016/j.vaccine.2009.09.023
-
-134. McNeil MM, Weintraub ES, Duffy J, et al. Risk of anaphylaxis 
-
-after vaccination in children and adults. J Allergy Clin Immunol 
-
-2016;137:868–78. https://doi.org/10.1016/j.jaci.2015.07.048
-
-135. Baxter R, Lewis E, Fireman B, DeStefano F, Gee J, Klein NP. Case-
-
-centered analysis of optic neuritis after vaccines. Clin Infect Dis 
-
-2016;63:79–81. https://doi.org/10.1093/cid/ciw224
-
-136. Baxter R, Bakshi N, Fireman B, et al. Lack of association of Guillain-
-
-Barré syndrome with vaccinations. Clin Infect Dis 2013;57:197–204. 
-
-https://doi.org/10.1093/cid/cit222
-
-137. Baxter R, Lewis N, Bohrer P, Harrington T, Aukes L, Klein NP. Sudden-
-
-onset sensorineural hearing loss after immunization: a case-centered 
-
-analysis. Otolaryngol Head Neck Surg 2016;155:81–6. https://doi.
-
-org/10.1177/0194599816639043
-
-138. Haber P, Moro PL, Ng C, et al. Safety of currently licensed hepatitis 
-
-B surface antigen vaccines in the United States, Vaccine adverse event 
-
-reporting system (VAERS), 2005–2015. Vaccine 2017. http://www.
-
-sciencedirect.com/science/article/pii/S0264410X1731722X
-
-139. Hadler SC, de Monzon MA, Lugo DR, Perez M. Effect of timing of 
-
-hepatitis B vaccine doses on response to vaccine in Yucpa Indians. Vaccine 
-
-1989;7:106–10. https://doi.org/10.1016/0264-410X(89)90046-7
-
-140. Halsey NA, Moulton LH, O’Donovan JC, et al. Hepatitis B vaccine 
-
-administered to children and adolescents at yearly intervals. Pediatrics 
-
-1999;103:1243–7. https://doi.org/10.1542/peds.103.6.1243
-
-141. Wiström J, Ahlm C, Lundberg S, Settergren B, Tärnvik A. Booster 
-
-vaccination with recombinant hepatitis B vaccine four years after 
-
-priming with one single dose. Vaccine 1999;17:2162–5. https://doi.
-
-org/10.1016/S0264-410X(99)00012-2
-
-142. Jilg W, Schmidt M, Deinhardt F. Vaccination against hepatitis B: 
-
-comparison of three different vaccination schedules. J Infect Dis 
-
-1989;160:766–9. https://doi.org/10.1093/infdis/160.5.766
-
-143. Tan KL, Goh KT, Oon CJ, Chan SH. Immunogenicity of recombinant 
-
-yeast-derived hepatitis B vaccine in nonresponders to perinatal 
-
-immunization. JAMA 1994;271:859–61. https://doi.org/10.1001/
-
-jama.1994.03510350069039
-
- 144. Brown RS Jr, McMahon BJ, Lok AS, et al. Antiviral therapy in chronic 
-
-hepatitis B viral infection during pregnancy: A systematic review and meta-
-
-analysis. Hepatology 2016;63:319–33. https://doi.org/10.1002/hep.28302
-
-145. Jourdain G, Ngo-Giang-Huong N, Cressey TR, et al. Prevention of 
-
-mother-to-child transmission of hepatitis B virus: a phase III, placebo-
-
-controlled, double-blind, randomized clinical trial to assess the efficacy 
-
-and safety of a short course of tenofovir disoproxil fumarate in women 
-
-with hepatitis B virus e-antigen. BMC Infect Dis 2016;16:393. https://
-
-doi.org/10.1186/s12879-016-1734-5
-
-146. Han GR, Jiang HX, Yue X, et al. Efficacy and safety of telbivudine 
-
-treatment: an open-label, prospective study in pregnant women for 
-
-the prevention of perinatal transmission of hepatitis B virus infection. 
-
-J Viral Hepat 2015;22:754–62. https://doi.org/10.1111/jvh.12379
-
-147. Fan L, Owusu-Edusei K Jr, Schillie SF, Murphy TV. Cost-effectiveness 
-
-of active-passive prophylaxis and antiviral prophylaxis during 
-
-pregnancy to prevent perinatal hepatitis B virus infection. Hepatology 
-
-2016;63:1471–80. https://doi.org/10.1002/hep.28310
-
-148. Barbosa C, Smith EA, Hoerger TJ, et al. Cost-effectiveness analysis 
-
-of the national Perinatal Hepatitis B Prevention Program. Pediatrics 
-
-2014;133:243–53. https://doi.org/10.1542/peds.2013-0718
-
-149. Hoerger TJ, Schillie S, Wittenborn JS, et al. Cost-effectiveness of 
-
-hepatitis B vaccination in adults with diagnosed diabetes. Diabetes Care 
-
-2013;36:63–9 10.2337/dc12-0759. https://doi.org/10.2337/dc12-0759
-
-150. Hoerger TJ, Bradley C, Schillie SF, Reilly M, Murphy TV. Cost-
-
-effectiveness of ensuring hepatitis B protection for previously vaccinated 
-
-healthcare personnel. Infect Control Hosp Epidemiol 2014;35:845–54. 
-
-https://doi.org/10.1086/676865
-
-151. CDC. General recommendations on immunization—recommendations 
-
-of the Advisory Committee on Immunization Practices (ACIP). 
-
-MMWR Recomm Rep 2011;60(No. RR-2):1–64.
-
-
-Recommendations and Reports
-
-30 
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-Advisory Committee on Immunization Practices
-
-Membership as of September 16, 2016
-
-Chair: Nancy Bennett, MD, University of Rochester School of Medicine and Dentistry, Rochester, New York.
-
-Executive Secretary: Amanda Cohn, MD, National Center for Immunization and Respiratory Diseases, CDC, Atlanta, Georgia.
-
-Members: Robert Atmar, MD, Baylor College of Medicine, Houston, Texas; Edward Belongia, MD, Marshfield Clinic Research Foundation, Marshfield, 
-
-Wisconsin; Echezona Ezeanolue, MD, University of Nevada, Las Vegas, Nevada; Paul Hunter, MD, City of Milwaukee Health Department, Milwaukee, 
-
-Wisconsin; Allison Kempe, MD, University of Colorado School of Medicine, Denver, Colorado; Grace Lee, MD, Boston Children’s Hospital, Boston, 
-
-Massachusetts; Kelly Moore, MD, Tennessee Department of Health, Nashville, Tennessee; Cynthia Pellegrini, March of Dimes, District of Columbia; 
-
-Arthur Reingold, MD, University of California, Berkeley School of Public Health, Berkeley, California; Laura Riley, MD, Harvard Medical School, Boston, 
-
-Massachusetts; José Romero, MD, University of Arkansas for Medical Sciences, Little Rock, Arkansas; David Stephens, MD, Emory University, Atlanta, 
-
-Georgia; Peter Szilagyi, MD, University of California, Los Angeles, California; Emmanuel (Chip) Walter, Jr., MD, Duke University School of Medicine, 
-
-Durham, North Carolina.
-
-Ex Officio Members: Bruce Gellin, MD, National Vaccine Program Office, District of Columba; Richard Gorman, MD, National Institutes of Health, Bethesda, 
-
-Maryland; Amy Groom, MPH, Indian Health Service, Albuquerque, New Mexico; Mary Beth Hance, Centers for Medicare and Medicaid Services, Baltimore, 
-
-Maryland; Jane Kim, MD, Department of Veterans Affairs, Durham, North Carolina; Narayan Nair, MD, Health Resources and Services Administration, 
-
-Rockville, Maryland; Eric Sergienko, MD, Department of Defense, Atlanta, Georgia; Wellington Sun, MD, Food and Drug Administration, Bethesda, Maryland.
-
-Liaison Representatives: American Academy of Family Physicians, Margot Savoy, MD, Wilmington, Delaware; American Academy of Pediatrics, Carrie 
-
-Byington, MD, Salt Lake City, Utah; American Academy of Pediatrics, Red Book Editor, David Kimberlin, MD, Birmingham, Alabama; American Academy of 
-
-Physician Assistants, Marie-Michèle Léger, MPH, Alexandria, Virginia; American College Health Association, Susan Even, MD, Columbia, Missouri; American 
-
-College of Nurse Midwives, Carol Hayes, MN, MPH, Atlanta, Georgia; American College of Nurse Midwives Alternate, Pamela Meharry, PhD, Chicago, 
-
-Illinois; American College of Obstetricians and Gynecologists, Kevin Ault, MD, Kansas City, Kansas; American College of Physicians, Sandra Fryhoffer, MD, 
-
-Atlanta, Georgia; American College of Physicians Alternate, Gregory Poland, MD, Rochester, Minnesota; American Geriatrics Society, Kenneth Schmader, 
-
-MD, Durham, North Carolina; America’s Health Insurance Plans, Mark Netoskie, MD, Houston, Texas; American Medical Association, Sandra Fryhoffer, 
-
-Atlanta, Georgia; American Nurses Association, Charles Rittle, DNP, Pittsburgh, Pennsylvania; American Osteopathic Association, Stanley Grogg, DO, Tulsa, 
-
-Oklahoma; American Pharmacists Association, Stephan L. Foster, PharmD, Memphis, Tennessee; Association of Immunization Managers, Christine Finley, 
-
-MPH, Burlington, Vermont; Association for Prevention and Teaching Research, Paul McKinney, MD, Louisville, Kentucky; Association of State and Territorial 
-
-Health Officials, Terry Dwelle MD, Bismarck, North Dakota; Biotechnology Industry Organization, Phyllis Arthur, District of Columbia.; Council of State 
-
-and Territorial Epidemiologists, Christine Hahn, MD, Boise, Idaho; Canadian National Advisory Committee on Immunization, Ian Gemmill, MD, Kingston, 
-
-Ontario, Canada; Infectious Diseases Society of America, Kathleen Neuzil, MD, Seattle, Washington; Infectious Disease Society of America Alternate, Carol 
-
-Baker, MD, Houston, Texas; National Association of County and City Health Officials, Matthew Zahn, MD, Santa Ana, California; National Association 
-
-of County and City Health Officials, Jeffrey Duchin, MD, Seattle, Washington; National Association of Pediatric Nurse Practitioners, Patricia Stinchfield, 
-
-MPH, St. Paul, Minnesota; National Foundation for Infectious Diseases, William Schaffner, MD, Nashville, Tennessee; National Immunization Council 
-
-and Child Health Program, Mexico; Ignacio Villasenor Ruiz, MD, Mexico; National Medical Association, Patricia Whitley-Williams, MD, New Brunswick, 
-
-New Jersey; National Vaccine Advisory Committee, Kimberly Thompson, ScD, Orlando, Florida; Pediatric Infectious Diseases Society, Sean O’Leary, MD, 
-
-Denver, Colorado; Pediatric Infectious Diseases Society Alternate, Mark Sawyer, MD, San Diego, California; Pharmaceutical Research and Manufacturers 
-
-of America, David Johnson, Swiftwater, Pennsylvania; Society for Adolescent Health and Medicine, Amy Middleman, MD, Houston, Texas; Society for 
-
-Healthcare Epidemiology of America, David J. Weber, MD, University of North Carolina, Chapel Hill, North Carolina.
-
-The ACIP Hepatitis Work Group
-
-Membership as of September 16, 2016
-
-Chair: Arthur Reingold, MD, University of California, Berkeley School of Public Health, Berkeley, California
-
-Members: Natali Aziz, MD, MD, Stanford University School of Medicine, Stanford, California; Sharon Balter, MD, New York City Department of Health 
-
-and Mental Hygiene, New York, New York; Elizabeth Barnett, MD, Boston University School of Medicine, Boston, Massachusetts; Kathleen Harriman, 
-
-PhD, California Department of Public Health, Richmond, California; Susan Even, MD, University of Missouri, Columbia, Missouri; Christine Finley, 
-
-Vermont Department of Health, Burlington, Vermont; Robert Frenck, MD, Cincinnati Children’s Hospital Medical Center, Cincinnati, Ohio; Kathleen 
-
-Harriman, PhD, California Department of Public Health, Richmond, California; Susan M. Lett, MD, Massachusetts Department of Public Health, Jamaica 
-
-Plain, Massachusetts; Marian Major, PhD, Food and Drug Administration, Silver Spring, Maryland; Brian McMahon, MD, Alaska Native Tribal Health 
-
-Consortium, Anchorage, Alaska; Amy Middleman, MD, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma; David A. Nace, MD, 
-
-University of Pittsburgh, Pittsburgh, Pennsylvania; Gregory Poland, MD, Mayo Clinic, Rochester, Minnesota; Pamela Rockwell, DO, University of Michigan, 
-
-Ann Arbor, Michigan; José Romero, MD, University of Arkansas for Medical Sciences, Little Rock, Arkansas; Brenna Simons-Petrusa, PhD, Alaska Native 
-
-Tribal Health Consortium, Anchorage, Alaska; Ann Thomas, MD, Oregon Health Authority, Portland, Oregon; David J. Weber, MD, University of North 
-
-Carolina, Chapel Hill, North Carolina, Matthew Zahn, MD, Children’s Hospital of Orange County, Orange, California; Jennifer Zipprich, PhD, California 
-
-Department of Public Health, Richmond, California.
-
-Contributors (CDC): Carolyn Bridges, MD, Maria Cano, MD, Melissa Collier, MD, Mona Doshani, MD, Mark Gershman, MD, Penina Haber, MPH, 
-
-Aaron Harris, MD, Beth Hibbs, MPH, Scott Holmberg, MD, Ruth Jiles, PhD, David Kim, MD, Alaya Koneru, MPH, Noele Nelson, MD, PhD, Sarah 
-
-Schillie, MD, Philip Spradling, MD, Claudia Vellozzi, MD, John Ward, MD, Tureka Watson, MS, Donna L. Weaver, MN, Matthew Wise, PhD.
-
-
-Recommendations and Reports
-
-MMWR / January 12, 2018 / Vol. 67 / No. 1 
-
-31
-
-US Department of Health and Human Services/Centers for Disease Control and Prevention
-
-CDC Adoption of ACIP Recommendations
-
-Recommendations for the routine use of vaccines in children, adolescents, and adults are developed by the Advisory Committee on Immunization Practices 
-
-(ACIP). ACIP is chartered as a federal advisory committee to provide expert external advice and guidance to the Director of CDC on use of vaccines and related 
-
-agents for the control of vaccine-preventable diseases in the civilian population of the United States. Clinical recommendations for routine use of vaccines 
-
-are harmonized to the greatest extent possible with recommendations made by others (e.g., the American Academy of Pediatrics, the American Academy of 
-
-Family Physicians, the American College of Obstetricians and Gynecologists, and the American College of Physicians).
-
-ACIP recommendations adopted by the CDC Director become agency guidelines on the date published in MMWR. The accompanying recommendations 
-
-that summarize the ACIP findings and conclusions were drafted based on the recommendations and revised based on feedback from ACIP voting members. 
-
-The CDC Director approved these recommendations prior to publication. Opinions of individual members of ACIP might differ to some extent from the 
-
-recommendations in this report as these recommendations are the position of CDC based on the ACIP recommendations to the CDC Director. Additional 
-
-information regarding ACIP is available at https://www.cdc.gov/vaccines/acip.
-
-
-
-
-ISSN: 1057-5987 (Print)
-
-The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC) and is available free of 
-
-charge in electronic format. To receive an electronic copy each week, visit MMWR’s free subscription page at https://www.cdc.gov/mmwr/mmwrsubscribe.html. 
-
-Paper copy subscriptions are available through the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402; telephone 
-
-202-512-1800.
-
-Readers who have difficulty accessing this PDF file may access the HTML file at https://www.cdc.gov/mmwr/volumes/67/rr/rr6701a1.htm?s_
-
-cid=rr6701a1_w. Address all inquiries about the MMWR Series, including material to be considered for publication, to Executive Editor, MMWR Series, 
-
-Mailstop E-90, CDC, 1600 Clifton Rd., N.E., Atlanta, GA 30329-4027 or to mmwrq@cdc.gov. 
-
-All material in the MMWR Series is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
-
-Use of trade names and commercial sources is for identification only and does not imply endorsement by the U.S. Department of Health and Human Services.
-
-References to non-CDC sites on the Internet are provided as a service to MMWR readers and do not constitute or imply endorsement of these organizations 
-
-or their programs by CDC or the U.S. Department of Health and Human Services. CDC is not responsible for the content of these sites. URL addresses 
-
-listed in MMWR were current as of the date of publication.
-

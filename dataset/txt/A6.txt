@@ -1,258 +1,3 @@
-
-
-
-
-
-
-
-
-
-C
-
-o
-
-n
-
-q
-
-ue
-
-ri
-
-ng
-
- He
-
-patitis            
-
-          
-
-       
-
-  n
-
-o
-
-w
-
-!
-
-     an oVerView oF
-
-A Roadmap 
-
-for a Cure
-
-Featuring #justB Storytellers
-
-July
-
-2017
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-2
-
-About this Overview
-
-This overview of the research agenda has been condensed from two 
-
-papers: the Hepatitis B Foundation white paper, A Roadmap for 
-
-a Cure: Priority Areas for Chronic Hepatitis B and Liver Cancer 
-
-Research, and the manuscript, A Research Agenda for Curing 
-
-Hepatitis B Virus Infection (submitted for publication). 
-
-The professional judgment budget summary was drawn from an 
-
-analysis of the research priorities identified in the A Roadmap for 
-
-a Cure white paper, then aligned with existing NIH research grant 
-
-mechanisms, funding levels, and duration. The full budget analysis is 
-
-available from the Hepatitis B Foundation. Note that the Professional 
-
-Judgment Budget was prepared by a committee distinct from the 
-
-Research Agenda, and while it is based on the research agenda, the 
-
-budget recommendations have not been reviewed or endorsed by 
-
-the authors of the scientific research agenda. 
-
-Copies of the full-length versions of any of these papers, with 
-
-complete authorship information and citations, are available from 
-
-the Hepatitis B Foundation by emailing info@hepb.org.
-
-The Real Stories featured throughout this document are from the 
-
-Hepatitis B Foundation #JustB Storytelling Project. This project 
-
-creates a national storybank of real people who share their stories 
-
-to put a human face on this serious disease; decrease stigma and 
-
-discrimination; and promote testing, immunization and treatment 
-
-for hepatitis B to save lives. Stories are used with permission.  
-
-For complete stories see www.hepb.org/justB.
-
-About the  
-
-hepAtitis b FoundAtion  
-
-And the bAruch s. blumberg 
-
-institute
-
-the hepatitis b Foundation is a national 
-
-nonprofit organization dedicated to 
-
-finding a cure and improving the quality 
-
-of life for those affected by hepatitis b 
-
-worldwide, through research, education, 
-
-and patient advocacy. the baruch s. 
-
-blumberg institute, established in 2003 by 
-
-the hepatitis b Foundation, is the nation’s 
-
-leading nonprofit research organization 
-
-dedicated to hepatitis b and liver cancer 
-
-worldwide. Visit www.hepb.org and 
-
-blumberginstitute.org.
-
-boArd oF directors
-
-chairman: Joel rosen, esq.
-
-president: timothy m. block, phd
-
-Vice president: catharine Williams, mgA
-
-treasurer: Joseph hediger
-
-secretary: Janine Witte
-
-stanley broadbent
-
-nathaniel brown, md
-
-Alan brownstein, mph
-
-loren danzis, esq.
-
-craig esterly
-
-Anthony Ford-hutchinson, phd
-
-thomas shenk, phd
-
-Walter tsou, md, mph
-
-Wayne Yetter
-
-scientiFic And medicAl AdVisors
-
-harvey Alter, md 
-
-timothy m. block, phd
-
-nathaniel brown, md
-
-carol brosgart, md
-
-Francis chisari, md
-
-raymond dwek, dphil, Frs
-
-lawrence Friedman, md
-
-robert gish, md
-
-hie-Won l. hann, md
-
-William mason, phd
-
-brian mcmahon, md
-
-robert perrillo, md
-
-Kenneth rothstein, md
-
-raymond schinazi, phd
-
-thomas shenk, phd
-
-in memoriAm
-
-baruch blumberg, md, dphil (2011)
-
-W. thomas london, md (2017)
-
-bud tennant, dVm (2016) 
-
-C
-
-o
-
-n
-
-q
-
-ue
-
-ri
-
-ng
-
- Hep
-
-atitis        
-
-          
-
-        
-
-   n
-
-o
-
-w
-
-!
-
-     an oVerView oF
-
-A Roadmap 
-
-for a Cure
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
 Foreword
 
 In 2016, the World Health Organization and the U.S. National Academies 
@@ -302,95 +47,6 @@ worldwide, and because recent advances in technology surrounding
 the problem make this a winnable battle. Indeed, there is an increasing 
 
 optimism in the scientific community that a cure is possible.
-
-
-
-Timothy M. Block, Ph.D.
-
-President, Hepatitis B Foundation and the  
-
-Baruch S. Blumberg Institute
-
-AcKnoWledgements 
-
-research Agenda: the hepatitis b 
-
-Foundation (hbF) wishes to thank all 
-
-of those who participated in the “virtual 
-
-workshop” leading to the development of 
-
-the scientific research Agenda, including 
-
-(alphabetically): harvey Alter, timothy 
-
-block, nathaniel brown, Alan brownstein, 
-
-carol brosgart, Kyong-mi chang, pei-Jer 
-
-chen, Francis V. chisari, chari cohen, 
-
-hashem el-serag, Jordan Feld, robert 
-
-gish, Jeffrey glenn, tim greten, haitao 
-
-guo, Ju-tao guo, Yujin hoshida, Jianming 
-
-hu, Kris Kowdley, Wenhui li, Jake liang, 
-
-stephen locarnini, Anna s. lok, William 
-
-mason, brian mcmahon, Anand mehta, 
-
-robert perrillo, peter revill, charles m. 
-
-rice, JoAnn rinaudo, raymond schinazi, 
-
-christoph seeger, Kirti shetty, John tavis, 
-
-and Fabien Zoulim.
-
-professional Judgment budget: the 
-
-Foundation also acknowledges 
-
-(alphabetically) timothy block, Alan 
-
-brownstein, chari cohen, J. michael hall, 
-
-and Alyson lewis for development of the 
-
-professional judgment budget. 
-
-hbF is indebted to the individuals affected 
-
-by hbV infection who were willing to 
-
-share their personal stories, which are 
-
-included in this report.
-
-hbF also wishes to acknowledge theresa 
-
-m. Wizemann, Alan brownstein and 
-
-Jenny Kimbel for the preparation of this 
-
-overview of the research agenda.
-
-
-
-3
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-4
 
 The Public Health Consequences  
 
@@ -454,13 +110,7 @@ associated liver cancer remains very low, about 16 percent (Cohen, 2011;
 
 McMahon, 2015; Ryerson, 2016).
 
-“ I think a breakthrough is going to happen in the next few years. We have to 
 
-figure out how to attack each step of the hepatitis B virus life cycle so that we can 
-
-develop new drugs that will be more effective than the ones we currently have.”
-
-Anna Lok, M.D.
 
 President of the American Association for the Study of Liver Diseases (AASLD), 2017
 
@@ -515,15 +165,6 @@ of Asian and Pacific Islander
 descent. Also at high risk  
 
 are African immigrants.
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-5
 
 Finding a cure for both hepatitis B and 
 
@@ -635,87 +276,6 @@ there is no cure for
 
 hepatitis B.
 
-2,000,000– 
-
-1,500,000–
-
-1,000,000–
-
-500,000–
-
-0–
-
-# of  
-
-Chronic HBV 
-
-Infections
-
-# Aware  
-
-of their  
-
-Infections
-
-# Potentially
-
-Eligible for
-
-Treatment
-
-# Entering  
-
-into  
-
-Care
-
-# of  
-
-Annual HBV 
-
-Prescriptions
-
-1.4- 
-
-2M
-
-400,000-
-
-600,000
-
-LOW
-
-Estimate
-
-HIGH
-
-Estimate
-
-350,000-
-
-500,000
-
-200,000-
-
-300,000
-
-50,000
-
-HBV GrADIENT FroM INFECTIoN To CArE
-
-cohen, 2011. reprint with permission.
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-6
-
-
-
 Broad Areas for Priority Research Action
 
 The research agenda developed by the experts is organized into six broad areas 
@@ -784,7 +344,7 @@ and host functions
 
 influencing the viral  
 
-life cycle
+life cycle.
 
 Immunology
 
@@ -798,7 +358,7 @@ acute, chronic, and
 
 resolved infections, 
 
-and reactivation
+and reactivation.
 
 Viral
 
@@ -820,7 +380,7 @@ selectively repress
 
 or eliminate hbV in 
 
-infected cells
+infected cells.
 
 Liver Cancer
 
@@ -828,7 +388,7 @@ improve understanding
 
 of molecular pathways 
 
-leading to liver cancer
+leading to liver cancer.
 
 Liver Cancer
 
@@ -848,7 +408,7 @@ early detection and
 
 management of the 
 
-cancer
+cancer.
 
 Combined
 
@@ -864,7 +424,7 @@ for the purposes of
 
 drug discovery and 
 
-development
+development.
 
 • establish new, and expand 
 
@@ -876,7 +436,7 @@ collaborative networks for
 
 basic science discovery 
 
-and validations
+and validations.
 
 • establish new, and expand 
 
@@ -886,20 +446,9 @@ networks for therapeutic
 
 drug testing and validation, 
 
-nationally and globally
+nationally and globally.
 
-Broad Areas of Research
-
-Table 1
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-7
+Broad Areas of Research.
 
 It is cccDNA that is the source of rebounding virus levels after stopping antiviral 
 
@@ -988,23 +537,6 @@ the leading causes of death in my country. so many people have died and many oth
 awaiting their turns because of lack of a cure to save lives. i’m optimistic that one day a cure 
 
 for hbV will be found.”
-
-Kenson, 53
-
-Honolulu, Hawaii
-
-www.hepb.org/justb/kenson
-
-
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-8
 
 Hepatitis D Virology parallels HBV virology. Approximately 15 to 25 million people 
 
@@ -1118,16 +650,7 @@ and the incidence of both is
 
 growing at an alarming rate 
 
-in the U.S. and worldwide
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-9
+in the U.S. and worldwide.
 
 Investment for a Cure: 
 
@@ -1183,11 +706,11 @@ the positive health outcomes if a cure for hepatitis B were in place.
 
 the health consequences of chronic HBV will be staggering – see column A,  
 
-Table 2 (NASEM, 2017)
+Table 2 (NASEM, 2017).
 
 •  If by 2030, there is substantial improvement in treatment, outreach and 
 
-diagnosis, the health outcomes are summarized in column B (WHO, 2016) 
+diagnosis, the health outcomes are summarized in column B (WHO, 2016).
 
 “ 15 years ago i adopted a beautiful chinese baby who was hepatitis b positive. Although my 
 
@@ -1207,25 +730,6 @@ Why an HBV cure is important to me: An hbV cure is important to me because it wi
 
 daughters to enjoy their strength and energy, free from the shadow of a chronic condition.”
 
-
-
-Maureen, 63
-
-West Roxbury, Massachusetts
-
-www.hepb.org/justb/maureen
-
-9
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
-10
-
 •  If by 2030, there is a cure, chronic HBV would be largely eliminated, assuming that 
 
 10% of current rate of disease and death would remain primarily due to lack of 
@@ -1234,66 +738,6 @@ access to therapeutic cure, small percent who do not respond to treatment and fo
 
 those whose disease progression is beyond the range of treatment – see column C.
 
-Table 2: Projected Health Outcomes for 2,000,000 Americans with 
-
-Chronic HBV by 2030 using Three Levels of Diagnosis and Treatment: 
-
-Current Level, Substantially Improved, HBV Cure.*
-
- 
-
- 
-
-A)  Current  
-
-B) Substantially C) HBV Cure
-
- 
-
- 
-
- Level 
-
-Improved 
-
- 
-
-Death 
-
-188,000 
-
-93,210 
-
-18,800
-
- 
-
-Liver Cancer 
-
-120,000 
-
-78,204 
-
-12,000
-
- 
-
-Cirrhosis 
-
-206,200 
-
-114,088 
-
-20,620
-
- 
-
- 
-
- 
-
-      *Adapted from NASEM, Toy, 2017
-
 Economic Outcomes±
 
 Aside from the human toll described above, the economic burden of chronic HBV 
@@ -1301,8 +745,6 @@ Aside from the human toll described above, the economic burden of chronic HBV
 needs to be considered. One measure is the enormous costs associated with treating 
 
 HBV as summarized in Table 3. 
-
-Table 3: Sample Costs Per Patient for Treating Chronic HBV
 
 The human and economic costs described provide compelling evidence for the 
 
@@ -1318,44 +760,9 @@ of curing HBV such as cost-benefit, incremental cost-effectiveness ratio (ICER) 
 
 (QALY) analyses. 
 
-Liver Transplant  
-
-– charges  
-
-(UNOS, 2014)
-
-Liver Cancer 
-
-(NASEM, Toy, 2017)
-
-FDA Approved Drugs, 
-
-e.g. Entecavir, Tenofovir 
-
-(NASEM, Toy, 2017)
-
-$739,000
-
-$46,538 (annual)
-
-$232,690 
-
-(lifetime average)
-
-$8,400-$16,464 
-
-(annual)
-
-
-Conquering Hepatitis B now! an overview of a roadmap for a Cure
-
-Hepatitis B Foundation – Baruch S. Blumberg Institute • 3805 Old Easton Road • Doylestown, PA 18902 • www.hepb.org 
-
-©2017
-
 Moving Forward 
 
-Conquering Hepatitis B Now! –  
+Conquering Hepatitis B Now!
 
 The Facts
 
@@ -1495,179 +902,6 @@ fully cured, i don’t just want to sero-convert and still be tested and observe
 
 others to be cured and not have to worry about it possibly becoming chronic.”
 
-
-
-Jinqiu, 23
-
-New England
-
-www.hepb.org/justb/jin
-
-It is now time to meet the challenge for hepatitis B — this can be achieved with the 
-
-Hepatitis B Foundation’s Roadmap for a Cure as a guide for a trans-NIH coordinated 
-
-research effort.
-
-11
-
-
-References
-
-Bertoletti A, Kennedy PT. The immune tolerant phase of 
-
-chronic HBV infection: new perspectives on an old concept. 
-
-Cell Mol Immunol. 2015;12:258-263.
-
-Block TM, Gish R, Guo H, Mehta A, Cuconati A, London WT, 
-
-et al. Chronic hepatitis B: what should be the goal for new 
-
-therapies? Antiviral Res. 2013;98(1):27-34.
-
-CDC (Centers for Disease Control and Prevention. 2017. 
-
-Hepatitis B Information. https://www.cdc.gov/hepatitis/hbv/ 
-
-(accessed May 5, 2017).
-
-Cohen, C., Holmberg, S., McMahon, B. J., Block, J. M., Brosgart, C. 
-
-L., et al. Is chronic hepatitis B being undertreated in the United 
-
-States? Journal of Viral Hepatitis. 2011;18:377-383.
-
-Chisari FV, Ferrari C. Hepatitis B virus immunopathogenesis. 
-
-Annu Rev Immunol. 1995;13:29-60.
-
-Guo, J-T, Guo H. Metabolism and function of hepatitis B virus 
-
-cccDNA: Implications for the development of cccDNA-targeting 
-
-antiviral therapeutics. Antiviral Res. 2015;122:91-100.
-
-HHS (U.S. Department of Health and Human Services). 2014. 
-
-Action plan for the prevention, care, and treatment of viral 
-
-hepatitis. Washington, DC: Department of Health and Human 
-
-Services. https://www.aids.gov/pdf/viral-hepatitis-action-
-
-plan.pdf
-
-Hughes SA, Wedemeyer H, Harrison PM. Hepatitis delta virus. 
-
-Lancet. 2011;378(9785):73-85.
-
-Kim BK, Revill PA, Ahn SH. HBV genotypes: relevance to 
-
-natural history, pathogenesis and treatment of chronic 
-
-hepatitis B. Antiviral Ther. 2011;16(8):1169-1186
-
-Liang TJ, Block TM, McMahon BJ, Ghany MG, Urban S, Guo JT, et 
-
-al. Present and future therapies of hepatitis B: From discovery 
-
-to cure. Hepatology. 2015;62(6):1893-1908.
-
-Lok AS, McMahon BJ, Brown RS, Jr, Wong JB, Ahmed AT, Farah 
-
-W, et al. Antiviral therapy for chronic hepatitis B viral infection 
-
-in adults: A systematic review and meta-analysis. Hepatology. 
-
-2016;63(1):284-306.
-
-McMahon B, Block J, Block T, Cohen C, Evans AA et. al. 
-
-Hepatitis-Associated Liver Cancer: Gaps and Opportunities to 
-
-Improve Care. J Natl Cancer Inst. 2015;108(4):1-6.
-
-McMahon BJ. Natural History of Chronic Hepatitis B. Clin Liver 
-
-Dis. 2016;14(3):381-396.
-
-McMahon BJ, Bulkow L, Simons B, Zhang Y, Negus S, Homan 
-
-C, et al. Relationship between level of hepatitis B virus DNA 
-
-and liver disease: a population-based study of hepatitis B e 
-
-antigen–negative persons with hepatitis B. Clin Gastroenterol 
-
-Hepatol. 2014;12(4):701-706.
-
-NASEM (National Academies of Sciences, Engineering, and 
-
-Medicine). 2016. Eliminating the public health problem 
-
-of hepatitis B and C in the United States: Phase one report. 
-
-Washington, DC: The National Academies Press.  
-
-https://www.nap.edu/read/23407/chapter/1
-
-NASEM. 2017. Eliminating the public health problem of 
-
-hepatitis B and C in the United States: Phase two report. 
-
-Washington, DC: The National Academies Press. Chapter 2. 
-
-https://www.nap.edu/read/24731/chapter/1
-
-Noureddin M, Gish R. Hepatitis delta: epidemiology, diagnosis 
-
-and management 36 years after discovery. Curr Gastroenterol 
-
-Rep. 2014;16(1):365.
-
-Revill P, Testoni B, Locarnini S, Zoulim F. Global strategies  
-
-are required to cure and eliminate HBV infection. Nat Rev  
-
-Gastroenterol Hepatol. 2016;13(4):239-248. https://
-
-www.nature.com/nrgastro/journal/v13/n4/pdf/
-
-nrgastro.2016.7.pdf
-
-Ryerson BA, Eheman CR, Altekruse SF, Ward JW, Jemal A, 
-
-et al. Annual Report to the Nation on the Status of Cancer, 
-
-1975-2012, featuring the increasing incidence of liver Cancer. 
-
-Cancer. 2016; 22(9):1312-1337. https://www.ncbi.nlm.nih.
-
-gov/pmc/articles/PMC4840031/
-
-Seeger C, Mason WS. Molecular biology of hepatitis B virus 
-
-infection. Virology. 2015;479-480:672-686.
-
-Weinbaum, C. M., Williams, I., Mast, E. E., Wang, S. A., Finelli, 
-
-L., et al. Recommendations for identification and public 
-
-health management of persons with chronic hepatitis B virus 
-
-infection. MMWR Recomm Rep. 2008;57(RR-8):1-20. https://
-
-www.cdc.gov/mmwr/preview/mmwrhtml/rr5708a1.htm
-
-WHO (World Health Organization). Combating hepatitis B 
-
-and C to reach elimination by 2030. 2016. Available from:  
-
-http://apps.who.int/iris/bitstream/10665/206453/1/WHO_
-
-HIV_2016.04_eng.pdf
-
 “ After receiving my diagnosis, i struggled to find any hepatitis b specialists in my hometown 
 
 in Kansas. the first doctor who treated me had very little experience with hepatitis b/hiV co-
@@ -1689,16 +923,3 @@ to take in. it’s a battle. every time i feel a pain on the right side of my ab
 “is it liver cancer?” it’s a paranoid way to live. Without a cure, this is a struggle.  
 
 A cure is like saying to me, “i’m Free to live.””
-
-
-
-Jason, 44
-
-Leavenworth, Kansas
-
-www.hepb.org/justb/jason
-
-3805 Old Easton Road, Doylestown, PA 18902    Phone: (215) 489-4900    Fax: (215) 489-4920  
-
-Email: info@hepb.org    Visit www.hepb.org and www.blumberginstitute.org
-

@@ -364,7 +364,7 @@ cGy to 500 cGy and typically involves between 12 and 20
 
 fractions. Ultrahypofractionation is deﬁned as EBRT with a
 
-fraction size &gt;500 cGy and typically involves ≤10 fractions.
+fraction size >500 cGy and typically involves ≤10 fractions.
 
 Stereotactic body radiation therapy (SBRT) or stereotactic
 
@@ -737,7 +737,7 @@ conﬁned HCC without MVI. However, a noninferiority
 
 RCT from Korea published in 2021 randomized patients
 
-with recurrent HCC (size &lt;3 cm, number ≤2) to either
+with recurrent HCC (size <3 cm, number ≤2) to either
 
 RFA or proton therapy.60 The results of this trial could
 
@@ -823,7 +823,7 @@ ablation would be technically suboptimal include lack of
 
 ultrasound echogenicity/visibility, relatively large tumor
 
-size (&gt;3 cm), and tumor location in close proximity to
+size (>3 cm), and tumor location in close proximity to
 
 the diaphragm, gallbladder, or large vessel that may result
 
@@ -889,7 +889,7 @@ bination sequential therapy of SBRT and TACE, biologi-
 
 cally effective dose assuming an a/b = 10 (BED10)
 
-&gt;10,000 cGy, and an equivalent dose in 200 cGy per frac-
+>10,000 cGy, and an equivalent dose in 200 cGy per frac-
 
 tion of ≥7400 cGy were signiﬁcant prognostic factors for
 
@@ -1131,7 +1131,7 @@ versus
 
 2-year OS (15% versus 8%).48 On multivariate analy-
 
-ses, BED10 &gt;6500 cGy, alpha-fetoprotein &lt;200 ngmL,
+ses, BED10 >6500 cGy, alpha-fetoprotein <200 ngmL,
 
 single
 
@@ -1290,7 +1290,7 @@ meta-analyses of hypofractionated EBRT to vascular
 
 tumor thrombi involving the inferior vena cava and/or
 
-right atrium have exhibited LC rates of &gt;90% at 1
+right atrium have exhibited LC rates of >90% at 1
 
 year
 
@@ -1652,7 +1652,7 @@ has been demonstrated, with decreasing LC as a function
 
 of increasing tumor size, suggesting a potential need for
 
-more intense dose escalation for tumors &gt;3 to 5 cm in
+more intense dose escalation for tumors >3 to 5 cm in
 
 size.43,97
 
@@ -1756,13 +1756,13 @@ were treated with doses stratiﬁed by tumor proximity to
 
 GI structures, which yielded a 5-year LC rate of 95%:
 
-peripheral tumors &gt;2 cm from GI structures were treated
+peripheral tumors >2 cm from GI structures were treated
 
-to 6600 cGy in 10 fractions, tumors &lt;2 cm from the porta
+to 6600 cGy in 10 fractions, tumors <2 cm from the porta
 
 hepatis were treated to 7260 cGy in 22 fractions, and cen-
 
-tral tumors located &lt;2 cm from GI structures were treated
+tral tumors located <2 cm from GI structures were treated
 
 to 7700 cGy in 35 fractions.58,59 North American data for
 
@@ -2076,7 +2076,7 @@ and
 
 beyond.92,93,99,108 The moderate hypofractionation lit-
 
-erature using &gt;10 fractions has not historically sepa-
+erature using >10 fractions has not historically sepa-
 
 rated patients out by these criteria, although most
 
@@ -2152,7 +2152,7 @@ sectable disease, systemic therapy is the mainstay of treat-
 
 ment.123 However, historical median OS and intrahepatic
 
-PFS rates are &lt;1 year after chemotherapy alone.115,118,120
+PFS rates are <1 year after chemotherapy alone.115,118,120
 
 After induction chemotherapy, the rationale for consider-
 
@@ -2258,7 +2258,7 @@ survival with trends in OS improvement.121,122 In one ret-
 
 rospective study, among patients with higher risk “nar-
 
-row” (&lt;1.0 cm) margin status, adjuvant EBRT was
+row” (<1.0 cm) margin status, adjuvant EBRT was
 
 associated with improved 3-year intra- and extrahepatic
 
@@ -2364,7 +2364,7 @@ BED10
 
 of
 
-&gt;8050
+>8050
 
 cGy.114,119
 
@@ -2391,7 +2391,7 @@ higher
 
 maximum
 
-BED10 values (&gt;91 Gy10) were associated with improved
+BED10 values (>91 Gy10) were associated with improved
 
 LC and OS. High-grade toxicities were uncommon in all
 
