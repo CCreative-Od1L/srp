@@ -1,1 +1,2282 @@
-{"Hepatitis B Virus Infection": {"type": "disease"}, "Hepatitis B": {"type": "disease"}, "HBV infection": {"type": "disease", "alias": ["HBV Infection"]}, "end-stage liver disease": {"type": "disease"}, "liver cirrhosis": {"type": "disease", "alias": ["Liver cirrhosis"]}, "hepatocellular carcinoma": {"type": "disease"}, "HCC": {"type": "disease"}, "hepatitis": {"type": "disease"}, "serum hepatitis": {"type": "disease"}, "\u201cAustralian antigen\u201d": {"type": "genetic"}, "he": {"type": "disease"}, "patitis": {"type": "disease"}, "Australian antigen": {"type": "genetic"}, "HBV surface antigen": {"type": "genetic"}, "HBsAg": {"type": "genetic"}, "n": {"type": "chemical"}, "uc": {"type": "chemical"}, "leo": {"type": "chemical"}, "HBV immuno-globulins": {"type": "genetic"}, "HBsAg gene": {"type": "genetic"}, "HBsAg protein": {"type": "genetic"}, "anti-HBs": {"type": "genetic"}, "HBeAg": {"type": "genetic"}, "anti-HBe": {"type": "genetic"}, "anti-HBc": {"type": "genetic"}, "interferon-\u03b1": {"type": "genetic"}, "lamivudine": {"type": "chemical"}, "nucleos(t)ide": {"type": "chemical"}, "anti-HBV": {"type": "genetic"}, "pegylated IFN": {"type": "chemical"}, "Peg-IFN": {"type": "chemical"}, "entecavir": {"type": "chemical"}, "ETV": {"type": "chemical"}, "tenofovir disoproxil fumarate": {"type": "chemical"}, "TDF": {"type": "chemical"}, "hepatic inflammation": {"type": "disease"}, "viral infection": {"type": "disease"}, "infected with HBV": {"type": "disease"}, "liver disease": {"type": "disease"}, "chronic hepatitis B": {"type": "disease"}, "CHB": {"type": "disease"}, "infection": {"type": "disease"}, "HBV- infected": {"type": "disease"}, "inflammation": {"type": "disease"}, "fi": {"type": "disease"}, "brosis": {"type": "disease"}, "ALT": {"type": "genetic"}, "HBV-infected": {"type": "disease"}, "liver injury": {"type": "disease"}, "cirrhosisis": {"type": "disease"}, "cirrhosis": {"type": "disease"}, "c": {"type": "disease", "alias": ["C"]}, "irrhot": {"type": "disease"}, "irrhotic": {"type": "disease"}, "death": {"type": "disease"}, "envelopeproteins": {"type": "genetic"}, "core": {"type": "genetic"}, "PreS1 promoter": {"type": "genetic"}, "PreS2/S promoter": {"type": "genetic"}, "X promoter": {"type": "genetic"}, "EnhI": {"type": "genetic"}, "EnhII": {"type": "genetic"}, "5 kb PreC/C mRNA": {"type": "genetic"}, "4 kb PreS1 mRNA": {"type": "genetic"}, "PreS2/S": {"type": "genetic"}, "7 kb X mRNA": {"type": "genetic"}, "PreC/C ORF": {"type": "genetic"}, "HBcAg": {"type": "genetic"}, "P ORF": {"type": "genetic"}, "HBV DNA polymerase": {"type": "genetic"}, "PreS/S ORF": {"type": "genetic"}, "X ORF": {"type": "genetic"}, "X protein": {"type": "genetic"}, "HBx": {"type": "genetic"}, "rcDNA": {"type": "genetic"}, "sodium": {"type": "chemical"}, "L protein": {"type": "genetic"}, "sodium-taurocholatecotransporting polypeptide": {"type": "genetic"}, "NTCP": {"type": "genetic"}, "host RNA polymerase II": {"type": "genetic"}, "DNA polymerase": {"type": "genetic"}, "pgRNA": {"type": "genetic"}, "pgRNA-polymerase ribonucleoprotein": {"type": "genetic"}, "RNP": {"type": "genetic"}, "core antigen polypeptide dimer": {"type": "genetic"}, "envelope protein": {"type": "genetic"}, "HSPG": {"type": "genetic"}, "HBV promoter": {"type": "genetic"}, "HBV genomic enhancer I": {"type": "genetic"}, "EnhI/Xp": {"type": "genetic"}, "enhancer II": {"type": "genetic"}, "EnhII/Cp": {"type": "genetic"}, "HBV EnhI": {"type": "genetic"}, "X": {"type": "genetic"}, "SP": {"type": "genetic"}, "Xp": {"type": "genetic"}, "C/EBP": {"type": "genetic"}, "P53": {"type": "genetic"}, "IRF": {"type": "genetic"}, "NF1": {"type": "genetic"}, "HNF3": {"type": "genetic"}, "HNF4": {"type": "genetic"}, "RXR": {"type": "genetic"}, "PPAR": {"type": "genetic"}, "COUPTF": {"type": "genetic"}, "RFX1": {"type": "genetic"}, "AP1": {"type": "genetic"}, "CREB": {"type": "genetic"}, "ATF2": {"type": "genetic"}, "Cp": {"type": "genetic"}, "SP1": {"type": "genetic"}, "FTF": {"type": "genetic"}, "HLF": {"type": "genetic"}, "E4BP4": {"type": "genetic"}, "COUPTF1": {"type": "genetic"}, "ARP1": {"type": "genetic"}, "patom": {"type": "disease"}, "a": {"type": "disease"}, "FXR": {"type": "genetic"}, "LRH1": {"type": "genetic"}, "PGC1": {"type": "genetic"}, "CBP": {"type": "genetic"}, "SRC1": {"type": "genetic"}, "PRMT1": {"type": "genetic"}, "SBP": {"type": "genetic"}, "APOBEC3B": {"type": "genetic"}, "PRMT5": {"type": "genetic"}, "PRKAA": {"type": "genetic"}, "AMPK": {"type": "genetic"}, "viral protein HBx": {"type": "genetic"}, "calcium": {"type": "chemical"}, "Pyk2": {"type": "genetic"}, "FAK": {"type": "genetic"}, "SMC5/6": {"type": "genetic"}, "liver inflammation": {"type": "disease"}, "re": {"type": "chemical"}, "tinoic acid": {"type": "chemical"}, "Toll-like receptors": {"type": "genetic"}, "retinoic acid receptors": {"type": "genetic"}, "im": {"type": "disease"}, "munity": {"type": "disease"}, "IFN\u03b1": {"type": "genetic"}, "IFN-\u03b1": {"type": "genetic"}, "Major histo-compatibility complex (MHC) class I": {"type": "genetic"}, "IFN-\u03b3": {"type": "genetic"}, "IF": {"type": "genetic"}, "IFN-\u03b1-2a": {"type": "genetic"}, "IFN-\u03b1-2b": {"type": "genetic"}, "IFN-\u03b1-1b": {"type": "genetic"}, "irrhosis": {"type": "disease"}, "IFN": {"type": "genetic"}, "Peg": {"type": "chemical"}, "P": {"type": "chemical"}, "Peg-IFN-\u03b1-2a": {"type": "genetic"}, "Peg-IFN-\u03b1-2b": {"type": "chemical"}, "LAM": {"type": "chemical"}, "liver diseases": {"type": "disease"}, "adefovir dipivoxil": {"type": "chemical"}, "ADV": {"type": "chemical"}, "ne": {"type": "disease"}, "phrotoxicity": {"type": "disease"}, "AD": {"type": "chemical"}, "Telbivudine": {"type": "chemical"}, "LdT": {"type": "chemical"}, "nucleoside": {"type": "chemical"}, "T": {"type": "chemical"}, "fibrosis": {"type": "disease"}, "Tenofovir alafenamide": {"type": "chemical"}, "TAF": {"type": "chemical"}, "bone and renal abnormalities": {"type": "disease"}, "Peg- IFN": {"type": "chemical"}, "Peg-IFN (2": {"type": "genetic"}, "Peg-IF": {"type": "chemical"}, "ET": {"type": "chemical"}, "Peg-IFN-\u03b12a": {"type": "genetic"}, "HBV polymerase": {"type": "genetic"}, "ribonuclease H": {"type": "genetic"}, "RNaseH": {"type": "genetic"}, "retinoic acid": {"type": "chemical"}, "nucleotide": {"type": "chemical"}, "TLR-7": {"type": "genetic"}, "TLR-8": {"type": "genetic"}, "retinoic acid-inducible gene 1": {"type": "genetic"}, "RIG-1": {"type": "genetic"}, "nucleotide-binding oligomerization domain protein 2": {"type": "genetic"}, "NOD-2": {"type": "genetic"}, "programmed death receptor 1": {"type": "genetic"}, "PD-1": {"type": "genetic"}, "NTCP receptor": {"type": "genetic"}, "TALENs": {"type": "genetic"}, "Cas9": {"type": "genetic"}, "CRIS": {"type": "genetic"}, "Cas": {"type": "genetic"}, "viral anti-gen": {"type": "genetic"}, "ARC-520": {"type": "chemical"}, "NVR 3\u2013778": {"type": "chemical"}, "JNJ-6379": {"type": "chemical"}, "GLS4": {"type": "chemical"}, "ABI-H0731": {"type": "chemical"}, "Besifovir": {"type": "chemical"}, "LB80380": {"type": "chemical"}, "BSV": {"type": "chemical"}, "ucleotide": {"type": "chemical"}, "CMX157": {"type": "chemical"}, "REP2139": {"type": "chemical"}, "REP2165": {"type": "chemical"}, "CH": {"type": "disease"}, "Toll-like receptor 7": {"type": "genetic"}, "programmed cell death-1": {"type": "genetic"}, "anti-PD-1 antibody": {"type": "genetic"}}
+{
+    "Hepatitis B Virus Infection": {
+        "type": "disease",
+        "alias": [
+            "hepatitis B virus infection"
+        ]
+    },
+    "Hepatitis B": {
+        "type": "disease",
+        "alias": [
+            "hepatitis B",
+            "hepatitis b"
+        ]
+    },
+    "HBV infection": {
+        "type": "disease",
+        "alias": [
+            "HBV Infection"
+        ]
+    },
+    "end-stage liver disease": {
+        "type": "disease",
+        "alias": [
+            "End-Stage Liver Disease"
+        ]
+    },
+    "liver cirrhosis": {
+        "type": "disease",
+        "alias": [
+            "Liver cirrhosis"
+        ]
+    },
+    "hepatocellular carcinoma": {
+        "type": "disease",
+        "alias": [
+            "Hepatocellular Carcinoma"
+        ]
+    },
+    "HCC": {
+        "type": "disease"
+    },
+    "hepatitis": {
+        "type": "disease",
+        "alias": [
+            "Hepatitis"
+        ]
+    },
+    "serum hepatitis": {
+        "type": "disease"
+    },
+    "Australian antigen": {
+        "type": "genetic"
+    },
+    "HBV surface antigen": {
+        "type": "genetic"
+    },
+    "HBsAg": {
+        "type": "genetic"
+    },
+    "nucleo": {
+        "type": "chemical"
+    },
+    "HBV immuno-globulins": {
+        "type": "genetic"
+    },
+    "HBsAg gene": {
+        "type": "genetic"
+    },
+    "HBsAg protein": {
+        "type": "genetic"
+    },
+    "anti-HBs": {
+        "type": "genetic",
+        "alias": [
+            "Anti-HBs"
+        ]
+    },
+    "HBeAg": {
+        "type": "genetic"
+    },
+    "anti-HBe": {
+        "type": "genetic",
+        "alias": [
+            "Anti-HBe"
+        ]
+    },
+    "anti-HBc": {
+        "type": "genetic",
+        "alias": [
+            "Anti-HBc"
+        ]
+    },
+    "interferon-α": {
+        "type": "genetic"
+    },
+    "lamivudine": {
+        "type": "chemical"
+    },
+    "anti-HBV": {
+        "type": "genetic"
+    },
+    "pegylated IFN": {
+        "type": "chemical"
+    },
+    "Peg-IFN": {
+        "type": "chemical"
+    },
+    "entecavir": {
+        "type": "chemical"
+    },
+    "ETV": {
+        "type": "chemical"
+    },
+    "tenofovir disoproxil fumarate": {
+        "type": "chemical"
+    },
+    "TDF": {
+        "type": "chemical"
+    },
+    "hepatic inflammation": {
+        "type": "disease"
+    },
+    "viral infection": {
+        "type": "disease"
+    },
+    "infected with HBV": {
+        "type": "disease"
+    },
+    "liver disease": {
+        "type": "disease",
+        "alias": [
+            "Liver Disease"
+        ]
+    },
+    "chronic hepatitis B": {
+        "type": "disease"
+    },
+    "CHB": {
+        "type": "disease"
+    },
+    "infection": {
+        "type": "disease"
+    },
+    "inflammation": {
+        "type": "disease"
+    },
+    "ALT": {
+        "type": "genetic"
+    },
+    "HBV-infected": {
+        "type": "disease"
+    },
+    "liver injury": {
+        "type": "disease"
+    },
+    "cirrhosisis": {
+        "type": "disease"
+    },
+    "cirrhosis": {
+        "type": "disease"
+    },
+    "cirrhot": {
+        "type": "disease",
+        "alias": [
+            "Cirrhot"
+        ]
+    },
+    "death": {
+        "type": "disease"
+    },
+    "envelopeproteins": {
+        "type": "genetic"
+    },
+    "core": {
+        "type": "genetic"
+    },
+    "PreS1 promoter": {
+        "type": "genetic"
+    },
+    "PreS2/S promoter": {
+        "type": "genetic"
+    },
+    "X promoter": {
+        "type": "genetic"
+    },
+    "EnhI": {
+        "type": "genetic"
+    },
+    "EnhII": {
+        "type": "genetic"
+    },
+    "5 kb PreC/C mRNA": {
+        "type": "genetic"
+    },
+    "4 kb PreS1 mRNA": {
+        "type": "genetic"
+    },
+    "PreS2/S": {
+        "type": "genetic"
+    },
+    "7 kb X mRNA": {
+        "type": "genetic"
+    },
+    "PreC/C ORF": {
+        "type": "genetic"
+    },
+    "HBcAg": {
+        "type": "genetic"
+    },
+    "P ORF": {
+        "type": "genetic"
+    },
+    "HBV DNA polymerase": {
+        "type": "genetic"
+    },
+    "PreS/S ORF": {
+        "type": "genetic"
+    },
+    "X ORF": {
+        "type": "genetic"
+    },
+    "X protein": {
+        "type": "genetic"
+    },
+    "HBx": {
+        "type": "genetic"
+    },
+    "rcDNA": {
+        "type": "genetic"
+    },
+    "sodium": {
+        "type": "chemical"
+    },
+    "L protein": {
+        "type": "genetic"
+    },
+    "sodium-taurocholatecotransporting polypeptide": {
+        "type": "genetic"
+    },
+    "NTCP": {
+        "type": "genetic"
+    },
+    "host RNA polymerase II": {
+        "type": "genetic"
+    },
+    "DNA polymerase": {
+        "type": "genetic"
+    },
+    "pgRNA": {
+        "type": "genetic"
+    },
+    "pgRNA-polymerase ribonucleoprotein": {
+        "type": "genetic"
+    },
+    "RNP": {
+        "type": "genetic"
+    },
+    "core antigen polypeptide dimer": {
+        "type": "genetic"
+    },
+    "envelope protein": {
+        "type": "genetic"
+    },
+    "HSPG": {
+        "type": "genetic"
+    },
+    "HBV promoter": {
+        "type": "genetic"
+    },
+    "HBV genomic enhancer I": {
+        "type": "genetic"
+    },
+    "EnhI/Xp": {
+        "type": "genetic"
+    },
+    "enhancer II": {
+        "type": "genetic"
+    },
+    "EnhII/Cp": {
+        "type": "genetic"
+    },
+    "HBV EnhI": {
+        "type": "genetic"
+    },
+    "X": {
+        "type": "genetic"
+    },
+    "SP": {
+        "type": "genetic"
+    },
+    "Xp": {
+        "type": "genetic"
+    },
+    "C/EBP": {
+        "type": "genetic"
+    },
+    "P53": {
+        "type": "genetic"
+    },
+    "IRF": {
+        "type": "genetic"
+    },
+    "NF1": {
+        "type": "genetic"
+    },
+    "HNF3": {
+        "type": "genetic"
+    },
+    "HNF4": {
+        "type": "genetic"
+    },
+    "RXR": {
+        "type": "genetic"
+    },
+    "PPAR": {
+        "type": "genetic"
+    },
+    "COUPTF": {
+        "type": "genetic"
+    },
+    "RFX1": {
+        "type": "genetic"
+    },
+    "AP1": {
+        "type": "genetic"
+    },
+    "CREB": {
+        "type": "genetic"
+    },
+    "ATF2": {
+        "type": "genetic"
+    },
+    "Cp": {
+        "type": "genetic"
+    },
+    "SP1": {
+        "type": "genetic"
+    },
+    "FTF": {
+        "type": "genetic"
+    },
+    "HLF": {
+        "type": "genetic"
+    },
+    "E4BP4": {
+        "type": "genetic"
+    },
+    "COUPTF1": {
+        "type": "genetic"
+    },
+    "ARP1": {
+        "type": "genetic"
+    },
+    "FXR": {
+        "type": "genetic"
+    },
+    "LRH1": {
+        "type": "genetic"
+    },
+    "PGC1": {
+        "type": "genetic"
+    },
+    "CBP": {
+        "type": "genetic"
+    },
+    "SRC1": {
+        "type": "genetic"
+    },
+    "PRMT1": {
+        "type": "genetic"
+    },
+    "SBP": {
+        "type": "genetic"
+    },
+    "APOBEC3B": {
+        "type": "genetic"
+    },
+    "PRMT5": {
+        "type": "genetic"
+    },
+    "PRKAA": {
+        "type": "genetic"
+    },
+    "AMPK": {
+        "type": "genetic"
+    },
+    "viral protein HBx": {
+        "type": "genetic"
+    },
+    "calcium": {
+        "type": "chemical"
+    },
+    "Pyk2": {
+        "type": "genetic"
+    },
+    "FAK": {
+        "type": "genetic"
+    },
+    "SMC5/6": {
+        "type": "genetic"
+    },
+    "liver inflammation": {
+        "type": "disease"
+    },
+    "Toll-like receptors": {
+        "type": "genetic"
+    },
+    "retinoic acid receptors": {
+        "type": "genetic"
+    },
+    "immunity": {
+        "type": "disease"
+    },
+    "IFN-α": {
+        "type": "genetic"
+    },
+    "Major histo-compatibility complex (MHC) class I": {
+        "type": "genetic"
+    },
+    "IFN-γ": {
+        "type": "genetic"
+    },
+    "IF": {
+        "type": "genetic"
+    },
+    "IFN-α-2a": {
+        "type": "genetic"
+    },
+    "IFN-α-2b": {
+        "type": "genetic"
+    },
+    "IFN-α-1b": {
+        "type": "genetic"
+    },
+    "irrhosis": {
+        "type": "disease"
+    },
+    "IFN": {
+        "type": "genetic"
+    },
+    "Peg": {
+        "type": "chemical"
+    },
+    "Peg-IFN-α-2a": {
+        "type": "genetic"
+    },
+    "Peg-IFN-α-2b": {
+        "type": "chemical"
+    },
+    "LAM": {
+        "type": "chemical"
+    },
+    "liver diseases": {
+        "type": "disease",
+        "alias": [
+            "Liver Diseases"
+        ]
+    },
+    "adefovir dipivoxil": {
+        "type": "chemical"
+    },
+    "ADV": {
+        "type": "chemical"
+    },
+    "nephrotoxicity": {
+        "type": "disease"
+    },
+    "AD": {
+        "type": "chemical",
+        "alias": [
+            "ad",
+            "adsorption"
+        ]
+    },
+    "Telbivudine": {
+        "type": "chemical",
+        "alias": [
+            "telbivudine"
+        ]
+    },
+    "LdT": {
+        "type": "chemical"
+    },
+    "nucleoside": {
+        "type": "chemical"
+    },
+    "fibrosis": {
+        "type": "disease"
+    },
+    "Tenofovir alafenamide": {
+        "type": "chemical",
+        "alias": [
+            "tenofovir alafenamide"
+        ]
+    },
+    "TAF": {
+        "type": "chemical"
+    },
+    "bone and renal abnormalities": {
+        "type": "disease"
+    },
+    "Peg-IF": {
+        "type": "chemical"
+    },
+    "ET": {
+        "type": "chemical"
+    },
+    "Peg-IFN-α2a": {
+        "type": "genetic"
+    },
+    "HBV polymerase": {
+        "type": "genetic"
+    },
+    "ribonuclease H": {
+        "type": "genetic"
+    },
+    "RNaseH": {
+        "type": "genetic"
+    },
+    "retinoic acid": {
+        "type": "chemical"
+    },
+    "nucleotide": {
+        "type": "chemical"
+    },
+    "TLR-7": {
+        "type": "genetic"
+    },
+    "TLR-8": {
+        "type": "genetic"
+    },
+    "retinoic acid-inducible gene 1": {
+        "type": "genetic"
+    },
+    "RIG-1": {
+        "type": "genetic"
+    },
+    "nucleotide-binding oligomerization domain protein 2": {
+        "type": "genetic"
+    },
+    "NOD-2": {
+        "type": "genetic"
+    },
+    "programmed death receptor 1": {
+        "type": "genetic"
+    },
+    "PD-1": {
+        "type": "genetic"
+    },
+    "NTCP receptor": {
+        "type": "genetic"
+    },
+    "TALENs": {
+        "type": "genetic"
+    },
+    "Cas9": {
+        "type": "genetic"
+    },
+    "CRIS": {
+        "type": "genetic"
+    },
+    "Cas": {
+        "type": "genetic"
+    },
+    "viral anti-gen": {
+        "type": "genetic"
+    },
+    "ARC-520": {
+        "type": "chemical"
+    },
+    "NVR 3–778": {
+        "type": "chemical"
+    },
+    "JNJ-6379": {
+        "type": "chemical"
+    },
+    "GLS4": {
+        "type": "chemical"
+    },
+    "ABI-H0731": {
+        "type": "chemical"
+    },
+    "Besifovir": {
+        "type": "chemical"
+    },
+    "LB80380": {
+        "type": "chemical"
+    },
+    "BSV": {
+        "type": "chemical"
+    },
+    "ucleotide": {
+        "type": "chemical"
+    },
+    "CMX157": {
+        "type": "chemical"
+    },
+    "REP2139": {
+        "type": "chemical"
+    },
+    "REP2165": {
+        "type": "chemical"
+    },
+    "CH": {
+        "type": "disease",
+        "alias": [
+            "Ch"
+        ]
+    },
+    "Toll-like receptor 7": {
+        "type": "genetic"
+    },
+    "programmed cell death-1": {
+        "type": "genetic"
+    },
+    "anti-PD-1 antibody": {
+        "type": "genetic"
+    },
+    "esophageal varices": {
+        "type": "disease"
+    },
+    "yrosine": {
+        "type": "chemical"
+    },
+    "sorafenib": {
+        "type": "chemical",
+        "alias": [
+            "Sorafenib"
+        ]
+    },
+    "lenvatinib": {
+        "type": "chemical"
+    },
+    "tyrosine kinase": {
+        "type": "genetic"
+    },
+    "atezo 1 bev": {
+        "type": "chemical"
+    },
+    "tyrosine": {
+        "type": "chemical"
+    },
+    "cab": {
+        "type": "chemical"
+    },
+    "ozantinib": {
+        "type": "chemical"
+    },
+    "gorafenib": {
+        "type": "chemical"
+    },
+    "a-fetoprotein": {
+        "type": "genetic"
+    },
+    "ni": {
+        "type": "chemical"
+    },
+    "following": {
+        "type": "chemical"
+    },
+    "len": {
+        "type": "chemical"
+    },
+    "vatinib": {
+        "type": "chemical"
+    },
+    "nivolumab": {
+        "type": "chemical",
+        "alias": [
+            "Nivolumab"
+        ]
+    },
+    "gastrointestinal-cancer": {
+        "type": "disease"
+    },
+    "hepatocellularcarcinoma": {
+        "type": "disease"
+    },
+    "liver cancer": {
+        "type": "disease",
+        "alias": [
+            "Liver Cancer"
+        ]
+    },
+    "cancer": {
+        "type": "disease",
+        "alias": [
+            "Cancer"
+        ]
+    },
+    "viral hepatitis": {
+        "type": "disease",
+        "alias": [
+            "Viral hepatitis"
+        ]
+    },
+    "hepatitis B virus [HBV] infection": {
+        "type": "disease"
+    },
+    "hepati-tis C virus [HCV] infection": {
+        "type": "disease"
+    },
+    "alcohol": {
+        "type": "chemical"
+    },
+    "ﬂatoxin": {
+        "type": "chemical"
+    },
+    "obesity": {
+        "type": "disease"
+    },
+    "diabetes": {
+        "type": "disease",
+        "alias": [
+            "Diabetes"
+        ]
+    },
+    "type II diabetes": {
+        "type": "disease"
+    },
+    "surgical":{
+        "type":"treatment"
+    },
+    "liver-directed":{
+        "type":"treatment"
+    },
+    "toxicity": {
+        "type": "disease"
+    },
+    "cabozantinib": {
+        "type": "chemical"
+    },
+    "AFP": {
+        "type": "genetic"
+    },
+    "injury": {
+        "type": "disease"
+    },
+    "so": {
+        "type": "chemical"
+    },
+    "Sorafen": {
+        "type": "chemical",
+        "alias": [
+            "sorafen"
+        ]
+    },
+    "OS": {
+        "type": "disease"
+    },
+    "hand-foot skin reaction": {
+        "type": "disease"
+    },
+    "FSR": {
+        "type": "disease"
+    },
+    "alopecia": {
+        "type": "disease"
+    },
+    "fatigue": {
+        "type": "disease"
+    },
+    "rash": {
+        "type": "disease",
+        "alias":[
+            "Rash"
+        ]
+    },
+    "desquamation": {
+        "type": "disease"
+    },
+    "anorexia": {
+        "type": "disease"
+    },
+    "Lenvatinib": {
+        "type": "chemical",
+        "alias": [
+            "lenvatinib"
+        ]
+    },
+    "versus": {
+        "type": "chemical"
+    },
+    "teinuria": {
+        "type": "disease"
+    },
+    "dysphonia": {
+        "type": "disease"
+    },
+    "hypothyroidism": {
+        "type": "disease"
+    },
+    "varices": {
+        "type": "disease"
+    },
+    "FS": {
+        "type": "disease"
+    },
+    "diarrhea": {
+        "type": "disease"
+    },
+    "bilirubin": {
+        "type": "chemical"
+    },
+    "volumab": {
+        "type": "chemical"
+    },
+    "gor": {
+        "type": "chemical"
+    },
+    "steatohepatitis": {
+        "type": "disease"
+    },
+    "BC": {
+        "type": "disease"
+    },
+    "Reg": {
+        "type": "chemical"
+    },
+    "orafenib": {
+        "type": "chemical"
+    },
+    "extrahepatic lesion": {
+        "type": "disease"
+    },
+    "intrahepatic lesion": {
+        "type": "disease"
+    },
+    "regorafenib": {
+        "type": "chemical"
+    },
+    "deaths": {
+        "type": "disease"
+    },
+    "ast": {
+        "type": "disease",
+        "alias": [
+            "AST"
+        ]
+    },
+    "hyponatremia": {
+        "type": "disease"
+    },
+    "alanine": {
+        "type": "chemical"
+    },
+    "alanine transaminase": {
+        "type": "genetic"
+    },
+    "anemia": {
+        "type": "disease"
+    },
+    "atezo 1bev": {
+        "type": "chemical"
+    },
+    "portal hypertension": {
+        "type": "disease"
+    },
+    "bleeding": {
+        "type": "disease"
+    },
+    "variceal bleed": {
+        "type": "disease"
+    },
+    "myocardial infarction": {
+        "type": "disease"
+    },
+    "stroke": {
+        "type": "disease"
+    },
+    "autoimmune disease": {
+        "type": "disease"
+    },
+    "toxic": {
+        "type": "disease"
+    },
+    "HCV": {
+        "type": "disease"
+    },
+    "tumor": {
+        "type": "disease"
+    },
+    "lenvatinib are recommended where there are con-traindications to atezo 1 be": {
+        "type": "chemical"
+    },
+    "hypertension": {
+        "type": "disease"
+    },
+    "HF": {
+        "type": "disease"
+    },
+    "abozantinib": {
+        "type": "chemical"
+    },
+    "rafenib": {
+        "type": "chemical"
+    },
+    "vo": {
+        "type": "chemical"
+    },
+    "options": {
+        "type": "chemical"
+    },
+    "on": {
+        "type": "chemical"
+    },
+    "antinib": {
+        "type": "chemical"
+    },
+    "as": {
+        "type": "disease",
+        "alias": [
+            "AS"
+        ]
+    },
+    "cites": {
+        "type": "disease"
+    },
+    "renal dysfunction": {
+        "type": "disease"
+    },
+    "HCV infection": {
+        "type": "disease"
+    },
+    "FGF19": {
+        "type": "genetic"
+    },
+    "FGFR4": {
+        "type": "genetic"
+    },
+    "tumors": {
+        "type": "disease"
+    },
+    "encephalopathy": {
+        "type": "disease"
+    },
+    "esophagealvarices": {
+        "type": "disease"
+    },
+    "ascites": {
+        "type": "disease"
+    },
+    "HBV or HCV": {
+        "type": "disease"
+    },
+    "infection of the liver": {
+        "type": "disease"
+    },
+    "liverfailure": {
+        "type": "disease"
+    },
+    "BS": {
+        "type": "chemical"
+    },
+    "bozantinib": {
+        "type": "chemical"
+    },
+    "regoraf": {
+        "type": "chemical"
+    },
+    "sora": {
+        "type": "chemical"
+    },
+    "ipilimumab": {
+        "type": "chemical"
+    },
+    "portal": {
+        "type": "disease"
+    },
+    "Hepatitis B Virus": {
+        "type": "disease",
+        "alias":[
+            "hepatitis B virus"
+        ]
+    },
+    "human immunodeficiency virus": {
+        "type": "disease"
+    },
+    "patitis B virus": {
+        "type": "disease"
+    },
+    "hepatitis B e-antigen": {
+        "type": "genetic"
+    },
+    "patitis B": {
+        "type": "disease",
+        "alias": [
+            "patitis b"
+        ]
+    },
+    "hepatitis C virus": {
+        "type": "disease"
+    },
+    "glucose": {
+        "type": "chemical"
+    },
+    "HBV infections": {
+        "type": "disease"
+    },
+    "Chronic Hepatitis B Infection": {
+        "type": "disease"
+    },
+    "lamuvidine": {
+        "type": "chemical"
+    },
+    "bacavir": {
+        "type": "chemical"
+    },
+    "tenofovir": {
+        "type": "chemical",
+        "alias": [
+            "Tenofovir"
+        ]
+    },
+    "interferon": {
+        "type": "genetic"
+    },
+    "interferon alpha": {
+        "type": "genetic"
+    },
+    "pegylated interferon": {
+        "type": "genetic"
+    },
+    "HBV": {
+        "type": "disease",
+        "alias": [
+            "hbV"
+        ]
+    },
+    "bloodborne virus infection": {
+        "type": "disease"
+    },
+    "HBV-In": {
+        "type": "disease"
+    },
+    "Hepatitis B e Antigen": {
+        "type": "genetic",
+        "alias": [
+            "Hepatitis B e antigen",
+            "hepatitis B e antigen"
+        ]
+    },
+    "e-antigen": {
+        "type": "genetic"
+    },
+    "bloodborne virus": {
+        "type": "disease"
+    },
+    "wound": {
+        "type": "disease"
+    },
+    "trauma": {
+        "type": "disease"
+    },
+    "bloodborne infection": {
+        "type": "disease"
+    },
+    "percutaneous injury": {
+        "type": "disease"
+    },
+    "traumatic injuries": {
+        "type": "disease"
+    },
+    "infectious disease": {
+        "type": "disease"
+    },
+    "hepatitis B immune globulin": {
+        "type": "genetic",
+        "alias": [
+            "Hepatitis B immune globulin"
+        ]
+    },
+    "HBV-infection": {
+        "type": "disease"
+    },
+    "hepatitis B surface antibody": {
+        "type": "genetic"
+    },
+    "hepatitis e-antigen": {
+        "type": "genetic"
+    },
+    "Hepatitis A": {
+        "type": "disease",
+        "alias": [
+            "hepatitis A"
+        ]
+    },
+    "infectious hepatitis": {
+        "type": "disease"
+    },
+    "patitis D": {
+        "type": "disease"
+    },
+    "jaundice": {
+        "type": "disease"
+    },
+    "Australia antigen": {
+        "type": "genetic"
+    },
+    "hepatitis B surface antigen": {
+        "type": "genetic"
+    },
+    "immunoglobulin class M": {
+        "type": "genetic"
+    },
+    "IgM": {
+        "type": "genetic"
+    },
+    "hepatitis B core antigen": {
+        "type": "genetic"
+    },
+    "IgM anti-HBc": {
+        "type": "genetic"
+    },
+    "immunoglobulin class G (IgG) anti-HBc": {
+        "type": "genetic"
+    },
+    "IgG anti-HBc": {
+        "type": "genetic"
+    },
+    "acute hepatitis B": {
+        "type": "disease"
+    },
+    "acute viral hepatitis": {
+        "type": "disease"
+    },
+    "fever": {
+        "type": "disease"
+    },
+    "nausea": {
+        "type": "disease"
+    },
+    "abdominal discomfort": {
+        "type": "disease"
+    },
+    "hepatic tenderness": {
+        "type": "disease"
+    },
+    "hepatomegaly": {
+        "type": "disease"
+    },
+    "splenomegaly": {
+        "type": "disease"
+    },
+    "HBIG": {
+        "type": "genetic"
+    },
+    "immune deficiencies": {
+        "type": "disease"
+    },
+    "Chronic infection": {
+        "type": "disease"
+    },
+    "chronic hepatitis": {
+        "type": "disease"
+    },
+    "liver failure": {
+        "type": "disease",
+        "alias": [
+            "Liver failure"
+        ]
+    },
+    "liver transaminase": {
+        "type": "genetic"
+    },
+    "rectal mucosal lesions": {
+        "type": "disease"
+    },
+    "scratch": {
+        "type": "disease"
+    },
+    "burns": {
+        "type": "disease"
+    },
+    "insulin": {
+        "type": "genetic"
+    },
+    "aluminum": {
+        "type": "chemical",
+        "alias": [
+            "Aluminum"
+        ]
+    },
+    "neomycin": {
+        "type": "chemical"
+    },
+    "olymyxin B": {
+        "type": "chemical"
+    },
+    "treptomycin": {
+        "type": "chemical"
+    },
+    "sexually transmitted infection": {
+        "type": "disease"
+    },
+    "STI": {
+        "type": "disease"
+    },
+    "developmentally disabled": {
+        "type": "disease",
+        "alias": [
+            "Developmentally disabled"
+        ]
+    },
+    "end-stage renal disease": {
+        "type": "disease"
+    },
+    "hepatitis C infection": {
+        "type": "disease"
+    },
+    "chronic liver disease": {
+        "type": "disease"
+    },
+    "fatty liver disease": {
+        "type": "disease"
+    },
+    "autoimmune hepatitis": {
+        "type": "disease"
+    },
+    "aspartate": {
+        "type": "chemical"
+    },
+    "aspartate aminotransferase": {
+        "type": "genetic"
+    },
+    "human immunodeficiency virus (HIV) infection": {
+        "type": "disease"
+    },
+    "substance use disorder": {
+        "type": "disease"
+    },
+    "HIV-infected": {
+        "type": "disease"
+    },
+    "injuries": {
+        "type": "disease"
+    },
+    "chronic illness": {
+        "type": "disease"
+    },
+    "anti-HBs antibody": {
+        "type": "genetic"
+    },
+    "allergic reaction": {
+        "type": "disease"
+    },
+    "aphylaxis": {
+        "type": "disease"
+    },
+    "ypersensitivity": {
+        "type": "disease"
+    },
+    "anaphylaxis": {
+        "type": "disease"
+    },
+    "allergic reactions": {
+        "type": "disease"
+    },
+    "multiple sclerosis": {
+        "type": "disease"
+    },
+    "Guillain-Barré syndrome": {
+        "type": "disease",
+        "alias": [
+            "Guillain-Barré Syndrome"
+        ]
+    },
+    "systemic lupus erythematosis": {
+        "type": "disease"
+    },
+    "rheumatoid arthritis": {
+        "type": "disease"
+    },
+    "pain": {
+        "type": "disease"
+    },
+    "erythema": {
+        "type": "disease"
+    },
+    "swelling": {
+        "type": "disease"
+    },
+    "headache": {
+        "type": "disease",
+        "alias": [
+            "Headache"
+        ]
+    },
+    "chronic fatigue syndrome": {
+        "type": "disease"
+    },
+    "neurologic disorders": {
+        "type": "disease"
+    },
+    "leukoencephalitis": {
+        "type": "disease"
+    },
+    "optic neuritis": {
+        "type": "disease"
+    },
+    "transverse myelitis": {
+        "type": "disease"
+    },
+    "type 1 diabetes": {
+        "type": "disease"
+    },
+    "hair loss": {
+        "type": "disease"
+    },
+    "cdc": {
+        "type": "genetic"
+    },
+    "patitis B infection": {
+        "type": "disease"
+    },
+    "alcoholic liver disease": {
+        "type": "disease"
+    },
+    "alanine aminotransferase": {
+        "type": "genetic"
+    },
+    "Infectious Diseases": {
+        "type": "disease",
+        "alias": [
+            "infectious Diseases"
+        ]
+    },
+    "liver conditions": {
+        "type": "disease"
+    },
+    "adrq": {
+        "type": "genetic"
+    },
+    "ayr": {
+        "type": "genetic"
+    },
+    "ayw1": {
+        "type": "genetic"
+    },
+    "ayw2": {
+        "type": "genetic"
+    },
+    "ayw3": {
+        "type": "genetic"
+    },
+    "ayw4": {
+        "type": "genetic"
+    },
+    "adw2": {
+        "type": "genetic"
+    },
+    "adw4": {
+        "type": "genetic"
+    },
+    "ST": {
+        "type": "disease"
+    },
+    "dermatologic lesions": {
+        "type": "disease"
+    },
+    "needle-stick injuries": {
+        "type": "disease"
+    },
+    "vomiting": {
+        "type": "disease"
+    },
+    "abdominal pain": {
+        "type": "disease"
+    },
+    "Malaise": {
+        "type": "disease"
+    },
+    "skin rash": {
+        "type": "disease"
+    },
+    "arthralgia": {
+        "type": "disease"
+    },
+    "arthritis": {
+        "type": "disease"
+    },
+    "ronic infection": {
+        "type": "disease"
+    },
+    "primary infections": {
+        "type": "disease"
+    },
+    "human immunodeficiency virus infection": {
+        "type": "disease"
+    },
+    "cirrhosis of the liver": {
+        "type": "disease"
+    },
+    "patocellular carcinoma": {
+        "type": "disease"
+    },
+    "immunoglobulin class G": {
+        "type": "genetic"
+    },
+    "IgG": {
+        "type": "genetic"
+    },
+    "patitis": {
+        "type": "disease",
+        "alias": [
+            "Patitis"
+        ]
+    },
+    "HCV infections": {
+        "type": "disease"
+    },
+    "diabetes acutely infected with": {
+        "type": "disease"
+    },
+    "Hepatitis B Immune Globulins": {
+        "type": "genetic"
+    },
+    "thimerosal": {
+        "type": "chemical"
+    },
+    "Co": {
+        "type": "chemical"
+    },
+    "diphtheria tan": {
+        "type": "disease"
+    },
+    "patitis A": {
+        "type": "disease"
+    },
+    "recombinant HBsAg": {
+        "type": "genetic"
+    },
+    "Comvax": {
+        "type": "chemical"
+    },
+    "maternal HBsAg": {
+        "type": "genetic"
+    },
+    "diabetes mellitus": {
+        "type": "disease"
+    },
+    "chronic kidney disease": {
+        "type": "disease"
+    },
+    "neurologic diseases": {
+        "type": "disease"
+    },
+    "chronic diseases": {
+        "type": "disease"
+    },
+    "autoimmune diseases": {
+        "type": "disease"
+    },
+    "GBS": {
+        "type": "disease"
+    },
+    "Bell’s palsy": {
+        "type": "disease"
+    },
+    "autoimmune thyroid disease": {
+        "type": "disease"
+    },
+    "hemolytic anemia": {
+        "type": "disease"
+    },
+    "sudden-onset": {
+        "type": "disease"
+    },
+    "sensorineural hearing loss": {
+        "type": "disease"
+    },
+    "permanent disability": {
+        "type": "disease"
+    },
+    "ythema": {
+        "type": "disease"
+    },
+    "dizziness": {
+        "type": "disease"
+    },
+    "Twinrix": {
+        "type": "chemical"
+    },
+    "endemic hepatitis B virus (HBV) infection": {
+        "type": "disease"
+    },
+    "hepatitis C virus infection": {
+        "type": "disease"
+    },
+    "HIV infection": {
+        "type": "disease"
+    },
+    "partate": {
+        "type": "chemical"
+    },
+    "partate aminotransferase": {
+        "type": "genetic"
+    },
+    "maternal anti-HBc": {
+        "type": "genetic"
+    },
+    "STIs": {
+        "type": "disease"
+    },
+    "AIDS": {
+        "type": "disease"
+    },
+    "chlorhexidine": {
+        "type": "chemical"
+    },
+    "HCP": {
+        "type": "disease"
+    },
+    "HBI": {
+        "type": "chemical"
+    },
+    "HC": {
+        "type": "disease"
+    },
+    "rheumatologic or gastroenterologic disorders": {
+        "type": "disease"
+    },
+    "anti-HBs antibodies": {
+        "type": "genetic"
+    },
+    "hepatitis C": {
+        "type": "disease",
+        "alias": [
+            "Hepatitis C"
+        ]
+    },
+    "metabolic disorders": {
+        "type": "disease"
+    },
+    "nonalcoholic fatty liver disease": {
+        "type": "disease"
+    },
+    "NAFLD": {
+        "type": "disease"
+    },
+    "bolic syndrome": {
+        "type": "disease"
+    },
+    "liver dysfunction": {
+        "type": "disease"
+    },
+    "chronic viral hepatitis B": {
+        "type": "disease"
+    },
+    "cirrhosis due to HCV": {
+        "type": "disease"
+    },
+    "des-gamma carboxy": {
+        "type": "chemical"
+    },
+    "des-gamma carboxy pro-thrombin": {
+        "type": "genetic"
+    },
+    "AFP L3": {
+        "type": "genetic"
+    },
+    "malignancies": {
+        "type": "disease"
+    },
+    "gadolinium": {
+        "type": "chemical"
+    },
+    "gadoxetate disodium": {
+        "type": "chemical"
+    },
+    "gadoxetate": {
+        "type": "chemical"
+    },
+    "laustrophobia": {
+        "type": "disease"
+    },
+    "acute kid-ney injury": {
+        "type": "disease"
+    },
+    "chronic renal failure": {
+        "type": "disease"
+    },
+    "anxiety": {
+        "type": "disease"
+    },
+    "lignancy": {
+        "type": "disease"
+    },
+    "extrahepatic disease": {
+        "type": "disease"
+    },
+    "ethanol": {
+        "type": "chemical"
+    },
+    "acetic acid": {
+        "type": "chemical"
+    },
+    "Tumor": {
+        "type": "disease",
+        "alias":[
+            "tumor"
+        ]
+    },
+    "denovo tumor": {
+        "type": "disease"
+    },
+    "acyclic retinoids": {
+        "type": "chemical"
+    },
+    "interferon ther- apy": {
+        "type": "genetic"
+    },
+    "PI-88": {
+        "type": "chemical"
+    },
+    "heparanase": {
+        "type": "genetic"
+    },
+    "statin": {
+        "type": "genetic"
+    },
+    "cirrhosisa": {
+        "type": "disease"
+    },
+    "aceticacid": {
+        "type": "chemical"
+    },
+    "hepatic decompensation": {
+        "type": "disease"
+    },
+    "hepatic dysfunction": {
+        "type": "disease"
+    },
+    "organ shortage": {
+        "type": "disease"
+    },
+    "LRT": {
+        "type": "disease"
+    },
+    "RC": {
+        "type": "disease"
+    },
+    "extrahepatic tumor": {
+        "type": "disease"
+    },
+    "metastase": {
+        "type": "disease"
+    },
+    "cular invasion": {
+        "type": "disease"
+    },
+    "invasion": {
+        "type": "disease"
+    },
+    "extra-hepatic disease": {
+        "type": "disease"
+    },
+    "astatic disease": {
+        "type": "disease"
+    },
+    "sunitinib": {
+        "type": "chemical"
+    },
+    "brivanib": {
+        "type": "chemical"
+    },
+    "linifanib": {
+        "type": "chemical"
+    },
+    "erlotinib": {
+        "type": "genetic"
+    },
+    "macrovascular disease": {
+        "type": "disease"
+    },
+    "portal vein thrombosis": {
+        "type": "disease"
+    },
+    "PVT": {
+        "type": "disease"
+    },
+    "sorafeniband": {
+        "type": "chemical"
+    },
+    "TOG 1112": {
+        "type": "chemical"
+    },
+    "Live": {
+        "type": "disease"
+    },
+    "Cancer": {
+        "type": "disease"
+    },
+    "intrahepatic cholangiocarcinoma": {
+        "type": "disease"
+    },
+    "IHC": {
+        "type": "disease"
+    },
+    "Primary liver cancer": {
+        "type": "disease",
+        "alias": [
+            "primary liver cancer"
+        ]
+    },
+    "hepatitis B and C virus infection": {
+        "type": "disease"
+    },
+    "primary liver tumor": {
+        "type": "disease"
+    },
+    "liver neop": {
+        "type": "disease"
+    },
+    "lasms/radiother": {
+        "type": "treatment"
+    },
+    "liver toxicity": {
+        "type": "disease"
+    },
+    "extrahepaticmetastatic disease": {
+        "type": "disease"
+    },
+    "carbon": {
+        "type": "chemical"
+    },
+    "ILD": {
+        "type": "disease"
+    },
+    "liverfunction": {
+        "type": "disease"
+    },
+    "RILD": {
+        "type": "disease"
+    },
+    "alkaline phosphatase": {
+        "type": "genetic"
+    },
+    "liver cancers": {
+        "type": "disease"
+    },
+    "chronic obstructive pulmonary disease": {
+        "type": "disease"
+    },
+    "albumin": {
+        "type": "genetic"
+    },
+    "MVI": {
+        "type": "disease"
+    },
+    "crosis": {
+        "type": "disease"
+    },
+    "gastrointestinaland hepatic toxicities": {
+        "type": "disease"
+    },
+    "liver lesions": {
+        "type": "disease"
+    },
+    "vascular tumor": {
+        "type": "disease"
+    },
+    "thrombi": {
+        "type": "disease"
+    },
+    "rombus": {
+        "type": "disease"
+    },
+    "portal vein tumor": {
+        "type": "disease"
+    },
+    "vein tumor": {
+        "type": "disease"
+    },
+    "thrombus": {
+        "type": "disease"
+    },
+    "liver toxicities": {
+        "type": "disease"
+    },
+    "portal vein thrombus": {
+        "type": "disease"
+    },
+    "cirrhotic liver": {
+        "type": "disease"
+    },
+    "liver decompensation": {
+        "type": "disease"
+    },
+    "ethiodol": {
+        "type": "chemical"
+    },
+    "lipiodol": {
+        "type": "chemical"
+    },
+    "primary liver cancers": {
+        "type": "disease"
+    },
+    "Toxicity": {
+        "type": "disease",
+        "alias": [
+            "toxicity"
+        ]
+    },
+    "portal or hepatic venous vascular obstruction": {
+        "type": "disease"
+    },
+    "biliary obstruction": {
+        "type": "disease"
+    },
+    "ﬂuoropyr": {
+        "type": "chemical"
+    },
+    "imidine": {
+        "type": "chemical"
+    },
+    "intra- and extrahepatic tumor": {
+        "type": "disease"
+    },
+    "improved": {
+        "type": "disease"
+    },
+    "cholangiocarcinoma": {
+        "type": "disease"
+    },
+    "IHC disease": {
+        "type": "disease"
+    },
+    "chronic medical": {
+        "type": "disease"
+    },
+    "infectious diseases": {
+        "type": "disease"
+    },
+    "deoxynucleic acid": {
+        "type": "chemical"
+    },
+    "anti-HBc antibody": {
+        "type": "genetic"
+    },
+    "hepatitis B core antigen anti-HBs antibody": {
+        "type": "genetic"
+    },
+    "HBeA": {
+        "type": "genetic"
+    },
+    "psoriasis": {
+        "type": "disease"
+    },
+    "eczema": {
+        "type": "disease"
+    },
+    "Percutaneous injuries": {
+        "type": "disease"
+    },
+    "recombinant HBsAg protein": {
+        "type": "genetic"
+    },
+    "Obese": {
+        "type": "disease",
+        "alias": [
+            "obese"
+        ]
+    },
+    "hypersensitivity to yeast": {
+        "type": "disease"
+    },
+    "acute illness": {
+        "type": "disease"
+    },
+    "body Anti-HBs": {
+        "type": "genetic"
+    },
+    "hepatitis B infection": {
+        "type": "disease"
+    },
+    "BIG": {
+        "type": "chemical"
+    },
+    "tenderness": {
+        "type": "disease"
+    },
+    "urticaria": {
+        "type": "disease"
+    },
+    "gioedema": {
+        "type": "disease"
+    },
+    "aphylactic reactions": {
+        "type": "disease"
+    },
+    "human immune globulin": {
+        "type": "genetic"
+    },
+    "IG": {
+        "type": "genetic"
+    },
+    "HIV-positive": {
+        "type": "disease"
+    },
+    "owa": {
+        "type": "genetic"
+    },
+    "viral hepatitis B": {
+        "type": "disease"
+    },
+    "anti-HBc IgM": {
+        "type": "genetic"
+    },
+    "HBsAg(+)": {
+        "type": "genetic"
+    },
+    "immune disorders": {
+        "type": "disease"
+    },
+    "metabolic complications": {
+        "type": "disease"
+    },
+    "yslipidemia": {
+        "type": "disease"
+    },
+    "metabolic syndrome": {
+        "type": "disease"
+    },
+    "fatty liver": {
+        "type": "disease"
+    },
+    "variceal hemorrhage": {
+        "type": "disease"
+    },
+    "hepatic encephalopathy": {
+        "type": "disease"
+    },
+    "HBeAg(+)": {
+        "type": "genetic"
+    },
+    "HBeAg(-)": {
+        "type": "genetic"
+    },
+    "anti-HBe(+)": {
+        "type": "genetic"
+    },
+    "anti-HBe(-)": {
+        "type": "genetic"
+    },
+    "hepatitis D virus coinfection": {
+        "type": "disease"
+    },
+    "HBsAg(-)": {
+        "type": "genetic"
+    },
+    "serum alpha-fetoprotein (AFP)2": {
+        "type": "genetic"
+    },
+    "anti-HBc IgG": {
+        "type": "genetic"
+    },
+    "ALL": {
+        "type": "disease"
+    },
+    "chronic hepatitis B infection": {
+        "type": "disease"
+    },
+    "liver damage": {
+        "type": "disease"
+    },
+    "Hepatitis D": {
+        "type": "disease"
+    },
+    "hepatitis D virus": {
+        "type": "disease"
+    },
+    "HDV infection": {
+        "type": "disease"
+    },
+    "HBV disease": {
+        "type": "disease"
+    },
+    "hepatitis b positive": {
+        "type": "disease"
+    },
+    "chronic Hepatitis B": {
+        "type": "disease"
+    },
+    "hepatitis b/hiV co-infections": {
+        "type": "disease"
+    },
+    "kidney disease": {
+        "type": "disease"
+    },
+    "hepatitis B virus specific antigens": {
+        "type": "genetic"
+    },
+    "Hepatitis B surface antigen": {
+        "type": "genetic"
+    },
+    "Hepatitis B surface antibody": {
+        "type": "genetic"
+    },
+    "hepatitis B core antibody": {
+        "type": "genetic"
+    },
+    "infection with hepatitis B virus": {
+        "type": "disease"
+    },
+    "IgM antibody": {
+        "type": "genetic"
+    },
+    "HCV antibody": {
+        "type": "genetic"
+    },
+    "musculoskeletal": {
+        "type": "disease"
+    },
+    "traumatic brain injury": {
+        "type": "disease"
+    },
+    "schizophrenia": {
+        "type": "disease"
+    },
+    "substance abuse": {
+        "type": "disease"
+    },
+    "elevated liver enzymes": {
+        "type": "disease"
+    },
+    "alanine aminotransaminase": {
+        "type": "genetic"
+    },
+    "elevated liver function": {
+        "type": "disease"
+    },
+    "Hepatitis C antibody": {
+        "type": "genetic"
+    },
+    "NS5b sequences": {
+        "type": "genetic"
+    },
+    "E1": {
+        "type": "genetic"
+    },
+    "HVR": {
+        "type": "genetic"
+    },
+    "E1-HVR": {
+        "type": "genetic"
+    },
+    "anti-HCV antibody": {
+        "type": "genetic"
+    },
+    "foodborne disease": {
+        "type": "disease",
+        "alias": [
+            "Foodborne Disease"
+        ]
+    },
+    "foodborne outbreak": {
+        "type": "disease"
+    },
+    "foodborne diseases": {
+        "type": "disease",
+        "alias": [
+            "Foodborne diseases"
+        ]
+    },
+    "FTE": {
+        "type": "disease"
+    },
+    "enteric illness": {
+        "type": "disease"
+    },
+    "Listeria": {
+        "type": "disease"
+    },
+    "food-borne disease": {
+        "type": "disease"
+    },
+    "papilloma": {
+        "type": "disease"
+    },
+    "anal intraepithelial neoplasia": {
+        "type": "disease"
+    },
+    "AI": {
+        "type": "disease"
+    },
+    "anal cancer": {
+        "type": "disease"
+    },
+    "genital warts": {
+        "type": "disease",
+        "alias": [
+            "Genital warts"
+        ]
+    },
+    "penile cancers": {
+        "type": "disease"
+    },
+    "oropharyngeal cancers": {
+        "type": "disease"
+    },
+    "anal cancers": {
+        "type": "disease"
+    },
+    "condylomata": {
+        "type": "disease"
+    },
+    "respiratory papillomatosis": {
+        "type": "disease"
+    },
+    "genital lesions": {
+        "type": "disease"
+    },
+    "penile neoplasia": {
+        "type": "disease"
+    },
+    "perineal neoplasia": {
+        "type": "disease"
+    },
+    "perianal intraepithelial neoplasia": {
+        "type": "disease"
+    },
+    "warts": {
+        "type": "disease"
+    },
+    "oropharyngeal cancer": {
+        "type": "disease"
+    },
+    "cervical intraepithelial neoplasia": {
+        "type": "disease"
+    },
+    "CIN": {
+        "type": "disease"
+    },
+    "adenocarcinoma": {
+        "type": "disease"
+    },
+    "AIS": {
+        "type": "disease"
+    },
+    "vulvar intraepithelial neoplasia": {
+        "type": "disease"
+    },
+    "VIN": {
+        "type": "disease"
+    },
+    "vaginal intraepithelial neoplasia": {
+        "type": "disease"
+    },
+    "VaIN": {
+        "type": "disease"
+    },
+    "nous thromboembolism": {
+        "type": "disease"
+    },
+    "appendicitis": {
+        "type": "disease"
+    },
+    "seizures": {
+        "type": "disease"
+    },
+    "venous thromboembolism": {
+        "type": "disease"
+    },
+    "AIN": {
+        "type": "disease"
+    },
+    "penile cancer": {
+        "type": "disease"
+    },
+    "CIN1/2": {
+        "type": "disease"
+    },
+    "CIN2/3": {
+        "type": "disease"
+    },
+    "VIN2": {
+        "type": "disease"
+    },
+    "VaIN2": {
+        "type": "disease"
+    },
+    "eulmina": {
+        "type": "disease"
+    },
+    "diagnosed diabetes": {
+        "type": "disease"
+    },
+    "nonalcoholic steatohepatitis": {
+        "type": "disease"
+    },
+    "nonalcoholic liver disease": {
+        "type": "disease"
+    },
+    "vaccine": {
+        "type": "chemical"
+    },
+    "frailty": {
+        "type": "disease"
+    },
+    "geriatric syndrome": {
+        "type": "disease"
+    },
+    "asthma": {
+        "type": "disease"
+    },
+    "carpal tunnel syndrome": {
+        "type": "disease"
+    },
+    "hepatocel- lular carcinoma": {
+        "type": "disease"
+    },
+    "cology": {
+        "type": "disease"
+    },
+    "chronic": {
+        "type": "disease"
+    },
+    "NASH": {
+        "type": "disease"
+    },
+    "chronic hepatitis B virus infection": {
+        "type": "disease"
+    },
+    "stat": {
+        "type": "genetic"
+    },
+    "alpha-fetoprotein": {
+        "type": "genetic"
+    },
+    "FP": {
+        "type": "genetic"
+    },
+    "HCCs": {
+        "type": "disease"
+    },
+    "cirrhotic": {
+        "type": "disease"
+    },
+    "HCC 2577": {
+        "type": "chemical"
+    },
+    "chronichepatitis B infection": {
+        "type": "disease"
+    },
+    "glutamine": {
+        "type": "chemical"
+    },
+    "Glypican 3": {
+        "type": "genetic"
+    },
+    "glutamine synthase": {
+        "type": "genetic"
+    },
+    "HSP70": {
+        "type": "genetic"
+    },
+    "portalhypertension": {
+        "type": "disease"
+    },
+    "patitis C virus": {
+        "type": "disease"
+    },
+    "vivantinib": {
+        "type": "chemical"
+    },
+    "BCLC": {
+        "type": "disease"
+    },
+    "breast": {
+        "type": "disease"
+    },
+    "breast cancer": {
+        "type": "disease"
+    },
+    "colorectal cancer": {
+        "type": "disease"
+    },
+    "lung cancer": {
+        "type": "disease"
+    }
+}
