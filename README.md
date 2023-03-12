@@ -22,3 +22,8 @@ venv教程：https://zhuanlan.zhihu.com/p/341481537
 | neo4j | lastest |
 
 ## 在编写代码的时候请加好注释，同时建议模块化，方便理解
+
+## 2023.3.12更新
+目前知识图谱含有节点709个，0个关系
+四个种类：<font color=#8DCC93>Disease</font>, <font color=#4C8EDA>Chemical</font>, <font color=#ecb5c9>Genetic</font>, <font color=#FFC454>Treatment(少量，人工标注)</font>
+![这是知识图谱](readme_res/bloom-visualisation.jpg)
