@@ -1,0 +1,1646 @@
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B immunoglobulin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "APOBEC3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "APOBEC3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-203a", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "apolipoprotein E", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis C"}, "object_type": {"@value": "Disease"}}, {"subject": "apolipoprotein E", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis C virus infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Hepatitis B surface antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "DNASE1L3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "DNASE1L3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "autoimmune diseases and tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "DNASE1L3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "DNASE1L3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "pre-S", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "pre-S", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Interferon", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "HBsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "IL-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "HBsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "APOBEC3B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "APOBEC3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "lamivudine", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "lamivudine", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-106b", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-106b", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "apolipoprotein B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Bulevirtide", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic viral hepatitis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Hepatitis B virus X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepatitis B virus X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "farsenoid X receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-125", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "microRNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "death"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Mst", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "carcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "rs6940552", "subject_type": "Variant", "predicate": ["Positive", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "ZNRD1-AS1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "C30", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "farnesoid X receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "farnesoid X receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBxAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "ARFIP2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "R122 K", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "reverse transcriptase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-802", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "SMARCE1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "MicroRNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "CIITA", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "B7-H4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "SPHK1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "SPHK1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "SPHK1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancers"}, "object_type": {"@value": "Disease"}}, {"subject": "Sphingosine kinase 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Sphingosine kinase 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Sphingosine kinase 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancers"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "GRP78", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "HBsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinomas"}, "object_type": {"@value": "Disease"}}, {"subject": "XAP-1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "XAP-1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "XAP-1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinomas"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "coronin 1A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus‑associated hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "m6A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "carcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Hepatitis Surface Antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular Carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "DNA", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "microRNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "microRNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Alcohol", "subject_type": "Chemical", "predicate": ["Positive", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "interleukin-18", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "interleukin-18", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Aflatoxin-B1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBxAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "hepatitis B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Helicobacter pylori", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV-X", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "alcohol", "subject_type": "Chemical", "predicate": ["Positive", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinomas"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "VP22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatitis Bvrus"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Sirtuin 2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "SIRT2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "HBV", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "fibroblast growth factor receptors", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "methylenetetrahydrofolate reductase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "methylenetetrahydrofolate reductase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "BAMBI", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "BAMBI", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "β-catenin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-221", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-221", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "DNA methyl-transferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "hepatitis B virus X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyl-transferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "androgen receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "glutathione-S-transferases", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "glutathione-S-transferases", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "HBV", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "JX-594", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "HBcAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Fibrolamellar carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBcAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBcAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Programmed cell death protein-1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "peroxiredoxin 2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular caracinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "IGF-II", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "core protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBV core protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "prostaglandin E", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "famciclovir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Sirtuin 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "Sirtuin 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Sirtuin 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-449a", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CREB5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV entry receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "nH115a", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "nuclear factor kappa-B"}, "object_type": {"@value": "Gene"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Apolipoprotein E", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "VEGF", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "VEGF", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "MUC16", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "NF-κB", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "RPS3a", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "ZBTB20", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumour"}, "object_type": {"@value": "Disease"}}, {"subject": "ZBTB20", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p16", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "metformin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "HULC", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "metformin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "tumorigenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "aquaporin 5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Hsp70-interacting protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "lymphotoxin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "EpCAM", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CK19", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Na+-taurocholate cotransporting polypeptide", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "nucleoside/nucleotide analogs"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Metadherin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Metadherin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "alpha fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B surface antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "osteopontin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miRNA93", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "telomerase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "rs398652", "subject_type": "Variant", "predicate": ["Positive", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "vitamin D receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic HBV infections"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "microRNA-15b", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Globo H", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "FUT2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-15b", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "fucosyltransferase 2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Chronic hepatitis B virus infection", "subject_type": "Disease", "predicate": ["Association"], "object": {"@value": "ATF6"}, "object_type": {"@value": "Gene"}}, {"subject": "XRCC4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "XRCC4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "MLL4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "N-ras", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "carcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Tumour", "subject_type": "Disease", "predicate": ["Association"], "object": {"@value": "c-Jun"}, "object_type": {"@value": "Gene"}}, {"subject": "tumour", "subject_type": "Disease", "predicate": ["Association"], "object": {"@value": "c-Jun"}, "object_type": {"@value": "Gene"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "WNK2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TRIM58", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "CD24", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "preS1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "preS1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "insulin-like growth factor II", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "FAK", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "signal transducers and activators of transcription 5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "signal transducers and activators of transcription 5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "NKG2D", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "NKG2D", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "NKG2D", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "SOCS3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "SOCS3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "SOCS3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-328-3p", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver failure"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "nucleot(s)ide analogues", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "beta-catenin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "colony stimulating factor 1 receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "MARCH5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "MARCH5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver disease"}, "object_type": {"@value": "Disease"}}, {"subject": "MARCH5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic liver disease"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "IL-18", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Chronic infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "IL-12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatic cancers"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "IL12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "viral infections"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "microRNA-1271", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "ATF6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "rs2070150", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "ATF6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "primary hepatocellular carcinoma", "subject_type": "Disease", "predicate": ["Association"], "object": {"@value": "hepatitis B virus surface antigen"}, "object_type": {"@value": "Gene"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Pten", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "transforming growth factor β", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "IL28B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "IL28B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatic cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "sorafenib", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "midkine", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53AIP1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-375", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-92a", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Pre-S deleted proteins", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Interleukin-8", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "CTL", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver disease"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "ara-arabinoside monophosphate", "subject_type": "Chemical", "predicate": ["Comparison"], "object": {"@value": "ganciclovir"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "COX-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "COX-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "metastasis"}, "object_type": {"@value": "Disease"}}, {"subject": "cyclooxygenase-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "celecoxib", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-145", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-145", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "carcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "T cell receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "T cell receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "URI1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "URI1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "DNA methyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "psoriasis", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "acitretin"}, "object_type": {"@value": "Chemical"}}, {"subject": "psoriasis", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "methotrexate"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "reverse-transcriptase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "nucleos(t)ide analogs", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "MiR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "benign liver disease"}, "object_type": {"@value": "Disease"}}, {"subject": "MiR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Toll-like receptor 3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "long noncoding RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-374b/421", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Ftx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "Ftx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "EpCAM", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinomas"}, "object_type": {"@value": "Disease"}}, {"subject": "EpCAM", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver tumors"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "SELENBP1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "SELENBP1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "CEACAM1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "portal vein invasion"}, "object_type": {"@value": "Disease"}}, {"subject": "CEACAM1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "MALAT1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "MALAT1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Short chain fatty acids", "subject_type": "Chemical", "predicate": ["Association"], "object": {"@value": "Chronic infection with hepatitis B virus"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "ESPL1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "ESPL1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic HBV-infection"}, "object_type": {"@value": "Disease"}}, {"subject": "ESPL1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "F141L", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HB protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatic malignancy"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "IL28B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "IL28B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "CCR4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "haptoglobin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "haptoglobin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "haptoglobin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "pancreatic cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "haptoglobin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "breast cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "IL-4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "T cell receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Nucleos(t)ide analogues", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "tumor necrosis factor alpha", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "tumor necrosis factor alpha", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "P16", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "lonafarnib", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "liver fibrosis"}, "object_type": {"@value": "Disease"}}, {"subject": "myrcludex B", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "liver fibrosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "MiR-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "MiR-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "MiR-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancers"}, "object_type": {"@value": "Disease"}}, {"subject": "MiR-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Hepcidin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepcidin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocelluar carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepcidin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "SH2D5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "SH2 domain-containing 5 (SH2D5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "PreS1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "PreS1", "subject_type": "Gene", "predicate": ["Positive", "Correlation"], "object": {"@value": "CD133"}, "object_type": {"@value": "Gene"}}, {"subject": "Sox2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "PreS1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumorigeneses"}, "object_type": {"@value": "Disease"}}, {"subject": "Klf4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "P53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "P53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Long noncoding RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "hepatitis B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "liver fibrosis", "subject_type": "Disease", "predicate": ["Association"], "object": {"@value": "G1764A"}, "object_type": {"@value": "Variant"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "EHMT2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HLA class II", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "UBE2L3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "STAT4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TCF19", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "IL-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic liver diseases"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhotic"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "AKT"}, "object_type": {"@value": "Gene"}}, {"subject": "IL-17A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic liver diseases"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-22", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "IL-17A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-149C>T", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancers"}, "object_type": {"@value": "Disease"}}, {"subject": "CTNNB1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "S", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Hepatocellular carcinoma", "subject_type": "Disease", "predicate": ["Association"], "object": {"@value": "p53"}, "object_type": {"@value": "Gene"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "GDF15", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "rs7756516", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "rs477515", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Transforming growth factor-beta", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TGF-beta1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TGF-beta1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "IFN-λ1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "IFN-λ1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Interferon lambda", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "Interferon lambda", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "ELF4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "telomerase reverse transcriptase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "ELF4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "telomerase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "telomerase reverse transcriptase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Toll-like receptor 9", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "viral infections"}, "object_type": {"@value": "Disease"}}, {"subject": "TLR9", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "viral infections"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Lamivudine", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "lmphoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "miR-143", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-21", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-106a", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "cyclooxygenese-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "cyclooxygenese-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatocystin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus infection"}, "object_type": {"@value": "Disease"}}, {"subject": "hepatocystin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepatocystin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepatocystin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "S-adenosylmethionine", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "S-adenosylmethionine", "subject_type": "Chemical", "predicate": ["Positive", "Correlation"], "object": {"@value": "alanine transaminase"}, "object_type": {"@value": "Gene"}}]}
+{"spo_list": [{"subject": "rs2293152", "subject_type": "Variant", "predicate": ["Positive", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "rs7574865", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "ETV4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "lamivudine", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "lamivudine", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "immunoinhibitory receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "microRNA-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "basal core promoter", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hTERT", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBxAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-138", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "MicroRNA-138", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "curcumin", "subject_type": "Chemical", "predicate": ["Association"], "object": {"@value": "lipid"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Carboxypeptidase D", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "malignancy"}, "object_type": {"@value": "Disease"}}, {"subject": "Carboxypeptidase D", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "microRNA-21", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "interleukin-12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Lamivudine", "subject_type": "Chemical", "predicate": ["Association"], "object": {"@value": "Chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Hepatitis B virus X", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "EZH2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "EZH2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular Carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Entecavir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "IGF2AS", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "CDC45", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Rs11485985", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "PTPN12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "PTPN12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "KIRs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "KIRs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-29", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver disease"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver damage"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver fibrosis"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "T1936C", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "TAGLN", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "JS-K", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "TAGLN", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "growth arrest-specific 2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "growth arrest-specific 2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "OR4F3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Chronic hepatitis B", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "nucleoside analogs"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "APOBEC2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "activating transcription factor 6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "JTB", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "JTB", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "JTB", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "STAT3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "STAT3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "viral load"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "HbsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HbsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinomas"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "INTS10", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "MIR196A2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "breast cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "MIR196A2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "MIR196A2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "lung cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "MIR196A2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "MIR196A2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "lymphatic metastasis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "leptin receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "interleukin-2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "G6PD", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "mucin domain containing molecule 3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Programmed cell death protein 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Fas receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepatitis B virus core protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "CtBP2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "Carboxyl-terminal-binding protein 2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CtBP2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Chronic hepatitis B", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "entecavir"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "STIM1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Sphingosine-1-phosphate", "subject_type": "Chemical", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "TIP30", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinomas"}, "object_type": {"@value": "Disease"}}, {"subject": "TIP30", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "STAT4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "estrogen receptors", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B virus"}, "object_type": {"@value": "Disease"}}, {"subject": "estrogen receptors", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "estrogen receptors", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Keap1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Keap1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "T1653", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "macrophage-stimulating protein α", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Hedgehog", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Gli", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Gli1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Metformin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "Metformin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Smad3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocytic fibrocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "hsa-miR122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver tumors"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "ERbeta", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "Estrogen receptor-alpha", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "ERbeta", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Estrogen receptor-alpha", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "estrogen receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "WNT", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "P62", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "miR-122", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "mutant hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "ZP1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "BTBD17", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "DAB2IP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "sorafenib", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CD31", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CD34", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "hepatitis B core-related antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "hepatitis B core-related antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBsAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "entecavir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "chronic hepatitis B", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "entecavir"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "ATG12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Entecavir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic HBV infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "DNA methyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinomas"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Interleukin (IL)-10", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhotics"}, "object_type": {"@value": "Disease"}}, {"subject": "Interleukin (IL)-10", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "TTK", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "multifocal hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "GRP78", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Hepatitis B virus X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "aflatoxins", "subject_type": "Chemical", "predicate": ["Positive", "Correlation"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "interleukin-6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "interleukin-6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "mitogen-activated protein kinase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "advanced hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Survivin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancers"}, "object_type": {"@value": "Disease"}}, {"subject": "Survivin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-126", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-126", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-142-3p", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "TXNIP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TXNIP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "glucose"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Toll-like receptor 4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "TLR4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "diabetes mellitus", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "metformin"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "TGF alpha", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "gamma-glutamyltransferase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "carcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "aflatoxin B1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "runt-related transcription factor 3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "sPD-L1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver disease"}, "object_type": {"@value": "Disease"}}, {"subject": "sPD-L1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "sPD-L1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBs antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Glutamine synthetase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "p53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "lipid"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": [{"subject": "Gpbar1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TGR5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "TGR5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "TGR5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "p16INK4A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "BAFF-R", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "B cell-activating factor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "high-mobility group box 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepatitis B virus X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "CDK7", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Interleukin-21", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Interleukin-21", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Interleukin-21", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic HBV infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-371a-5p", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-371a-5p", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "metastasis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "chronic hepatitis B", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "entecavir"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "pre-S2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Nijmegen breakage syndrome 1"}, "object_type": {"@value": "Gene"}}, {"subject": "S2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Nijmegen breakage syndrome 1"}, "object_type": {"@value": "Gene"}}]}
+{"spo_list": [{"subject": "Telomerase reverse transcriptase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "rs188519172", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "mircoRNA-224", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-132", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-132", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-132", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Nivolumab", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "BCLC"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Spindlin1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatitis B virus infection"}, "object_type": {"@value": "Disease"}}, {"subject": "Spindlin1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Hepatitis B virus X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "Suz12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyltransferases", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "Suz12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "Znf198", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "DNA methyltransferases", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Znf198", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "lamivudine", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Cyclin D2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "CCND2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "Cyclin D2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CCND2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "statins", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "cirrhotic"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "multi-drug resistance protein 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "multi-drug resistance protein 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "hypoxia-inducible factor 1α", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "multi-drug resistance protein 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "sorafenib", "subject_type": "Chemical", "predicate": ["Positive", "Correlation"], "object": {"@value": "hypertension"}, "object_type": {"@value": "Disease"}}, {"subject": "apatinib", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "GNA14", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "GNA14", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "TP53", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CTNNB1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBcrAg", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBx", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "KIF4A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "KIF4A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cervical and lung cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "Kinesin family member 4A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "STAT3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "hepatitis C", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "hepatitis B virus", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "androgen receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "IGF-1 Receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "G1896A", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "cytidine deaminases", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "cytidine deaminase", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "ERp57", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "ERp57", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "PIK3CA", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "PIK3CA", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "CD82", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "CD82", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "KAI1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "IGFBP1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "IGFBP1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "PLA2G2A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Phospholipase A2 group IIA", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "PLA2G2A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}, {"subject": "Phospholipase A2 group IIA", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "PLA2G2A", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "thymalfasin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "thymalfasin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "thymalfasin", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "APOBEC3B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "APOBEC3s", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "long noncoding RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "RNAs", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "metastasis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "SFRP5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "SFRP5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "frizzled-related proteins", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV-related hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "SFRP5", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV-related hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "frizzled-related proteins", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "rs2562832", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Ki-67", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "DNT10", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HG63T1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Entecavir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "XAF1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "gastric and bladder cancer"}, "object_type": {"@value": "Disease"}}, {"subject": "XAF1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "XAF1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-375", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-375", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-375", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "SOCS3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhotic"}, "object_type": {"@value": "Disease"}}, {"subject": "SOCS3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "SOCS3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "rs8177832", "subject_type": "Variant", "predicate": ["Positive", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "PTPN12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "PTPN12", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cancer"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "c-kit", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBX", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBX", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "HBX", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "R249S", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "programmed cell death-1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "programmed cell death-1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "malignancies"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV s", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBV s", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "miR-199a-5p", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "C-reactive protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "CRP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "CRP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "inflammatory"}, "object_type": {"@value": "Disease"}}, {"subject": "CRP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "C-reactive protein (CRP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver disease"}, "object_type": {"@value": "Disease"}}, {"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "W28", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "A80I/T/V", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "L116I", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}, {"subject": "precore", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "W28", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver disease"}, "object_type": {"@value": "Disease"}}, {"subject": "W28", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "liver cirrhosis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "nucleotide analogues", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Lymphotoxin-β receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "CD8", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Hepatitis B virus X protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "interleukin-6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "MyD88", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "interleukin-6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "carcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Kazal1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "SPINK1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "SPINK1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumors"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "il6", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B surface antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "DARS2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Platelets", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "HepG2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "SIGLEC-3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Alpha 1,6-fucosyltransferase 8", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumour"}, "object_type": {"@value": "Disease"}}, {"subject": "Alpha 1,6-fucosyltransferase 8", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "NTCP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "HBV receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "rs4646287", "subject_type": "Variant", "predicate": ["Positive", "Correlation"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "HBV receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}, {"subject": "NTCP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "HBV infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "TLR2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "inflammation"}, "object_type": {"@value": "Disease"}}, {"subject": "TLR2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "β‑2‑glycoprotein I", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Toll‑like receptor 4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "alpha-fetoprotein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Des-gamma-carboxyprothrombin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "HBV", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular tumors"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "URG4", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "miR-3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "miR-3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Yes-associated protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "TAZ", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "N-myc", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "c-myc", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "entecavir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "MMP-3", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "T cell receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "T cell receptor", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus infection"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "Jun activation domain-binding protein 1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "JAB1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "XRCC1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "Cyp2E1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "hOGG1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "entecavir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}, {"subject": "tenofovir", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "chronic hepatitis B"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "MALAT1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "rs619586", "subject_type": "Variant", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "everolimus", "subject_type": "Chemical", "predicate": ["Negative", "Correlation"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "mammalian target of rapamycin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "B8", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "galectin-9", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "chronic hepatitis B", "subject_type": "Disease", "predicate": ["Negative", "Correlation"], "object": {"@value": "metformin"}, "object_type": {"@value": "Chemical"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "osteopontin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "osteopontin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "SCCA2", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus"}, "object_type": {"@value": "Disease"}}, {"subject": "SCCA1", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatitis B virus"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "IL28B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "IL28B", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic hepatitis B virus"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "UCP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumor"}, "object_type": {"@value": "Disease"}}, {"subject": "UCP", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}, {"subject": "E2-EPF ubiquitin carrier protein", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocarcinogenesis"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "Akt", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "hepatitis B core antigen", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": [{"subject": "angiogenin", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": [{"subject": "KIR", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "tumours"}, "object_type": {"@value": "Disease"}}, {"subject": "KIR", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "chronic liver disease"}, "object_type": {"@value": "Disease"}}, {"subject": "KIR", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "e antigenaemia"}, "object_type": {"@value": "Disease"}}, {"subject": "KIR", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "Hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": [{"subject": "lamivudine", "subject_type": "Chemical", "predicate": ["Positive", "Correlation"], "object": {"@value": "alanine aminotransferase"}, "object_type": {"@value": "Gene"}}, {"subject": "HBe", "subject_type": "Gene", "predicate": ["Association"], "object": {"@value": "hepatocellular carcinoma"}, "object_type": {"@value": "Disease"}}, {"subject": "lamivudine", "subject_type": "Chemical", "predicate": ["Positive", "Correlation"], "object": {"@value": "asparate aminotransferase"}, "object_type": {"@value": "Gene"}}]}
+{"spo_list": []}
+{"spo_list": []}
+{"spo_list": []}
