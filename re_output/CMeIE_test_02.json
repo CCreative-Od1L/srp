@@ -797,7 +797,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "liver diseases"
+                    "@value": "liver disease"
                 },
                 "object_type": {
                     "@value": "Disease"

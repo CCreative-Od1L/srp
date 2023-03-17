@@ -358,7 +358,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "autoimmune diseases and tumors"
+                    "@value": "autoimmune disease"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -371,7 +371,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -3154,7 +3154,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -4020,7 +4020,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "chronic HBV infections"
+                    "@value": "chronic HBV infection"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -4460,7 +4460,7 @@
     {
         "spo_list": [
             {
-                "subject": "signal transducers and activators of transcription 5",
+                "subject": "signal transducers",
                 "subject_type": "Gene",
                 "predicate": [
                     "Association"
@@ -4473,7 +4473,33 @@
                 }
             },
             {
-                "subject": "signal transducers and activators of transcription 5",
+                "subject": "activators of transcription",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "activators of transcription",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "tumor"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "signal transducers",
                 "subject_type": "Gene",
                 "predicate": [
                     "Association"
@@ -4496,7 +4522,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -4840,7 +4866,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "viral infections"
+                    "@value": "viral infection"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -6034,7 +6060,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "liver tumors"
+                    "@value": "liver tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -6933,7 +6959,7 @@
     {
         "spo_list": [
             {
-                "subject": "RNAs",
+                "subject": "RNA",
                 "subject_type": "Gene",
                 "predicate": [
                     "Association"
@@ -6946,7 +6972,7 @@
                 }
             },
             {
-                "subject": "Long noncoding RNAs",
+                "subject": "Long noncoding RNA",
                 "subject_type": "Gene",
                 "predicate": [
                     "Association"
@@ -7109,7 +7135,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "chronic liver diseases"
+                    "@value": "chronic liver disease"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -7148,7 +7174,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "chronic liver diseases"
+                    "@value": "chronic liver disease"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -7581,7 +7607,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -7633,7 +7659,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -7656,7 +7682,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "viral infections"
+                    "@value": "viral infection"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -7669,7 +7695,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "viral infections"
+                    "@value": "viral infection"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -8822,7 +8848,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -9915,7 +9941,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "liver tumors"
+                    "@value": "liver tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -9938,7 +9964,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -9951,7 +9977,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -11202,7 +11228,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "liver tumors"
+                    "@value": "liver tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -12470,7 +12496,20 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "cervical and lung cancer"
+                    "@value": "lung cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "KIF4A",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cervical cancer"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -12896,7 +12935,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -13244,7 +13283,20 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "gastric and bladder cancer"
+                    "@value": "gastric cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "XAF1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "bladder cancer"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -14033,7 +14085,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "tumors"
+                    "@value": "tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
@@ -14432,7 +14484,7 @@
                     "Association"
                 ],
                 "object": {
-                    "@value": "hepatocellular tumors"
+                    "@value": "hepatocellular tumor"
                 },
                 "object_type": {
                     "@value": "Disease"
