@@ -1,0 +1,3050 @@
+[
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV RNA",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "IFN-位",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "IFN-位",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "miR-6",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV RNA",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "ASPP2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic liver damage"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "ASPP2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "Hepatitis B virus"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "PTEN",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "PTEN",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "DDX17",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "metastasis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "DDX17",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "HBV",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cancer metastasis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "HBV",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "DDX17",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cancer metastasis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "PCNAP1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "PCNAP1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocarcinogenesis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "fibrinogen-like protein 1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "HBV-related hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "serum fibrinogen-like protein 1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "HBV-related hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV Pre-S",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver disease"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "HBV Pre-S",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "HBV-induced liver disease"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV-RNA",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "FoxO4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "miR-3",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "entecavir",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "tocilizumab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "hematologic malignancies"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "circ_myotubularin 1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "circ_myotubularin 1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "tumor"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV RNA",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver fibrosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "CD36",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "CD36",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver diseases"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "CD36",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver failure"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV-RNA",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "SOX9",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "SOX9",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cirrhosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "NEDD4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "tumor"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "NEDD4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "carcinogenesis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "NEDD4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "interleukin 21",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cirrhosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "interleukin 21",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver fibrosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "interleukin 21",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "fat",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Positive",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "hepatic steatosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "Evans blue",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "Chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "CB1 receptors",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "CB1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "rs9380343",
+                "subject_type": "Variant",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "Hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV large surface protein",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "HBV infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "HBV large surface protein",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "SERINC5",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatitis B virus"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "CDC45",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "Hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "thymidylate synthase",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "Hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "thymidylate synthase",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "Prdx1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "cirrhosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "peroxiredoxin 1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Prdx1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "CCR5D32",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic HBV infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "HBV core",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B virus infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "ABI-H2158",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "chronic hepatitis B virus infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "bortezomib",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Cotreatment"
+                ],
+                "object": {
+                    "@value": "entecavir"
+                },
+                "object_type": {
+                    "@value": "Chemical"
+                }
+            },
+            {
+                "subject": "bortezomib",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "multiple myeloma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "polymerase",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatitis-B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "ATP5B",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "Cholesterol-25-hydroxylase",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "HBV infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "Ustekinumab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "psoriasis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "secukinumab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "psoriasis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "GP73",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "Hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "Ostm1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver cirrhosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Ostm1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "low-density lipoprotein receptor",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "Hepatitis B"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "low-density lipoprotein receptor",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "low-density lipoprotein receptor",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "HBV infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "low-density lipoprotein receptor",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "stanozolol",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "myeloproliferative neoplasms"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "ruxolitinib",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "myeloproliferative neoplasms"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "GATA4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "GATA binding protein 4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "GATA binding protein 4 (GATA4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "PTEN",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "miR-3",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "miR-3",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "PTEN",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "miR-3",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "tumor"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "transforming growth factor 尾",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "Oleanolic acid",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "PD-1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "Sirtuin 2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Sirt2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "AKT"
+                },
+                "object_type": {
+                    "@value": "Gene"
+                }
+            },
+            {
+                "subject": "Sirt2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinomas"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Sirt2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Sirtuin 2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinomas"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "A10",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "homeobox A10",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "rituximab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "diffuse large B-cell lymphoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "KMT2B",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "SIRT2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocarcinogenesis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "vorinostat",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Romidepsin",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "NAMPT",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Nicotinamide phosphoribosyltransferase",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "liver cancer"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "rituximab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "lymphoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "abatacept",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "rheumatoid arthritis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "entecavir",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "lymphoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "toll-like receptor 2",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "HBV infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "CA19-9",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "intrahepatic cholangiocarcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "TP53",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "intrahepatic cholangiocarcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "SNHG20",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "troglitazone",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "peroxisome proliferator-activated receptor 纬"
+                },
+                "object_type": {
+                    "@value": "Gene"
+                }
+            },
+            {
+                "subject": "troglitazone",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "HBV infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "rituximab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "multiple sclerosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Ocrelizumab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "multiple sclerosis"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "Ocrelizumab",
+                "subject_type": "Chemical",
+                "predicate": [
+                    "Negative",
+                    "Correlation"
+                ],
+                "object": {
+                    "@value": "HBV infection"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": [
+            {
+                "subject": "PIN1",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "parvulin",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            },
+            {
+                "subject": "PIN4",
+                "subject_type": "Gene",
+                "predicate": [
+                    "Association"
+                ],
+                "object": {
+                    "@value": "hepatocellular carcinoma"
+                },
+                "object_type": {
+                    "@value": "Disease"
+                }
+            }
+        ]
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    },
+    {
+        "spo_list": []
+    }
+]
